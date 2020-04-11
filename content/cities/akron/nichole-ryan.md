@@ -1,0 +1,4 @@
+---
+title: "Nichole Ryan"
+url: /akron/nichole-ryan/
+---

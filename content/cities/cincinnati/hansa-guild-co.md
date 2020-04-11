@@ -1,0 +1,4 @@
+---
+title: "Hansa Guild Co"
+url: /cincinnati/hansa-guild-co/
+---

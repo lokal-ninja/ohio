@@ -1,0 +1,4 @@
+---
+title: "Rose Bredl"
+url: /columbus/rose-bredl/
+---

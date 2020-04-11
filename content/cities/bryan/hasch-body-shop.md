@@ -1,0 +1,4 @@
+---
+title: "Hasch Body Shop"
+url: /bryan/hasch-body-shop/
+---
