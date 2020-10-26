@@ -1,6 +1,6 @@
 ---
 title: Wooster
 url: /wooster/
-latitude: 40.7991766
-longitude: -81.93831870000001
+latitude: 40.798097600000006
+longitude: -81.9397733
 ---

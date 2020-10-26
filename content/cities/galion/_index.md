@@ -1,6 +1,6 @@
 ---
 title: Galion
 url: /galion/
-latitude: 40.733668800000004
-longitude: -82.7899026
+latitude: 40.733795
+longitude: -82.78964710000001
 ---

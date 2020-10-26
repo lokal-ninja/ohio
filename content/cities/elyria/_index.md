@@ -1,6 +1,6 @@
 ---
 title: Elyria
 url: /elyria/
-latitude: 41.368251
-longitude: -82.10657570000001
+latitude: 41.3677505
+longitude: -82.1068894
 ---

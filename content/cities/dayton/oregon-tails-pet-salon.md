@@ -1,4 +1,4 @@
 ---
-title: "Oregon TAils Pet Salon"
+title: "Oregon Tails Pet Salon"
 url: /dayton/oregon-tails-pet-salon/
 ---
