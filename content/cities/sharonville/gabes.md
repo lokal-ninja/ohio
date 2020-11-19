@@ -1,4 +1,4 @@
 ---
-title: "Gabe's"
+title: "Gabe’s"
 url: /sharonville/gabes/
 ---
