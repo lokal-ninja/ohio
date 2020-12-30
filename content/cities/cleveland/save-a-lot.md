@@ -1,4 +1,4 @@
 ---
-title: "Save A Lot"
+title: "Save-A-Lot"
 url: /cleveland/save-a-lot/
 ---
