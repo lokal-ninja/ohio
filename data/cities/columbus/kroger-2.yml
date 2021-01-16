@@ -1,12 +1,12 @@
-id: 293478810
-type: way
+id: 5688310196
+type: node
 shop: supermarket
-latitude: 39.9500321
-longitude: -83.00241240000001
-postcode: "43215"
+latitude: 39.9311546
+longitude: -83.0540335
+postcode: "43223"
 city: Columbus
-street: "Sycamore Street"
-housenumber: 150
-phone: "+1-614-340-7979"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.kroger.com/stores/details/016/00569"
+street: "Eakin Road"
+housenumber: 2161
+phone: "614-274-7717"
+opening_hours: "Sun-Sat 07:00-23:00"
+website: "https://www.kroger.com"
