@@ -1,6 +1,5 @@
 id: 5688310196
 type: node
-shop: supermarket
 latitude: 39.9311546
 longitude: -83.0540335
 postcode: "43223"
@@ -8,5 +7,5 @@ city: Columbus
 street: "Eakin Road"
 housenumber: 2161
 phone: "614-274-7717"
-opening_hours: "Sun-Sat 07:00-23:00"
+opening_hours: "Su-Sa 07:00-23:00"
 website: "https://www.kroger.com"

@@ -1,12 +1,11 @@
-id: 568650337
-type: way
-shop: mobile phone
-latitude: 39.943921100000004
-longitude: -82.98288260000001
-postcode: "43205"
+id: 6978427388
+type: node
+latitude: 40.037182800000004
+longitude: -82.9651754
+postcode: "43224"
 city: Columbus
-street: "Parsons Avenue"
-housenumber: 955
-phone: "+1-614 914-5094"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-17:00"
-website: "https://www.metropcs.com/"
+street: "Cleveland Avenue"
+housenumber: 3401
+phone: ""
+opening_hours: ""
+website: ""

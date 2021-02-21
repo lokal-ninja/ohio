@@ -1,6 +1,5 @@
 id: 5508256590
 type: node
-shop: car repair
 latitude: 40.7584363
 longitude: -82.57059220000001
 postcode: "44906"
@@ -9,4 +8,4 @@ street: "Park Avenue West"
 housenumber: 1493
 phone: "+1-888-471-6996"
 opening_hours: "Mo,Th 09:00-20:00; Tu,We,Fr 09:00-18:00; Sa 09:00-17:00"
-website: "http://www.hondaofmansfield.com"
+website: "https://www.hondaofmansfield.com/"

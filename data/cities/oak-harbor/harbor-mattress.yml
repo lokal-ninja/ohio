@@ -1,6 +1,5 @@
 id: 884966364
 type: way
-shop: bed
 latitude: 41.508107100000004
 longitude: -83.1494035
 postcode: "43449"
@@ -8,5 +7,5 @@ city: Oak Harbor
 street: "West Water Street"
 housenumber: 139
 phone: "419-898-2900"
-opening_hours: "Tues-Fri 15:00-18:00 Sat 11:00-3:00"
+opening_hours: "Tu-Fr 15:00-18:00; Sa 11:00-15:00"
 website: "http://www.harbormattress.com/"

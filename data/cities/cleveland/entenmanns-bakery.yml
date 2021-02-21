@@ -1,6 +1,5 @@
 id: 8321532812
 type: node
-shop: bakery
 latitude: 41.5189553
 longitude: -81.47390800000001
 postcode: "44124"
@@ -8,5 +7,5 @@ city: Cleveland
 street: "Mayfield Road"
 housenumber: 5702
 phone: "+14404490866"
-opening_hours: "Mo-Tu 10:30-18:00 Th-Sa 10:30-18:00"
+opening_hours: "Mo-Tu,Th-Sa 10:30-18:00; Su,We closed"
 website: "https://www.entenmanns.com/en"

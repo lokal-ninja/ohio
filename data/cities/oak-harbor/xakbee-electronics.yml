@@ -1,6 +1,5 @@
 id: 884961305
 type: way
-shop: electronics
 latitude: 41.5076185
 longitude: -83.1501884
 postcode: "43449"
@@ -8,5 +7,5 @@ city: Oak Harbor
 street: "West Water Street"
 housenumber: 301
 phone: "419-898-9252"
-opening_hours: "permanently closed"
+opening_hours: "closed"
 website: ""

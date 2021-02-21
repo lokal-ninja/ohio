@@ -1,4 +1,5 @@
 ---
-title: "Trader Joe’s"
+title: "Trader Joe's"
 url: /montgomery/trader-joes/
+shop: supermarket
 ---
