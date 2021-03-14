@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
-url: /lyndhurst/edible-arrangements/
+url: /cleveland/edible-arrangements/
 shop: gift
 ---

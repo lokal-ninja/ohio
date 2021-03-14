@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /rossford/tj-maxx/
-shop: clothes
+shop: department store
 ---
