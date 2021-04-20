@@ -1,5 +1,5 @@
 ---
 title: "Stein Mart"
 url: /columbus/stein-mart/
-shop: variety store
+shop: department store
 ---
