@@ -1,6 +1,6 @@
 ---
 title: Mentor
 url: /mentor/
-latitude: 41.6661573
-longitude: -81.33955200000001
+latitude: 41.6664781
+longitude: -81.33997690000001
 ---
