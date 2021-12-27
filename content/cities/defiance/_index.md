@@ -1,6 +1,6 @@
 ---
 title: Defiance
 url: /defiance/
-latitude: 41.3203058
-longitude: -84.50848350000001
+latitude: 41.284
+longitude: -84.363
 ---

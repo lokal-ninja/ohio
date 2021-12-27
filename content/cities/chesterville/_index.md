@@ -1,6 +1,6 @@
 ---
 title: Chesterville
 url: /chesterville/
-latitude: 40.4800607
-longitude: -82.68350570000001
+latitude: 40.48
+longitude: -82.684
 ---

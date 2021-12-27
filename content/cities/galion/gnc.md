@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /galion/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

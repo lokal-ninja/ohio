@@ -1,5 +1,5 @@
 ---
 title: "Apple A Day"
 url: /findlay/apple-a-day/
-shop: supermarket
+shop: Supermarkt
 ---

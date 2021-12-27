@@ -1,6 +1,6 @@
 ---
 title: Calcutta
 url: /calcutta/
-latitude: 40.673397
-longitude: -80.5764592
+latitude: 40.672
+longitude: -80.585
 ---

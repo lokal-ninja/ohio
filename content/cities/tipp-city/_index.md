@@ -1,6 +1,6 @@
 ---
 title: Tipp City
 url: /tipp-city/
-latitude: 39.9583892
-longitude: -84.1721638
+latitude: 39.959
+longitude: -84.188
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Young's Screenprinting"
 url: /cuyahoga-falls/youngs-screenprinting/
-shop: clothes
+shop: Kleidung
 ---

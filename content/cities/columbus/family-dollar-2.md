@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /columbus/family-dollar-2/
-shop: general
+shop: Dorfladen
 ---

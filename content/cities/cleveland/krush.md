@@ -1,5 +1,5 @@
 ---
 title: "Krush"
 url: /cleveland/krush/
-shop: clothes
+shop: Kleidung
 ---

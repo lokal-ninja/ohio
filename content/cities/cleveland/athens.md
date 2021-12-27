@@ -1,5 +1,5 @@
 ---
 title: "Athen's"
 url: /cleveland/athens/
-shop: supermarket
+shop: Supermarkt
 ---

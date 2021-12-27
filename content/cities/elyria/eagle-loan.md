@@ -1,5 +1,5 @@
 ---
 title: "Eagle Loan"
 url: /elyria/eagle-loan/
-shop: pawnbroker
+shop: Leiher
 ---

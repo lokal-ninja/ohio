@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /willowick/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

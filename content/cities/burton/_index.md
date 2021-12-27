@@ -1,6 +1,6 @@
 ---
 title: Burton
 url: /burton/
-latitude: 41.471426
-longitude: -81.145104
+latitude: 41.473
+longitude: -81.145
 ---

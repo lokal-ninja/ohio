@@ -1,6 +1,6 @@
 ---
 title: New Boston
 url: /new-boston/
-latitude: 38.7522986
-longitude: -82.9368391
+latitude: 38.753
+longitude: -82.921
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ProBuild"
 url: /ontario/probuild/
-shop: hardware
+shop: Eisenwaren
 ---

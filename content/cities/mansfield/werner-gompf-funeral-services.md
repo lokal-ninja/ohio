@@ -1,5 +1,5 @@
 ---
 title: "Werner-Gompf Funeral Services"
 url: /mansfield/werner-gompf-funeral-services/
-shop: funeral directors
+shop: Bestattungen
 ---

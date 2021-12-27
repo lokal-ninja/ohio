@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /centerville/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

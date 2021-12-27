@@ -1,6 +1,6 @@
 ---
 title: Bryan
 url: /bryan/
-latitude: 41.4747732
-longitude: -84.5524508
+latitude: 41.459
+longitude: -84.546
 ---

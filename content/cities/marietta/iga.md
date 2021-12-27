@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /marietta/iga/
-shop: supermarket
+shop: Supermarkt
 ---

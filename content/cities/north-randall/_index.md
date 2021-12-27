@@ -1,6 +1,6 @@
 ---
 title: North Randall
 url: /north-randall/
-latitude: 41.434424
-longitude: -81.525492
+latitude: 41.431
+longitude: -81.526
 ---

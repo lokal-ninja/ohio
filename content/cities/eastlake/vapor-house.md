@@ -1,5 +1,5 @@
 ---
 title: "Vapor House"
 url: /eastlake/vapor-house/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

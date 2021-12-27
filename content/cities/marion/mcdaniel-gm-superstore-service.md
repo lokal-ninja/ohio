@@ -1,5 +1,5 @@
 ---
 title: "McDaniel GM Superstore Service"
 url: /marion/mcdaniel-gm-superstore-service/
-shop: car repair
+shop: Autowerkstatt
 ---

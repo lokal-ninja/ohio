@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /norwalk/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bellville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oakley"
 url: /columbus/oakley/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Cakehound"
 url: /columbus/the-cakehound/
-shop: pet
+shop: Tiere
 ---

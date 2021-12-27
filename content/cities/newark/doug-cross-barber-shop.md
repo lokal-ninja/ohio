@@ -1,5 +1,5 @@
 ---
 title: "Doug Cross Barber Shop"
 url: /newark/doug-cross-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

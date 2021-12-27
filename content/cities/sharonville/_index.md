@@ -1,6 +1,6 @@
 ---
 title: Sharonville
 url: /sharonville/
-latitude: 39.2681145
-longitude: -84.41327790000001
+latitude: 39.293
+longitude: -84.396
 ---

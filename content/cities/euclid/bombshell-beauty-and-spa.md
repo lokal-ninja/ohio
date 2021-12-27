@@ -1,5 +1,5 @@
 ---
 title: "Bombshell Beauty and Spa"
 url: /euclid/bombshell-beauty-and-spa/
-shop: beauty
+shop: Kosmetik
 ---

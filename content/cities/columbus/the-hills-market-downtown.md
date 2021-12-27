@@ -1,5 +1,5 @@
 ---
 title: "The Hills Market Downtown"
 url: /columbus/the-hills-market-downtown/
-shop: supermarket
+shop: Supermarkt
 ---

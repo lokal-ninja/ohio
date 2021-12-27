@@ -1,5 +1,5 @@
 ---
 title: "Roll"
 url: /bexley/roll/
-shop: bicycle
+shop: Fahrrad
 ---

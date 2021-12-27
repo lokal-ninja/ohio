@@ -1,6 +1,6 @@
 ---
 title: cle
 url: /cle/
-latitude: 
-longitude: 
+latitude: 41.509
+longitude: -81.606
 ---

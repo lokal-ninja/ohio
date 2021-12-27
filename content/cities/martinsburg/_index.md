@@ -1,6 +1,6 @@
 ---
 title: Martinsburg
 url: /martinsburg/
-latitude: 40.2697883
-longitude: -82.3540433
+latitude: 40.27
+longitude: -82.357
 ---

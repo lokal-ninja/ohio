@@ -1,6 +1,6 @@
 ---
 title: Wapakoneta
 url: /wapakoneta/
-latitude: 40.5678265
-longitude: -84.19355940000001
+latitude: 40.562
+longitude: -84.178
 ---

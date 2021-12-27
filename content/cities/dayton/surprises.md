@@ -1,5 +1,5 @@
 ---
 title: "Surprises"
 url: /dayton/surprises/
-shop: gift
+shop: Andenken
 ---

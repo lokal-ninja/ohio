@@ -1,6 +1,6 @@
 ---
 title: Hopedale
 url: /hopedale/
-latitude: 40.3253452
-longitude: -80.901201
+latitude: 40.324
+longitude: -80.899
 ---

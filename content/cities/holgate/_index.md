@@ -1,6 +1,6 @@
 ---
 title: Holgate
 url: /holgate/
-latitude: 41.248937500000004
-longitude: -84.13300000000001
+latitude: 41.25
+longitude: -84.132
 ---

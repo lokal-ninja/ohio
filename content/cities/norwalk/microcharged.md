@@ -1,5 +1,5 @@
 ---
 title: "Microcharged"
 url: /norwalk/microcharged/
-shop: computer
+shop: Computer
 ---

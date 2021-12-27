@@ -1,5 +1,5 @@
 ---
 title: "TNT"
 url: /cleveland/tnt/
-shop: clothes
+shop: Kleidung
 ---

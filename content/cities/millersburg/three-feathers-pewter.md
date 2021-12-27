@@ -1,5 +1,5 @@
 ---
 title: "Three Feathers Pewter"
 url: /millersburg/three-feathers-pewter/
-shop: gift
+shop: Andenken
 ---

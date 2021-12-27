@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /tallmadge/acme/
-shop: supermarket
+shop: Supermarkt
 ---

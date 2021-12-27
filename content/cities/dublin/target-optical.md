@@ -1,5 +1,5 @@
 ---
 title: "Target Optical"
 url: /dublin/target-optical/
-shop: optician
+shop: Optiker
 ---

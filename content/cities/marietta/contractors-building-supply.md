@@ -1,5 +1,5 @@
 ---
 title: "Contractors Building Supply"
 url: /marietta/contractors-building-supply/
-shop: doityourself
+shop: Baumarkt
 ---

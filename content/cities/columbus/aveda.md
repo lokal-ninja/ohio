@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
 url: /columbus/aveda/
-shop: beauty
+shop: Kosmetik
 ---

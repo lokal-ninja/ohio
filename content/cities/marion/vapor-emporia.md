@@ -1,5 +1,5 @@
 ---
 title: "Vapor Emporia"
 url: /marion/vapor-emporia/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

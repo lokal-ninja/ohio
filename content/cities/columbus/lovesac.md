@@ -1,5 +1,5 @@
 ---
 title: "LoveSac"
 url: /columbus/lovesac/
-shop: furniture
+shop: Möbel
 ---

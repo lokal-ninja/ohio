@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /strongsville/petco/
-shop: pet
+shop: Tiere
 ---

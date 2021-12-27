@@ -1,5 +1,5 @@
 ---
 title: "Newlove ProShop"
 url: /bowling-green/newlove-proshop/
-shop: sports
+shop: Sport
 ---

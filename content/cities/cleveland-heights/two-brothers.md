@@ -1,5 +1,5 @@
 ---
 title: "Two Brothers"
 url: /cleveland-heights/two-brothers/
-shop: beauty
+shop: Kosmetik
 ---

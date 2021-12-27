@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /calcutta/giant-eagle/
-shop: supermarket
+shop: Supermarkt
 ---

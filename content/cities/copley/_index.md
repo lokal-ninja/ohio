@@ -1,6 +1,6 @@
 ---
 title: Copley
 url: /copley/
-latitude: 41.0989439
-longitude: -81.6445685
+latitude: 41.098
+longitude: -81.64
 ---

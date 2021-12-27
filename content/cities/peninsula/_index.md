@@ -1,6 +1,6 @@
 ---
 title: Peninsula
 url: /peninsula/
-latitude: 41.241167000000004
-longitude: -81.55261800000001
+latitude: 41.188
+longitude: -81.507
 ---

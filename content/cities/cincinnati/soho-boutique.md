@@ -1,5 +1,5 @@
 ---
 title: "SOHO Boutique"
 url: /cincinnati/soho-boutique/
-shop: clothes
+shop: Kleidung
 ---

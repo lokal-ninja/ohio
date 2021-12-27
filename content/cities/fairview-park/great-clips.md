@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /fairview-park/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

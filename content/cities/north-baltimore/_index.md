@@ -1,6 +1,6 @@
 ---
 title: North Baltimore
 url: /north-baltimore/
-latitude: 41.182830200000005
-longitude: -83.6782668
+latitude: 41.183
+longitude: -83.676
 ---

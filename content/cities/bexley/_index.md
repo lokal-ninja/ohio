@@ -1,6 +1,6 @@
 ---
 title: Bexley
 url: /bexley/
-latitude: 39.9692378
-longitude: -82.936864
+latitude: 39.957
+longitude: -82.933
 ---

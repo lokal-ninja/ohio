@@ -1,5 +1,5 @@
 ---
 title: "Emerald City Jewelers"
 url: /parma/emerald-city-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

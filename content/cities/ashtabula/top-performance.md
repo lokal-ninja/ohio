@@ -1,5 +1,5 @@
 ---
 title: "Top Performance"
 url: /ashtabula/top-performance/
-shop: hairdresser
+shop: Friseur
 ---

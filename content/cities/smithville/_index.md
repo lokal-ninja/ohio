@@ -1,6 +1,6 @@
 ---
 title: Smithville
 url: /smithville/
-latitude: 40.8964452
-longitude: -83.231308
+latitude: 40.881
+longitude: -81.895
 ---

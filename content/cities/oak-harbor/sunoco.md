@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /oak-harbor/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

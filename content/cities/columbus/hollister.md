@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /columbus/hollister/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "J.Jill"
 url: /columbus/j-jill/
-shop: clothes
+shop: Kleidung
 ---

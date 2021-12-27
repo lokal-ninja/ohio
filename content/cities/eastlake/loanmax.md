@@ -1,5 +1,5 @@
 ---
 title: "LoanMax"
 url: /eastlake/loanmax/
-shop: pawnbroker
+shop: Leiher
 ---

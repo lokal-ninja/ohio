@@ -1,5 +1,5 @@
 ---
 title: "River Marine Supply"
 url: /ashtabula/river-marine-supply/
-shop: boat
+shop: Boot
 ---

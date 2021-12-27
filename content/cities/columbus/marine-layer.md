@@ -1,5 +1,5 @@
 ---
 title: "Marine Layer"
 url: /columbus/marine-layer/
-shop: clothes
+shop: Kleidung
 ---

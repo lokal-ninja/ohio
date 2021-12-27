@@ -1,6 +1,6 @@
 ---
 title: Chardom
 url: /chardom/
-latitude: 
-longitude: 
+latitude: 41.533
+longitude: -81.193
 ---

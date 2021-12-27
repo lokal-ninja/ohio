@@ -1,5 +1,5 @@
 ---
 title: "DavidsTea"
 url: /columbus/davidstea/
-shop: tea
+shop: Tee
 ---

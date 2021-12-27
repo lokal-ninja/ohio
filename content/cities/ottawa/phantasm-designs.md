@@ -1,5 +1,5 @@
 ---
 title: "Phantasm Designs"
 url: /ottawa/phantasm-designs/
-shop: clothes
+shop: Kleidung
 ---

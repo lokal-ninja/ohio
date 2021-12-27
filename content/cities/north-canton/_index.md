@@ -1,6 +1,6 @@
 ---
 title: North Canton
 url: /north-canton/
-latitude: 40.875891
-longitude: -81.4023356
+latitude: 40.895
+longitude: -81.407
 ---

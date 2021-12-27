@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /north-olmsted/dsw/
-shop: shoes
+shop: Schuhe
 ---

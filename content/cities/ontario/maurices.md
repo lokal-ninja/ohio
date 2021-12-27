@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /ontario/maurices/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /norwalk/autozone/
-shop: car parts
+shop: Autoteile
 ---

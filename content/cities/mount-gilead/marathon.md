@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /mount-gilead/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

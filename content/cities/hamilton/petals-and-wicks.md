@@ -1,5 +1,5 @@
 ---
 title: "Petals and Wicks"
 url: /hamilton/petals-and-wicks/
-shop: candles
+shop: Kerzen
 ---

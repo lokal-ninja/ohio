@@ -1,6 +1,6 @@
 ---
 title: Wadsworth
 url: /wadsworth/
-latitude: 41.0256101
-longitude: -81.7298519
+latitude: 41.054
+longitude: -81.725
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /tiffin/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

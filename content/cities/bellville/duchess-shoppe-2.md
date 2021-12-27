@@ -1,5 +1,5 @@
 ---
 title: "Duchess Shoppe"
 url: /bellville/duchess-shoppe-2/
-shop: convenience
+shop: Lebensmittel
 ---

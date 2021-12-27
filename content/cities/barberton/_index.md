@@ -1,6 +1,6 @@
 ---
 title: Barberton
 url: /barberton/
-latitude: 41.012833
-longitude: -81.6051221
+latitude: 41.004
+longitude: -81.603
 ---

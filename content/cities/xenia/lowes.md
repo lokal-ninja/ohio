@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /xenia/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

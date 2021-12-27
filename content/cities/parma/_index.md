@@ -1,6 +1,6 @@
 ---
 title: Parma
 url: /parma/
-latitude: 41.3822398
-longitude: -81.7355692
+latitude: 41.415
+longitude: -81.734
 ---

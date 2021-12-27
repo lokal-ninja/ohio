@@ -1,6 +1,6 @@
 ---
 title: Ada
 url: /ada/
-latitude: 40.7694969
-longitude: -83.82271490000001
+latitude: 40.761
+longitude: -83.824
 ---

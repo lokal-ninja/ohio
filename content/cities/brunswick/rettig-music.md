@@ -1,5 +1,5 @@
 ---
 title: "Rettig Music"
 url: /brunswick/rettig-music/
-shop: music
+shop: Musik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Beaverdam
 url: /beaverdam/
-latitude: 40.832992000000004
-longitude: -83.97428260000001
+latitude: 40.833
+longitude: -83.975
 ---

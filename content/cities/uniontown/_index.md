@@ -1,6 +1,6 @@
 ---
 title: Uniontown
 url: /uniontown/
-latitude: 40.1306251
-longitude: -80.9917631
+latitude: 40.95
+longitude: -81.466
 ---

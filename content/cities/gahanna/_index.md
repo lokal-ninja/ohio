@@ -1,6 +1,6 @@
 ---
 title: Gahanna
 url: /gahanna/
-latitude: 40.0195625
-longitude: -82.8791363
+latitude: 40.012
+longitude: -82.865
 ---

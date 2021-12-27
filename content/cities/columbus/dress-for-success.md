@@ -1,5 +1,5 @@
 ---
 title: "Dress for Success"
 url: /columbus/dress-for-success/
-shop: charity
+shop: Gebrauchtwaren
 ---

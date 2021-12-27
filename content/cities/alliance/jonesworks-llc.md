@@ -1,5 +1,5 @@
 ---
 title: "JonesWorks LLC"
 url: /alliance/jonesworks-llc/
-shop: pottery
+shop: Töpferei
 ---

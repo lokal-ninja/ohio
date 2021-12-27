@@ -1,6 +1,6 @@
 ---
 title: Heath
 url: /heath/
-latitude: 39.956184900000004
-longitude: -80.78369760000001
+latitude: 40.023
+longitude: -82.45
 ---

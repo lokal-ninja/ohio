@@ -1,5 +1,5 @@
 ---
 title: "Done Right Dry Cleaning"
 url: /brunswick/done-right-dry-cleaning/
-shop: laundry
+shop: Wäscherei
 ---

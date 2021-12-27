@@ -1,5 +1,5 @@
 ---
 title: "Palm Beach Tan"
 url: /brooklyn/palm-beach-tan/
-shop: beauty
+shop: Kosmetik
 ---

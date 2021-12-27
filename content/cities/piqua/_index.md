@@ -1,6 +1,6 @@
 ---
 title: piqua
 url: /piqua/
-latitude: 
-longitude: 
+latitude: 40.15
+longitude: -84.206
 ---

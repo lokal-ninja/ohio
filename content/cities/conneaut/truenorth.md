@@ -1,5 +1,5 @@
 ---
 title: "truenorth"
 url: /conneaut/truenorth/
-shop: convenience
+shop: Lebensmittel
 ---

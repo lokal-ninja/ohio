@@ -1,5 +1,5 @@
 ---
 title: "Heinen's"
 url: /rocky-river/heinens/
-shop: supermarket
+shop: Supermarkt
 ---

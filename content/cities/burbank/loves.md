@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /burbank/loves/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: North Kingsville
 url: /north-kingsville/
-latitude: 41.905887
-longitude: -80.69036
+latitude: 41.898
+longitude: -80.686
 ---

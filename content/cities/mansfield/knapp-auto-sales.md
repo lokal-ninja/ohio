@@ -1,5 +1,5 @@
 ---
 title: "Knapp Auto Sales"
 url: /mansfield/knapp-auto-sales/
-shop: car
+shop: Autohaus
 ---

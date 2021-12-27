@@ -1,6 +1,6 @@
 ---
 title: Maineville
 url: /maineville/
-latitude: 39.315134
-longitude: -84.2209419
+latitude: 39.339
+longitude: -84.221
 ---

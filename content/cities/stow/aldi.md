@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /stow/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

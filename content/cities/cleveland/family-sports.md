@@ -1,5 +1,5 @@
 ---
 title: "Family Sports"
 url: /cleveland/family-sports/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /rossford/michaels/
-shop: craft
+shop: Basteln
 ---

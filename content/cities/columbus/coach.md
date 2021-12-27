@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /columbus/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

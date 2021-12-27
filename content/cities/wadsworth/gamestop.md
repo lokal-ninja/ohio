@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /wadsworth/gamestop/
-shop: video games
+shop: Videospiele
 ---

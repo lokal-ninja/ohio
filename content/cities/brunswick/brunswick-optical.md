@@ -1,5 +1,5 @@
 ---
 title: "Brunswick Optical"
 url: /brunswick/brunswick-optical/
-shop: optician
+shop: Optiker
 ---

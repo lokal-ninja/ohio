@@ -1,5 +1,5 @@
 ---
 title: "Rush"
 url: /kent/rush/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Canfield
 url: /canfield/
-latitude: 41.025059000000006
-longitude: -80.760912
+latitude: 41.025
+longitude: -80.713
 ---

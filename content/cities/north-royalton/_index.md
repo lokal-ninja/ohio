@@ -1,6 +1,6 @@
 ---
 title: North Royalton
 url: /north-royalton/
-latitude: 41.3136644
-longitude: -81.72457390000001
+latitude: 41.315
+longitude: -81.727
 ---

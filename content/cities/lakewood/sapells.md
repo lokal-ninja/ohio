@@ -1,5 +1,5 @@
 ---
 title: "Sapell's"
 url: /lakewood/sapells/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Harrod
 url: /harrod/
-latitude: 40.7078067
-longitude: -83.9210724
+latitude: 40.695
+longitude: -83.982
 ---

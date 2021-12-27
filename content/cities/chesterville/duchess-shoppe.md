@@ -1,5 +1,5 @@
 ---
 title: "Duchess Shoppe"
 url: /chesterville/duchess-shoppe/
-shop: convenience
+shop: Lebensmittel
 ---

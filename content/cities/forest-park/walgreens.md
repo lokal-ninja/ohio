@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /forest-park/walgreens/
-shop: chemist
+shop: Drogerie
 ---

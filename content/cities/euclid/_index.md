@@ -1,6 +1,6 @@
 ---
 title: Euclid
 url: /euclid/
-latitude: 41.5931049
-longitude: -81.52678730000001
+latitude: 41.587
+longitude: -81.5
 ---

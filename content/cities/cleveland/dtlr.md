@@ -1,5 +1,5 @@
 ---
 title: "DTLR"
 url: /cleveland/dtlr/
-shop: shoes
+shop: Schuhe
 ---

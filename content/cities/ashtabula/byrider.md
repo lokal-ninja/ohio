@@ -1,5 +1,5 @@
 ---
 title: "Byrider"
 url: /ashtabula/byrider/
-shop: car
+shop: Autohaus
 ---

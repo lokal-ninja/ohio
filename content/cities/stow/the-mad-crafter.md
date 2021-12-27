@@ -1,5 +1,5 @@
 ---
 title: "The Mad Crafter"
 url: /stow/the-mad-crafter/
-shop: doityourself
+shop: Baumarkt
 ---

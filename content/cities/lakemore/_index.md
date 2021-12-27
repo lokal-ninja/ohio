@@ -1,6 +1,6 @@
 ---
 title: Lakemore
 url: /lakemore/
-latitude: 41.02089
-longitude: -81.435946
+latitude: 41.023
+longitude: -81.43
 ---

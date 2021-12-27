@@ -1,5 +1,5 @@
 ---
 title: "Price McElroy Funeral Home"
 url: /kenton/price-mcelroy-funeral-home/
-shop: funeral directors
+shop: Bestattungen
 ---

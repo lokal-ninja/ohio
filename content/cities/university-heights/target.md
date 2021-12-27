@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /university-heights/target/
-shop: department store
+shop: Warenhaus
 ---

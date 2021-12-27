@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /aurora/famous-footwear-2/
-shop: shoes
+shop: Schuhe
 ---

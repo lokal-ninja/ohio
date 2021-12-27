@@ -1,6 +1,6 @@
 ---
 title: Archbold
 url: /archbold/
-latitude: 41.5211332
-longitude: -84.3065469
+latitude: 41.51
+longitude: -84.307
 ---

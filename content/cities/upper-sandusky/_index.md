@@ -1,6 +1,6 @@
 ---
 title: Upper Sandusky
 url: /upper-sandusky/
-latitude: 40.827278500000006
-longitude: -83.2813089
+latitude: 40.835
+longitude: -83.233
 ---

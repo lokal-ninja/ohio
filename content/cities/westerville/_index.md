@@ -1,6 +1,6 @@
 ---
 title: Westerville
 url: /westerville/
-latitude: 40.126139
-longitude: -82.9295287
+latitude: 40.085
+longitude: -82.897
 ---

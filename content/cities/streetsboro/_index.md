@@ -1,6 +1,6 @@
 ---
 title: Streetsboro
 url: /streetsboro/
-latitude: 41.239223
-longitude: -81.34594100000001
+latitude: 41.251
+longitude: -81.363
 ---

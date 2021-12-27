@@ -1,6 +1,6 @@
 ---
 title: Blanchester
 url: /blanchester/
-latitude: 39.2931174
-longitude: -83.9888205
+latitude: 39.293
+longitude: -83.988
 ---

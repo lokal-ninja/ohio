@@ -1,5 +1,5 @@
 ---
 title: "Loveland Greenhouse"
 url: /loveland/loveland-greenhouse/
-shop: garden centre
+shop: Garten-Center
 ---

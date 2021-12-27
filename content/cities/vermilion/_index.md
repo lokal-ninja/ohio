@@ -1,6 +1,6 @@
 ---
 title: Vermilion
 url: /vermilion/
-latitude: 41.4219889
-longitude: -82.3646068
+latitude: 41.421
+longitude: -82.365
 ---

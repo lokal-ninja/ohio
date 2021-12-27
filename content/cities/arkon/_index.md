@@ -1,6 +1,6 @@
 ---
 title: Arkon
 url: /arkon/
-latitude: 
-longitude: 
+latitude: 40.979
+longitude: -81.523
 ---

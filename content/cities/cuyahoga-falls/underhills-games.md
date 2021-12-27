@@ -1,5 +1,5 @@
 ---
 title: "Underhill's Games"
 url: /cuyahoga-falls/underhills-games/
-shop: games
+shop: Spiele
 ---

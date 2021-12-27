@@ -1,5 +1,5 @@
 ---
 title: "Polo Nails"
 url: /maple-heights/polo-nails/
-shop: beauty
+shop: Kosmetik
 ---

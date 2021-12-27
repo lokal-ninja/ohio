@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /parma/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

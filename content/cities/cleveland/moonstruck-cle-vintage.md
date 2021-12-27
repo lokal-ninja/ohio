@@ -1,5 +1,5 @@
 ---
 title: "Moonstruck CLE Vintage"
 url: /cleveland/moonstruck-cle-vintage/
-shop: shop
+shop: Allgemein
 ---

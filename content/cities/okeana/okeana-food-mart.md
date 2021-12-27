@@ -1,5 +1,5 @@
 ---
 title: "Okeana Food Mart"
 url: /okeana/okeana-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

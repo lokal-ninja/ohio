@@ -1,6 +1,6 @@
 ---
 title: Groveport
 url: /groveport/
-latitude: 39.8522449
-longitude: -82.8868636
+latitude: 39.888
+longitude: -82.886
 ---

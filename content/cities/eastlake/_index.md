@@ -1,6 +1,6 @@
 ---
 title: Eastlake
 url: /eastlake/
-latitude: 
-longitude: 
+latitude: 41.643
+longitude: -81.435
 ---

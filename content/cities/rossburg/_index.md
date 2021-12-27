@@ -1,6 +1,6 @@
 ---
 title: Rossburg
 url: /rossburg/
-latitude: 39.309782600000005
-longitude: -84.1177121
+latitude: 40.314
+longitude: -84.57
 ---

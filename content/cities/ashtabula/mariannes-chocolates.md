@@ -1,5 +1,5 @@
 ---
 title: "Marianne's Chocolates"
 url: /ashtabula/mariannes-chocolates/
-shop: chocolate
+shop: Schokolade
 ---

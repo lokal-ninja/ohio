@@ -1,5 +1,5 @@
 ---
 title: "Flowerama Columbus"
 url: /columbus/flowerama-columbus/
-shop: florist
+shop: Blumen
 ---

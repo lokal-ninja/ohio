@@ -1,6 +1,6 @@
 ---
 title: Mason
 url: /mason/
-latitude: 39.021745
-longitude: -82.0290296
+latitude: 39.3
+longitude: -84.314
 ---

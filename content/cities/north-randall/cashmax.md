@@ -1,5 +1,5 @@
 ---
 title: "CashMax"
 url: /north-randall/cashmax/
-shop: pawnbroker
+shop: Leiher
 ---

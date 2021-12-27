@@ -1,5 +1,5 @@
 ---
 title: "Claire's"
 url: /mason/claires/
-shop: shop
+shop: Allgemein
 ---

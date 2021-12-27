@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /aurora/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

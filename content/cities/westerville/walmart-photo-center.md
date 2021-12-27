@@ -1,5 +1,5 @@
 ---
 title: "Walmart Photo Center"
 url: /westerville/walmart-photo-center/
-shop: photo
+shop: Foto
 ---

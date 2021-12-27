@@ -1,6 +1,6 @@
 ---
 title: Brunswick
 url: /brunswick/
-latitude: 41.2456819
-longitude: -81.82753980000001
+latitude: 41.227
+longitude: -81.839
 ---

@@ -1,6 +1,6 @@
 ---
 title: Richmond Heights
 url: /richmond-heights/
-latitude: 41.552829
-longitude: -81.510121
+latitude: 41.541
+longitude: -81.493
 ---

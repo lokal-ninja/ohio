@@ -1,6 +1,6 @@
 ---
 title: Clevland
 url: /clevland/
-latitude: 
-longitude: 
+latitude: 41.434
+longitude: -81.808
 ---

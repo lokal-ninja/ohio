@@ -1,6 +1,6 @@
 ---
 title: Ashvile
 url: /ashvile/
-latitude: 
-longitude: 
+latitude: 39.714
+longitude: -82.961
 ---

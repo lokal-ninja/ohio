@@ -1,6 +1,6 @@
 ---
 title: Hicksville
 url: /hicksville/
-latitude: 41.293106
-longitude: -84.7619032
+latitude: 41.288
+longitude: -84.771
 ---

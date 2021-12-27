@@ -1,6 +1,6 @@
 ---
 title: Danville
 url: /danville/
-latitude: 39.144786800000006
-longitude: -83.7379796
+latitude: 40.451
+longitude: -82.26
 ---

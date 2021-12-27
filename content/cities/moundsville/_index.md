@@ -1,6 +1,6 @@
 ---
 title: Moundsville
 url: /moundsville/
-latitude: 39.6667399
-longitude: -81.4823448
+latitude: 39.926
+longitude: -80.748
 ---

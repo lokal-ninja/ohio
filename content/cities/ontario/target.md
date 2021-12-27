@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /ontario/target/
-shop: department store
+shop: Warenhaus
 ---

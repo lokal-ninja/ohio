@@ -1,6 +1,6 @@
 ---
 title: Alliance
 url: /alliance/
-latitude: 40.915336200000006
-longitude: -81.1059309
+latitude: 40.903
+longitude: -81.161
 ---

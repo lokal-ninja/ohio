@@ -1,6 +1,6 @@
 ---
 title: Moraine
 url: /moraine/
-latitude: 39.7061702
-longitude: -84.21938490000001
+latitude: 39.712
+longitude: -84.203
 ---

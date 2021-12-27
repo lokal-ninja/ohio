@@ -1,6 +1,6 @@
 ---
 title: Poland
 url: /poland/
-latitude: 41.024226000000006
-longitude: -80.614795
+latitude: 41.027
+longitude: -80.632
 ---

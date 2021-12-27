@@ -1,6 +1,6 @@
 ---
 title: Sylvania
 url: /sylvania/
-latitude: 41.7189392
-longitude: -83.71299350000001
+latitude: 41.716
+longitude: -83.703
 ---
