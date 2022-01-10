@@ -1,5 +1,5 @@
 ---
 title: "Herbco"
 url: /cleveland-heights/herbco/
-shop: Andenken
+shop: gift
 ---

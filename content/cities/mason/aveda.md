@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
 url: /mason/aveda/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vacuum World"
 url: /ontario/vacuum-world/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

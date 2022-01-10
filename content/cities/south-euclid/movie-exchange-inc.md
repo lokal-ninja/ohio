@@ -1,5 +1,5 @@
 ---
 title: "Movie Exchange Inc."
 url: /south-euclid/movie-exchange-inc/
-shop: Videothek
+shop: video
 ---

@@ -1,5 +1,5 @@
 ---
 title: "City Blue"
 url: /east-cleveland/city-blue/
-shop: Kleidung
+shop: clothes
 ---

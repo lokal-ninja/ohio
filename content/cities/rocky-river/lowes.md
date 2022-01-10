@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /rocky-river/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

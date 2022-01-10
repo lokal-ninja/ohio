@@ -1,5 +1,5 @@
 ---
 title: "Bink Davies"
 url: /columbus/bink-davies/
-shop: Raumausstattung
+shop: interior decoration
 ---

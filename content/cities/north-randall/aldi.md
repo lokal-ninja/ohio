@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /north-randall/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

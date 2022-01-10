@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /cleveland/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /ontario/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

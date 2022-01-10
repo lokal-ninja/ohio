@@ -1,5 +1,5 @@
 ---
 title: "The Relaxation Station"
 url: /chardon/the-relaxation-station/
-shop: Massage
+shop: massage
 ---

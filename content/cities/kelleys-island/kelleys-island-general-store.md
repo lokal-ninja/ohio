@@ -1,5 +1,5 @@
 ---
 title: "Kelleys Island General Store"
 url: /kelleys-island/kelleys-island-general-store/
-shop: Kramladen
+shop: variety store
 ---

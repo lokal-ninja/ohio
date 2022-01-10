@@ -1,5 +1,5 @@
 ---
 title: "Music Emporium"
 url: /cleveland/music-emporium/
-shop: Instrumente
+shop: musical instrument
 ---

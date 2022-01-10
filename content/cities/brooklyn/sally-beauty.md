@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /brooklyn/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

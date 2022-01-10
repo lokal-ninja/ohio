@@ -1,5 +1,5 @@
 ---
 title: "One Dollar Only"
 url: /maple-heights/one-dollar-only/
-shop: Kramladen
+shop: variety store
 ---

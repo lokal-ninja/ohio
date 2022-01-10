@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /milford/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

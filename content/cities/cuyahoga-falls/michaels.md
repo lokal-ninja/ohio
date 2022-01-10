@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /cuyahoga-falls/michaels/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /rossford/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

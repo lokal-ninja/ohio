@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
 url: /euclid/extra-space-storage-2/
-shop: Mieten
+shop: storage rental
 ---

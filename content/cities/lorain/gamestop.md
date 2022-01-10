@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /lorain/gamestop/
-shop: Videospiele
+shop: video games
 ---

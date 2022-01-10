@@ -1,5 +1,5 @@
 ---
 title: "KeeKee Kutz"
 url: /cleveland/keekee-kutz/
-shop: Tiersalon
+shop: pet grooming
 ---

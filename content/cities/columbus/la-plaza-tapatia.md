@@ -1,5 +1,5 @@
 ---
 title: "La Plaza Tapatia"
 url: /columbus/la-plaza-tapatia/
-shop: Supermarkt
+shop: supermarket
 ---

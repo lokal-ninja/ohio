@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /hilliard/kohls/
-shop: Warenhaus
+shop: department store
 ---

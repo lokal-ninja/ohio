@@ -1,5 +1,5 @@
 ---
 title: "The Pink Perch"
 url: /marblehead/the-pink-perch/
-shop: Kosmetik
+shop: beauty
 ---

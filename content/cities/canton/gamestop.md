@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /canton/gamestop/
-shop: Videospiele
+shop: video games
 ---

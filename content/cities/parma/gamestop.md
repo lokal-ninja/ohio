@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /parma/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chunky Armadillo"
 url: /columbus/chunky-armadillo/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /elyria/petsmart/
-shop: Tiere
+shop: pet
 ---

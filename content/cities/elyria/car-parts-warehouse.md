@@ -1,5 +1,5 @@
 ---
 title: "Car Parts Warehouse"
 url: /elyria/car-parts-warehouse/
-shop: Autoteile
+shop: car parts
 ---

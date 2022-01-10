@@ -1,5 +1,5 @@
 ---
 title: "Jamie's Carpet Shop"
 url: /elyria/jamies-carpet-shop/
-shop: Teppiche
+shop: carpet
 ---

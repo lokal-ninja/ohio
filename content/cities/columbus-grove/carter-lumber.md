@@ -1,5 +1,5 @@
 ---
 title: "Carter Lumber"
 url: /columbus-grove/carter-lumber/
-shop: Baustoffe
+shop: trade
 ---

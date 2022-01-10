@@ -1,5 +1,5 @@
 ---
 title: "Specdco"
 url: /beaverdam/specdco/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /cleveland/airgas/
-shop: Gasflaschen
+shop: gas
 ---

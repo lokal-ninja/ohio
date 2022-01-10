@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /reynoldsburg/autozone/
-shop: Autoteile
+shop: car parts
 ---

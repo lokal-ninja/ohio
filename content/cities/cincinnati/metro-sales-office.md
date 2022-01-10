@@ -1,5 +1,5 @@
 ---
 title: "Metro Sales Office"
 url: /cincinnati/metro-sales-office/
-shop: Allgemein
+shop: shop
 ---

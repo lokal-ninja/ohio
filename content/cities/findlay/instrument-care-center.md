@@ -1,5 +1,5 @@
 ---
 title: "Instrument Care Center"
 url: /findlay/instrument-care-center/
-shop: Instrumente
+shop: musical instrument
 ---

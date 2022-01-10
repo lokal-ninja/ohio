@@ -1,5 +1,5 @@
 ---
 title: "Kroger Pharmacy"
 url: /fostoria/kroger-pharmacy/
-shop: Supermarkt
+shop: supermarket
 ---

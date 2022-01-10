@@ -1,5 +1,5 @@
 ---
 title: "Cellairis"
 url: /columbus/cellairis/
-shop: Handy
+shop: mobile phone
 ---

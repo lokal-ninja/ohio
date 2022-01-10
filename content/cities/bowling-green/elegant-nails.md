@@ -1,5 +1,5 @@
 ---
 title: "Elegant Nails"
 url: /bowling-green/elegant-nails/
-shop: Kosmetik
+shop: beauty
 ---

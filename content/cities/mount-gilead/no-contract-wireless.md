@@ -1,5 +1,5 @@
 ---
 title: "No Contract Wireless"
 url: /mount-gilead/no-contract-wireless/
-shop: Handy
+shop: mobile phone
 ---

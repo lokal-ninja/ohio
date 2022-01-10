@@ -1,5 +1,5 @@
 ---
 title: "Von Maur"
 url: /columbus/von-maur/
-shop: Warenhaus
+shop: department store
 ---

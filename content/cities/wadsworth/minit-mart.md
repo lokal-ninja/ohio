@@ -1,5 +1,5 @@
 ---
 title: "Minit Mart"
 url: /wadsworth/minit-mart/
-shop: Lebensmittel
+shop: convenience
 ---

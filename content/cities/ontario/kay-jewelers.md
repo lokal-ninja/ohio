@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /ontario/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

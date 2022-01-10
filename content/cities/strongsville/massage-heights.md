@@ -1,5 +1,5 @@
 ---
 title: "Massage Heights"
 url: /strongsville/massage-heights/
-shop: Massage
+shop: massage
 ---

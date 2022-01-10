@@ -1,5 +1,5 @@
 ---
 title: "Miracle Shield"
 url: /parma/miracle-shield/
-shop: Autowerkstatt
+shop: car repair
 ---

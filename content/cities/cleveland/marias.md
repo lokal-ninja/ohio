@@ -1,5 +1,5 @@
 ---
 title: "Maria's"
 url: /cleveland/marias/
-shop: Friseur
+shop: hairdresser
 ---

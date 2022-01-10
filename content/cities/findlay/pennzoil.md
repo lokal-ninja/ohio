@@ -1,5 +1,5 @@
 ---
 title: "Pennzoil"
 url: /findlay/pennzoil/
-shop: Autowerkstatt
+shop: car repair
 ---

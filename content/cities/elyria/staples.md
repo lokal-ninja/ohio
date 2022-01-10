@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /elyria/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /bowling-green/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

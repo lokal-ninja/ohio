@@ -1,5 +1,5 @@
 ---
 title: "CheckSmart"
 url: /cuyahoga-falls/checksmart/
-shop: Leiher
+shop: pawnbroker
 ---

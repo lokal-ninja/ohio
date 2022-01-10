@@ -1,5 +1,5 @@
 ---
 title: "C-pap Central"
 url: /columbus/c-pap-central/
-shop: Kramladen
+shop: variety store
 ---

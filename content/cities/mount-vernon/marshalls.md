@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /mount-vernon/marshalls/
-shop: Warenhaus
+shop: department store
 ---

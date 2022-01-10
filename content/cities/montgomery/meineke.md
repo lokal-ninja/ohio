@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /montgomery/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

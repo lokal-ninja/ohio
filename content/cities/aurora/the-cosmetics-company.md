@@ -1,5 +1,5 @@
 ---
 title: "The Cosmetics Company"
 url: /aurora/the-cosmetics-company/
-shop: Kosmetik
+shop: beauty
 ---

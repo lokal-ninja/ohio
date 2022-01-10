@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /alliance/goodwill/
-shop: Kramladen
+shop: variety store
 ---

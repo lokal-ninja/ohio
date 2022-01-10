@@ -1,5 +1,5 @@
 ---
 title: "Vaporcast"
 url: /sheffield/vaporcast/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

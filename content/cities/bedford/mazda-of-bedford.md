@@ -1,5 +1,5 @@
 ---
 title: "Mazda of Bedford"
 url: /bedford/mazda-of-bedford/
-shop: Autohaus
+shop: car
 ---

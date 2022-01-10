@@ -1,5 +1,5 @@
 ---
 title: "Dunn Funeral Home"
 url: /bowling-green/dunn-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

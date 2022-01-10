@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /kenton/kmart/
-shop: Warenhaus
+shop: department store
 ---

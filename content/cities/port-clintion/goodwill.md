@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /port-clintion/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

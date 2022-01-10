@@ -1,5 +1,5 @@
 ---
 title: "Schlientz and Moore Funeral Home"
 url: /dayton/schlientz-and-moore-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

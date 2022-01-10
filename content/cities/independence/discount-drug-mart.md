@@ -1,5 +1,5 @@
 ---
 title: "Discount Drug Mart"
 url: /independence/discount-drug-mart/
-shop: Supermarkt
+shop: supermarket
 ---

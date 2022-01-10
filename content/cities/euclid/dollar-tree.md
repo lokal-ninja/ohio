@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /euclid/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Driveway Dumpsters"
 url: /loveland/driveway-dumpsters/
-shop: Baustoffe
+shop: trade
 ---

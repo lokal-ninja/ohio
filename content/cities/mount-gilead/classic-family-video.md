@@ -1,5 +1,5 @@
 ---
 title: "Classic Family Video"
 url: /mount-gilead/classic-family-video/
-shop: Videothek
+shop: video
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Video"
 url: /kenton/family-video/
-shop: Videothek
+shop: video
 ---

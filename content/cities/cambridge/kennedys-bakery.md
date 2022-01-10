@@ -1,5 +1,5 @@
 ---
 title: "Kennedy's Bakery"
 url: /cambridge/kennedys-bakery/
-shop: Bäckerei
+shop: bakery
 ---

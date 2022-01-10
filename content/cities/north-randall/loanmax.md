@@ -1,5 +1,5 @@
 ---
 title: "LoanMax"
 url: /north-randall/loanmax/
-shop: Leiher
+shop: pawnbroker
 ---

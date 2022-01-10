@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /orange/rei/
-shop: Outdoor
+shop: outdoor
 ---

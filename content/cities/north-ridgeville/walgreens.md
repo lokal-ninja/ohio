@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /north-ridgeville/walgreens/
-shop: Drogerie
+shop: chemist
 ---

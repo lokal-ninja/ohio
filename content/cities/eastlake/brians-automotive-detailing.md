@@ -1,5 +1,5 @@
 ---
 title: "Brian's Automotive Detailing"
 url: /eastlake/brians-automotive-detailing/
-shop: Autowerkstatt
+shop: car repair
 ---

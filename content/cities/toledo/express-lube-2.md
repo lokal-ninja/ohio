@@ -1,5 +1,5 @@
 ---
 title: "Express Lube"
 url: /toledo/express-lube-2/
-shop: Autowerkstatt
+shop: car repair
 ---

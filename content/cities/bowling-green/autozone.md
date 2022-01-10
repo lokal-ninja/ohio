@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bowling-green/autozone/
-shop: Autoteile
+shop: car parts
 ---

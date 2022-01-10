@@ -1,5 +1,5 @@
 ---
 title: "Easyriders"
 url: /conneaut/easyriders/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /cuyahoga-falls/verizon/
-shop: Handy
+shop: mobile phone
 ---

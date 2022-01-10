@@ -1,5 +1,5 @@
 ---
 title: "Salvatore Capelli"
 url: /perrysburg/salvatore-capelli/
-shop: Friseur
+shop: hairdresser
 ---

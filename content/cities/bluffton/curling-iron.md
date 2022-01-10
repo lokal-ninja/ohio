@@ -1,5 +1,5 @@
 ---
 title: "Curling Iron"
 url: /bluffton/curling-iron/
-shop: Friseur
+shop: hairdresser
 ---

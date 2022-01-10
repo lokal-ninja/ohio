@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /lorain/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Green Olive Co."
 url: /columbus/green-olive-co/
-shop: Allgemein
+shop: shop
 ---

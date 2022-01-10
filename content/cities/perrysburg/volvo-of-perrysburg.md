@@ -1,5 +1,5 @@
 ---
 title: "Volvo of Perrysburg"
 url: /perrysburg/volvo-of-perrysburg/
-shop: Autohaus
+shop: car
 ---

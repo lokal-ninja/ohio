@@ -1,5 +1,5 @@
 ---
 title: "Moto Mart"
 url: /mansfield/moto-mart/
-shop: Lebensmittel
+shop: convenience
 ---

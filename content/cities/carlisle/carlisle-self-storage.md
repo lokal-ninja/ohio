@@ -1,5 +1,5 @@
 ---
 title: "Carlisle Self Storage"
 url: /carlisle/carlisle-self-storage/
-shop: Mieten
+shop: storage rental
 ---

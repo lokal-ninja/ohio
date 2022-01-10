@@ -1,5 +1,5 @@
 ---
 title: "Hasch Body Shop"
 url: /bryan/hasch-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

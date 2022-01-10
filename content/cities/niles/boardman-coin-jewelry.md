@@ -1,5 +1,5 @@
 ---
 title: "Boardman Coin Jewelry"
 url: /niles/boardman-coin-jewelry/
-shop: Sammler
+shop: collector
 ---

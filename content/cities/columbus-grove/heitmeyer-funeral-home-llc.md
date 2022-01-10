@@ -1,5 +1,5 @@
 ---
 title: "Heitmeyer Funeral Home LLC"
 url: /columbus-grove/heitmeyer-funeral-home-llc/
-shop: Bestattungen
+shop: funeral directors
 ---

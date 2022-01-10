@@ -1,5 +1,5 @@
 ---
 title: "Smart Auto repair"
 url: /parma/smart-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

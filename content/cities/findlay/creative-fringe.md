@@ -1,5 +1,5 @@
 ---
 title: "Creative Fringe"
 url: /findlay/creative-fringe/
-shop: Andenken
+shop: gift
 ---

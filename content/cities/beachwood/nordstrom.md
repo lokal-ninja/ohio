@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /beachwood/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flashback Auto Body"
 url: /akron/flashback-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Men's Wearhouse"
 url: /ontario/mens-wearhouse/
-shop: Kleidung
+shop: clothes
 ---

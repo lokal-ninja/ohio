@@ -1,5 +1,5 @@
 ---
 title: "Way Auto Body"
 url: /cleveland-heights/way-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

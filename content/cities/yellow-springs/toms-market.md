@@ -1,5 +1,5 @@
 ---
 title: "Tom’s Market"
 url: /yellow-springs/toms-market/
-shop: Supermarkt
+shop: supermarket
 ---

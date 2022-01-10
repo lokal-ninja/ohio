@@ -1,5 +1,5 @@
 ---
 title: "FleetPride"
 url: /sharonville/fleetpride/
-shop: Autoteile
+shop: car parts
 ---

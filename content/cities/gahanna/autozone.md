@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /gahanna/autozone/
-shop: Autoteile
+shop: car parts
 ---

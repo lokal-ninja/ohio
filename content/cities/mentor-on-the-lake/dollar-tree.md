@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /mentor-on-the-lake/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

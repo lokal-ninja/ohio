@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /westerville/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

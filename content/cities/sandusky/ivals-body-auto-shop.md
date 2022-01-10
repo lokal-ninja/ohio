@@ -1,5 +1,5 @@
 ---
 title: "Ivals Body Auto Shop"
 url: /sandusky/ivals-body-auto-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

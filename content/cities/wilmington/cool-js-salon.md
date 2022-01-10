@@ -1,5 +1,5 @@
 ---
 title: "Cool J’s Salon"
 url: /wilmington/cool-js-salon/
-shop: Friseur
+shop: hairdresser
 ---

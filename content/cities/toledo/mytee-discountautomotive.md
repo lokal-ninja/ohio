@@ -1,5 +1,5 @@
 ---
 title: "Mytee DiscountAutomotive"
 url: /toledo/mytee-discountautomotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /columbus/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hometown Threads"
 url: /north-olmsted/hometown-threads/
-shop: Kleidung
+shop: clothes
 ---

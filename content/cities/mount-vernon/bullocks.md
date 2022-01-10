@@ -1,5 +1,5 @@
 ---
 title: "Bullock's"
 url: /mount-vernon/bullocks/
-shop: Lebensmittel
+shop: convenience
 ---

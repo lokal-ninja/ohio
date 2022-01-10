@@ -1,5 +1,5 @@
 ---
 title: "U-Haul Neighborhood Dealer"
 url: /mansfield/u-haul-neighborhood-dealer/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "University Square"
 url: /university-heights/university-square/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /niles/macys/
-shop: Warenhaus
+shop: department store
 ---

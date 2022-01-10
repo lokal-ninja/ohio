@@ -1,5 +1,5 @@
 ---
 title: "Ollie's Bargain Outlet"
 url: /columbus/ollies-bargain-outlet-2/
-shop: Kramladen
+shop: variety store
 ---

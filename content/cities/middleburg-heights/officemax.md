@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /middleburg-heights/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

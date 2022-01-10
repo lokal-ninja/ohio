@@ -1,5 +1,5 @@
 ---
 title: "Big Lugz"
 url: /findlay/big-lugz/
-shop: Autowerkstatt
+shop: car repair
 ---

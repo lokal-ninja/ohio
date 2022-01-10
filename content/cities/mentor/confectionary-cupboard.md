@@ -1,5 +1,5 @@
 ---
 title: "Confectionary Cupboard"
 url: /mentor/confectionary-cupboard/
-shop: Konditorei
+shop: pastry
 ---

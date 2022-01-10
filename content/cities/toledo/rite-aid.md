@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /toledo/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

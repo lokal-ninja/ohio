@@ -1,5 +1,5 @@
 ---
 title: "cb shop"
 url: /perrysburg/cb-shop/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "White's Automotive Services"
 url: /norwalk/whites-automotive-services/
-shop: Autowerkstatt
+shop: car repair
 ---

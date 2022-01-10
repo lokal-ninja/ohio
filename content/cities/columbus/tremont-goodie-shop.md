@@ -1,5 +1,5 @@
 ---
 title: "Tremont Goodie Shop"
 url: /columbus/tremont-goodie-shop/
-shop: Bäckerei
+shop: bakery
 ---

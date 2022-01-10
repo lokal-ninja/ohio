@@ -1,5 +1,5 @@
 ---
 title: "Dakota Watch Company"
 url: /columbus/dakota-watch-company/
-shop: Uhren
+shop: watches
 ---

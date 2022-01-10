@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /north-olmsted/verizon/
-shop: Handy
+shop: mobile phone
 ---

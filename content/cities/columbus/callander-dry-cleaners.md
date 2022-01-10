@@ -1,5 +1,5 @@
 ---
 title: "Callander Dry Cleaners"
 url: /columbus/callander-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

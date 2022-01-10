@@ -1,5 +1,5 @@
 ---
 title: "Stakes Manufacturing"
 url: /eastlake/stakes-manufacturing/
-shop: Kopieren
+shop: copyshop
 ---

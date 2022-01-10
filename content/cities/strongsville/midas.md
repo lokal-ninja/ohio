@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /strongsville/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

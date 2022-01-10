@@ -1,5 +1,5 @@
 ---
 title: "Arhaus"
 url: /perrysburg/arhaus/
-shop: Möbel
+shop: furniture
 ---

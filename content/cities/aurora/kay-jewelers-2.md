@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /aurora/kay-jewelers-2/
-shop: Schmuck
+shop: jewelry
 ---

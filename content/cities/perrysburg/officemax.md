@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /perrysburg/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

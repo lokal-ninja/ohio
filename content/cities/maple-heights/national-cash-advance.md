@@ -1,5 +1,5 @@
 ---
 title: "National Cash Advance"
 url: /maple-heights/national-cash-advance/
-shop: Leiher
+shop: pawnbroker
 ---

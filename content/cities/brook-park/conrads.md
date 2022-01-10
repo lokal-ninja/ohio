@@ -1,5 +1,5 @@
 ---
 title: "Conrad's"
 url: /brook-park/conrads/
-shop: Reifen
+shop: tyres
 ---

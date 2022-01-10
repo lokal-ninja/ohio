@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /south-point/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

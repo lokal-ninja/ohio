@@ -1,5 +1,5 @@
 ---
 title: "Busy Beaver"
 url: /ashtabula/busy-beaver/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tuffy"
 url: /toledo/tuffy/
-shop: Autowerkstatt
+shop: car repair
 ---

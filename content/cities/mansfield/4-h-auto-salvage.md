@@ -1,5 +1,5 @@
 ---
 title: "4-H Auto Salvage"
 url: /mansfield/4-h-auto-salvage/
-shop: Autoteile
+shop: car parts
 ---

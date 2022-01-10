@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /findlay/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

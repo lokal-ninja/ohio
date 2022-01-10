@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /north-canton/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gaslight Gourmet Cookies"
 url: /cincinnati/gaslight-gourmet-cookies/
-shop: Bäckerei
+shop: bakery
 ---

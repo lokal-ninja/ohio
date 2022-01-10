@@ -1,5 +1,5 @@
 ---
 title: "DeJohn Funeral Home"
 url: /chardon/dejohn-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

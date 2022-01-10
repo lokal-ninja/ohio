@@ -1,5 +1,5 @@
 ---
 title: "Keystone Meats"
 url: /lima/keystone-meats/
-shop: Metzgerei
+shop: butcher
 ---

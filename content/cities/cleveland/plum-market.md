@@ -1,5 +1,5 @@
 ---
 title: "Plum Market"
 url: /cleveland/plum-market/
-shop: Supermarkt
+shop: supermarket
 ---

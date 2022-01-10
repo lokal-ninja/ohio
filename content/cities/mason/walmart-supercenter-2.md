@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /mason/walmart-supercenter-2/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /warren/five-below/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /rocky-river/giant-eagle/
-shop: Supermarkt
+shop: supermarket
 ---

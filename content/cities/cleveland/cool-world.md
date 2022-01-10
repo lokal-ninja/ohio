@@ -1,5 +1,5 @@
 ---
 title: "Cool World"
 url: /cleveland/cool-world/
-shop: Andenken
+shop: gift
 ---

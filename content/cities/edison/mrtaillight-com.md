@@ -1,5 +1,5 @@
 ---
 title: "MrTailLight.com"
 url: /edison/mrtaillight-com/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GOCO Food Mart"
 url: /columbus/goco-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

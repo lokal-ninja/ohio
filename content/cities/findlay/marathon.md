@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /findlay/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

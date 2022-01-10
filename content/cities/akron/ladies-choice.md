@@ -1,5 +1,5 @@
 ---
 title: "Ladie's Choice"
 url: /akron/ladies-choice/
-shop: Friseur
+shop: hairdresser
 ---

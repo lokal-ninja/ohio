@@ -1,5 +1,5 @@
 ---
 title: "A Puff Above"
 url: /north-olmsted/a-puff-above/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

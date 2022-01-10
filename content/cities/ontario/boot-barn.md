@@ -1,5 +1,5 @@
 ---
 title: "Boot Barn"
 url: /ontario/boot-barn/
-shop: Schuhe
+shop: shoes
 ---

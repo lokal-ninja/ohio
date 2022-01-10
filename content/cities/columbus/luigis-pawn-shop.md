@@ -1,5 +1,5 @@
 ---
 title: "Luigi's Pawn Shop"
 url: /columbus/luigis-pawn-shop/
-shop: Leiher
+shop: pawnbroker
 ---

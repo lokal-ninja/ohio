@@ -1,5 +1,5 @@
 ---
 title: "Fisher-Edgington Funeral Home"
 url: /wilmington/fisher-edgington-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

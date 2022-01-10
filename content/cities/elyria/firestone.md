@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /elyria/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

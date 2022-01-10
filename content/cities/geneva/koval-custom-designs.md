@@ -1,5 +1,5 @@
 ---
 title: "Koval Custom Designs"
 url: /geneva/koval-custom-designs/
-shop: Möbel
+shop: furniture
 ---

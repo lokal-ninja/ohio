@@ -1,5 +1,5 @@
 ---
 title: "Aldo"
 url: /columbus/aldo/
-shop: Schuhe
+shop: shoes
 ---

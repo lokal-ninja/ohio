@@ -1,5 +1,5 @@
 ---
 title: "Majestic Fashion"
 url: /cleveland/majestic-fashion/
-shop: Kleidung
+shop: clothes
 ---

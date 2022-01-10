@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /kenton/sears/
-shop: Warenhaus
+shop: department store
 ---

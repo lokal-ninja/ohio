@@ -1,5 +1,5 @@
 ---
 title: "Made In Ohio"
 url: /ashtabula/made-in-ohio/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Celltronix"
 url: /bowling-green/celltronix/
-shop: Handy
+shop: mobile phone
 ---

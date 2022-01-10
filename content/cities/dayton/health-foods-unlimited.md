@@ -1,5 +1,5 @@
 ---
 title: "Health Foods Unlimited"
 url: /dayton/health-foods-unlimited/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /garfield-heights/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

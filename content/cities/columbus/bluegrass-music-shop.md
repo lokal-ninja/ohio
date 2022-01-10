@@ -1,5 +1,5 @@
 ---
 title: "Bluegrass Music Shop"
 url: /columbus/bluegrass-music-shop/
-shop: Instrumente
+shop: musical instrument
 ---

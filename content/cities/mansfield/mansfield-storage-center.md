@@ -1,5 +1,5 @@
 ---
 title: "Mansfield Storage Center"
 url: /mansfield/mansfield-storage-center/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bicycle One"
 url: /gahanna/bicycle-one/
-shop: Fahrrad
+shop: bicycle
 ---

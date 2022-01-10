@@ -1,5 +1,5 @@
 ---
 title: "Classic Ford"
 url: /mentor/classic-ford/
-shop: Autohaus
+shop: car
 ---

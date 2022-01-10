@@ -1,5 +1,5 @@
 ---
 title: "Studio Fovèro"
 url: /columbus/studio-fovero/
-shop: Kosmetik
+shop: beauty
 ---

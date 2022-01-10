@@ -1,5 +1,5 @@
 ---
 title: "Best Cuts"
 url: /garfield-heights/best-cuts/
-shop: Friseur
+shop: hairdresser
 ---

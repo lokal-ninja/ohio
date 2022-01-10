@@ -1,5 +1,5 @@
 ---
 title: "The Bike Shop"
 url: /lancaster/the-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

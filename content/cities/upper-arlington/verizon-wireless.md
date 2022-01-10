@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /upper-arlington/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

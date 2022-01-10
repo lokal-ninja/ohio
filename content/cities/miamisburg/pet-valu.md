@@ -1,5 +1,5 @@
 ---
 title: "Pet Valu"
 url: /miamisburg/pet-valu/
-shop: Tiere
+shop: pet
 ---

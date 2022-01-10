@@ -1,5 +1,5 @@
 ---
 title: "Paolo"
 url: /cincinnati/paolo/
-shop: Schmuck
+shop: jewelry
 ---

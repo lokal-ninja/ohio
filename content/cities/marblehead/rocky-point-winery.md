@@ -1,5 +1,5 @@
 ---
 title: "Rocky Point Winery"
 url: /marblehead/rocky-point-winery/
-shop: Wein
+shop: wine
 ---

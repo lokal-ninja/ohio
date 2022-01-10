@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /north-olmsted/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

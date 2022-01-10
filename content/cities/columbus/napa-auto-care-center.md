@@ -1,5 +1,5 @@
 ---
 title: "Napa Auto Care Center"
 url: /columbus/napa-auto-care-center/
-shop: Autowerkstatt
+shop: car repair
 ---

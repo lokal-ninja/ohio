@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /aurora/aeropostale/
-shop: Kleidung
+shop: clothes
 ---

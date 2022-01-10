@@ -1,5 +1,5 @@
 ---
 title: "John Hinderer Honda"
 url: /heath/john-hinderer-honda/
-shop: Autohaus
+shop: car
 ---

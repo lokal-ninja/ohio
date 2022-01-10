@@ -1,5 +1,5 @@
 ---
 title: "Env Salon"
 url: /eastlake/env-salon/
-shop: Friseur
+shop: hairdresser
 ---

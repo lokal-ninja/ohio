@@ -1,5 +1,5 @@
 ---
 title: "Community Markets"
 url: /oak-harbor/community-markets/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wireless Depot"
 url: /cleveland-heights/wireless-depot/
-shop: Handy
+shop: mobile phone
 ---

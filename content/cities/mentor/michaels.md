@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /mentor/michaels/
-shop: Basteln
+shop: craft
 ---

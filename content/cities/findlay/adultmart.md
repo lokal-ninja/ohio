@@ -1,5 +1,5 @@
 ---
 title: "Adultmart"
 url: /findlay/adultmart/
-shop: Erotik
+shop: erotic
 ---

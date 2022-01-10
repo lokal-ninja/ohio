@@ -1,5 +1,5 @@
 ---
 title: "Key Liquor"
 url: /cleveland/key-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

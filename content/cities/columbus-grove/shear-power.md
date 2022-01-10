@@ -1,5 +1,5 @@
 ---
 title: "Shear Power"
 url: /columbus-grove/shear-power/
-shop: Friseur
+shop: hairdresser
 ---

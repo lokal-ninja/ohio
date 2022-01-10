@@ -1,5 +1,5 @@
 ---
 title: "Larrick’s Warehouse"
 url: /dayton/larricks-warehouse/
-shop: Möbel
+shop: furniture
 ---

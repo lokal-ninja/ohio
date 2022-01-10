@@ -1,5 +1,5 @@
 ---
 title: "Chardon Auto Parts"
 url: /chardon/chardon-auto-parts/
-shop: Autowerkstatt
+shop: car repair
 ---

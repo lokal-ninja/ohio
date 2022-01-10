@@ -1,5 +1,5 @@
 ---
 title: "Jakprints"
 url: /eastlake/jakprints/
-shop: Kopieren
+shop: copyshop
 ---

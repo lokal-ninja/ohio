@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /findlay/kohls/
-shop: Warenhaus
+shop: department store
 ---

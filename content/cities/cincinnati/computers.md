@@ -1,5 +1,5 @@
 ---
 title: "Computers"
 url: /cincinnati/computers/
-shop: Computer
+shop: computer
 ---

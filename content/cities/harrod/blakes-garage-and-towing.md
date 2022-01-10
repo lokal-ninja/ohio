@@ -1,5 +1,5 @@
 ---
 title: "Blake's Garage and Towing"
 url: /harrod/blakes-garage-and-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

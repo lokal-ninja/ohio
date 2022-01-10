@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /mansfield/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

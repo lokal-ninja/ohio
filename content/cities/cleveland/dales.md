@@ -1,5 +1,5 @@
 ---
 title: "Dale's"
 url: /cleveland/dales/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rose Beauty"
 url: /garfield-heights/rose-beauty/
-shop: Kosmetik
+shop: beauty
 ---

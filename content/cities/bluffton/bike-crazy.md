@@ -1,5 +1,5 @@
 ---
 title: "Bike Crazy"
 url: /bluffton/bike-crazy/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jay Dee Cleaners"
 url: /euclid/jay-dee-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /norwalk/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

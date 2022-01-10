@@ -1,5 +1,5 @@
 ---
 title: "Mary J. Braids"
 url: /cleveland/mary-j-braids/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

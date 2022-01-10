@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /independence/walgreens/
-shop: Drogerie
+shop: chemist
 ---

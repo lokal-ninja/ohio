@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /cleveland/metro/
-shop: Handy
+shop: mobile phone
 ---

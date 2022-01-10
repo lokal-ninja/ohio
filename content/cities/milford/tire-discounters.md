@@ -1,5 +1,5 @@
 ---
 title: "Tire Discounters"
 url: /milford/tire-discounters/
-shop: Reifen
+shop: tyres
 ---

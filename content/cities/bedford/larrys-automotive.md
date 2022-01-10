@@ -1,5 +1,5 @@
 ---
 title: "Larry's Automotive"
 url: /bedford/larrys-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

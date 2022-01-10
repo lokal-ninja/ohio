@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /ontario/sunbelt-rentals/
-shop: Allgemein
+shop: shop
 ---

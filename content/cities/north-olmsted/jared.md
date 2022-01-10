@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /north-olmsted/jared/
-shop: Schmuck
+shop: jewelry
 ---

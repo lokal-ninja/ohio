@@ -1,5 +1,5 @@
 ---
 title: "Storage for Stuff"
 url: /bowling-green/storage-for-stuff/
-shop: Mieten
+shop: storage rental
 ---

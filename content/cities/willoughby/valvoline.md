@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /willoughby/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /mount-gilead/napa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

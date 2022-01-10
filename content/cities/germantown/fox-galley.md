@@ -1,5 +1,5 @@
 ---
 title: "Fox Galley"
 url: /germantown/fox-galley/
-shop: Andenken
+shop: gift
 ---

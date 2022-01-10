@@ -1,5 +1,5 @@
 ---
 title: "CountrySide Bicycling"
 url: /windsor/countryside-bicycling/
-shop: Fahrrad
+shop: bicycle
 ---

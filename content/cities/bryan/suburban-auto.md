@@ -1,5 +1,5 @@
 ---
 title: "Suburban Auto"
 url: /bryan/suburban-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

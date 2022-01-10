@@ -1,5 +1,5 @@
 ---
 title: "Two Cousins Plus"
 url: /south-euclid/two-cousins-plus/
-shop: Kosmetik
+shop: beauty
 ---

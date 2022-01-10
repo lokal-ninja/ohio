@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /mansfield/walgreens/
-shop: Drogerie
+shop: chemist
 ---

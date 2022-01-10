@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /calcutta/autozone/
-shop: Autoteile
+shop: car parts
 ---

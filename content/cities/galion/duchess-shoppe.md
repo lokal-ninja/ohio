@@ -1,5 +1,5 @@
 ---
 title: "Duchess Shoppe"
 url: /galion/duchess-shoppe/
-shop: Lebensmittel
+shop: convenience
 ---

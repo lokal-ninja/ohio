@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /mentor/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

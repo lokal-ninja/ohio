@@ -1,5 +1,5 @@
 ---
 title: "Pet People"
 url: /toledo/pet-people/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /uniontown/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

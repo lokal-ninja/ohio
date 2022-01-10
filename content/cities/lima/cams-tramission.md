@@ -1,5 +1,5 @@
 ---
 title: "Cam's Tramission"
 url: /lima/cams-tramission/
-shop: Autowerkstatt
+shop: car repair
 ---

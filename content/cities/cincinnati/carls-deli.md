@@ -1,5 +1,5 @@
 ---
 title: "Carl’s Deli"
 url: /cincinnati/carls-deli/
-shop: Feinkost
+shop: deli
 ---

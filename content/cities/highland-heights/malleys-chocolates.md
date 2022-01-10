@@ -1,5 +1,5 @@
 ---
 title: "Malley's Chocolates"
 url: /highland-heights/malleys-chocolates/
-shop: Süßwaren
+shop: confectionery
 ---

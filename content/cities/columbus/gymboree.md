@@ -1,5 +1,5 @@
 ---
 title: "Gymboree"
 url: /columbus/gymboree/
-shop: Kleidung
+shop: clothes
 ---

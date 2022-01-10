@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /garfield-heights/spectrum/
-shop: Handy
+shop: mobile phone
 ---

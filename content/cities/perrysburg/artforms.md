@@ -1,5 +1,5 @@
 ---
 title: "Artforms"
 url: /perrysburg/artforms/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /bedford/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castalia Limited Market"
 url: /castalia/castalia-limited-market/
-shop: Lebensmittel
+shop: convenience
 ---

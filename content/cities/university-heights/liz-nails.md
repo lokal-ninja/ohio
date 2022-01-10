@@ -1,5 +1,5 @@
 ---
 title: "Liz Nails"
 url: /university-heights/liz-nails/
-shop: Kosmetik
+shop: beauty
 ---

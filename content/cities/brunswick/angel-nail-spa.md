@@ -1,5 +1,5 @@
 ---
 title: "Angel Nail Spa"
 url: /brunswick/angel-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Novus Clinic"
 url: /uniontown/novus-clinic/
-shop: Optiker
+shop: optician
 ---

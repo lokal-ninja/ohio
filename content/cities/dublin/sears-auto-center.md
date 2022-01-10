@@ -1,5 +1,5 @@
 ---
 title: "Sears Auto Center"
 url: /dublin/sears-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

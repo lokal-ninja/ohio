@@ -1,5 +1,5 @@
 ---
 title: "Cronin Kia"
 url: /harrison/cronin-kia/
-shop: Autohaus
+shop: car
 ---

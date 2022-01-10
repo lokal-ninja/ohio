@@ -1,5 +1,5 @@
 ---
 title: "Wrenchworks"
 url: /wadsworth/wrenchworks/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /cuyahoga-falls/target/
-shop: Warenhaus
+shop: department store
 ---

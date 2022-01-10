@@ -1,5 +1,5 @@
 ---
 title: "Marc's"
 url: /brunswick/marcs/
-shop: Supermarkt
+shop: supermarket
 ---

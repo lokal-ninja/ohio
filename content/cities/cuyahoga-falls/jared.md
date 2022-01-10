@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /cuyahoga-falls/jared/
-shop: Schmuck
+shop: jewelry
 ---

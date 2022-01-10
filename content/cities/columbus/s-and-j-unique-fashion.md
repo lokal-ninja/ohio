@@ -1,5 +1,5 @@
 ---
 title: "S and J Unique Fashion"
 url: /columbus/s-and-j-unique-fashion/
-shop: Kleidung
+shop: clothes
 ---

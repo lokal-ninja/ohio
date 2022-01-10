@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /canton/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

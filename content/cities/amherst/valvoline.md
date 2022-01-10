@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /amherst/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

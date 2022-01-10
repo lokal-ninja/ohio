@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /chesterland/autozone/
-shop: Autoteile
+shop: car parts
 ---

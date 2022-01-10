@@ -1,5 +1,5 @@
 ---
 title: "Grabham's Candies"
 url: /peninsula/grabhams-candies/
-shop: Süßwaren
+shop: confectionery
 ---

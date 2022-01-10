@@ -1,5 +1,5 @@
 ---
 title: "Florida Tile"
 url: /miamisburg/florida-tile/
-shop: Fliesen
+shop: tiles
 ---

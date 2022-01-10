@@ -1,5 +1,5 @@
 ---
 title: "City Gear"
 url: /columbus/city-gear/
-shop: Kleidung
+shop: clothes
 ---

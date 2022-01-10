@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /ashtabula/autozone/
-shop: Autoteile
+shop: car parts
 ---

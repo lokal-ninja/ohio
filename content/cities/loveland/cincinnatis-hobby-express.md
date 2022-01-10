@@ -1,5 +1,5 @@
 ---
 title: "Cincinnati’s Hobby Express"
 url: /loveland/cincinnatis-hobby-express/
-shop: Sport
+shop: sports
 ---

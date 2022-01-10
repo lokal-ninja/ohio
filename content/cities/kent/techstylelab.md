@@ -1,5 +1,5 @@
 ---
 title: "TechStyleLab"
 url: /kent/techstylelab/
-shop: Kleidung
+shop: clothes
 ---

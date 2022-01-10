@@ -1,5 +1,5 @@
 ---
 title: "The Exchange"
 url: /elyria/the-exchange/
-shop: Videospiele
+shop: video games
 ---

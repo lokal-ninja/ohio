@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /mentor/verizon/
-shop: Handy
+shop: mobile phone
 ---

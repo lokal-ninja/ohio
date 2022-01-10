@@ -1,5 +1,5 @@
 ---
 title: "Eagle Loan"
 url: /mentor-on-the-lake/eagle-loan/
-shop: Leiher
+shop: pawnbroker
 ---

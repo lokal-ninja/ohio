@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /elyria/target/
-shop: Warenhaus
+shop: department store
 ---

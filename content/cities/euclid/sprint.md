@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /euclid/sprint/
-shop: Handy
+shop: mobile phone
 ---

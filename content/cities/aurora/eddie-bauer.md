@@ -1,5 +1,5 @@
 ---
 title: "Eddie Bauer"
 url: /aurora/eddie-bauer/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "North Canton Repair"
 url: /north-canton/north-canton-repair/
-shop: Garten-Center
+shop: garden centre
 ---

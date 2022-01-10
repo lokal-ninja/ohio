@@ -1,5 +1,5 @@
 ---
 title: "Koko Bakery"
 url: /cleveland/koko-bakery/
-shop: Konditorei
+shop: pastry
 ---

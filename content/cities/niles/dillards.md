@@ -1,5 +1,5 @@
 ---
 title: "Dillard's"
 url: /niles/dillards/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brighton Collectibles"
 url: /columbus/brighton-collectibles/
-shop: Allgemein
+shop: shop
 ---

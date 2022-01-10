@@ -1,5 +1,5 @@
 ---
 title: "Kismet OTR"
 url: /cincinnati/kismet-otr/
-shop: Andenken
+shop: gift
 ---

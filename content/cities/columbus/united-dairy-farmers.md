@@ -1,5 +1,5 @@
 ---
 title: "United Dairy Farmers"
 url: /columbus/united-dairy-farmers/
-shop: Lebensmittel
+shop: convenience
 ---

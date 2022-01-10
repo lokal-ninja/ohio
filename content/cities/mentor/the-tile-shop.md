@@ -1,5 +1,5 @@
 ---
 title: "The Tile Shop"
 url: /mentor/the-tile-shop/
-shop: Fliesen
+shop: tiles
 ---

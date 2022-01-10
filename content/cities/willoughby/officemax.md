@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /willoughby/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

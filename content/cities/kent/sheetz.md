@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /kent/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

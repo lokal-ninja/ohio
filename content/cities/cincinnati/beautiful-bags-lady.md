@@ -1,5 +1,5 @@
 ---
 title: "Beautiful Bags Lady"
 url: /cincinnati/beautiful-bags-lady/
-shop: Allgemein
+shop: shop
 ---

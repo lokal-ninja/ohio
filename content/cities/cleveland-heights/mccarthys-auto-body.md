@@ -1,5 +1,5 @@
 ---
 title: "McCarthy's Auto Body"
 url: /cleveland-heights/mccarthys-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

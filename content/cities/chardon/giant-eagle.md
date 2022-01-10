@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /chardon/giant-eagle/
-shop: Supermarkt
+shop: supermarket
 ---

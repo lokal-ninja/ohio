@@ -1,5 +1,5 @@
 ---
 title: "Assassin"
 url: /akron/assassin/
-shop: Tattoo
+shop: tattoo
 ---

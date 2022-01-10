@@ -1,5 +1,5 @@
 ---
 title: "Alban Auto"
 url: /columbus/alban-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

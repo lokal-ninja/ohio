@@ -1,5 +1,5 @@
 ---
 title: "Ell Farm Health Store"
 url: /cincinnati/ell-farm-health-store/
-shop: Bioladen
+shop: health food
 ---

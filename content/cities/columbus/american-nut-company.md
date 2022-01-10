@@ -1,5 +1,5 @@
 ---
 title: "American Nut Company"
 url: /columbus/american-nut-company/
-shop: Allgemein
+shop: shop
 ---

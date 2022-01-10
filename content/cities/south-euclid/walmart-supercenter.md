@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /south-euclid/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

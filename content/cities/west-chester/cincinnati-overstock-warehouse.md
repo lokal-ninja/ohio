@@ -1,5 +1,5 @@
 ---
 title: "Cincinnati Overstock Warehouse"
 url: /west-chester/cincinnati-overstock-warehouse/
-shop: Möbel
+shop: furniture
 ---

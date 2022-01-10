@@ -1,5 +1,5 @@
 ---
 title: "Arlington Hardware"
 url: /arlington/arlington-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

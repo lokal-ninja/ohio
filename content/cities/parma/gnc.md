@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /parma/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

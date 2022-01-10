@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /parma/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

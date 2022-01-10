@@ -1,5 +1,5 @@
 ---
 title: "Empire"
 url: /kent/empire/
-shop: Andenken
+shop: gift
 ---

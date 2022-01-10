@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /perrysburg/chicos/
-shop: Kleidung
+shop: clothes
 ---

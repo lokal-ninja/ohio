@@ -1,5 +1,5 @@
 ---
 title: "Designers Furniture"
 url: /mayfield-heights/designers-furniture/
-shop: Möbel
+shop: furniture
 ---

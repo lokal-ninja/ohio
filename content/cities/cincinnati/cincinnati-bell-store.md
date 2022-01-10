@@ -1,5 +1,5 @@
 ---
 title: "Cincinnati Bell Store"
 url: /cincinnati/cincinnati-bell-store/
-shop: Handy
+shop: mobile phone
 ---

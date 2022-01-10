@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /parma/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

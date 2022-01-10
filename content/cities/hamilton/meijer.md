@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /hamilton/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /aurora/levis/
-shop: Kleidung
+shop: clothes
 ---

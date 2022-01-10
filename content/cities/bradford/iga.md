@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /bradford/iga/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /bowling-green/chevrolet/
-shop: Autohaus
+shop: car
 ---

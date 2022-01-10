@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /mentor/marshalls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Continental Collision Center"
 url: /parma/continental-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

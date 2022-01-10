@@ -1,5 +1,5 @@
 ---
 title: "Schoedinger"
 url: /columbus/schoedinger/
-shop: Bestattungen
+shop: funeral directors
 ---

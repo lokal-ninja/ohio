@@ -1,5 +1,5 @@
 ---
 title: "Market at Founders"
 url: /bowling-green/market-at-founders/
-shop: Lebensmittel
+shop: convenience
 ---

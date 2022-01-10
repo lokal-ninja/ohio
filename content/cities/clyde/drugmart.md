@@ -1,5 +1,5 @@
 ---
 title: "DrugMart"
 url: /clyde/drugmart/
-shop: Lebensmittel
+shop: convenience
 ---

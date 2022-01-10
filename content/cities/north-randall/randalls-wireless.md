@@ -1,5 +1,5 @@
 ---
 title: "Randall's Wireless"
 url: /north-randall/randalls-wireless/
-shop: Handy
+shop: mobile phone
 ---

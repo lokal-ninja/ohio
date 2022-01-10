@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /cincinnati/costco/
-shop: Großhandel
+shop: wholesale
 ---

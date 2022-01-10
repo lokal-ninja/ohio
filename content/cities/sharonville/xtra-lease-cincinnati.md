@@ -1,5 +1,5 @@
 ---
 title: "XTRA Lease Cincinnati"
 url: /sharonville/xtra-lease-cincinnati/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Travel Encounters"
 url: /chardon/travel-encounters/
-shop: Reisebüro
+shop: travel agency
 ---

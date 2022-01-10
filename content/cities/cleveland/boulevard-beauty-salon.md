@@ -1,5 +1,5 @@
 ---
 title: "Boulevard Beauty Salon"
 url: /cleveland/boulevard-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

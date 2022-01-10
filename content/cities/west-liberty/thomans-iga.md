@@ -1,5 +1,5 @@
 ---
 title: "Thomans IGA"
 url: /west-liberty/thomans-iga/
-shop: Supermarkt
+shop: supermarket
 ---

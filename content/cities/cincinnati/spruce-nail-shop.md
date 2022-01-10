@@ -1,5 +1,5 @@
 ---
 title: "Spruce Nail Shop"
 url: /cincinnati/spruce-nail-shop/
-shop: Kosmetik
+shop: beauty
 ---

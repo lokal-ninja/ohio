@@ -1,5 +1,5 @@
 ---
 title: "Bill's Cleaners"
 url: /cleveland/bills-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

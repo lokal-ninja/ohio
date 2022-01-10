@@ -1,5 +1,5 @@
 ---
 title: "Lucky Star Beverage"
 url: /cleveland/lucky-star-beverage/
-shop: Kiosk
+shop: kiosk
 ---

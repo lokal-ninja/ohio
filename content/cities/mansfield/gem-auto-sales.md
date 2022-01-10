@@ -1,5 +1,5 @@
 ---
 title: "Gem Auto Sales"
 url: /mansfield/gem-auto-sales/
-shop: Autohaus
+shop: car
 ---

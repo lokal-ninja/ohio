@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /loveland/dollar-tree-2/
-shop: Kramladen
+shop: variety store
 ---

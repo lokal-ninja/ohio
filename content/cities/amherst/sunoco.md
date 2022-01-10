@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /amherst/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

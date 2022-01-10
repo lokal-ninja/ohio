@@ -1,5 +1,5 @@
 ---
 title: "J.Jill"
 url: /perrysburg/j-jill/
-shop: Kleidung
+shop: clothes
 ---

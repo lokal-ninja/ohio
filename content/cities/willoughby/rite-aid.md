@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /willoughby/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

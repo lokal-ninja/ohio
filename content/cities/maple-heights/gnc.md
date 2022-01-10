@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /maple-heights/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

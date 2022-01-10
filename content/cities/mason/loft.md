@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /mason/loft/
-shop: Kleidung
+shop: clothes
 ---
