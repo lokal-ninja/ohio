@@ -1,6 +1,6 @@
 ---
 title: Massillon
 url: /massillon/
-latitude: 40.766
-longitude: -81.524
+latitude: 40.796
+longitude: -81.58
 ---
