@@ -1,6 +1,6 @@
 ---
 title: Ravenna
 url: /ravenna/
-latitude: 41.157
-longitude: -81.3
+latitude: 41.112
+longitude: -81.242
 ---

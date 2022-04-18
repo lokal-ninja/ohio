@@ -1,5 +1,5 @@
 ---
-title: "Cashmax"
+title: "CashMax"
 url: /columbus/cashmax/
 shop: pawnbroker
 ---
