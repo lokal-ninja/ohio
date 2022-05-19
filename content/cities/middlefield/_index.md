@@ -1,6 +1,6 @@
 ---
 title: Middlefield
 url: /middlefield/
-latitude: 41.463
-longitude: -81.083
+latitude: 41.462
+longitude: -81.091
 ---
