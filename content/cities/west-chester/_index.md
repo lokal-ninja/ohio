@@ -1,6 +1,6 @@
 ---
 title: West Chester
 url: /west-chester/
-latitude: 39.358
-longitude: -84.38
+latitude: 39.324
+longitude: -84.362
 ---

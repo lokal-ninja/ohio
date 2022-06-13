@@ -1,6 +1,6 @@
 ---
 title: Canal Fulton
 url: /canal-fulton/
-latitude: 40.891
-longitude: -81.597
+latitude: 40.889
+longitude: -81.598
 ---
