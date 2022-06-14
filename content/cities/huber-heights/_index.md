@@ -1,6 +1,6 @@
 ---
 title: Huber Heights
 url: /huber-heights/
-latitude: 39.872
-longitude: -84.133
+latitude: 39.846
+longitude: -84.115
 ---
