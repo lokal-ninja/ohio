@@ -1,6 +1,6 @@
 ---
 title: Amelia
 url: /amelia/
-latitude: 39.015
-longitude: -84.2
+latitude: 39.03
+longitude: -84.221
 ---
