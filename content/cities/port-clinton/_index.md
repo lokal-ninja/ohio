@@ -1,6 +1,6 @@
 ---
 title: Port Clinton
 url: /port-clinton/
-latitude: 41.519
-longitude: -82.864
+latitude: 41.523
+longitude: -82.856
 ---
