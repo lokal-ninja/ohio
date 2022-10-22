@@ -1,6 +1,6 @@
 ---
 title: Kettering
 url: /kettering/
-latitude: 39.687
-longitude: -84.144
+latitude: 39.698
+longitude: -84.123
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
-url: /mason/nothing-bundt-cakes/
+url: /boardman/nothing-bundt-cakes/
 shop: pastry
 ---
