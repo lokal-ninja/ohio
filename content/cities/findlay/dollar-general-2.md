@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /findlay/dollar-general-2/
+url: /findlay/dollar-general/
 shop: variety store
 ---

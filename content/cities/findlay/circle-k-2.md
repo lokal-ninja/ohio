@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /findlay/circle-k-2/
+url: /findlay/circle-k/
 shop: convenience
 ---

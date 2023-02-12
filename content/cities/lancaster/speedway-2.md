@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lancaster/speedway-2/
+url: /lancaster/speedway/
 shop: convenience
 ---
