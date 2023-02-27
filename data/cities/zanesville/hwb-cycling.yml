@@ -7,5 +7,5 @@ city: Zanesville
 street: "Maple Avenue"
 housenumber: 2790
 phone: "+1-740-453-5618"
-opening_hours: "Mo-Tu 09:00-17:00, We off, Th 12:30-17:00, Fr 09:00-17:00, Sa-Su off; || 'by appointment'"
+opening_hours: "Mo-Tu 09:00-17:00, We off, Th 12:30-17:00, Fr 09:00-17:00, Sa-Su off || 'by appointment'"
 website: "https://www.hwbcycling.com/"
