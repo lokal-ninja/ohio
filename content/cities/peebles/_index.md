@@ -1,6 +1,6 @@
 ---
 title: Peebles
 url: /peebles/
-latitude: 38.991
-longitude: -83.377
+latitude: 38.94
+longitude: -83.413
 ---
