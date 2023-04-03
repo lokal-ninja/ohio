@@ -1,6 +1,6 @@
 ---
 title: Macedonia
 url: /macedonia/
-latitude: 41.309
-longitude: -81.519
+latitude: 41.313
+longitude: -81.518
 ---
