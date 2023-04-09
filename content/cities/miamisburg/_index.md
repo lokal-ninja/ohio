@@ -1,6 +1,6 @@
 ---
 title: Miamisburg
 url: /miamisburg/
-latitude: 39.597
-longitude: -84.23
+latitude: 39.598
+longitude: -84.231
 ---
