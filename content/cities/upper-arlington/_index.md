@@ -1,6 +1,6 @@
 ---
 title: Upper Arlington
 url: /upper-arlington/
-latitude: 40.058
-longitude: -83.076
+latitude: 40.021
+longitude: -83.059
 ---
