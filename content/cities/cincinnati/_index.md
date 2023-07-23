@@ -1,6 +1,6 @@
 ---
 title: Cincinnati
 url: /cincinnati/
-latitude: 39.209
-longitude: -84.504
+latitude: 39.292
+longitude: -84.3
 ---
