@@ -1,6 +1,6 @@
 ---
 title: St. Marys
 url: /st-marys/
-latitude: 39.414
-longitude: -81.19
+latitude: 40.544
+longitude: -84.387
 ---
