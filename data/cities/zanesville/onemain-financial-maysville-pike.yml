@@ -7,5 +7,5 @@ city: Zanesville
 street: "Maysville Pike"
 housenumber: 2542
 phone: "+1-740-454-7902"
-opening_hours: "Mo 09:00-17:30, Tu 09:00-19:00, We-Fr 09:00-17:30, Sa-Su off"
+opening_hours: "Mo,We,Fr 08:30-17:30; Tu,Th 09:00-17:30; Sa-Su off"
 website: "https://www.onemainfinancial.com/branches/oh/zanesville/43701/670"
