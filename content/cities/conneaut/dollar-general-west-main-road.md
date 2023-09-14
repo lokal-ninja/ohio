@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /conneaut/dollar-general/
+url: /conneaut/dollar-general-west-main-road/
 shop: variety store
 ---

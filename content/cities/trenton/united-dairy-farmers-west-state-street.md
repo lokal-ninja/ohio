@@ -1,5 +1,5 @@
 ---
 title: "United Dairy Farmers"
-url: /trenton/united-dairy-farmers/
+url: /trenton/united-dairy-farmers-west-state-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Blowout Bar"
-url: /columbus/the-blowout-bar/
+url: /columbus/the-blowout-bar-townsfair-way/
 shop: hairdresser
 ---

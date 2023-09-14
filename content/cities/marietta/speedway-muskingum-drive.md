@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /marietta/speedway/
+url: /marietta/speedway-muskingum-drive/
 shop: convenience
 ---

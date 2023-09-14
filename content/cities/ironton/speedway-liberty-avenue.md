@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /ironton/speedway/
+url: /ironton/speedway-liberty-avenue/
 shop: convenience
 ---

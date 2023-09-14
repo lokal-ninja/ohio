@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /columbus/atandt/
+url: /columbus/atandt-morse-crossing/
 shop: mobile phone
 ---

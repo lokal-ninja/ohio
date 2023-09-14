@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /cincinnati/speedway/
+url: /cincinnati/speedway-wooster-pike/
 shop: convenience
 ---

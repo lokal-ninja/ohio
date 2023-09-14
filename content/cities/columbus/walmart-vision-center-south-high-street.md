@@ -1,5 +1,5 @@
 ---
 title: "Walmart Vision Center"
-url: /columbus/walmart-vision-center/
+url: /columbus/walmart-vision-center-south-high-street/
 shop: optician
 ---

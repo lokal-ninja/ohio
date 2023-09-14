@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /brunswick/speedway/
+url: /brunswick/speedway-pearl-road/
 shop: convenience
 ---

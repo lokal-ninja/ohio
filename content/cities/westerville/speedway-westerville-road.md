@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /westerville/speedway/
+url: /westerville/speedway-westerville-road/
 shop: convenience
 ---

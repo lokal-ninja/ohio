@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /zanesville/dollar-general/
+url: /zanesville/dollar-general-maysville-pike/
 shop: variety store
 ---

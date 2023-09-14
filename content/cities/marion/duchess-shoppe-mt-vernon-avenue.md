@@ -1,5 +1,5 @@
 ---
 title: "Duchess Shoppe"
-url: /marion/duchess-shoppe/
+url: /marion/duchess-shoppe-mt-vernon-avenue/
 shop: convenience
 ---

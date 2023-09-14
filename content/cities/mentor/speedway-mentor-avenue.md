@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /mentor/speedway/
+url: /mentor/speedway-mentor-avenue/
 shop: convenience
 ---

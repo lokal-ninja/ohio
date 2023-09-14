@@ -1,5 +1,5 @@
 ---
 title: "Mickey Mart"
-url: /bellville/mickey-mart/
+url: /bellville/mickey-mart-mill-road/
 shop: convenience
 ---

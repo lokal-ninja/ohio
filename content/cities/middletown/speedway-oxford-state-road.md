@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /middletown/speedway/
+url: /middletown/speedway-oxford-state-road/
 shop: convenience
 ---

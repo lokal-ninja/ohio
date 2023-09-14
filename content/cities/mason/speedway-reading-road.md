@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /mason/speedway/
+url: /mason/speedway-reading-road/
 shop: convenience
 ---

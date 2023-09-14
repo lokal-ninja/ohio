@@ -1,5 +1,5 @@
 ---
 title: "Carter Lumber"
-url: /columbus-grove/carter-lumber/
+url: /columbus-grove/carter-lumber-ottawa-road/
 shop: trade
 ---

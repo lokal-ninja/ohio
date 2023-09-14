@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
-url: /columbus/rainbow/
+url: /columbus/rainbow-south-high-street/
 shop: clothes
 ---

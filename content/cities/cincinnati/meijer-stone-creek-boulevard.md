@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /cincinnati/meijer/
+url: /cincinnati/meijer-stone-creek-boulevard/
 shop: supermarket
 ---

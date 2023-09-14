@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /south-euclid/dollar-general/
+url: /south-euclid/dollar-general-south-green-road/
 shop: variety store
 ---

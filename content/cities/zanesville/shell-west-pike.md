@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /zanesville/shell/
+url: /zanesville/shell-west-pike/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /hilliard/speedway/
+url: /hilliard/speedway-walcutt-road/
 shop: convenience
 ---

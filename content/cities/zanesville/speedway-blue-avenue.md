@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /zanesville/speedway/
+url: /zanesville/speedway-blue-avenue/
 shop: convenience
 ---

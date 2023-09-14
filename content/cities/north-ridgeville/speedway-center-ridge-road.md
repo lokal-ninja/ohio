@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /north-ridgeville/speedway/
+url: /north-ridgeville/speedway-center-ridge-road/
 shop: convenience
 ---

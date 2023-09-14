@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /dayton/speedway/
+url: /dayton/speedway-brandt-pike/
 shop: convenience
 ---

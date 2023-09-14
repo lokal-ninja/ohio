@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /lancaster/kroger/
+url: /lancaster/kroger-east-main-street/
 shop: supermarket
 ---

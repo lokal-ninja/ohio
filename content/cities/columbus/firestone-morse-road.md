@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /columbus/firestone/
+url: /columbus/firestone-morse-road/
 shop: car repair
 ---

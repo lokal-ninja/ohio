@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /zanesville/atandt/
+url: /zanesville/atandt-maple-avenue/
 shop: mobile phone
 ---

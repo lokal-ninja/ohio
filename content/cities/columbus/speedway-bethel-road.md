@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /columbus/speedway/
+url: /columbus/speedway-bethel-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /hilliard/speedway/
+url: /hilliard/speedway-cemetery-road/
 shop: convenience
 ---

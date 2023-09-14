@@ -1,5 +1,5 @@
 ---
 title: "Smoker Friendly"
-url: /zanesville/smoker-friendly/
+url: /zanesville/smoker-friendly-maple-avenue/
 shop: tobacco
 ---

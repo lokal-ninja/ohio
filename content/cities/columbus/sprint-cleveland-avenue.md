@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
-url: /columbus/sprint/
+url: /columbus/sprint-cleveland-avenue/
 shop: mobile phone
 ---

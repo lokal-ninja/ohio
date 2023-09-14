@@ -1,5 +1,5 @@
 ---
 title: "Apples"
-url: /lorain/apples/
+url: /lorain/apples-sheffield-center/
 shop: supermarket
 ---

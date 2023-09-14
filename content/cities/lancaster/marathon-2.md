@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /lancaster/marathon/
+url: /lancaster/marathon-2/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roses"
-url: /columbus/roses/
+url: /columbus/roses-east-main-street/
 shop: variety store
 ---

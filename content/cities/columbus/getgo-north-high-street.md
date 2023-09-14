@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
-url: /columbus/getgo/
+url: /columbus/getgo-north-high-street/
 shop: convenience
 ---

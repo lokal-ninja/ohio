@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /columbus/mattress-firm/
+url: /columbus/mattress-firm-morse-crossing/
 shop: bed
 ---

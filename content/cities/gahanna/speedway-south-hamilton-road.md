@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /gahanna/speedway/
+url: /gahanna/speedway-south-hamilton-road/
 shop: convenience
 ---

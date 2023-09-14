@@ -1,5 +1,5 @@
 ---
 title: "Bellstores"
-url: /canton/bellstores/
+url: /canton/bellstores-everhard-road-northwest/
 shop: convenience
 ---

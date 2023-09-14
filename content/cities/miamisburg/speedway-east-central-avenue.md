@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /miamisburg/speedway/
+url: /miamisburg/speedway-east-central-avenue/
 shop: convenience
 ---

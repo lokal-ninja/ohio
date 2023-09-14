@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /mansfield/speedway/
+url: /mansfield/speedway-ashland-road/
 shop: convenience
 ---

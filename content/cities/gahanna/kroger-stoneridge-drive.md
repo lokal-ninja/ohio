@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /gahanna/kroger/
+url: /gahanna/kroger-stoneridge-drive/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conrad's"
-url: /parma/conrads/
+url: /parma/conrads-day-drive/
 shop: tyres
 ---

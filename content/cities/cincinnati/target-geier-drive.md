@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /cincinnati/target/
+url: /cincinnati/target-geier-drive/
 shop: department store
 ---

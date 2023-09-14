@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /mentor/sheetz/
+url: /mentor/sheetz-reynolds-road/
 shop: convenience
 ---

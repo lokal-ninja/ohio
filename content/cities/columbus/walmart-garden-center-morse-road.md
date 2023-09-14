@@ -1,5 +1,5 @@
 ---
 title: "Walmart Garden Center"
-url: /columbus/walmart-garden-center/
+url: /columbus/walmart-garden-center-morse-road/
 shop: garden centre
 ---

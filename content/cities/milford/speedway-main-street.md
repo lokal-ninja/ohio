@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /milford/speedway/
+url: /milford/speedway-main-street/
 shop: convenience
 ---

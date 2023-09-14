@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /brunswick/meijer/
+url: /brunswick/meijer-center-road/
 shop: convenience
 ---

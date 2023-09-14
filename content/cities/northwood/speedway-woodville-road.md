@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /northwood/speedway/
+url: /northwood/speedway-woodville-road/
 shop: convenience
 ---

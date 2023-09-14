@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /toledo/speedway/
+url: /toledo/speedway-west-alexis-road/
 shop: convenience
 ---

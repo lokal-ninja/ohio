@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /cleveland/dollar-general/
+url: /cleveland/dollar-general-bellaire-road/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Duchess"
-url: /zanesville/duchess/
+url: /zanesville/duchess-newark-road/
 shop: convenience
 ---

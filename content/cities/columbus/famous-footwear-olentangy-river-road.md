@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
-url: /columbus/famous-footwear/
+url: /columbus/famous-footwear-olentangy-river-road/
 shop: shoes
 ---

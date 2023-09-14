@@ -1,5 +1,5 @@
 ---
 title: "Dale's"
-url: /athens/dales/
+url: /athens/dales-north-court-street/
 shop: convenience
 ---

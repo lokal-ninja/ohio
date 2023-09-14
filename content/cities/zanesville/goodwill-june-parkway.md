@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /zanesville/goodwill/
+url: /zanesville/goodwill-june-parkway/
 shop: charity
 ---

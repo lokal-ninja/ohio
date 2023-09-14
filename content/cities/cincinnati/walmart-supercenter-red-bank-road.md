@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /cincinnati/walmart-supercenter/
+url: /cincinnati/walmart-supercenter-red-bank-road/
 shop: supermarket
 ---

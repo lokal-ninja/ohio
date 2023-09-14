@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /akron/speedway/
+url: /akron/speedway-darrow-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /columbus/advance-auto-parts/
+url: /columbus/advance-auto-parts-cleveland-avenue/
 shop: car parts
 ---

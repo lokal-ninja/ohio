@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /bolivar/speedway/
+url: /bolivar/speedway-sr-212/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /willoughby/speedway/
+url: /willoughby/speedway-mentor-avenue/
 shop: convenience
 ---

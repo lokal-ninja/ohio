@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /bellefontaine/speedway/
+url: /bellefontaine/speedway-south-main-street/
 shop: convenience
 ---

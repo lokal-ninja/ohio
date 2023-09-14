@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /perrysburg/speedway/
+url: /perrysburg/speedway-sandusky-street/
 shop: convenience
 ---

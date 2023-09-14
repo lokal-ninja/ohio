@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /columbus/sheetz/
+url: /columbus/sheetz-east-dublin-granville-road/
 shop: convenience
 ---

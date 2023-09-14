@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lancaster/speedway/
+url: /lancaster/speedway-forest-rose-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /delaware/speedway/
+url: /delaware/speedway-london-road/
 shop: convenience
 ---

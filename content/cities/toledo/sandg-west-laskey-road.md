@@ -1,5 +1,5 @@
 ---
 title: "S&G"
-url: /toledo/sandg/
+url: /toledo/sandg-west-laskey-road/
 shop: convenience
 ---

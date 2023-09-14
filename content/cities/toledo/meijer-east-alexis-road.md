@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /toledo/meijer/
+url: /toledo/meijer-east-alexis-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /west-chester/speedway/
+url: /west-chester/speedway-tylersville-road/
 shop: convenience
 ---

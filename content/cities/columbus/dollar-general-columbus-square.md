@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /columbus/dollar-general/
+url: /columbus/dollar-general-columbus-square/
 shop: variety store
 ---

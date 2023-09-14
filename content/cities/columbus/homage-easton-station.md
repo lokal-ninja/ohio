@@ -1,5 +1,5 @@
 ---
 title: "Homage"
-url: /columbus/homage/
+url: /columbus/homage-easton-station/
 shop: clothes
 ---

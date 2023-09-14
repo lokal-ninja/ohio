@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /brookville/speedway/
+url: /brookville/speedway-arlington-road/
 shop: convenience
 ---

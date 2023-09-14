@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /parma/verizon/
+url: /parma/verizon-ridge-road/
 shop: mobile phone
 ---

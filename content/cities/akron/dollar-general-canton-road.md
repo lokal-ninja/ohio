@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /akron/dollar-general/
+url: /akron/dollar-general-canton-road/
 shop: variety store
 ---

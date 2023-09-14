@@ -1,5 +1,5 @@
 ---
 title: "TrueNorth"
-url: /columbus/truenorth/
+url: /columbus/truenorth-morse-road/
 shop: convenience
 ---

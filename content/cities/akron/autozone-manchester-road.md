@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /akron/autozone/
+url: /akron/autozone-manchester-road/
 shop: car parts
 ---

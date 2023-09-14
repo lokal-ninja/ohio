@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /columbus/lowes/
+url: /columbus/lowes-silver-drive/
 shop: hardware
 ---

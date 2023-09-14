@@ -1,5 +1,5 @@
 ---
 title: "Van Devere Buick"
-url: /akron/van-devere-buick/
+url: /akron/van-devere-buick-west-market-street/
 shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /findlay/walmart-supercenter/
+url: /findlay/walmart-supercenter-tiffin-avenue/
 shop: supermarket
 ---

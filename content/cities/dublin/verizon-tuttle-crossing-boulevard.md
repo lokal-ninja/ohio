@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /dublin/verizon/
+url: /dublin/verizon-tuttle-crossing-boulevard/
 shop: mobile phone
 ---

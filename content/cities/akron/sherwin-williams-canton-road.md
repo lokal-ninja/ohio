@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
-url: /akron/sherwin-williams/
+url: /akron/sherwin-williams-canton-road/
 shop: paint
 ---

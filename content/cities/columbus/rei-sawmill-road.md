@@ -1,5 +1,5 @@
 ---
 title: "REI"
-url: /columbus/rei/
+url: /columbus/rei-sawmill-road/
 shop: outdoor
 ---

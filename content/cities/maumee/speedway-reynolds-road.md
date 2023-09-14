@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /maumee/speedway/
+url: /maumee/speedway-reynolds-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Save-A-Lot"
-url: /columbus/save-a-lot/
+url: /columbus/save-a-lot-harrisburg-pike/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /findlay/speedway/
+url: /findlay/speedway-speedway-drive/
 shop: convenience
 ---

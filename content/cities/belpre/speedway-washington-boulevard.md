@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /belpre/speedway/
+url: /belpre/speedway-washington-boulevard/
 shop: convenience
 ---

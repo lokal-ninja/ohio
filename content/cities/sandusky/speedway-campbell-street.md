@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /sandusky/speedway/
+url: /sandusky/speedway-campbell-street/
 shop: convenience
 ---

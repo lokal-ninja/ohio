@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /columbus/target/
+url: /columbus/target-graceland-boulevard/
 shop: department store
 ---

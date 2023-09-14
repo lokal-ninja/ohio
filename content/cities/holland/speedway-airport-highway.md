@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /holland/speedway/
+url: /holland/speedway-airport-highway/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /cincinnati/kroger/
+url: /cincinnati/kroger-west-corry-street/
 shop: supermarket
 ---

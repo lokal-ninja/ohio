@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /cleveland/speedway/
+url: /cleveland/speedway-broadview-road/
 shop: convenience
 ---

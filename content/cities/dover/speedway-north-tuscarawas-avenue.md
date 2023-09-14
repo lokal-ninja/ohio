@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /dover/speedway/
+url: /dover/speedway-north-tuscarawas-avenue/
 shop: convenience
 ---

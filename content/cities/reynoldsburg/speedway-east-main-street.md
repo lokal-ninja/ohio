@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /reynoldsburg/speedway/
+url: /reynoldsburg/speedway-east-main-street/
 shop: convenience
 ---

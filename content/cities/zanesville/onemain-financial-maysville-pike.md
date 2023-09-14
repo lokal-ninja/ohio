@@ -1,5 +1,5 @@
 ---
 title: "OneMain Financial"
-url: /zanesville/onemain-financial/
+url: /zanesville/onemain-financial-maysville-pike/
 shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
-url: /columbus/costco/
+url: /columbus/costco-gemini-place/
 shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /columbus/autozone/
+url: /columbus/autozone-cleveland-avenue/
 shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /middletown/speedway/
+url: /middletown/speedway-roosevelt-boulevard-2/
 shop: convenience
 ---

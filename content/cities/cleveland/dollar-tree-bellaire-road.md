@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /cleveland/dollar-tree/
+url: /cleveland/dollar-tree-bellaire-road/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /canton/speedway/
+url: /canton/speedway-fulton-drive-northwest/
 shop: convenience
 ---

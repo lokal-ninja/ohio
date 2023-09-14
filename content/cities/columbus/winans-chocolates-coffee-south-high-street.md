@@ -1,5 +1,5 @@
 ---
 title: "Winans Chocolates + Coffee"
-url: /columbus/winans-chocolates-coffee/
+url: /columbus/winans-chocolates-coffee-south-high-street/
 shop: chocolate
 ---

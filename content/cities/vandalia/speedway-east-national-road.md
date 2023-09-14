@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /vandalia/speedway/
+url: /vandalia/speedway-east-national-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
-url: /columbus/dsw/
+url: /columbus/dsw-polaris-parkway/
 shop: shoes
 ---

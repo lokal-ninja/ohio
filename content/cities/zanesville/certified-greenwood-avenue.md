@@ -1,5 +1,5 @@
 ---
 title: "Certified"
-url: /zanesville/certified/
+url: /zanesville/certified-greenwood-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /youngstown/speedway/
+url: /youngstown/speedway-belmont-avenue/
 shop: convenience
 ---

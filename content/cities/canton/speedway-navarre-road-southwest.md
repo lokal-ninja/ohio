@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /canton/speedway/
+url: /canton/speedway-navarre-road-southwest/
 shop: convenience
 ---

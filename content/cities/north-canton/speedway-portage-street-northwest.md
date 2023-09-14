@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /north-canton/speedway/
+url: /north-canton/speedway-portage-street-northwest/
 shop: convenience
 ---
