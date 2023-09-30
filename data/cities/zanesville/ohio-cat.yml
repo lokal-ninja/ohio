@@ -7,5 +7,5 @@ city: Zanesville
 street: "East Pike"
 housenumber: 3415
 phone: "+1-740-453-0563;+1-740-455-8400 Rental Store"
-opening_hours: "Mo-Su 07:00-17:00 Service; Mo-Su 08:00-17:00 Sales Office; || Mo 07:00-19:30, Tu-Fr"
+opening_hours: "Mo-Su 07:00-17:00 Service; Mo-Su 08:00-17:00 Sales Office || Mo 07:00-19:30, Tu-Fr"
 website: "https://www.ohiocat.com/company/locations/zanesville-oh/"
