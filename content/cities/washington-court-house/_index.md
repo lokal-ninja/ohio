@@ -1,6 +1,6 @@
 ---
 title: Washington Court House
 url: /washington-court-house/
-latitude: 39.536
-longitude: -83.438
+latitude: 39.55
+longitude: -83.424
 ---
