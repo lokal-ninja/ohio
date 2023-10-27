@@ -1,6 +1,6 @@
 ---
 title: Mount Gilead
 url: /mount-gilead/
-latitude: 40.548
-longitude: -82.829
+latitude: 40.549
+longitude: -82.83
 ---
