@@ -1,6 +1,6 @@
 ---
 title: Pickerington
 url: /pickerington/
-latitude: 39.917
-longitude: -82.783
+latitude: 39.911
+longitude: -82.78
 ---
