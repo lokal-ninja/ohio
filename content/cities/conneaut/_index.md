@@ -1,6 +1,6 @@
 ---
 title: Conneaut
 url: /conneaut/
-latitude: 41.922
-longitude: -80.571
+latitude: 41.934
+longitude: -80.604
 ---
