@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /grove-city/speedway-broadway-2/
+url: /grove-city/speedway-stringtown-road/
 shop: convenience
 ---

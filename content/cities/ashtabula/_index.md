@@ -1,6 +1,6 @@
 ---
 title: Ashtabula
 url: /ashtabula/
-latitude: 41.883
-longitude: -80.75
+latitude: 41.878
+longitude: -80.759
 ---

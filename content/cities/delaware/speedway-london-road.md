@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /hamilton/speedway-eaton-avenue/
+url: /delaware/speedway-london-road/
 shop: convenience
 ---
