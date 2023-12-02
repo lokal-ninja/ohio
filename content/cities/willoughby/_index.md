@@ -1,6 +1,6 @@
 ---
 title: Willoughby
 url: /willoughby/
-latitude: 41.638
-longitude: -81.371
+latitude: 41.607
+longitude: -81.442
 ---
