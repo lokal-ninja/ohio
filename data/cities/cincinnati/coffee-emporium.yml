@@ -7,5 +7,5 @@ city: Cincinnati
 street: "Erie Avenue"
 housenumber: 3316
 phone: "+1-513-321-5943"
-opening_hours: "Mo-Fr 06:00-20:00; Sa-Su 06:00-20:00"
+opening_hours: "Mo-Fr 06:00-16:00; Sa,Su 07:00-16:00"
 website: "https://www.coffee-emporium.com/"
