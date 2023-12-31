@@ -7,5 +7,5 @@ city: Zanesville
 street: "Harding Road"
 housenumber: 579
 phone: "+1-740-297-8813"
-opening_hours: "Tu-Fr 13:00-20:00, Sa 11:00-20:00, Su-Mo off"
+opening_hours: "Tu-Th,Su 11:00-20:00, Fr-Sa 11:00-21:00, Mo off"
 website: "https://gundamden.com/"
