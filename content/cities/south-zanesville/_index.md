@@ -1,6 +1,6 @@
 ---
 title: South Zanesville
 url: /south-zanesville/
-latitude: 39.902
-longitude: -82.021
+latitude: 39.906
+longitude: -82.019
 ---
