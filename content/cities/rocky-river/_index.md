@@ -1,6 +1,6 @@
 ---
 title: Rocky River
 url: /rocky-river/
-latitude: 41.46
-longitude: -81.859
+latitude: 41.479
+longitude: -81.84
 ---

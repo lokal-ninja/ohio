@@ -1,6 +1,6 @@
 ---
 title: Circleville
 url: /circleville/
-latitude: 39.582
-longitude: -82.948
+latitude: 39.589
+longitude: -82.956
 ---

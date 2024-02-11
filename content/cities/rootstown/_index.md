@@ -1,6 +1,6 @@
 ---
 title: Rootstown
 url: /rootstown/
-latitude: 41.107
-longitude: -81.243
+latitude: 41.105
+longitude: -81.241
 ---

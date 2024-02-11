@@ -1,6 +1,6 @@
 ---
 title: Springboro
 url: /springboro/
-latitude: 39.56
-longitude: -84.241
+latitude: 39.561
+longitude: -84.258
 ---
