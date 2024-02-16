@@ -1,6 +1,6 @@
 ---
 title: Minford
 url: /minford/
-latitude: 38.853
-longitude: -82.857
+latitude: 38.852
+longitude: -82.855
 ---
