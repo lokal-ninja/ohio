@@ -1,6 +1,6 @@
 ---
 title: Wheeling
 url: /wheeling/
-latitude: 40.061
-longitude: -80.724
+latitude: 40.114
+longitude: -80.7
 ---
