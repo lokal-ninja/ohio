@@ -1,6 +1,6 @@
 ---
 title: Baltimore
 url: /baltimore/
-latitude: 39.846
-longitude: -82.616
+latitude: 39.844
+longitude: -82.602
 ---
