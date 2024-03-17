@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /mentor/ntb/
-shop: tyres
+shop: car repair
 ---
