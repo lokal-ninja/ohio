@@ -1,6 +1,6 @@
 ---
 title: Gallipolis
 url: /gallipolis/
-latitude: 38.842
-longitude: -82.256
+latitude: 38.845
+longitude: -82.147
 ---
