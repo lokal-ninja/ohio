@@ -1,6 +1,6 @@
 ---
 title: Day Heights
 url: /day-heights/
-latitude: 39.175
-longitude: -84.236
+latitude: 39.177
+longitude: -84.222
 ---
