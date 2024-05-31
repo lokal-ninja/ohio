@@ -1,5 +1,5 @@
 ---
 title: "Coins"
 url: /boardman/coins/
-shop: collector
+shop: pawnbroker
 ---
