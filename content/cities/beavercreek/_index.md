@@ -1,6 +1,6 @@
 ---
 title: Beavercreek
 url: /beavercreek/
-latitude: 39.724
-longitude: -84.058
+latitude: 39.771
+longitude: -84.047
 ---
