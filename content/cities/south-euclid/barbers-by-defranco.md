@@ -1,5 +1,5 @@
 ---
-title: "Barbers by De'franco"
+title: "Barbers By De'franco"
 url: /south-euclid/barbers-by-defranco/
 shop: hairdresser
 ---
