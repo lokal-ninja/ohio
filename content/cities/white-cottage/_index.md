@@ -1,6 +1,6 @@
 ---
 title: White Cottage
 url: /white-cottage/
-latitude: 39.87
-longitude: -82.1
+latitude: 39.878
+longitude: -82.091
 ---
