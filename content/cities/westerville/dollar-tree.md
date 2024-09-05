@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /westerville/dollar-tree/
-shop: variety store
+shop: Kramladen
 ---

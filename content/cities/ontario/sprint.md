@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /ontario/sprint/
-shop: mobile phone
+shop: Handy
 ---

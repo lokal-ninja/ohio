@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /chardon/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

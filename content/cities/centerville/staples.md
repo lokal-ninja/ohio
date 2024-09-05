@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /centerville/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

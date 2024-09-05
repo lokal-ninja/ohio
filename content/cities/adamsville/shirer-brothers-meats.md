@@ -1,5 +1,5 @@
 ---
 title: "Shirer Brothers Meats"
 url: /adamsville/shirer-brothers-meats/
-shop: butcher
+shop: Metzgerei
 ---

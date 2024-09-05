@@ -1,5 +1,5 @@
 ---
 title: "Jones House of Beauty"
 url: /cleveland/jones-house-of-beauty/
-shop: hairdresser
+shop: Friseur
 ---

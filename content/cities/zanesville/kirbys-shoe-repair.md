@@ -1,5 +1,5 @@
 ---
 title: "Kirby's Shoe Repair"
 url: /zanesville/kirbys-shoe-repair/
-shop: shoes
+shop: Schuhe
 ---

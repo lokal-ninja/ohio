@@ -1,5 +1,5 @@
 ---
 title: "Vandervort"
 url: /portsmouth/vandervort/
-shop: hardware
+shop: Eisenwaren
 ---

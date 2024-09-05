@@ -1,5 +1,5 @@
 ---
 title: "Coen"
 url: /brilliant/coen/
-shop: convenience
+shop: Lebensmittel
 ---

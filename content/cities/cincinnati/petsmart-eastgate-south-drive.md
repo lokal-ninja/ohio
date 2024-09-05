@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /cincinnati/petsmart-eastgate-south-drive/
-shop: pet
+shop: Tiere
 ---

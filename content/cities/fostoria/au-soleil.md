@@ -1,5 +1,5 @@
 ---
 title: "Au Soleil"
 url: /fostoria/au-soleil/
-shop: beauty
+shop: Kosmetik
 ---

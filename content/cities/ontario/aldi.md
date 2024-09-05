@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ontario/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

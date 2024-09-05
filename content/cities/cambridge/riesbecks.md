@@ -1,5 +1,5 @@
 ---
 title: "Riesbeck's"
 url: /cambridge/riesbecks/
-shop: supermarket
+shop: Supermarkt
 ---

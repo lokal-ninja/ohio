@@ -1,5 +1,5 @@
 ---
 title: "Duchess"
 url: /nashport/duchess/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paper City Coffee"
 url: /chillicothe/paper-city-coffee/
-shop: coffee
+shop: Kaffee
 ---

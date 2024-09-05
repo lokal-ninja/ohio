@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /cuyahoga-falls/skechers/
-shop: shoes
+shop: Schuhe
 ---

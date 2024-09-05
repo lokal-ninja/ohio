@@ -1,5 +1,5 @@
 ---
 title: "Vivian Kate"
 url: /perrysburg/vivian-kate/
-shop: clothes
+shop: Kleidung
 ---

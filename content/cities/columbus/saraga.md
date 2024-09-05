@@ -1,5 +1,5 @@
 ---
 title: "Saraga"
 url: /columbus/saraga/
-shop: supermarket
+shop: Supermarkt
 ---

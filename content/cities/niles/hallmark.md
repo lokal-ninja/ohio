@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /niles/hallmark/
-shop: gift
+shop: Andenken
 ---

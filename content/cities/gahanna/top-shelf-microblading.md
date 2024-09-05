@@ -1,5 +1,5 @@
 ---
 title: "Top Shelf Microblading"
 url: /gahanna/top-shelf-microblading/
-shop: tattoo
+shop: Tattoo
 ---

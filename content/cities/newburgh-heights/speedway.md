@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /newburgh-heights/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Homage"
 url: /westlake/homage/
-shop: clothes
+shop: Kleidung
 ---

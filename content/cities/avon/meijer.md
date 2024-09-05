@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /avon/meijer/
-shop: convenience
+shop: Lebensmittel
 ---

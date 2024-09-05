@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /pickerington/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

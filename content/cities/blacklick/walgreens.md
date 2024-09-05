@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /blacklick/walgreens/
-shop: chemist
+shop: Drogerie
 ---

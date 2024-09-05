@@ -1,5 +1,5 @@
 ---
 title: "NLounge"
 url: /columbus/nlounge/
-shop: beauty
+shop: Kosmetik
 ---

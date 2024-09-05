@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /chardon/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

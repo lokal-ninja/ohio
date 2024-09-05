@@ -1,5 +1,5 @@
 ---
 title: "Game Zone"
 url: /ontario/game-zone/
-shop: toys
+shop: Spielzeug
 ---

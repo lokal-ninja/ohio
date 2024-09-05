@@ -1,5 +1,5 @@
 ---
 title: "Blake Pharmacy"
 url: /west-union/blake-pharmacy/
-shop: chemist
+shop: Drogerie
 ---

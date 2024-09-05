@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /fairview-park/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /chillicothe/menards/
-shop: doityourself
+shop: Baumarkt
 ---

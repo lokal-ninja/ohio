@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /mentor/rebel/
-shop: convenience
+shop: Lebensmittel
 ---

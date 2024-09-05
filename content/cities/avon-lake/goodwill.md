@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /avon-lake/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

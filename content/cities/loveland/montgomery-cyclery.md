@@ -1,5 +1,5 @@
 ---
 title: "Montgomery Cyclery"
 url: /loveland/montgomery-cyclery/
-shop: bicycle
+shop: Fahrrad
 ---

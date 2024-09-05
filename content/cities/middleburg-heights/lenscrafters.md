@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /middleburg-heights/lenscrafters/
-shop: optician
+shop: Optiker
 ---

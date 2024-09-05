@@ -1,5 +1,5 @@
 ---
 title: "Duchess"
 url: /zanesville/duchess-pleasant-grove-road/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /kent/sheetz-north-mantua-street/
-shop: convenience
+shop: Lebensmittel
 ---

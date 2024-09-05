@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /broadview-heights/giant-eagle/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electronic Surplus"
 url: /mentor/electronic-surplus/
-shop: electronics
+shop: Elektronik
 ---

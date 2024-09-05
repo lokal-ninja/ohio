@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /rocky-river/ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BMW Cleveland"
 url: /solon/bmw-cleveland/
-shop: car
+shop: Autohaus
 ---

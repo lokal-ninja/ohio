@@ -1,5 +1,5 @@
 ---
 title: "truenorth"
 url: /elyria/truenorth/
-shop: convenience
+shop: Lebensmittel
 ---

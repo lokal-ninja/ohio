@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /chillicothe/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

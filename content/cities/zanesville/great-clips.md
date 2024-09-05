@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /zanesville/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

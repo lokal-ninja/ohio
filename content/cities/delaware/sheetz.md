@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /delaware/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

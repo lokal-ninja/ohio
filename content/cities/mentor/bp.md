@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /mentor/bp/
-shop: kiosk
+shop: Kiosk
 ---

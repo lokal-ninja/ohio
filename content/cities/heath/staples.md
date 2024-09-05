@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /heath/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

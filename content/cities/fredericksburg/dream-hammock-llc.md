@@ -1,5 +1,5 @@
 ---
 title: "Dream Hammock LLC"
 url: /fredericksburg/dream-hammock-llc/
-shop: outdoor
+shop: Outdoor
 ---

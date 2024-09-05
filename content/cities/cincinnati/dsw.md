@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /cincinnati/dsw/
-shop: shoes
+shop: Schuhe
 ---

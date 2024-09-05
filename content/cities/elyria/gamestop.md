@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /elyria/gamestop/
-shop: video games
+shop: Videospiele
 ---

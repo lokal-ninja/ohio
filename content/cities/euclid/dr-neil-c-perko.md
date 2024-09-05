@@ -1,5 +1,5 @@
 ---
 title: "Dr. Neil C. Perko"
 url: /euclid/dr-neil-c-perko/
-shop: optician
+shop: Optiker
 ---

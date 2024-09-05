@@ -1,5 +1,5 @@
 ---
 title: "TNT Tanning"
 url: /wickliffe/tnt-tanning/
-shop: beauty
+shop: Kosmetik
 ---

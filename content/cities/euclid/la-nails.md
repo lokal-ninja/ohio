@@ -1,5 +1,5 @@
 ---
 title: "LA Nails"
 url: /euclid/la-nails/
-shop: beauty
+shop: Kosmetik
 ---

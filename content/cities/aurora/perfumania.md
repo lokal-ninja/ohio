@@ -1,5 +1,5 @@
 ---
 title: "Perfumania"
 url: /aurora/perfumania/
-shop: perfumery
+shop: Parfümerie
 ---

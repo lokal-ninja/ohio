@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /lancaster/shell-north-columbus-street/
-shop: convenience
+shop: Lebensmittel
 ---

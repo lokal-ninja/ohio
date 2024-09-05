@@ -1,5 +1,5 @@
 ---
 title: "CheckSmart"
 url: /zanesville/checksmart/
-shop: pawnbroker
+shop: Leiher
 ---

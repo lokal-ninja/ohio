@@ -1,5 +1,5 @@
 ---
 title: "Sky Nails"
 url: /wickliffe/sky-nails/
-shop: beauty
+shop: Kosmetik
 ---

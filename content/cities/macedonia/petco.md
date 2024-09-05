@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /macedonia/petco/
-shop: pet
+shop: Tiere
 ---

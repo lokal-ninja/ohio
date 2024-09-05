@@ -1,5 +1,5 @@
 ---
 title: "Elite Cryo"
 url: /strongsville/elite-cryo/
-shop: hairdresser
+shop: Friseur
 ---

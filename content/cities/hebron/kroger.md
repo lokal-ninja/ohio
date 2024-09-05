@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /hebron/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Painesville
 url: /painesville/
-latitude: 41.705
-longitude: -81.268
+latitude: 41.706
+longitude: -81.266
 ---

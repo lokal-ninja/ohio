@@ -1,5 +1,5 @@
 ---
 title: "Spavia"
 url: /strongsville/spavia/
-shop: beauty
+shop: Kosmetik
 ---

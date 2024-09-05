@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /avon/petsmart/
-shop: pet
+shop: Tiere
 ---

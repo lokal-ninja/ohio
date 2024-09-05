@@ -1,5 +1,5 @@
 ---
 title: "Lendmark"
 url: /sheffield/lendmark/
-shop: pawnbroker
+shop: Leiher
 ---

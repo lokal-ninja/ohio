@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /sandusky/michaels/
-shop: craft
+shop: Basteln
 ---

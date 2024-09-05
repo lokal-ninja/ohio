@@ -1,5 +1,5 @@
 ---
 title: "Bike Hub"
 url: /celina/bike-hub/
-shop: bicycle
+shop: Fahrrad
 ---

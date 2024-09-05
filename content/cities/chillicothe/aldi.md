@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /chillicothe/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

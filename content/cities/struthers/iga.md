@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /struthers/iga/
-shop: supermarket
+shop: Supermarkt
 ---

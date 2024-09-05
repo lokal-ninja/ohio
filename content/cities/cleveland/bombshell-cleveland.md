@@ -1,5 +1,5 @@
 ---
 title: "Bombshell Cleveland"
 url: /cleveland/bombshell-cleveland/
-shop: hairdresser
+shop: Friseur
 ---

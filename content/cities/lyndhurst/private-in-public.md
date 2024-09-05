@@ -1,5 +1,5 @@
 ---
 title: "Private In Public"
 url: /lyndhurst/private-in-public/
-shop: clothes
+shop: Kleidung
 ---

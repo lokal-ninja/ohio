@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /celina/gamestop/
-shop: video games
+shop: Videospiele
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /cincinnati/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /akron/carmax/
-shop: car
+shop: Autohaus
 ---

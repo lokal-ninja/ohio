@@ -1,5 +1,5 @@
 ---
 title: "Morganoil"
 url: /struthers/morganoil/
-shop: convenience
+shop: Lebensmittel
 ---

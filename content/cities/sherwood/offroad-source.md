@@ -1,5 +1,5 @@
 ---
 title: "Offroad Source"
 url: /sherwood/offroad-source/
-shop: shop
+shop: Allgemein
 ---

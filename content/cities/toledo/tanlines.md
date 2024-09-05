@@ -1,5 +1,5 @@
 ---
 title: "Tanlines"
 url: /toledo/tanlines/
-shop: beauty
+shop: Kosmetik
 ---

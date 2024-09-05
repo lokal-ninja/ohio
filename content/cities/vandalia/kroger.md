@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /vandalia/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

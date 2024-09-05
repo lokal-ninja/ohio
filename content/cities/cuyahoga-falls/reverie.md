@@ -1,5 +1,5 @@
 ---
 title: "Reverie"
 url: /cuyahoga-falls/reverie/
-shop: gift
+shop: Andenken
 ---

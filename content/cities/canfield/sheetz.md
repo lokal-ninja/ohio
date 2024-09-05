@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /canfield/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

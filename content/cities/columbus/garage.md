@@ -1,5 +1,5 @@
 ---
 title: "Garage"
 url: /columbus/garage/
-shop: clothes
+shop: Kleidung
 ---

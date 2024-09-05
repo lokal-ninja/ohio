@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /tiffin/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

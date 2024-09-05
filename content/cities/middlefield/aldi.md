@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /middlefield/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Home Road Sunoco"
 url: /springfield/home-road-sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

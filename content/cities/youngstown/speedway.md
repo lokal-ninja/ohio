@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /youngstown/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

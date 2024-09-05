@@ -1,5 +1,5 @@
 ---
 title: "Mario's Barber Shop"
 url: /parma/marios-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

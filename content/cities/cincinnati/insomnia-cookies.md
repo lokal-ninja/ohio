@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /cincinnati/insomnia-cookies/
-shop: pastry
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Body Revolution"
 url: /willowick/body-revolution/
-shop: tattoo
+shop: Tattoo
 ---

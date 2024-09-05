@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /columbus/loccitane/
-shop: beauty
+shop: Kosmetik
 ---

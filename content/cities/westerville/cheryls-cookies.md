@@ -1,5 +1,5 @@
 ---
 title: "Cheryl's cookies"
 url: /westerville/cheryls-cookies/
-shop: bakery
+shop: Bäckerei
 ---

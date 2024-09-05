@@ -1,5 +1,5 @@
 ---
 title: "Stark Computer Exchange"
 url: /canton/stark-computer-exchange/
-shop: computer
+shop: Computer
 ---

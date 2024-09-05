@@ -1,5 +1,5 @@
 ---
 title: "Sunglass Hut"
 url: /aurora/sunglass-hut/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /middletown/speedway-roosevelt-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

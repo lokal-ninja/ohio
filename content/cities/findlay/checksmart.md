@@ -1,5 +1,5 @@
 ---
 title: "CheckSmart"
 url: /findlay/checksmart/
-shop: pawnbroker
+shop: Leiher
 ---

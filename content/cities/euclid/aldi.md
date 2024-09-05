@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /euclid/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

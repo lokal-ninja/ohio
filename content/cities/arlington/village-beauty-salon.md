@@ -1,5 +1,5 @@
 ---
 title: "Village Beauty Salon"
 url: /arlington/village-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

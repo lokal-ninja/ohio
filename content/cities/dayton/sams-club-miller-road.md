@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /dayton/sams-club-miller-road/
-shop: wholesale
+shop: Großhandel
 ---

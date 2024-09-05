@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /steubenville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

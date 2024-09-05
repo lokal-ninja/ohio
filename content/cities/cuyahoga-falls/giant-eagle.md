@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /cuyahoga-falls/giant-eagle/
-shop: supermarket
+shop: Supermarkt
 ---

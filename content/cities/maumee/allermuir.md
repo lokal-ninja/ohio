@@ -1,5 +1,5 @@
 ---
 title: "Allermuir"
 url: /maumee/allermuir/
-shop: furniture
+shop: Möbel
 ---

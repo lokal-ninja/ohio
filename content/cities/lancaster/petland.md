@@ -1,5 +1,5 @@
 ---
 title: "Petland"
 url: /lancaster/petland/
-shop: pet
+shop: Tiere
 ---

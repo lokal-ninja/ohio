@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /mayfield-heights/petsmart/
-shop: pet
+shop: Tiere
 ---

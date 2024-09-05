@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /cincinnati/sams-club-north-bend-road/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /lorain/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

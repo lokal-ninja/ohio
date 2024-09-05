@@ -1,5 +1,5 @@
 ---
 title: "Fairlawn"
 url: /akron/fairlawn/
-shop: convenience
+shop: Lebensmittel
 ---

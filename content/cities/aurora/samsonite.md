@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /aurora/samsonite/
-shop: bag
+shop: Taschen & Koffer
 ---

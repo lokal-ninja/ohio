@@ -1,5 +1,5 @@
 ---
 title: "VGMX"
 url: /columbus/vgmx/
-shop: games
+shop: Spiele
 ---

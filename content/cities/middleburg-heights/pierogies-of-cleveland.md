@@ -1,5 +1,5 @@
 ---
 title: "Pierogies of Cleveland"
 url: /middleburg-heights/pierogies-of-cleveland/
-shop: bakery
+shop: Bäckerei
 ---

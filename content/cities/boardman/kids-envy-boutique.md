@@ -1,5 +1,5 @@
 ---
 title: "Kid's Envy Boutique"
 url: /boardman/kids-envy-boutique/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ET Mailbox"
 url: /miamiville/et-mailbox/
-shop: trade
+shop: Baustoffe
 ---

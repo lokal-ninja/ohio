@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bellefontaine/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

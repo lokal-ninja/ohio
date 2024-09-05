@@ -1,5 +1,5 @@
 ---
 title: "Grand Nails"
 url: /akron/grand-nails/
-shop: beauty
+shop: Kosmetik
 ---

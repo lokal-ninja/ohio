@@ -1,5 +1,5 @@
 ---
 title: "Cashland"
 url: /ashtabula/cashland/
-shop: pawnbroker
+shop: Leiher
 ---

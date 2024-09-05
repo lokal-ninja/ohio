@@ -1,5 +1,5 @@
 ---
 title: "HobbyTown"
 url: /reynoldsburg/hobbytown/
-shop: model
+shop: Modellbau
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ruark and Sons Automotive"
 url: /sunbury/ruark-and-sons-automotive/
-shop: car repair
+shop: Autowerkstatt
 ---

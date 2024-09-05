@@ -1,5 +1,5 @@
 ---
 title: "BikeWise"
 url: /oxford/bikewise/
-shop: bicycle
+shop: Fahrrad
 ---

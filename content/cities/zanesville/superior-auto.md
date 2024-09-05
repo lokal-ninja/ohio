@@ -1,5 +1,5 @@
 ---
 title: "Superior Auto"
 url: /zanesville/superior-auto/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /dublin/jared/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Market at Kreischer"
 url: /bowling-green/market-at-kreischer/
-shop: supermarket
+shop: Supermarkt
 ---

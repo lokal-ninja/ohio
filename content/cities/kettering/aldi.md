@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /kettering/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

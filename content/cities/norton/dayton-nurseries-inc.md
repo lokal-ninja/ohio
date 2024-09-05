@@ -1,5 +1,5 @@
 ---
 title: "Dayton Nurseries, Inc"
 url: /norton/dayton-nurseries-inc/
-shop: garden centre
+shop: Garten-Center
 ---

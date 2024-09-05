@@ -1,5 +1,5 @@
 ---
 title: "The Cold Spot"
 url: /beavercreek/the-cold-spot/
-shop: alcohol
+shop: Spirituosen
 ---

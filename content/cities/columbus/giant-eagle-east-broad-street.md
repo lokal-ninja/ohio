@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /columbus/giant-eagle-east-broad-street/
-shop: supermarket
+shop: Supermarkt
 ---

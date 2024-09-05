@@ -1,5 +1,5 @@
 ---
 title: "PetPeople"
 url: /strongsville/petpeople/
-shop: pet
+shop: Tiere
 ---

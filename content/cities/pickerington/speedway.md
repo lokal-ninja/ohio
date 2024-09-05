@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /pickerington/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

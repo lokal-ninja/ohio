@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /tipp-city/menards/
-shop: doityourself
+shop: Baumarkt
 ---

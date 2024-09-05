@@ -1,5 +1,5 @@
 ---
 title: "FixAPhone"
 url: /ontario/fixaphone/
-shop: shop
+shop: Allgemein
 ---

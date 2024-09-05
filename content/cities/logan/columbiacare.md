@@ -1,5 +1,5 @@
 ---
 title: "ColumbiaCare"
 url: /logan/columbiacare/
-shop: cannabis
+shop: Hanf
 ---

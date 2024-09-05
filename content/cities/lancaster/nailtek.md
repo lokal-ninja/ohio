@@ -1,5 +1,5 @@
 ---
 title: "Nailtek"
 url: /lancaster/nailtek/
-shop: beauty
+shop: Kosmetik
 ---

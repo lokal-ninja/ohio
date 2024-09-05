@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /lorain/sherwin-williams/
-shop: paint
+shop: Farben
 ---

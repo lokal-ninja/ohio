@@ -1,5 +1,5 @@
 ---
 title: "Kenworth of Columbus"
 url: /hilliard/kenworth-of-columbus/
-shop: car
+shop: Autohaus
 ---

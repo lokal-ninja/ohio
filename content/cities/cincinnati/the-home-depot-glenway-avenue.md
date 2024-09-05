@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /cincinnati/the-home-depot-glenway-avenue/
-shop: doityourself
+shop: Baumarkt
 ---

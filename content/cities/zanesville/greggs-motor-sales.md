@@ -1,5 +1,5 @@
 ---
 title: "Gregg's Motor Sales"
 url: /zanesville/greggs-motor-sales/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wickliffe Mini Market"
 url: /wickliffe/wickliffe-mini-market/
-shop: convenience
+shop: Lebensmittel
 ---

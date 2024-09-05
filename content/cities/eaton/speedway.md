@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /eaton/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

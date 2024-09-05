@@ -1,5 +1,5 @@
 ---
 title: "Marc's"
 url: /canton/marcs/
-shop: supermarket
+shop: Supermarkt
 ---

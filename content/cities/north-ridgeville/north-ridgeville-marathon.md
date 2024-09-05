@@ -1,5 +1,5 @@
 ---
 title: "North Ridgeville Marathon"
 url: /north-ridgeville/north-ridgeville-marathon/
-shop: convenience
+shop: Lebensmittel
 ---

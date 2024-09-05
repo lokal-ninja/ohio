@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /oxford/walgreens/
-shop: chemist
+shop: Drogerie
 ---

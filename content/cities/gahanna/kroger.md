@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /gahanna/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

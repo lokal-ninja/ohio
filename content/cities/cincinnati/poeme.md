@@ -1,5 +1,5 @@
 ---
 title: "Poême"
 url: /cincinnati/poeme/
-shop: office supplies
+shop: Schreibwaren
 ---

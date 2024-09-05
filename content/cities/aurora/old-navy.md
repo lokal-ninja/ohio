@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /aurora/old-navy/
-shop: clothes
+shop: Kleidung
 ---

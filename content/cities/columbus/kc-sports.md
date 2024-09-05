@@ -1,5 +1,5 @@
 ---
 title: "KC Sports"
 url: /columbus/kc-sports/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shook Auto"
 url: /new-philadelphia/shook-auto/
-shop: car
+shop: Autohaus
 ---

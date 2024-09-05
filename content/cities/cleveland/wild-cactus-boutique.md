@@ -1,5 +1,5 @@
 ---
 title: "Wild Cactus Boutique"
 url: /cleveland/wild-cactus-boutique/
-shop: clothes
+shop: Kleidung
 ---

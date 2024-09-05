@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bethel/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

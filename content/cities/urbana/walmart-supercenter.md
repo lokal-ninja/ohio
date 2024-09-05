@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /urbana/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

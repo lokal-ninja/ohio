@@ -1,5 +1,5 @@
 ---
 title: "R Tech Electronics"
 url: /lancaster/r-tech-electronics/
-shop: electronics
+shop: Elektronik
 ---

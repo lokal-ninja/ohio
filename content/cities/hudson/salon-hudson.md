@@ -1,5 +1,5 @@
 ---
 title: "Salon Hudson"
 url: /hudson/salon-hudson/
-shop: beauty
+shop: Kosmetik
 ---

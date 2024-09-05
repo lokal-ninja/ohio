@@ -1,5 +1,5 @@
 ---
 title: "Nautica"
 url: /aurora/nautica/
-shop: clothes
+shop: Kleidung
 ---

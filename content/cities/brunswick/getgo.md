@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
 url: /brunswick/getgo/
-shop: convenience
+shop: Lebensmittel
 ---

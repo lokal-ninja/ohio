@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
 url: /batavia/tractor-supply-company/
-shop: general
+shop: Dorfladen
 ---

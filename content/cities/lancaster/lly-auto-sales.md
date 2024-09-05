@@ -1,5 +1,5 @@
 ---
 title: "LLY Auto Sales"
 url: /lancaster/lly-auto-sales/
-shop: car
+shop: Autohaus
 ---

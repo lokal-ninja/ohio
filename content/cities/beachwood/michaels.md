@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /beachwood/michaels/
-shop: craft
+shop: Basteln
 ---

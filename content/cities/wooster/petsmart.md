@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /wooster/petsmart/
-shop: pet
+shop: Tiere
 ---

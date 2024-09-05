@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /toledo/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

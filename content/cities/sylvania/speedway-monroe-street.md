@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /sylvania/speedway-monroe-street/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /wadsworth/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

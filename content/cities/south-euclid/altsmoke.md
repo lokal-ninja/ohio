@@ -1,5 +1,5 @@
 ---
 title: "AltSmoke"
 url: /south-euclid/altsmoke/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

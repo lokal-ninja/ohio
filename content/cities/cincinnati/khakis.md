@@ -1,5 +1,5 @@
 ---
 title: "Khakis"
 url: /cincinnati/khakis/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bucyrus/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

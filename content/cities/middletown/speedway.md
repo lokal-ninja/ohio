@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /middletown/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

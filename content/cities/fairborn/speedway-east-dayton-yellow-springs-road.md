@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fairborn/speedway-east-dayton-yellow-springs-road/
-shop: convenience
+shop: Lebensmittel
 ---

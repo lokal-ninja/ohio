@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /findlay/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sugar"
 url: /cincinnati/sugar/
-shop: pastry
+shop: Konditorei
 ---

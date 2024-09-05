@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /streetsboro/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

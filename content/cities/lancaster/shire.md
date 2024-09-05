@@ -1,5 +1,5 @@
 ---
 title: "Shire"
 url: /lancaster/shire/
-shop: hairdresser
+shop: Friseur
 ---

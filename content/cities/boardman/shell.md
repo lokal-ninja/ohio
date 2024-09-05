@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /boardman/shell/
-shop: convenience
+shop: Lebensmittel
 ---

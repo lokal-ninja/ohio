@@ -1,5 +1,5 @@
 ---
 title: "Zanesville Toyota"
 url: /zanesville/zanesville-toyota/
-shop: car
+shop: Autohaus
 ---

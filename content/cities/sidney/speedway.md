@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /sidney/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

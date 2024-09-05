@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /lancaster/claires/
-shop: boutique
+shop: Modehaus
 ---

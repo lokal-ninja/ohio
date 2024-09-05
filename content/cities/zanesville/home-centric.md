@@ -1,5 +1,5 @@
 ---
 title: "Home Centric"
 url: /zanesville/home-centric/
-shop: interior decoration
+shop: Raumausstattung
 ---

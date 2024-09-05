@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /parma/sherwin-williams/
-shop: paint
+shop: Farben
 ---

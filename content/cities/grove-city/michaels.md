@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /grove-city/michaels/
-shop: craft
+shop: Basteln
 ---

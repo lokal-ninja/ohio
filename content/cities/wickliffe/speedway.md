@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /wickliffe/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

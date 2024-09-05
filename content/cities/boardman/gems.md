@@ -1,5 +1,5 @@
 ---
 title: "Gems"
 url: /boardman/gems/
-shop: florist
+shop: Blumen
 ---

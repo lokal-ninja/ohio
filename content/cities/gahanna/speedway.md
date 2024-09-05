@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /gahanna/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

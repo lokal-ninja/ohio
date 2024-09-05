@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /sheffield/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

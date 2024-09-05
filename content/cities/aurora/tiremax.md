@@ -1,5 +1,5 @@
 ---
 title: "TireMax"
 url: /aurora/tiremax/
-shop: tyres
+shop: Reifen
 ---

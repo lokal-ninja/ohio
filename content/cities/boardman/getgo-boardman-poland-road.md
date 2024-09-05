@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
 url: /boardman/getgo-boardman-poland-road/
-shop: convenience
+shop: Lebensmittel
 ---

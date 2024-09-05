@@ -1,5 +1,5 @@
 ---
 title: "Kitchen on the Corner"
 url: /novelty/kitchen-on-the-corner/
-shop: convenience
+shop: Lebensmittel
 ---

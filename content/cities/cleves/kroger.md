@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /cleves/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harbert's Barber Shop"
 url: /waverly/harberts-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

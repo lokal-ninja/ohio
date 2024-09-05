@@ -1,5 +1,5 @@
 ---
 title: "Kennicott"
 url: /garfield-heights/kennicott/
-shop: wholesale
+shop: Großhandel
 ---

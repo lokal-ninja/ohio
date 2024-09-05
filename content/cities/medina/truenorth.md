@@ -1,5 +1,5 @@
 ---
 title: "truenorth"
 url: /medina/truenorth/
-shop: convenience
+shop: Lebensmittel
 ---

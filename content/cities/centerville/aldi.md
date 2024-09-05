@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /centerville/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

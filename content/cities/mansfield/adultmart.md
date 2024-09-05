@@ -1,5 +1,5 @@
 ---
 title: "Adultmart"
 url: /mansfield/adultmart/
-shop: erotic
+shop: Erotik
 ---

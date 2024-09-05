@@ -1,5 +1,5 @@
 ---
 title: "Signart"
 url: /kettering/signart/
-shop: lettering
+shop: Beschriftungen
 ---

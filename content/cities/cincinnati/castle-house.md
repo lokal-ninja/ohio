@@ -1,5 +1,5 @@
 ---
 title: "Castle House"
 url: /cincinnati/castle-house/
-shop: clothes
+shop: Kleidung
 ---

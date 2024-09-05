@@ -1,5 +1,5 @@
 ---
 title: "Vienna Deli"
 url: /east-cleveland/vienna-deli/
-shop: deli
+shop: Feinkost
 ---

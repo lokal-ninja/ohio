@@ -1,5 +1,5 @@
 ---
 title: "Certified"
 url: /dresden/certified/
-shop: convenience
+shop: Lebensmittel
 ---

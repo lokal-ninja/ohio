@@ -1,5 +1,5 @@
 ---
 title: "Duchess"
 url: /columbus/duchess-north-wilson-road/
-shop: convenience
+shop: Lebensmittel
 ---

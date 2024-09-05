@@ -1,5 +1,5 @@
 ---
 title: "Fuelmart"
 url: /bradner/fuelmart/
-shop: convenience
+shop: Lebensmittel
 ---

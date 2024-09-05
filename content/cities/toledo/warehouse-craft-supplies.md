@@ -1,5 +1,5 @@
 ---
 title: "Warehouse Craft Supplies"
 url: /toledo/warehouse-craft-supplies/
-shop: craft
+shop: Basteln
 ---

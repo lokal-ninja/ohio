@@ -1,5 +1,5 @@
 ---
 title: "Felicity IGA Foodliner"
 url: /felicity/felicity-iga-foodliner/
-shop: supermarket
+shop: Supermarkt
 ---

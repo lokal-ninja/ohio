@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /macedonia/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

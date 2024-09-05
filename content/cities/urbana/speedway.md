@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /urbana/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

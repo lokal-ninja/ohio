@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /beachwood/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

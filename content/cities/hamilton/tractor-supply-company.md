@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
 url: /hamilton/tractor-supply-company/
-shop: general
+shop: Dorfladen
 ---

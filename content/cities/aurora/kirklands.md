@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /aurora/kirklands/
-shop: interior decoration
+shop: Raumausstattung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carano's Greenhouse"
 url: /boardman/caranos-greenhouse/
-shop: garden centre
+shop: Garten-Center
 ---

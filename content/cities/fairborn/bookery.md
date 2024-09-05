@@ -1,5 +1,5 @@
 ---
 title: "Bookery"
 url: /fairborn/bookery/
-shop: collector
+shop: Sammler
 ---

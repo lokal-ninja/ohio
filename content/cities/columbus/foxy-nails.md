@@ -1,5 +1,5 @@
 ---
 title: "Foxy Nails"
 url: /columbus/foxy-nails/
-shop: beauty
+shop: Kosmetik
 ---

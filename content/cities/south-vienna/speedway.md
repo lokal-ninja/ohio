@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /south-vienna/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

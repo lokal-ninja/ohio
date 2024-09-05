@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /hilliard/meijer/
-shop: supermarket
+shop: Supermarkt
 ---

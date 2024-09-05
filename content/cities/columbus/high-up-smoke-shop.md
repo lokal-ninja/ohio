@@ -1,5 +1,5 @@
 ---
 title: "High Up Smoke Shop"
 url: /columbus/high-up-smoke-shop/
-shop: tobacco
+shop: Tabak
 ---

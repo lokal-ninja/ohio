@@ -1,5 +1,5 @@
 ---
 title: "Toni"
 url: /chagrin-falls/toni/
-shop: clothes
+shop: Kleidung
 ---

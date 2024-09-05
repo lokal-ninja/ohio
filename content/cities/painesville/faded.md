@@ -1,5 +1,5 @@
 ---
 title: "Faded"
 url: /painesville/faded/
-shop: hairdresser
+shop: Friseur
 ---

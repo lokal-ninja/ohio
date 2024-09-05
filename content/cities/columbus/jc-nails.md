@@ -1,5 +1,5 @@
 ---
 title: "JC Nails"
 url: /columbus/jc-nails/
-shop: beauty
+shop: Kosmetik
 ---

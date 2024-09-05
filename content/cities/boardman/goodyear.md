@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /boardman/goodyear/
-shop: car repair
+shop: Autowerkstatt
 ---

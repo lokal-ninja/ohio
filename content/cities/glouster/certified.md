@@ -1,5 +1,5 @@
 ---
 title: "Certified"
 url: /glouster/certified/
-shop: convenience
+shop: Lebensmittel
 ---

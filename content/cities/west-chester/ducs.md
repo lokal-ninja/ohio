@@ -1,5 +1,5 @@
 ---
 title: "Ducs"
 url: /west-chester/ducs/
-shop: alcohol
+shop: Spirituosen
 ---

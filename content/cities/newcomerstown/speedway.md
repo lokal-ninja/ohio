@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /newcomerstown/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phases Salon"
 url: /willoughby/phases-salon/
-shop: beauty
+shop: Kosmetik
 ---

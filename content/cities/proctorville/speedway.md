@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /proctorville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

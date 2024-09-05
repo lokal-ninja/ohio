@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
 url: /medina/getgo/
-shop: convenience
+shop: Lebensmittel
 ---

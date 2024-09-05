@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /newbury/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

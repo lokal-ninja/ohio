@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /ontario/jcpenney/
-shop: department store
+shop: Warenhaus
 ---

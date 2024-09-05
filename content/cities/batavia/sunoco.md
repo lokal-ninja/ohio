@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /batavia/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "truenorth"
 url: /canton/truenorth/
-shop: convenience
+shop: Lebensmittel
 ---

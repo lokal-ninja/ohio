@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /beavercreek/dsw/
-shop: shoes
+shop: Schuhe
 ---

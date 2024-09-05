@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /holland/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

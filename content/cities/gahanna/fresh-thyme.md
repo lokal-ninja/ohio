@@ -1,5 +1,5 @@
 ---
 title: "Fresh Thyme"
 url: /gahanna/fresh-thyme/
-shop: supermarket
+shop: Supermarkt
 ---

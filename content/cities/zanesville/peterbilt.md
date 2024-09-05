@@ -1,5 +1,5 @@
 ---
 title: "Peterbilt"
 url: /zanesville/peterbilt/
-shop: shop
+shop: Allgemein
 ---

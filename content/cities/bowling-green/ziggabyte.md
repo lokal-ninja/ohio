@@ -1,5 +1,5 @@
 ---
 title: "Ziggabyte"
 url: /bowling-green/ziggabyte/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blue Valley Massage"
 url: /lancaster/blue-valley-massage/
-shop: massage
+shop: Massage
 ---

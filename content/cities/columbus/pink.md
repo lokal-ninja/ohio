@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /columbus/pink/
-shop: clothes
+shop: Kleidung
 ---

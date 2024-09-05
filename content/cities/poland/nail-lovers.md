@@ -1,5 +1,5 @@
 ---
 title: "Nail Lovers"
 url: /poland/nail-lovers/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Logos Bookstore"
 url: /kent/logos-bookstore/
-shop: books
+shop: Bücher
 ---

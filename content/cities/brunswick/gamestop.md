@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /brunswick/gamestop/
-shop: video games
+shop: Videospiele
 ---

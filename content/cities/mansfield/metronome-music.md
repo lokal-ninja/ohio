@@ -1,5 +1,5 @@
 ---
 title: "Metronome Music"
 url: /mansfield/metronome-music/
-shop: music
+shop: Musik
 ---

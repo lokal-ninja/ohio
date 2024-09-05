@@ -1,5 +1,5 @@
 ---
 title: "North Corner Farm"
 url: /burton/north-corner-farm/
-shop: farm
+shop: Hofladen
 ---

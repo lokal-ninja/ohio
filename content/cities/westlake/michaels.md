@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /westlake/michaels/
-shop: craft
+shop: Basteln
 ---

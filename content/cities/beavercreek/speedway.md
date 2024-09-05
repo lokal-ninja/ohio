@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /beavercreek/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

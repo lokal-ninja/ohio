@@ -1,5 +1,5 @@
 ---
 title: "Dunkin'"
 url: /cleveland/dunkin/
-shop: coffee
+shop: Kaffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /west-chester/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

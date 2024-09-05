@@ -1,5 +1,5 @@
 ---
 title: "PetPeople"
 url: /columbus/petpeople/
-shop: pet
+shop: Tiere
 ---

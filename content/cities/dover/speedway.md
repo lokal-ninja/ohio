@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /dover/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

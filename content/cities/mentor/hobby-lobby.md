@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /mentor/hobby-lobby/
-shop: craft
+shop: Basteln
 ---

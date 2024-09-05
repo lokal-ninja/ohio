@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /findlay/ford/
-shop: car
+shop: Autohaus
 ---

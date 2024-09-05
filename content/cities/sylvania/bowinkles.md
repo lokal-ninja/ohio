@@ -1,5 +1,5 @@
 ---
 title: "Bowinkles"
 url: /sylvania/bowinkles/
-shop: clothes
+shop: Kleidung
 ---

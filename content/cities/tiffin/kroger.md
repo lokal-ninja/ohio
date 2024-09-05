@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /tiffin/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

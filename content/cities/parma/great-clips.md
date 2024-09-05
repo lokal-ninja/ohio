@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /parma/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TrueNorth"
 url: /columbus/truenorth/
-shop: convenience
+shop: Lebensmittel
 ---

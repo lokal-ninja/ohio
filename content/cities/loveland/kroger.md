@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /loveland/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

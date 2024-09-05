@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /northfield/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

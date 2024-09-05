@@ -1,5 +1,5 @@
 ---
 title: "UNTUCKit"
 url: /columbus/untuckit/
-shop: clothes
+shop: Kleidung
 ---

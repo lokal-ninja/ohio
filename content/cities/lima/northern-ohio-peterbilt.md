@@ -1,5 +1,5 @@
 ---
 title: "Northern Ohio Peterbilt"
 url: /lima/northern-ohio-peterbilt/
-shop: car
+shop: Autohaus
 ---

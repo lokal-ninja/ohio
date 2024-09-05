@@ -1,5 +1,5 @@
 ---
 title: "United Dairy Farmers"
 url: /trenton/united-dairy-farmers/
-shop: convenience
+shop: Lebensmittel
 ---

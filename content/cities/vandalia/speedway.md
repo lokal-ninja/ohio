@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /vandalia/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

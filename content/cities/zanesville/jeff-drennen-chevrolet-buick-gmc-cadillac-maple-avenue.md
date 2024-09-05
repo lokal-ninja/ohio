@@ -1,5 +1,5 @@
 ---
 title: "Jeff Drennen Chevrolet Buick GMC Cadillac"
 url: /zanesville/jeff-drennen-chevrolet-buick-gmc-cadillac-maple-avenue/
-shop: car
+shop: Autohaus
 ---

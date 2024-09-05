@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /urbana/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

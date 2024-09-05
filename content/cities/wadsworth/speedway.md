@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /wadsworth/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

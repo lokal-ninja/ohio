@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /piqua/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

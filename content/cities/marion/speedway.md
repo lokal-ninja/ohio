@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /marion/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

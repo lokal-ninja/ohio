@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /kent/marshalls/
-shop: department store
+shop: Warenhaus
 ---

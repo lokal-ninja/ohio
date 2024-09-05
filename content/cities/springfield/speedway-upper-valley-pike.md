@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /springfield/speedway-upper-valley-pike/
-shop: convenience
+shop: Lebensmittel
 ---

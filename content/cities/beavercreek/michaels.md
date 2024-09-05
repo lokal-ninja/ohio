@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /beavercreek/michaels/
-shop: craft
+shop: Basteln
 ---

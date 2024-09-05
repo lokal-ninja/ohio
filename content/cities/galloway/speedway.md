@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /galloway/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

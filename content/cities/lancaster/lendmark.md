@@ -1,5 +1,5 @@
 ---
 title: "Lendmark"
 url: /lancaster/lendmark/
-shop: pawnbroker
+shop: Leiher
 ---

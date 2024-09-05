@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /forest-park/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

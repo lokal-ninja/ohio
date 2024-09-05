@@ -1,5 +1,5 @@
 ---
 title: "HerChoice"
 url: /bowling-green/herchoice/
-shop: shop
+shop: Allgemein
 ---

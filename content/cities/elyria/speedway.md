@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /elyria/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

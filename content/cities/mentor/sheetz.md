@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /mentor/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

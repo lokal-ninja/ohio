@@ -1,5 +1,5 @@
 ---
 title: "Amoco"
 url: /springfield/amoco/
-shop: convenience
+shop: Lebensmittel
 ---

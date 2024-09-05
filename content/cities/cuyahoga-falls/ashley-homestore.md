@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /cuyahoga-falls/ashley-homestore/
-shop: furniture
+shop: Möbel
 ---

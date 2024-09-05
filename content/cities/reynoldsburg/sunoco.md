@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /reynoldsburg/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

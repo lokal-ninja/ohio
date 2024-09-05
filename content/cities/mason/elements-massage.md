@@ -1,5 +1,5 @@
 ---
 title: "Elements Massage"
 url: /mason/elements-massage/
-shop: massage
+shop: Massage
 ---

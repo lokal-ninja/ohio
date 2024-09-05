@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /niles/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

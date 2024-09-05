@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /maple-heights/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

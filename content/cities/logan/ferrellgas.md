@@ -1,5 +1,5 @@
 ---
 title: "Ferrellgas"
 url: /logan/ferrellgas/
-shop: gas
+shop: Gasflaschen
 ---

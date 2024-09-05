@@ -1,5 +1,5 @@
 ---
 title: "Surroundings Home Decor"
 url: /cleveland/surroundings-home-decor/
-shop: houseware
+shop: Haushaltsartikel
 ---

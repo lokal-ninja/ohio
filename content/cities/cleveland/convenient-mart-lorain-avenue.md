@@ -1,5 +1,5 @@
 ---
 title: "Convenient Mart"
 url: /cleveland/convenient-mart-lorain-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

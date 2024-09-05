@@ -1,5 +1,5 @@
 ---
 title: "Ernie's Bike Shop"
 url: /massillon/ernies-bike-shop/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /monroe/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

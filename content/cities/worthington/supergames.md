@@ -1,5 +1,5 @@
 ---
 title: "SuperGames"
 url: /worthington/supergames/
-shop: party
+shop: Partyzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michael Farms"
 url: /urbana/michael-farms/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Island Tropics Tanning"
 url: /boardman/island-tropics-tanning/
-shop: beauty
+shop: Kosmetik
 ---

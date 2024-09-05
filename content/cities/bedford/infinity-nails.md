@@ -1,5 +1,5 @@
 ---
 title: "Infinity Nails"
 url: /bedford/infinity-nails/
-shop: beauty
+shop: Kosmetik
 ---

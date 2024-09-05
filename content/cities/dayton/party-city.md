@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /dayton/party-city/
-shop: party
+shop: Partyzubehör
 ---

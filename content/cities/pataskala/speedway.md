@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /pataskala/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

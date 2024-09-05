@@ -1,5 +1,5 @@
 ---
 title: "Black Diamond Nursery"
 url: /perrysburg/black-diamond-nursery/
-shop: garden centre
+shop: Garten-Center
 ---

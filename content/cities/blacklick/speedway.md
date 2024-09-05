@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /blacklick/speedway/
-shop: convenience
+shop: Lebensmittel
 ---
