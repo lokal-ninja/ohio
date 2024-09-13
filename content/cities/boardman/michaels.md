@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /boardman/michaels/
-shop: Basteln
+shop: craft
 ---

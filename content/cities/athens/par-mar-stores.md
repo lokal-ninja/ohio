@@ -1,5 +1,5 @@
 ---
 title: "Par Mar Stores"
 url: /athens/par-mar-stores/
-shop: Lebensmittel
+shop: convenience
 ---

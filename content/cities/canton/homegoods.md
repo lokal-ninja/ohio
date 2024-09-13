@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /canton/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /marengo/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

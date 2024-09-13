@@ -1,5 +1,5 @@
 ---
 title: "Mr. Tire"
 url: /south-euclid/mr-tire/
-shop: Reifen
+shop: tyres
 ---

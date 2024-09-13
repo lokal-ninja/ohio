@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /perrysburg/speedway-dixie-highway/
-shop: Lebensmittel
+shop: convenience
 ---

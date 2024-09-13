@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /youngstown/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

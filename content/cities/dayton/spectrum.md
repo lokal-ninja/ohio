@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /dayton/spectrum/
-shop: Handy
+shop: mobile phone
 ---

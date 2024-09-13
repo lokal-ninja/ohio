@@ -1,5 +1,5 @@
 ---
 title: "truenorth"
 url: /brunswick/truenorth/
-shop: Lebensmittel
+shop: convenience
 ---

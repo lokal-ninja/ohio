@@ -1,5 +1,5 @@
 ---
 title: "Eyemart Express"
 url: /zanesville/eyemart-express/
-shop: Optiker
+shop: optician
 ---

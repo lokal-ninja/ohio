@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /zanesville/sherwin-williams/
-shop: Farben
+shop: paint
 ---

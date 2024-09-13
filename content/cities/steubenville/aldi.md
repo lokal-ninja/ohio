@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /steubenville/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Accu TV"
 url: /cleveland/accu-tv/
-shop: Elektronik
+shop: electronics
 ---

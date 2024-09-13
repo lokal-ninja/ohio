@@ -1,5 +1,5 @@
 ---
 title: "Downtown Barbershop"
 url: /sidney/downtown-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

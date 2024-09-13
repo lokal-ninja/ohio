@@ -1,5 +1,5 @@
 ---
 title: "Monro Auto Service and Tire Centers"
 url: /zanesville/monro-auto-service-and-tire-centers/
-shop: Autowerkstatt
+shop: car repair
 ---

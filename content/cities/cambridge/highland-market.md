@@ -1,5 +1,5 @@
 ---
 title: "Highland Market"
 url: /cambridge/highland-market/
-shop: Lebensmittel
+shop: convenience
 ---

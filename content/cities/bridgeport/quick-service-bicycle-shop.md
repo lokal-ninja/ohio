@@ -1,5 +1,5 @@
 ---
 title: "Quick Service Bicycle Shop"
 url: /bridgeport/quick-service-bicycle-shop/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /ontario/petsmart/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /cincinnati/dsw-eastgate-south-drive/
-shop: Schuhe
+shop: shoes
 ---

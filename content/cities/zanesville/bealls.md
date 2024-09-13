@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /zanesville/bealls/
-shop: Kleidung
+shop: clothes
 ---

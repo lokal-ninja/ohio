@@ -1,5 +1,5 @@
 ---
 title: "Earl's Car Care"
 url: /cleveland/earls-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /cincinnati/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /cuyahoga-falls/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

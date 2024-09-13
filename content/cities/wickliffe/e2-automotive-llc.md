@@ -1,5 +1,5 @@
 ---
 title: "E2 Automotive LLC"
 url: /wickliffe/e2-automotive-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SmartFix"
 url: /columbus/smartfix/
-shop: Allgemein
+shop: shop
 ---

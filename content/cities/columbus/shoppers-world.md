@@ -1,5 +1,5 @@
 ---
 title: "Shoppers World"
 url: /columbus/shoppers-world/
-shop: Warenhaus
+shop: department store
 ---

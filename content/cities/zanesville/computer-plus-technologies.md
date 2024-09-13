@@ -1,5 +1,5 @@
 ---
 title: "Computer Plus Technologies"
 url: /zanesville/computer-plus-technologies/
-shop: Computer
+shop: computer
 ---

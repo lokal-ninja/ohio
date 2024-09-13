@@ -1,5 +1,5 @@
 ---
 title: "edgewater corner store"
 url: /cleveland/edgewater-corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

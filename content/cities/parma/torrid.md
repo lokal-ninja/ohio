@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /parma/torrid/
-shop: Kleidung
+shop: clothes
 ---

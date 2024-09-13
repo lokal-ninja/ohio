@@ -1,5 +1,5 @@
 ---
 title: "Pure"
 url: /amherst/pure/
-shop: Lebensmittel
+shop: convenience
 ---

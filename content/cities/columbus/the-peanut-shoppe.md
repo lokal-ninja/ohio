@@ -1,5 +1,5 @@
 ---
 title: "The Peanut Shoppe"
 url: /columbus/the-peanut-shoppe/
-shop: Süßwaren
+shop: confectionery
 ---

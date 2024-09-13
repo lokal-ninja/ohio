@@ -1,5 +1,5 @@
 ---
 title: "Bobcat Enterprises"
 url: /zanesville/bobcat-enterprises/
-shop: Allgemein
+shop: shop
 ---

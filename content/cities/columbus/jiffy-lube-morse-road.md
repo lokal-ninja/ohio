@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /columbus/jiffy-lube-morse-road/
-shop: Autowerkstatt
+shop: car repair
 ---

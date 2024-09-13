@@ -1,5 +1,5 @@
 ---
 title: "Deal Maker Appliances"
 url: /cleveland/deal-maker-appliances/
-shop: Haushaltsgeräte
+shop: appliance
 ---

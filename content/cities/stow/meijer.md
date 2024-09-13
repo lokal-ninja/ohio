@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /stow/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

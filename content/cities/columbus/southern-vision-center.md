@@ -1,5 +1,5 @@
 ---
 title: "Southern Vision Center"
 url: /columbus/southern-vision-center/
-shop: Optiker
+shop: optician
 ---

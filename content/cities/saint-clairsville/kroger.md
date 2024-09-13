@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /saint-clairsville/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

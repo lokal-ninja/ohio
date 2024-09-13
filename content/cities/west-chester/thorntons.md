@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /west-chester/thorntons/
-shop: Lebensmittel
+shop: convenience
 ---

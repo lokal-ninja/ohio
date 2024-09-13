@@ -1,5 +1,5 @@
 ---
 title: "Bike Authority"
 url: /broadview-heights/bike-authority/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ziegler Tire"
 url: /akron/ziegler-tire/
-shop: Reifen
+shop: tyres
 ---

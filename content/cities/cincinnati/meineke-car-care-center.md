@@ -1,5 +1,5 @@
 ---
 title: "Meineke Car Care Center"
 url: /cincinnati/meineke-car-care-center/
-shop: Motorrad
+shop: motorcycle
 ---

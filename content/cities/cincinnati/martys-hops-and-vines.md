@@ -1,5 +1,5 @@
 ---
 title: "Marty's Hops and Vines"
 url: /cincinnati/martys-hops-and-vines/
-shop: Wein
+shop: wine
 ---

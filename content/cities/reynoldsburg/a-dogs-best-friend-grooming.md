@@ -1,5 +1,5 @@
 ---
 title: "A Dog's Best Friend Grooming"
 url: /reynoldsburg/a-dogs-best-friend-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

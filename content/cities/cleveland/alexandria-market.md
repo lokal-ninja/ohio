@@ -1,5 +1,5 @@
 ---
 title: "Alexandria Market"
 url: /cleveland/alexandria-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Homage"
 url: /columbus/homage/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /elyria/dollar-tree-chestnut-commons-drive/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /bellaire/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

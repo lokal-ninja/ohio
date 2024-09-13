@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /ontario/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

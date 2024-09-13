@@ -1,5 +1,5 @@
 ---
 title: "Balance Nutrition"
 url: /bellevue/balance-nutrition/
-shop: Allgemein
+shop: shop
 ---

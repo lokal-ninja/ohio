@@ -1,5 +1,5 @@
 ---
 title: "Ryder Truck Rental"
 url: /sharonville/ryder-truck-rental/
-shop: Mieten
+shop: storage rental
 ---

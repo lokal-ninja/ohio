@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /lancaster/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

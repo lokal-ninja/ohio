@@ -1,5 +1,5 @@
 ---
 title: "Dave's"
 url: /cleveland/daves/
-shop: Supermarkt
+shop: supermarket
 ---

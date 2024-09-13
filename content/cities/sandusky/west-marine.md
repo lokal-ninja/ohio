@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /sandusky/west-marine/
-shop: Boot
+shop: boat
 ---

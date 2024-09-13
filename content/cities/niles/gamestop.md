@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /niles/gamestop/
-shop: Videospiele
+shop: video games
 ---

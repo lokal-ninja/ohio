@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /mount-vernon/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

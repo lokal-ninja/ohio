@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /cambridge/carquest/
-shop: Autoteile
+shop: car parts
 ---

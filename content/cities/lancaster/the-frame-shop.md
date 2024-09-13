@@ -1,5 +1,5 @@
 ---
 title: "The Frame Shop"
 url: /lancaster/the-frame-shop/
-shop: Rahmen
+shop: frame
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budget Car Mart"
 url: /akron/budget-car-mart/
-shop: Autohaus
+shop: car
 ---

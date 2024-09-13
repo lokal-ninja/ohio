@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /madison/aarons/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Y-City Automotive"
 url: /zanesville/y-city-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

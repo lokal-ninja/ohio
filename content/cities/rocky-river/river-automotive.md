@@ -1,5 +1,5 @@
 ---
 title: "River Automotive"
 url: /rocky-river/river-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /kent/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

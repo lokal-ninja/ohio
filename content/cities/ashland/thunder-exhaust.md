@@ -1,5 +1,5 @@
 ---
 title: "Thunder Exhaust"
 url: /ashland/thunder-exhaust/
-shop: Autoteile
+shop: car parts
 ---

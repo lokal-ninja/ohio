@@ -1,5 +1,5 @@
 ---
 title: "Micro Center"
 url: /mayfield-heights/micro-center/
-shop: Computer
+shop: computer
 ---

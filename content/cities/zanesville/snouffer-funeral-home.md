@@ -1,5 +1,5 @@
 ---
 title: "Snouffer Funeral Home"
 url: /zanesville/snouffer-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

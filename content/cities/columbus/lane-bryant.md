@@ -1,5 +1,5 @@
 ---
 title: "Lane Bryant"
 url: /columbus/lane-bryant/
-shop: Kleidung
+shop: clothes
 ---

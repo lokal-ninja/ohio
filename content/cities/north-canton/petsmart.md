@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /north-canton/petsmart/
-shop: Tiere
+shop: pet
 ---

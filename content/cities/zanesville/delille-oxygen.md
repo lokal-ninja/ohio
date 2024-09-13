@@ -1,5 +1,5 @@
 ---
 title: "DeLille Oxygen"
 url: /zanesville/delille-oxygen/
-shop: Eisenwaren
+shop: hardware
 ---

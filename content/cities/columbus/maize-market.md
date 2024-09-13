@@ -1,5 +1,5 @@
 ---
 title: "Maize Market"
 url: /columbus/maize-market/
-shop: Lebensmittel
+shop: convenience
 ---

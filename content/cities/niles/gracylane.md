@@ -1,5 +1,5 @@
 ---
 title: "Gracylane"
 url: /niles/gracylane/
-shop: Kleidung
+shop: clothes
 ---

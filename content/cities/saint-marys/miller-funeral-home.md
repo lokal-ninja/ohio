@@ -1,5 +1,5 @@
 ---
 title: "Miller Funeral Home"
 url: /saint-marys/miller-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

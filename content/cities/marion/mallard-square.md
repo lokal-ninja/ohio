@@ -1,5 +1,5 @@
 ---
 title: "Mallard Square"
 url: /marion/mallard-square/
-shop: Einkaufszentrum
+shop: mall
 ---

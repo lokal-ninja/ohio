@@ -1,5 +1,5 @@
 ---
 title: "Victorian Village Auto Service"
 url: /columbus/victorian-village-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

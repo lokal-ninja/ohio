@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /macedonia/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

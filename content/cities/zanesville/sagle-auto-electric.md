@@ -1,5 +1,5 @@
 ---
 title: "Sagle Auto Electric"
 url: /zanesville/sagle-auto-electric/
-shop: Autowerkstatt
+shop: car repair
 ---

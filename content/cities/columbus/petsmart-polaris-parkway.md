@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /columbus/petsmart-polaris-parkway/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grooming Viar"
 url: /columbus/grooming-viar/
-shop: Tiersalon
+shop: pet grooming
 ---

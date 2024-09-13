@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /findlay/petsmart/
-shop: Tiere
+shop: pet
 ---

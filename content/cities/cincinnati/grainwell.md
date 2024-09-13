@@ -1,5 +1,5 @@
 ---
 title: "Grainwell"
 url: /cincinnati/grainwell/
-shop: Allgemein
+shop: shop
 ---

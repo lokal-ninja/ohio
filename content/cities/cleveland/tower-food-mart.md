@@ -1,5 +1,5 @@
 ---
 title: "Tower Food Mart"
 url: /cleveland/tower-food-mart/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pest Enforcement Agency"
 url: /cedarville/pest-enforcement-agency/
-shop: Schädlingsbekämpfung
+shop: pest control
 ---

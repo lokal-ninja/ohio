@@ -1,5 +1,5 @@
 ---
 title: "McKinley Laundromat"
 url: /niles/mckinley-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

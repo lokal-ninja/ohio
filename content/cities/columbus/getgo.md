@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
 url: /columbus/getgo/
-shop: Lebensmittel
+shop: convenience
 ---

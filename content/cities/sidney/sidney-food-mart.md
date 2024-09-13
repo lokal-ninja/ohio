@@ -1,5 +1,5 @@
 ---
 title: "Sidney Food Mart"
 url: /sidney/sidney-food-mart/
-shop: Milch
+shop: dairy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Imlay's Uniforms"
 url: /columbus/imlays-uniforms/
-shop: Kleidung
+shop: clothes
 ---

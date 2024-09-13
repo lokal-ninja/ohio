@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /niles/journeys/
-shop: Schuhe
+shop: shoes
 ---

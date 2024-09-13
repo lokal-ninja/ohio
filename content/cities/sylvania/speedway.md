@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /sylvania/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

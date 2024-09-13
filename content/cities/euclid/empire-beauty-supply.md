@@ -1,5 +1,5 @@
 ---
 title: "Empire Beauty Supply"
 url: /euclid/empire-beauty-supply/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

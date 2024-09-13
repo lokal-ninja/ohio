@@ -1,5 +1,5 @@
 ---
 title: "Bda's Bargains"
 url: /zanesville/bdas-bargains/
-shop: Kramladen
+shop: variety store
 ---

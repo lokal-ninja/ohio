@@ -1,5 +1,5 @@
 ---
 title: "Uptown Mart"
 url: /cleveland-heights/uptown-mart/
-shop: Lebensmittel
+shop: convenience
 ---

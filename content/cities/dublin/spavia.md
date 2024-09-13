@@ -1,5 +1,5 @@
 ---
 title: "Spavia"
 url: /dublin/spavia/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /fairview-park/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

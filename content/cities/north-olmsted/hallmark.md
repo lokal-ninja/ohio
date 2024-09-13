@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /north-olmsted/hallmark/
-shop: Andenken
+shop: gift
 ---

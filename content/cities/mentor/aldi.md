@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mentor/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

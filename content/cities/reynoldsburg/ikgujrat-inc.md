@@ -1,5 +1,5 @@
 ---
 title: "Ikgujrat Inc"
 url: /reynoldsburg/ikgujrat-inc/
-shop: Lebensmittel
+shop: convenience
 ---

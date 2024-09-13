@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /huber-heights/marshalls/
-shop: Warenhaus
+shop: department store
 ---

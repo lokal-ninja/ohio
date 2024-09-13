@@ -1,5 +1,5 @@
 ---
 title: "Eddy's Bike Shop"
 url: /north-olmsted/eddys-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

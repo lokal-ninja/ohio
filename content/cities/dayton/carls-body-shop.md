@@ -1,5 +1,5 @@
 ---
 title: "Carl’s Body Shop"
 url: /dayton/carls-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

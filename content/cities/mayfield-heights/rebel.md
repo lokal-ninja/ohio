@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /mayfield-heights/rebel/
-shop: Lebensmittel
+shop: convenience
 ---

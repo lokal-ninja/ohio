@@ -1,5 +1,5 @@
 ---
 title: "Morris"
 url: /dayton/morris/
-shop: Möbel
+shop: furniture
 ---

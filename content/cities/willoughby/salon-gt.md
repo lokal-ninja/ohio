@@ -1,5 +1,5 @@
 ---
 title: "Salon GT"
 url: /willoughby/salon-gt/
-shop: Kosmetik
+shop: beauty
 ---

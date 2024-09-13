@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /marietta/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /bucyrus/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

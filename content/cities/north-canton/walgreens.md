@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /north-canton/walgreens/
-shop: Drogerie
+shop: chemist
 ---

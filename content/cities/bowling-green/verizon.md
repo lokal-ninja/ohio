@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /bowling-green/verizon/
-shop: Handy
+shop: mobile phone
 ---

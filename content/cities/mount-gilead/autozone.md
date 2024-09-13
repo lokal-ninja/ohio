@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /mount-gilead/autozone/
-shop: Autoteile
+shop: car parts
 ---

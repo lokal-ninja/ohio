@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /steubenville/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

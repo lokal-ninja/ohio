@@ -1,5 +1,5 @@
 ---
 title: "Kennel Club USA"
 url: /johnstown/kennel-club-usa/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nichols Electric Motor Repair"
 url: /zanesville/nichols-electric-motor-repair/
-shop: Allgemein
+shop: shop
 ---

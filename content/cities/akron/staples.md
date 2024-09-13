@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /akron/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

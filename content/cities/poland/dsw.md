@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /poland/dsw/
-shop: Schuhe
+shop: shoes
 ---

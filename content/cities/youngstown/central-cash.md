@@ -1,5 +1,5 @@
 ---
 title: "Central Cash"
 url: /youngstown/central-cash/
-shop: Leiher
+shop: pawnbroker
 ---

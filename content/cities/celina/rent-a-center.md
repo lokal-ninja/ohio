@@ -1,5 +1,5 @@
 ---
 title: "Rent-A-Center"
 url: /celina/rent-a-center/
-shop: Möbel
+shop: furniture
 ---

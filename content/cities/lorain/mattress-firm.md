@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /lorain/mattress-firm/
-shop: Betten
+shop: bed
 ---

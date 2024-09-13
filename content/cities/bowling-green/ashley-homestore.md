@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /bowling-green/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Certified Oil Corp"
 url: /springfield/certified-oil-corp/
-shop: Lebensmittel
+shop: convenience
 ---

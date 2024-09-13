@@ -1,5 +1,5 @@
 ---
 title: "Walt's Barber Shop"
 url: /jefferson/walts-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

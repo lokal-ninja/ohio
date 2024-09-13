@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /bowling-green/meijer-2/
-shop: Lebensmittel
+shop: convenience
 ---

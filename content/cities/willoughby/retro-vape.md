@@ -1,5 +1,5 @@
 ---
 title: "Retro Vape"
 url: /willoughby/retro-vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

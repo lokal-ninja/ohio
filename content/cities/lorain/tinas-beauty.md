@@ -1,5 +1,5 @@
 ---
 title: "Tina's Beauty"
 url: /lorain/tinas-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

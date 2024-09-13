@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /forest-park/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

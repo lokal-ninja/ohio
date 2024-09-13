@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /findlay/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

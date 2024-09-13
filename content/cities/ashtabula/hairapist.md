@@ -1,5 +1,5 @@
 ---
 title: "HAIRAPIST"
 url: /ashtabula/hairapist/
-shop: Friseur
+shop: hairdresser
 ---

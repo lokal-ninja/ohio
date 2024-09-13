@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /springfield/dollar-general-moorefield-road/
-shop: Kramladen
+shop: variety store
 ---

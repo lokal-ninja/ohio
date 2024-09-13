@@ -1,5 +1,5 @@
 ---
 title: "S and K Mini Storage"
 url: /zanesville/s-and-k-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

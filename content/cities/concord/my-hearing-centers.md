@@ -1,5 +1,5 @@
 ---
 title: "My Hearing Centers"
 url: /concord/my-hearing-centers/
-shop: Hörgeräte
+shop: hearing aids
 ---

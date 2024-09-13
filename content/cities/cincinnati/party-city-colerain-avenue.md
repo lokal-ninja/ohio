@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /cincinnati/party-city-colerain-avenue/
-shop: Partyzubehör
+shop: party
 ---

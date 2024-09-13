@@ -1,5 +1,5 @@
 ---
 title: "Marc's"
 url: /westerville/marcs/
-shop: Supermarkt
+shop: supermarket
 ---

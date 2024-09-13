@@ -1,5 +1,5 @@
 ---
 title: "Mystical Moon Boutique"
 url: /elyria/mystical-moon-boutique/
-shop: Kleidung
+shop: clothes
 ---

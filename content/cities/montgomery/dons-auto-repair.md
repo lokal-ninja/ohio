@@ -1,5 +1,5 @@
 ---
 title: "Don’s Auto Repair"
 url: /montgomery/dons-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

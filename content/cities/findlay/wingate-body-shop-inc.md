@@ -1,5 +1,5 @@
 ---
 title: "Wingate Body Shop Inc."
 url: /findlay/wingate-body-shop-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

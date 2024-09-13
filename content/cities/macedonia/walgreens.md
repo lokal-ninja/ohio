@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /macedonia/walgreens/
-shop: Drogerie
+shop: chemist
 ---

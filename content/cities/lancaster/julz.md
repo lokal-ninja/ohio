@@ -1,5 +1,5 @@
 ---
 title: "Julz"
 url: /lancaster/julz/
-shop: Schmuck
+shop: jewelry
 ---

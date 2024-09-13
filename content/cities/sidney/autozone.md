@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /sidney/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /garrettsville/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

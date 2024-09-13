@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /columbus/dollar-tree-soldano-boulevard/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eagle Loan Company"
 url: /madison/eagle-loan-company-north-ridge-road/
-shop: Leiher
+shop: pawnbroker
 ---

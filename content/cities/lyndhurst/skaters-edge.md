@@ -1,5 +1,5 @@
 ---
 title: "Skater's Edge"
 url: /lyndhurst/skaters-edge/
-shop: Sport
+shop: sports
 ---

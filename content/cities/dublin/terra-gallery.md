@@ -1,5 +1,5 @@
 ---
 title: "Terra Gallery"
 url: /dublin/terra-gallery/
-shop: Kunst
+shop: art
 ---

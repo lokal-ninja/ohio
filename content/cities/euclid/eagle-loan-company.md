@@ -1,5 +1,5 @@
 ---
 title: "Eagle Loan Company"
 url: /euclid/eagle-loan-company/
-shop: Leiher
+shop: pawnbroker
 ---

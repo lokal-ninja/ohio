@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /zanesville/boost-mobile/
-shop: Handy
+shop: mobile phone
 ---

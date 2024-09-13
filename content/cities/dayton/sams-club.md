@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /dayton/sams-club/
-shop: Großhandel
+shop: wholesale
 ---

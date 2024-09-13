@@ -1,5 +1,5 @@
 ---
 title: "Leppert Photography"
 url: /loveland/leppert-photography/
-shop: Foto
+shop: photo
 ---

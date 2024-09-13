@@ -1,5 +1,5 @@
 ---
 title: "Duchess"
 url: /bellville/duchess/
-shop: Lebensmittel
+shop: convenience
 ---

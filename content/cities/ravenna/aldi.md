@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ravenna/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

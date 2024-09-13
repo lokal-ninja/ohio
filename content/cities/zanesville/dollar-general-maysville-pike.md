@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /zanesville/dollar-general-maysville-pike/
-shop: Kramladen
+shop: variety store
 ---

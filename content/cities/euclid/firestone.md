@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /euclid/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

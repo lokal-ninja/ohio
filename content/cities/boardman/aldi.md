@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /boardman/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

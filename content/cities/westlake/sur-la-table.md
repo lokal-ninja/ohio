@@ -1,5 +1,5 @@
 ---
 title: "Sur La Table"
 url: /westlake/sur-la-table/
-shop: Haushaltsartikel
+shop: houseware
 ---

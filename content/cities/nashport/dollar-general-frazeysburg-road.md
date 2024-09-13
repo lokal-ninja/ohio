@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /nashport/dollar-general-frazeysburg-road/
-shop: Kramladen
+shop: variety store
 ---

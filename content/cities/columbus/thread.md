@@ -1,5 +1,5 @@
 ---
 title: "Thread"
 url: /columbus/thread/
-shop: Kleidung
+shop: clothes
 ---

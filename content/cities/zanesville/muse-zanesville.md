@@ -1,5 +1,5 @@
 ---
 title: "Muse Zanesville"
 url: /zanesville/muse-zanesville/
-shop: Andenken
+shop: gift
 ---

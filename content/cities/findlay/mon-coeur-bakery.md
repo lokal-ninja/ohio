@@ -1,5 +1,5 @@
 ---
 title: "Mon Coeur Bakery"
 url: /findlay/mon-coeur-bakery/
-shop: Bäckerei
+shop: bakery
 ---

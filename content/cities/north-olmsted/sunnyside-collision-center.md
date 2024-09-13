@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside Collision Center"
 url: /north-olmsted/sunnyside-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /north-canton/target/
-shop: Warenhaus
+shop: department store
 ---

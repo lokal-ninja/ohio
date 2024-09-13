@@ -1,5 +1,5 @@
 ---
 title: "MotoMart"
 url: /zanesville/motomart/
-shop: Lebensmittel
+shop: convenience
 ---

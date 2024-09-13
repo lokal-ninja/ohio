@@ -1,5 +1,5 @@
 ---
 title: "Eagle Loan Company"
 url: /boardman/eagle-loan-company/
-shop: Leiher
+shop: pawnbroker
 ---

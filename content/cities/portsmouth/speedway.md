@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /portsmouth/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

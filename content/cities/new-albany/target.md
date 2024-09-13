@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /new-albany/target/
-shop: Warenhaus
+shop: department store
 ---

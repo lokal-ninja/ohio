@@ -1,5 +1,5 @@
 ---
 title: "Liberty Ford"
 url: /aurora/liberty-ford/
-shop: Autohaus
+shop: car
 ---

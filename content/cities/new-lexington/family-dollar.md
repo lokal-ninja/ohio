@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /new-lexington/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

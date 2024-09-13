@@ -1,5 +1,5 @@
 ---
 title: "Liberty Ford"
 url: /parma-heights/liberty-ford/
-shop: Autohaus
+shop: car
 ---

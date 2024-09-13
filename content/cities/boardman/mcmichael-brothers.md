@@ -1,5 +1,5 @@
 ---
 title: "McMichael Brothers"
 url: /boardman/mcmichael-brothers/
-shop: Allgemein
+shop: shop
 ---

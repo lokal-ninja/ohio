@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /stow/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Slaters Hardware"
 url: /lancaster/slaters-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

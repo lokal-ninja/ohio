@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /massillon/walgreens/
-shop: Drogerie
+shop: chemist
 ---

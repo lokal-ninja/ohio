@@ -1,5 +1,5 @@
 ---
 title: "Desdemona's Art Gallery"
 url: /marblehead/desdemonas-art-gallery/
-shop: Kunst
+shop: art
 ---

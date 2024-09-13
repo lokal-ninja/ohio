@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /boardman/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

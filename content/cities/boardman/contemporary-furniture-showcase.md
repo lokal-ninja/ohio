@@ -1,5 +1,5 @@
 ---
 title: "Contemporary Furniture Showcase"
 url: /boardman/contemporary-furniture-showcase/
-shop: Möbel
+shop: furniture
 ---

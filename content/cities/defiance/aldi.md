@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /defiance/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big Frog"
 url: /avon/big-frog/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /dayton/speedway-huffman-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

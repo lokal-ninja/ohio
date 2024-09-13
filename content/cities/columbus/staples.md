@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /columbus/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

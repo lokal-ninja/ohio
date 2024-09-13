@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /troy/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

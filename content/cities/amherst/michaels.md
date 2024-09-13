@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /amherst/michaels/
-shop: Basteln
+shop: craft
 ---

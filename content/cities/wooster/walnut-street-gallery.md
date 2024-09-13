@@ -1,5 +1,5 @@
 ---
 title: "Walnut Street Gallery"
 url: /wooster/walnut-street-gallery/
-shop: Allgemein
+shop: shop
 ---

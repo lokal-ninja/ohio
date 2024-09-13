@@ -1,5 +1,5 @@
 ---
 title: "Bear Cabinetry"
 url: /euclid/bear-cabinetry/
-shop: Baumarkt
+shop: doityourself
 ---

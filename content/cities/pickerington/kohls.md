@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /pickerington/kohls/
-shop: Warenhaus
+shop: department store
 ---

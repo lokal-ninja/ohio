@@ -1,5 +1,5 @@
 ---
 title: "Costa Oil"
 url: /mentor-on-the-lake/costa-oil/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lebanon/speedway-east-main-street/
-shop: Lebensmittel
+shop: convenience
 ---

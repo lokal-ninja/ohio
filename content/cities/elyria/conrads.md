@@ -1,5 +1,5 @@
 ---
 title: "Conrad's"
 url: /elyria/conrads/
-shop: Reifen
+shop: tyres
 ---

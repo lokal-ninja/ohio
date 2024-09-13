@@ -1,5 +1,5 @@
 ---
 title: "HomeBuys"
 url: /columbus/homebuys/
-shop: Warenhaus
+shop: department store
 ---

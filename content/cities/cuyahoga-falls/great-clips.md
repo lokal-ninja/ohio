@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /cuyahoga-falls/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

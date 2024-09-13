@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /wooster/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

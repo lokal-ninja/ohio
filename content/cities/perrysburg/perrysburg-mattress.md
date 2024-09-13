@@ -1,5 +1,5 @@
 ---
 title: "Perrysburg Mattress"
 url: /perrysburg/perrysburg-mattress/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /middleburg-heights/cato/
-shop: Kleidung
+shop: clothes
 ---

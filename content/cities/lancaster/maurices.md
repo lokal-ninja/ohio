@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /lancaster/maurices/
-shop: Kleidung
+shop: clothes
 ---

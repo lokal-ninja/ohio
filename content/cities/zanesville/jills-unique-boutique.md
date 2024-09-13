@@ -1,5 +1,5 @@
 ---
 title: "Jill's Unique Boutique"
 url: /zanesville/jills-unique-boutique/
-shop: Kleidung
+shop: clothes
 ---

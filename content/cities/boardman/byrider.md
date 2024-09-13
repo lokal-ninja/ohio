@@ -1,5 +1,5 @@
 ---
 title: "Byrider"
 url: /boardman/byrider/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sophie’s Pet Parlor"
 url: /fayetteville/sophies-pet-parlor/
-shop: Tiersalon
+shop: pet grooming
 ---

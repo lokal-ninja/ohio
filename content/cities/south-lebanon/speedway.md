@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /south-lebanon/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

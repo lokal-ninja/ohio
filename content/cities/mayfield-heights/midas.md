@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /mayfield-heights/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

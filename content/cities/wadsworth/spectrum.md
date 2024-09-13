@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /wadsworth/spectrum/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Van's Tire"
 url: /streetsboro/vans-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

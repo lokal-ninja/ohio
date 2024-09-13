@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /canal-winchester/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

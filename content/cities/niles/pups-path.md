@@ -1,5 +1,5 @@
 ---
 title: "Pups Path"
 url: /niles/pups-path/
-shop: Tiere
+shop: pet
 ---

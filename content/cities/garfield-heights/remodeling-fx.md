@@ -1,5 +1,5 @@
 ---
 title: "Remodeling Fx"
 url: /garfield-heights/remodeling-fx/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beverage Depot"
 url: /geneva/beverage-depot/
-shop: Getränke
+shop: beverages
 ---

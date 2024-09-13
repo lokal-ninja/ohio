@@ -1,5 +1,5 @@
 ---
 title: "Bryan's Furniture Interiors"
 url: /zanesville/bryans-furniture-interiors/
-shop: Möbel
+shop: furniture
 ---

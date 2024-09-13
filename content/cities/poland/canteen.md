@@ -1,5 +1,5 @@
 ---
 title: "Canteen"
 url: /poland/canteen/
-shop: Baustoffe
+shop: trade
 ---

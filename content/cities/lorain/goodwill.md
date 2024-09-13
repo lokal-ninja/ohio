@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /lorain/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fyda Freightliner Cincinnati"
 url: /sharonville/fyda-freightliner-cincinnati/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /steubenville/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

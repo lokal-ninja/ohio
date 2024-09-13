@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /south-euclid/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /akron/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

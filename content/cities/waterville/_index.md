@@ -1,6 +1,6 @@
 ---
 title: Waterville
 url: /waterville/
-latitude: 41.509
-longitude: -83.751
+latitude: 41.499
+longitude: -83.719
 ---

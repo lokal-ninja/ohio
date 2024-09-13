@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /columbus/speedway-west-broad-street/
-shop: Lebensmittel
+shop: convenience
 ---

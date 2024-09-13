@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /chardon/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

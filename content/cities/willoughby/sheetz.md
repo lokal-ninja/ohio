@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /willoughby/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

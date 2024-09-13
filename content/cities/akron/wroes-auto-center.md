@@ -1,5 +1,5 @@
 ---
 title: "Wroe's Auto Center"
 url: /akron/wroes-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

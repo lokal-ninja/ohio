@@ -1,5 +1,5 @@
 ---
 title: "Montgomery Cyclery"
 url: /west-chester/montgomery-cyclery/
-shop: Fahrrad
+shop: bicycle
 ---

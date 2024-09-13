@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /bowling-green/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

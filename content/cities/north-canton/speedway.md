@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /north-canton/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

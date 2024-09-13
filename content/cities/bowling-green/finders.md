@@ -1,5 +1,5 @@
 ---
 title: "Finders"
 url: /bowling-green/finders/
-shop: Musik
+shop: music
 ---

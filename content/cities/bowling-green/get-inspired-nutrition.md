@@ -1,5 +1,5 @@
 ---
 title: "Get Inspired Nutrition"
 url: /bowling-green/get-inspired-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Studio 3"
 url: /strongsville/studio-3/
-shop: Friseur
+shop: hairdresser
 ---

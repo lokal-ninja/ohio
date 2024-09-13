@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /harrison/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

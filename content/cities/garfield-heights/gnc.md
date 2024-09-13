@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /garfield-heights/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

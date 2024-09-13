@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /celina/menards/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /sylvania/kroger-monroe-street/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /willoughby/dollar-general-euclid-avenue/
-shop: Kramladen
+shop: variety store
 ---

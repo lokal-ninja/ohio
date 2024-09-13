@@ -1,5 +1,5 @@
 ---
 title: "Oddities"
 url: /fairborn/oddities/
-shop: Sammler
+shop: collector
 ---

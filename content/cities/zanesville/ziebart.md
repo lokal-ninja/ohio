@@ -1,5 +1,5 @@
 ---
 title: "Ziebart"
 url: /zanesville/ziebart/
-shop: Autowerkstatt
+shop: car repair
 ---

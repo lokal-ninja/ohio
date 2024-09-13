@@ -1,5 +1,5 @@
 ---
 title: "CheckSmart"
 url: /lancaster/checksmart/
-shop: Leiher
+shop: pawnbroker
 ---

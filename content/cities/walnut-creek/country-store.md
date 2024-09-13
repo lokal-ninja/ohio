@@ -1,5 +1,5 @@
 ---
 title: "Country Store"
 url: /walnut-creek/country-store/
-shop: Andenken
+shop: gift
 ---

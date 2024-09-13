@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /groveport/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Defender Self Storage"
 url: /lorain/defender-self-storage/
-shop: Mieten
+shop: storage rental
 ---

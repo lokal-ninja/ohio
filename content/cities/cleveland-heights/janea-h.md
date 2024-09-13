@@ -1,5 +1,5 @@
 ---
 title: "Janea H"
 url: /cleveland-heights/janea-h/
-shop: Kleidung
+shop: clothes
 ---

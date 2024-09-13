@@ -1,5 +1,5 @@
 ---
 title: "Certified"
 url: /saint-marys/certified-2/
-shop: Lebensmittel
+shop: convenience
 ---

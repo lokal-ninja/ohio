@@ -1,5 +1,5 @@
 ---
 title: "Village"
 url: /north-olmsted/village/
-shop: Sport
+shop: sports
 ---

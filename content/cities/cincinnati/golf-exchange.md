@@ -1,5 +1,5 @@
 ---
 title: "Golf Exchange"
 url: /cincinnati/golf-exchange/
-shop: Sport
+shop: sports
 ---

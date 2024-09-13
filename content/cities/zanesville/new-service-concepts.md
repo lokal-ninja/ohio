@@ -1,5 +1,5 @@
 ---
 title: "New Service Concepts"
 url: /zanesville/new-service-concepts/
-shop: Allgemein
+shop: shop
 ---

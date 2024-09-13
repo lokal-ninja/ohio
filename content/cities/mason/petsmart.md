@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /mason/petsmart/
-shop: Tiere
+shop: pet
 ---

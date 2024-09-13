@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /avon/meijer-nagel-road/
-shop: Supermarkt
+shop: supermarket
 ---

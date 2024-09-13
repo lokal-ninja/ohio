@@ -1,5 +1,5 @@
 ---
 title: "Willo TrueValue Hardware"
 url: /willoughby/willo-truevalue-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

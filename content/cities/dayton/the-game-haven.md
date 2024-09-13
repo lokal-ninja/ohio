@@ -1,5 +1,5 @@
 ---
 title: "The Game Haven"
 url: /dayton/the-game-haven/
-shop: Spiele
+shop: games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /lima/kohls/
-shop: Warenhaus
+shop: department store
 ---

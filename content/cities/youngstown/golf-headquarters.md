@@ -1,5 +1,5 @@
 ---
 title: "Golf Headquarters"
 url: /youngstown/golf-headquarters/
-shop: Sport
+shop: sports
 ---

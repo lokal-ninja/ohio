@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lewis-center/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

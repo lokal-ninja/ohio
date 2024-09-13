@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /westlake/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

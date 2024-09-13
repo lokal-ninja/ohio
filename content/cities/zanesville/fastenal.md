@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /zanesville/fastenal/
-shop: Baustoffe
+shop: trade
 ---

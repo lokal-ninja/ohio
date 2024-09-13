@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /wauseon/gamestop/
-shop: Videospiele
+shop: video games
 ---

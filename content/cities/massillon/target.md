@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /massillon/target/
-shop: Warenhaus
+shop: department store
 ---

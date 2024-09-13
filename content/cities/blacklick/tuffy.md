@@ -1,5 +1,5 @@
 ---
 title: "Tuffy"
 url: /blacklick/tuffy/
-shop: Autowerkstatt
+shop: car repair
 ---

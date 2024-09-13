@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cleveland/aldi-euclid-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

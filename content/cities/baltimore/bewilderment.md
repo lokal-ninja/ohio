@@ -1,5 +1,5 @@
 ---
 title: "Bewilderment"
 url: /baltimore/bewilderment/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /cincinnati/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /strongsville/rebel/
-shop: Lebensmittel
+shop: convenience
 ---

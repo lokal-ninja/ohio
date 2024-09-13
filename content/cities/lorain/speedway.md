@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lorain/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

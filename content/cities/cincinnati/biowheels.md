@@ -1,5 +1,5 @@
 ---
 title: "BioWheels"
 url: /cincinnati/biowheels/
-shop: Fahrrad
+shop: bicycle
 ---

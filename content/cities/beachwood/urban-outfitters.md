@@ -1,5 +1,5 @@
 ---
 title: "Urban Outfitters"
 url: /beachwood/urban-outfitters/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Forever Games"
 url: /lancaster/forever-games/
-shop: Videospiele
+shop: video games
 ---

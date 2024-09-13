@@ -1,5 +1,5 @@
 ---
 title: "Rhj"
 url: /springfield/rhj/
-shop: Lebensmittel
+shop: convenience
 ---

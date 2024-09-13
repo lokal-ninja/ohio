@@ -1,5 +1,5 @@
 ---
 title: "ST Nails"
 url: /kent/st-nails/
-shop: Kosmetik
+shop: beauty
 ---

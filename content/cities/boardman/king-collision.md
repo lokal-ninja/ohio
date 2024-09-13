@@ -1,5 +1,5 @@
 ---
 title: "King Collision"
 url: /boardman/king-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

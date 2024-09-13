@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /elyria/u-haul/
-shop: Mieten
+shop: storage rental
 ---

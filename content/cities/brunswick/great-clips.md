@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /brunswick/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

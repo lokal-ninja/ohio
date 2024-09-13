@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /boardman/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

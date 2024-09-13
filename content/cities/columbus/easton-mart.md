@@ -1,5 +1,5 @@
 ---
 title: "Easton Mart"
 url: /columbus/easton-mart/
-shop: Lebensmittel
+shop: convenience
 ---

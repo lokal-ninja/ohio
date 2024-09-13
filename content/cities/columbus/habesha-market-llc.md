@@ -1,5 +1,5 @@
 ---
 title: "Habesha Market LLC"
 url: /columbus/habesha-market-llc/
-shop: Lebensmittel
+shop: convenience
 ---

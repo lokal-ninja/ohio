@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /columbus/dollar-tree-west-broad-street/
-shop: Kramladen
+shop: variety store
 ---

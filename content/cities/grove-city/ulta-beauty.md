@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /grove-city/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

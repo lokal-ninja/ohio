@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /zanesville/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

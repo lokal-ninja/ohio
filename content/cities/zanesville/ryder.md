@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /zanesville/ryder/
-shop: Mieten
+shop: storage rental
 ---

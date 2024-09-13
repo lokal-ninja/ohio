@@ -1,5 +1,5 @@
 ---
 title: "Finish Line"
 url: /aurora/finish-line/
-shop: Sport
+shop: sports
 ---

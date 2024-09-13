@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /cincinnati/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

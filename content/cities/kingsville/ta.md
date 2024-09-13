@@ -1,5 +1,5 @@
 ---
 title: "TA"
 url: /kingsville/ta/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SourceOne Supply"
 url: /zanesville/sourceone-supply/
-shop: Allgemein
+shop: shop
 ---

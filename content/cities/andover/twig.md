@@ -1,5 +1,5 @@
 ---
 title: "TWIG"
 url: /andover/twig/
-shop: Antiquitäten
+shop: antiques
 ---

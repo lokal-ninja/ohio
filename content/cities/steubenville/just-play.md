@@ -1,5 +1,5 @@
 ---
 title: "Just Play"
 url: /steubenville/just-play/
-shop: Videospiele
+shop: video games
 ---

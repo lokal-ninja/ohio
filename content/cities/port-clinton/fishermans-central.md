@@ -1,5 +1,5 @@
 ---
 title: "Fisherman's Central"
 url: /port-clinton/fishermans-central/
-shop: Angeln
+shop: fishing
 ---

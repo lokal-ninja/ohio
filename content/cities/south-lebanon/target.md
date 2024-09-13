@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /south-lebanon/target/
-shop: Warenhaus
+shop: department store
 ---

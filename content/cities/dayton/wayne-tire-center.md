@@ -1,5 +1,5 @@
 ---
 title: "Wayne Tire Center"
 url: /dayton/wayne-tire-center/
-shop: Reifen
+shop: tyres
 ---

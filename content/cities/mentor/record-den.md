@@ -1,5 +1,5 @@
 ---
 title: "Record Den"
 url: /mentor/record-den/
-shop: Musik
+shop: music
 ---

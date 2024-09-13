@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /columbus/aldi-north-hamilton-road/
-shop: Supermarkt
+shop: supermarket
 ---

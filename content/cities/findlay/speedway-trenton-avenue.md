@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /findlay/speedway-trenton-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

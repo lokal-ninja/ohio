@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /fairborn/walgreens/
-shop: Drogerie
+shop: chemist
 ---

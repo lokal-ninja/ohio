@@ -1,5 +1,5 @@
 ---
 title: "Soma"
 url: /mason/soma/
-shop: Kleidung
+shop: clothes
 ---

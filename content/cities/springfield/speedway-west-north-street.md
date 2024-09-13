@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /springfield/speedway-west-north-street/
-shop: Lebensmittel
+shop: convenience
 ---

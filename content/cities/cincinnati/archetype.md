@@ -1,5 +1,5 @@
 ---
 title: "Archetype"
 url: /cincinnati/archetype/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Happy Hooker Outdoors"
 url: /oak-harbor/happy-hooker-outdoors/
-shop: Angeln
+shop: fishing
 ---

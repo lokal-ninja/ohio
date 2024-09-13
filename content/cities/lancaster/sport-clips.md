@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /lancaster/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

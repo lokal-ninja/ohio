@@ -1,5 +1,5 @@
 ---
 title: "Wabash"
 url: /celina/wabash/
-shop: Handy
+shop: mobile phone
 ---

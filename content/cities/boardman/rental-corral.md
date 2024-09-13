@@ -1,5 +1,5 @@
 ---
 title: "Rental Corral"
 url: /boardman/rental-corral/
-shop: Partyzubehör
+shop: party
 ---

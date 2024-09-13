@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /zanesville/gamestop-taryn-trace/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lane Drug Company"
 url: /sylvania/lane-drug-company/
-shop: Drogerie
+shop: chemist
 ---

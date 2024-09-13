@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /canal-winchester/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

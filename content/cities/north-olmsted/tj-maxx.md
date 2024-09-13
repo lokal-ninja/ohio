@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /north-olmsted/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

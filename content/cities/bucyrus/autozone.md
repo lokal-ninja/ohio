@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bucyrus/autozone/
-shop: Autoteile
+shop: car parts
 ---

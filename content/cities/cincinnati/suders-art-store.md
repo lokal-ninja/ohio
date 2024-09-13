@@ -1,5 +1,5 @@
 ---
 title: "Suder’s Art Store"
 url: /cincinnati/suders-art-store/
-shop: Basteln
+shop: craft
 ---

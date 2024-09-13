@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /troy/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

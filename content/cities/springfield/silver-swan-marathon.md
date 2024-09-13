@@ -1,5 +1,5 @@
 ---
 title: "Silver Swan Marathon"
 url: /springfield/silver-swan-marathon/
-shop: Lebensmittel
+shop: convenience
 ---

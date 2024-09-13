@@ -1,5 +1,5 @@
 ---
 title: "Cut 'N Blow"
 url: /columbus/cut-n-blow/
-shop: Friseur
+shop: hairdresser
 ---

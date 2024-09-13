@@ -1,5 +1,5 @@
 ---
 title: "King Wireless"
 url: /cleveland/king-wireless/
-shop: Handy
+shop: mobile phone
 ---

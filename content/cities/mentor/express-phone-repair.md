@@ -1,5 +1,5 @@
 ---
 title: "Express Phone Repair"
 url: /mentor/express-phone-repair/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /logan/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

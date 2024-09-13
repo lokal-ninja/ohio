@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /south-euclid/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

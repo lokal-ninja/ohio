@@ -1,5 +1,5 @@
 ---
 title: "CK Nails"
 url: /upper-arlington/ck-nails/
-shop: Kosmetik
+shop: beauty
 ---

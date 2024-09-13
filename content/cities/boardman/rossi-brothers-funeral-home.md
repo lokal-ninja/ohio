@@ -1,5 +1,5 @@
 ---
 title: "Rossi Brothers Funeral Home"
 url: /boardman/rossi-brothers-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

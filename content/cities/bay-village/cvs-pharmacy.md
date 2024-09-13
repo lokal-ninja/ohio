@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /bay-village/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

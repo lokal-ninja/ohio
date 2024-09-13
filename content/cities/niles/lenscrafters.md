@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /niles/lenscrafters/
-shop: Optiker
+shop: optician
 ---

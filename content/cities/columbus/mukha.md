@@ -1,5 +1,5 @@
 ---
 title: "Mukha"
 url: /columbus/mukha/
-shop: Kosmetik
+shop: beauty
 ---

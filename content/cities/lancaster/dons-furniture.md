@@ -1,5 +1,5 @@
 ---
 title: "Don's Furniture"
 url: /lancaster/dons-furniture/
-shop: Möbel
+shop: furniture
 ---

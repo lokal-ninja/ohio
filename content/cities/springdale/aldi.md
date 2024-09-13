@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /springdale/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

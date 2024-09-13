@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /groveport/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

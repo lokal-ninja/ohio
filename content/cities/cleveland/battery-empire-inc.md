@@ -1,5 +1,5 @@
 ---
 title: "Battery Empire Inc"
 url: /cleveland/battery-empire-inc/
-shop: Energie
+shop: energy
 ---

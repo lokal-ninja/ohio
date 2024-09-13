@@ -1,5 +1,5 @@
 ---
 title: "Fuzz's Barbershop"
 url: /lancaster/fuzzs-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

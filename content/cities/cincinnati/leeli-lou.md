@@ -1,5 +1,5 @@
 ---
 title: "Leeli+Lou"
 url: /cincinnati/leeli-lou/
-shop: Kleidung
+shop: clothes
 ---

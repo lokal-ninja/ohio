@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /dublin/kroger-west-bridge-street/
-shop: Supermarkt
+shop: supermarket
 ---

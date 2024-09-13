@@ -1,5 +1,5 @@
 ---
 title: "Tansky Sawmill Toyota"
 url: /dublin/tansky-sawmill-toyota/
-shop: Autohaus
+shop: car
 ---

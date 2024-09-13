@@ -1,5 +1,5 @@
 ---
 title: "Winerak Market"
 url: /zanesville/winerak-market/
-shop: Spirituosen
+shop: alcohol
 ---

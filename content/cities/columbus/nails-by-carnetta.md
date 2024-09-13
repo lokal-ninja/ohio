@@ -1,5 +1,5 @@
 ---
 title: "Nails by Carnetta"
 url: /columbus/nails-by-carnetta/
-shop: Kosmetik
+shop: beauty
 ---

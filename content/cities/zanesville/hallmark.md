@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /zanesville/hallmark/
-shop: Andenken
+shop: gift
 ---

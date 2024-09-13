@@ -1,5 +1,5 @@
 ---
 title: "Buckeye Quality Meats"
 url: /streetsboro/buckeye-quality-meats/
-shop: Metzgerei
+shop: butcher
 ---

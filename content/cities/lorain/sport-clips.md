@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /lorain/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

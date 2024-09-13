@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /reynoldsburg/walgreens/
-shop: Drogerie
+shop: chemist
 ---

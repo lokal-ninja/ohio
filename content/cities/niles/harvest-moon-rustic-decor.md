@@ -1,5 +1,5 @@
 ---
 title: "Harvest Moon Rustic Decor"
 url: /niles/harvest-moon-rustic-decor/
-shop: Raumausstattung
+shop: interior decoration
 ---

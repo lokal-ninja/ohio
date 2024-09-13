@@ -1,5 +1,5 @@
 ---
 title: "Sandusky Hardware"
 url: /sandusky/sandusky-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

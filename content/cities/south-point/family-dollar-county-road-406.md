@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /south-point/family-dollar-county-road-406/
-shop: Kramladen
+shop: variety store
 ---

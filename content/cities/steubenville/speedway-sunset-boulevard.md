@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /steubenville/speedway-sunset-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

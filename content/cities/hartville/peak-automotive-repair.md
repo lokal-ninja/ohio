@@ -1,5 +1,5 @@
 ---
 title: "Peak Automotive Repair"
 url: /hartville/peak-automotive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

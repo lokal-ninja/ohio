@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /newark/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

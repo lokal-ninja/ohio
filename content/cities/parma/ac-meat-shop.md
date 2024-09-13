@@ -1,5 +1,5 @@
 ---
 title: "AC Meat Shop"
 url: /parma/ac-meat-shop/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lava Wash Laundromat"
 url: /lancaster/lava-wash-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

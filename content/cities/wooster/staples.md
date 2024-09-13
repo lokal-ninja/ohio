@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /wooster/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

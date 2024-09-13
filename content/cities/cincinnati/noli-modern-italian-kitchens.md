@@ -1,5 +1,5 @@
 ---
 title: "NOLI Modern Italian Kitchens"
 url: /cincinnati/noli-modern-italian-kitchens/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Short North Storage"
 url: /columbus/short-north-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /mayfield-heights/autozone/
-shop: Autoteile
+shop: car parts
 ---

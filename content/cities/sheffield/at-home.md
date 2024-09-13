@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /sheffield/at-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

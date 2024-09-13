@@ -1,5 +1,5 @@
 ---
 title: "Howard's Tire Services"
 url: /sidney/howards-tire-services/
-shop: Reifen
+shop: tyres
 ---

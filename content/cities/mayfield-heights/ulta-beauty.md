@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /mayfield-heights/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

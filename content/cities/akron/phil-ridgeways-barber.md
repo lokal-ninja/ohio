@@ -1,5 +1,5 @@
 ---
 title: "Phil Ridgeway's Barber"
 url: /akron/phil-ridgeways-barber/
-shop: Friseur
+shop: hairdresser
 ---

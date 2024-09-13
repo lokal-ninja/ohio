@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /calcutta/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

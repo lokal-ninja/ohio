@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /fremont/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FC Cincinnati Team Store"
 url: /cincinnati/fc-cincinnati-team-store/
-shop: Sport
+shop: sports
 ---

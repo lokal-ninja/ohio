@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /uniontown/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

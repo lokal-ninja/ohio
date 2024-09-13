@@ -1,5 +1,5 @@
 ---
 title: "Dave's Running Shop"
 url: /perrysburg/daves-running-shop/
-shop: Schuhe
+shop: shoes
 ---

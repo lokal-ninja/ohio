@@ -1,5 +1,5 @@
 ---
 title: "Colonial Laundry"
 url: /findlay/colonial-laundry/
-shop: Wäscherei
+shop: laundry
 ---

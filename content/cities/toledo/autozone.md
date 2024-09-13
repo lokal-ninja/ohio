@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /toledo/autozone/
-shop: Autoteile
+shop: car parts
 ---

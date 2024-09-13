@@ -1,5 +1,5 @@
 ---
 title: "Heights Hardware (ACE)"
 url: /cleveland-heights/heights-hardware-ace/
-shop: Baumarkt
+shop: doityourself
 ---

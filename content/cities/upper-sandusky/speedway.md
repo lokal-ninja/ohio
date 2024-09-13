@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /upper-sandusky/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coin Mart"
 url: /zanesville/coin-mart/
-shop: Gebrauchtwaren
+shop: charity
 ---

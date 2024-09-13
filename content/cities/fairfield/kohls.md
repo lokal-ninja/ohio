@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /fairfield/kohls/
-shop: Warenhaus
+shop: department store
 ---

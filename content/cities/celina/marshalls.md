@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /celina/marshalls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /cleveland/burlington-lorain-avenue/
-shop: Warenhaus
+shop: department store
 ---

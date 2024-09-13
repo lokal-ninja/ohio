@@ -1,5 +1,5 @@
 ---
 title: "Vanderbrook"
 url: /cleveland-heights/vanderbrook/
-shop: Blumen
+shop: florist
 ---

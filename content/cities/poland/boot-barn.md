@@ -1,5 +1,5 @@
 ---
 title: "Boot Barn"
 url: /poland/boot-barn/
-shop: Kleidung
+shop: clothes
 ---

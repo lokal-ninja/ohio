@@ -1,5 +1,5 @@
 ---
 title: "All Makes Vacuum"
 url: /cleveland-heights/all-makes-vacuum/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

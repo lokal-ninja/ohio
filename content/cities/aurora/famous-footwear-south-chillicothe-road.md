@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /aurora/famous-footwear-south-chillicothe-road/
-shop: Schuhe
+shop: shoes
 ---

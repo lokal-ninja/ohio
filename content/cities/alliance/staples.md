@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /alliance/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

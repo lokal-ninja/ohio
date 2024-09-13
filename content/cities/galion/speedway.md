@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /galion/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /north-olmsted/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

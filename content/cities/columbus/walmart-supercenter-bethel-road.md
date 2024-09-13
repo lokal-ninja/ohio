@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /columbus/walmart-supercenter-bethel-road/
-shop: Supermarkt
+shop: supermarket
 ---

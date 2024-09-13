@@ -1,5 +1,5 @@
 ---
 title: "Ross Agri Mechanics"
 url: /zanesville/ross-agri-mechanics/
-shop: Allgemein
+shop: shop
 ---

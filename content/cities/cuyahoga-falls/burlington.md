@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /cuyahoga-falls/burlington/
-shop: Warenhaus
+shop: department store
 ---

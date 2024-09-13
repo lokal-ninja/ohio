@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /cincinnati/target/
-shop: Warenhaus
+shop: department store
 ---

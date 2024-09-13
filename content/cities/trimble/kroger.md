@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /trimble/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

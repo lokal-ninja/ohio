@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /middleburg-heights/marshalls/
-shop: Warenhaus
+shop: department store
 ---

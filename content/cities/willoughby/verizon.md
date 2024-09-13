@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /willoughby/verizon/
-shop: Handy
+shop: mobile phone
 ---

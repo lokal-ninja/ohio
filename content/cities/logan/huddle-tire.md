@@ -1,5 +1,5 @@
 ---
 title: "Huddle Tire"
 url: /logan/huddle-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

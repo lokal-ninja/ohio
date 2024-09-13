@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /macedonia/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

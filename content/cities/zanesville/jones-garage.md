@@ -1,5 +1,5 @@
 ---
 title: "Jones Garage"
 url: /zanesville/jones-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

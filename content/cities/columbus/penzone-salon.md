@@ -1,5 +1,5 @@
 ---
 title: "Penzone Salon"
 url: /columbus/penzone-salon/
-shop: Friseur
+shop: hairdresser
 ---

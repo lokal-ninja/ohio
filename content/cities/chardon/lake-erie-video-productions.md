@@ -1,5 +1,5 @@
 ---
 title: "Lake Erie Video Productions"
 url: /chardon/lake-erie-video-productions/
-shop: Videothek
+shop: video
 ---

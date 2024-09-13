@@ -1,5 +1,5 @@
 ---
 title: "Omar Hair Design"
 url: /cleveland/omar-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

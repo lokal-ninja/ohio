@@ -1,5 +1,5 @@
 ---
 title: "Black Radish Creamery"
 url: /columbus/black-radish-creamery/
-shop: Käse
+shop: cheese
 ---

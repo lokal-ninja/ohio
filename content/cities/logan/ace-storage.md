@@ -1,5 +1,5 @@
 ---
 title: "Ace Storage"
 url: /logan/ace-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Katz Tires"
 url: /mansfield/katz-tires/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /west-chester/mattress-firm/
-shop: Betten
+shop: bed
 ---

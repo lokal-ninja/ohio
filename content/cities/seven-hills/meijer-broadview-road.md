@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /seven-hills/meijer-broadview-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /aurora/michaels/
-shop: Basteln
+shop: craft
 ---

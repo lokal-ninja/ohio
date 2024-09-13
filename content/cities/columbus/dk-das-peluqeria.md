@@ -1,5 +1,5 @@
 ---
 title: "DK Das Peluqeria"
 url: /columbus/dk-das-peluqeria/
-shop: Friseur
+shop: hairdresser
 ---

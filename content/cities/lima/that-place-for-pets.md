@@ -1,5 +1,5 @@
 ---
 title: "That Place for Pets"
 url: /lima/that-place-for-pets/
-shop: Tiersalon
+shop: pet grooming
 ---

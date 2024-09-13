@@ -1,5 +1,5 @@
 ---
 title: "Zaiqa Indian Grocery"
 url: /twinsburg/zaiqa-indian-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Darrow's Automotive Services"
 url: /toledo/darrows-automotive-services/
-shop: Autowerkstatt
+shop: car repair
 ---

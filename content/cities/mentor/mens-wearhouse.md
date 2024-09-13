@@ -1,5 +1,5 @@
 ---
 title: "Men's Wearhouse"
 url: /mentor/mens-wearhouse/
-shop: Kleidung
+shop: clothes
 ---

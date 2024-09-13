@@ -1,5 +1,5 @@
 ---
 title: "Haas Bakery"
 url: /oregon/haas-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /calcutta/sears/
-shop: Warenhaus
+shop: department store
 ---

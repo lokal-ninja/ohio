@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /north-canton/michaels/
-shop: Basteln
+shop: craft
 ---

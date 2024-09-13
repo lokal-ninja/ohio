@@ -1,5 +1,5 @@
 ---
 title: "Tandy Leather"
 url: /middleburg-heights/tandy-leather/
-shop: Allgemein
+shop: shop
 ---

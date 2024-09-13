@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /rossford/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

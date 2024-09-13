@@ -1,5 +1,5 @@
 ---
 title: "gracylane"
 url: /beachwood/gracylane/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /vermilion/ford/
-shop: Autohaus
+shop: car
 ---

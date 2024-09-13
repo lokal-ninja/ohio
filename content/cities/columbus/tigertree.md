@@ -1,5 +1,5 @@
 ---
 title: "Tigertree"
 url: /columbus/tigertree/
-shop: Kleidung
+shop: clothes
 ---

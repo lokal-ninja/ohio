@@ -1,5 +1,5 @@
 ---
 title: "Southend Tobacco Outlet"
 url: /zanesville/southend-tobacco-outlet/
-shop: Tabak
+shop: tobacco
 ---

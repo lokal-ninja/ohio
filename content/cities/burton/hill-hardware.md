@@ -1,5 +1,5 @@
 ---
 title: "Hill Hardware"
 url: /burton/hill-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Three Sixty Bike Shop"
 url: /zanesville/three-sixty-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

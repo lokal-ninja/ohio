@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /groveport/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

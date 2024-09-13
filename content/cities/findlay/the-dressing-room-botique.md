@@ -1,5 +1,5 @@
 ---
 title: "The Dressing Room Botique"
 url: /findlay/the-dressing-room-botique/
-shop: Kleidung
+shop: clothes
 ---

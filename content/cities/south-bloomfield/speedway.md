@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /south-bloomfield/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

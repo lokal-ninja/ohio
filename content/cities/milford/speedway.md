@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /milford/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

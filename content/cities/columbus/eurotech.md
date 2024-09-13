@@ -1,5 +1,5 @@
 ---
 title: "Eurotech"
 url: /columbus/eurotech/
-shop: Autowerkstatt
+shop: car repair
 ---

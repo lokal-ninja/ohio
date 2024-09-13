@@ -1,5 +1,5 @@
 ---
 title: "Nelson's Thrift Store"
 url: /athens/nelsons-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

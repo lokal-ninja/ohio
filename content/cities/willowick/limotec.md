@@ -1,5 +1,5 @@
 ---
 title: "Limotec"
 url: /willowick/limotec/
-shop: Autowerkstatt
+shop: car repair
 ---

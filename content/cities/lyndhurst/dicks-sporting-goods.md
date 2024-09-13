@@ -1,5 +1,5 @@
 ---
 title: "Dick's Sporting Goods"
 url: /lyndhurst/dicks-sporting-goods/
-shop: Sport
+shop: sports
 ---

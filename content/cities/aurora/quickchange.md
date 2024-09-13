@@ -1,5 +1,5 @@
 ---
 title: "QuickChange"
 url: /aurora/quickchange/
-shop: Autowerkstatt
+shop: car repair
 ---

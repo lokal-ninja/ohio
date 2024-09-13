@@ -1,5 +1,5 @@
 ---
 title: "Lucky Shoes"
 url: /mason/lucky-shoes/
-shop: Schuhe
+shop: shoes
 ---

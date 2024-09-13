@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /springfield/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

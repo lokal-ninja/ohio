@@ -1,5 +1,5 @@
 ---
 title: "Self Storage Units"
 url: /saint-marys/self-storage-units/
-shop: Mieten
+shop: storage rental
 ---

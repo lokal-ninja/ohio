@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /cleveland/family-dollar-west-130th-street/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /grove-city/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

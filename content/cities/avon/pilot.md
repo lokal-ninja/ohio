@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /avon/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

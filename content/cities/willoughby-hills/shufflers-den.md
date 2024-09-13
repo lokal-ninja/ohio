@@ -1,5 +1,5 @@
 ---
 title: "Shuffler's Den"
 url: /willoughby-hills/shufflers-den/
-shop: Spiele
+shop: games
 ---

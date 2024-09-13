@@ -1,5 +1,5 @@
 ---
 title: "DreamLuxe Beauty Studio"
 url: /zanesville/dreamluxe-beauty-studio/
-shop: Friseur
+shop: hairdresser
 ---

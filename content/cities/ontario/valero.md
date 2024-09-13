@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /ontario/valero/
-shop: Lebensmittel
+shop: convenience
 ---

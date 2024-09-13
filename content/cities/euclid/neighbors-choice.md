@@ -1,5 +1,5 @@
 ---
 title: "Neighbor's Choice"
 url: /euclid/neighbors-choice/
-shop: Lebensmittel
+shop: convenience
 ---

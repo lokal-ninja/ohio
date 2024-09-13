@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /kent/kohls/
-shop: Warenhaus
+shop: department store
 ---

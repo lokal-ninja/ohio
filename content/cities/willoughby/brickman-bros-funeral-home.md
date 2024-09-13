@@ -1,5 +1,5 @@
 ---
 title: "Brickman Bros Funeral Home"
 url: /willoughby/brickman-bros-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

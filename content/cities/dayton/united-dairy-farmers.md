@@ -1,5 +1,5 @@
 ---
 title: "United Dairy Farmers"
 url: /dayton/united-dairy-farmers/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /bowling-green/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

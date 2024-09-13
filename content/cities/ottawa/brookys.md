@@ -1,5 +1,5 @@
 ---
 title: "Brookys"
 url: /ottawa/brookys/
-shop: Lebensmittel
+shop: convenience
 ---

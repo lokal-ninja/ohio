@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /conneaut/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /ontario/roots/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eddy's Bike Shop"
 url: /stow/eddys-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

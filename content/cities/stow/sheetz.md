@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /stow/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

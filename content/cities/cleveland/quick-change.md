@@ -1,5 +1,5 @@
 ---
 title: "Quick Change"
 url: /cleveland/quick-change/
-shop: Autowerkstatt
+shop: car repair
 ---

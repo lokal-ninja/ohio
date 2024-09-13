@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /mayfield-heights/hallmark/
-shop: Andenken
+shop: gift
 ---

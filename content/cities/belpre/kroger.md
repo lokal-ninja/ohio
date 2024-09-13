@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /belpre/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

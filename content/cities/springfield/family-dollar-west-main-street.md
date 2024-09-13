@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /springfield/family-dollar-west-main-street/
-shop: Kramladen
+shop: variety store
 ---

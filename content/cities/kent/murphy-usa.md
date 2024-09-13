@@ -1,5 +1,5 @@
 ---
 title: "Murphy USA"
 url: /kent/murphy-usa/
-shop: Lebensmittel
+shop: convenience
 ---

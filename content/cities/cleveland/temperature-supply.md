@@ -1,5 +1,5 @@
 ---
 title: "Temperature Supply"
 url: /cleveland/temperature-supply/
-shop: Haushaltsgeräte
+shop: appliance
 ---

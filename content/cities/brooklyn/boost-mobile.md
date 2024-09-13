@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /brooklyn/boost-mobile/
-shop: Handy
+shop: mobile phone
 ---

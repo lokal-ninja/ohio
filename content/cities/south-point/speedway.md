@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /south-point/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

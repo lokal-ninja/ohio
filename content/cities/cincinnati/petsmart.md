@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /cincinnati/petsmart/
-shop: Tiere
+shop: pet
 ---

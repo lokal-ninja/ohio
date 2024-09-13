@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /canton/burlington/
-shop: Warenhaus
+shop: department store
 ---

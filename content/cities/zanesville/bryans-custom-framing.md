@@ -1,5 +1,5 @@
 ---
 title: "Bryan's Custom Framing"
 url: /zanesville/bryans-custom-framing/
-shop: Rahmen
+shop: frame
 ---

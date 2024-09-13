@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /sandusky/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

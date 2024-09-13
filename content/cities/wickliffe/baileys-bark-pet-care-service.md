@@ -1,5 +1,5 @@
 ---
 title: "Bailey's Bark Pet Care Service"
 url: /wickliffe/baileys-bark-pet-care-service/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DeMartin's Auto Body"
 url: /richmond/demartins-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

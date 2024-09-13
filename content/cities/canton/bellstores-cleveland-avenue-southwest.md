@@ -1,5 +1,5 @@
 ---
 title: "BellStores"
 url: /canton/bellstores-cleveland-avenue-southwest/
-shop: Lebensmittel
+shop: convenience
 ---

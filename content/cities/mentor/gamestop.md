@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /mentor/gamestop/
-shop: Videospiele
+shop: video games
 ---

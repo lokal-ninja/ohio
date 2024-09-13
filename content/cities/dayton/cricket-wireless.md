@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /dayton/cricket-wireless/
-shop: Handy
+shop: mobile phone
 ---

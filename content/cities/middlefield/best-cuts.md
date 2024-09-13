@@ -1,5 +1,5 @@
 ---
 title: "Best Cuts"
 url: /middlefield/best-cuts/
-shop: Friseur
+shop: hairdresser
 ---

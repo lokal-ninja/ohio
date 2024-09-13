@@ -1,5 +1,5 @@
 ---
 title: "Cabela's"
 url: /centerville/cabelas/
-shop: Outdoor
+shop: outdoor
 ---

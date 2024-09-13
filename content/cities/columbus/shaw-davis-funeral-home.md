@@ -1,5 +1,5 @@
 ---
 title: "Shaw-Davis Funeral Home"
 url: /columbus/shaw-davis-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

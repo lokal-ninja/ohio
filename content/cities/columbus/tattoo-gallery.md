@@ -1,5 +1,5 @@
 ---
 title: "Tattoo Gallery"
 url: /columbus/tattoo-gallery/
-shop: Tattoo
+shop: tattoo
 ---

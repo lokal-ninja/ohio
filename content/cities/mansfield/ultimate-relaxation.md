@@ -1,5 +1,5 @@
 ---
 title: "Ultimate Relaxation"
 url: /mansfield/ultimate-relaxation/
-shop: Massage
+shop: massage
 ---

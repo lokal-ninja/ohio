@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /marysville/autozone/
-shop: Autoteile
+shop: car parts
 ---

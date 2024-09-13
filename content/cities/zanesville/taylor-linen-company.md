@@ -1,5 +1,5 @@
 ---
 title: "Taylor Linen Company"
 url: /zanesville/taylor-linen-company/
-shop: Allgemein
+shop: shop
 ---

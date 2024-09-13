@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /youngstown/giant-eagle-mahoning-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

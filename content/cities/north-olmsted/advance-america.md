@@ -1,5 +1,5 @@
 ---
 title: "Advance America"
 url: /north-olmsted/advance-america/
-shop: Leiher
+shop: pawnbroker
 ---

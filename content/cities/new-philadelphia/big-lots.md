@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /new-philadelphia/big-lots/
-shop: Warenhaus
+shop: department store
 ---

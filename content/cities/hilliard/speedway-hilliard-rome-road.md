@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /hilliard/speedway-hilliard-rome-road/
-shop: Lebensmittel
+shop: convenience
 ---

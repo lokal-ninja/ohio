@@ -1,5 +1,5 @@
 ---
 title: "Sparkle"
 url: /andover/sparkle/
-shop: Supermarkt
+shop: supermarket
 ---

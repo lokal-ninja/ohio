@@ -1,5 +1,5 @@
 ---
 title: "Brian Jewelers"
 url: /newton-falls/brian-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

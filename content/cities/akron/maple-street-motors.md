@@ -1,5 +1,5 @@
 ---
 title: "Maple Street Motors"
 url: /akron/maple-street-motors/
-shop: Autohaus
+shop: car
 ---

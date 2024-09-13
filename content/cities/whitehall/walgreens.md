@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /whitehall/walgreens/
-shop: Drogerie
+shop: chemist
 ---

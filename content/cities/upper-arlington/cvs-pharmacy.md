@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /upper-arlington/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

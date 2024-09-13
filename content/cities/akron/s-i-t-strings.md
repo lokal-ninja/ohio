@@ -1,5 +1,5 @@
 ---
 title: "S.I.T. Strings"
 url: /akron/s-i-t-strings/
-shop: Instrumente
+shop: musical instrument
 ---

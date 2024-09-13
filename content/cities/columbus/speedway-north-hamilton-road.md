@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /columbus/speedway-north-hamilton-road/
-shop: Lebensmittel
+shop: convenience
 ---

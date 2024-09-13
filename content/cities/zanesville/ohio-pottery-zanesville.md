@@ -1,5 +1,5 @@
 ---
 title: "Ohio Pottery Zanesville"
 url: /zanesville/ohio-pottery-zanesville/
-shop: Töpferei
+shop: pottery
 ---

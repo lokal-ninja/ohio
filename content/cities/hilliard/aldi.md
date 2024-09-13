@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /hilliard/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

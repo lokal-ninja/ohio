@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /cincinnati/target-glenway-avenue/
-shop: Warenhaus
+shop: department store
 ---

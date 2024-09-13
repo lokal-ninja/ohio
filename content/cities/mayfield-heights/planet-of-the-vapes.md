@@ -1,5 +1,5 @@
 ---
 title: "Planet of the Vapes"
 url: /mayfield-heights/planet-of-the-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

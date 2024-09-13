@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /piqua/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

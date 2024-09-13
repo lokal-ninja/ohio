@@ -1,5 +1,5 @@
 ---
 title: "McCall's Auto Solution"
 url: /mansfield/mccalls-auto-solution/
-shop: Autowerkstatt
+shop: car repair
 ---

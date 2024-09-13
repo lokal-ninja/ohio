@@ -1,5 +1,5 @@
 ---
 title: "Century Cycles"
 url: /shaker-heights/century-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

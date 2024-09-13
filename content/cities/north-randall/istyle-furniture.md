@@ -1,5 +1,5 @@
 ---
 title: "iStyle Furniture"
 url: /north-randall/istyle-furniture/
-shop: Möbel
+shop: furniture
 ---

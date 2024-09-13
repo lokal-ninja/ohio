@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /boardman/target/
-shop: Warenhaus
+shop: department store
 ---

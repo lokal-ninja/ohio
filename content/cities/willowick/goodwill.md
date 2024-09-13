@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /willowick/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

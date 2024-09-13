@@ -1,5 +1,5 @@
 ---
 title: "Courtyard Square"
 url: /bowling-green/courtyard-square/
-shop: Einkaufszentrum
+shop: mall
 ---

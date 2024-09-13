@@ -1,5 +1,5 @@
 ---
 title: "Tsp"
 url: /cambridge/tsp/
-shop: Lebensmittel
+shop: convenience
 ---

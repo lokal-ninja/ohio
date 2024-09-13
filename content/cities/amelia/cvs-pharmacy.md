@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /amelia/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

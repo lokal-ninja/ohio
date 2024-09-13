@@ -1,5 +1,5 @@
 ---
 title: "Longs Cleaners"
 url: /bowling-green/longs-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

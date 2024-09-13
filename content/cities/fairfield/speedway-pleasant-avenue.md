@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fairfield/speedway-pleasant-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

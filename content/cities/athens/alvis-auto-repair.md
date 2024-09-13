@@ -1,5 +1,5 @@
 ---
 title: "Alvis Auto Repair"
 url: /athens/alvis-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

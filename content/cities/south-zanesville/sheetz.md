@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /south-zanesville/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safah Market"
 url: /columbus/safah-market/
-shop: Lebensmittel
+shop: convenience
 ---

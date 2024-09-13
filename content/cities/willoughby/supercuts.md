@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /willoughby/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

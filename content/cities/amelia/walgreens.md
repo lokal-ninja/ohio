@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /amelia/walgreens/
-shop: Drogerie
+shop: chemist
 ---

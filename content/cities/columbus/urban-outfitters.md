@@ -1,5 +1,5 @@
 ---
 title: "Urban Outfitters"
 url: /columbus/urban-outfitters/
-shop: Kleidung
+shop: clothes
 ---

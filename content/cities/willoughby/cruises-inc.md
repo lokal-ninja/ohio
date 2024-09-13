@@ -1,5 +1,5 @@
 ---
 title: "Cruises, Inc"
 url: /willoughby/cruises-inc/
-shop: Reisebüro
+shop: travel agency
 ---

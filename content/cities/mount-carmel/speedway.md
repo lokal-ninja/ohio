@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /mount-carmel/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

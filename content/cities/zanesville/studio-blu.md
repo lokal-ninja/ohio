@@ -1,5 +1,5 @@
 ---
 title: "Studio Blu"
 url: /zanesville/studio-blu/
-shop: Friseur
+shop: hairdresser
 ---

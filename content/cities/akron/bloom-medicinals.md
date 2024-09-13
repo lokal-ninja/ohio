@@ -1,5 +1,5 @@
 ---
 title: "Bloom Medicinals"
 url: /akron/bloom-medicinals/
-shop: Hanf
+shop: cannabis
 ---

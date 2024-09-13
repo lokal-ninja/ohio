@@ -1,5 +1,5 @@
 ---
 title: "Adelsys"
 url: /cleveland-heights/adelsys/
-shop: Sanitätshaus
+shop: medical supply
 ---

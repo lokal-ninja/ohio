@@ -1,5 +1,5 @@
 ---
 title: "Lashley Tractor Sales"
 url: /zanesville/lashley-tractor-sales/
-shop: Allgemein
+shop: shop
 ---

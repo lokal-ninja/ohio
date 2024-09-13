@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /lancaster/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

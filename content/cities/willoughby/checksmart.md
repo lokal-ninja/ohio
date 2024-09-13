@@ -1,5 +1,5 @@
 ---
 title: "CheckSmart"
 url: /willoughby/checksmart/
-shop: Leiher
+shop: pawnbroker
 ---

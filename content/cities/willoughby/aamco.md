@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /willoughby/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

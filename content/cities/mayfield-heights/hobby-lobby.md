@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /mayfield-heights/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

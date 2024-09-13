@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /columbus/speedway-refugee-road/
-shop: Lebensmittel
+shop: convenience
 ---

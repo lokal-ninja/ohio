@@ -1,5 +1,5 @@
 ---
 title: "Corkscrew Johnny’s"
 url: /richfield/corkscrew-johnnys/
-shop: Spirituosen
+shop: alcohol
 ---

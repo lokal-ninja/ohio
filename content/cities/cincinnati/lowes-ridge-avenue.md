@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /cincinnati/lowes-ridge-avenue/
-shop: Baumarkt
+shop: doityourself
 ---

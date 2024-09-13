@@ -1,5 +1,5 @@
 ---
 title: "Modern Office Methods"
 url: /zanesville/modern-office-methods/
-shop: Kopieren
+shop: copyshop
 ---

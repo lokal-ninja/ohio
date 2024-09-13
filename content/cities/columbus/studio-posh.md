@@ -1,5 +1,5 @@
 ---
 title: "Studio Posh"
 url: /columbus/studio-posh/
-shop: Friseur
+shop: hairdresser
 ---

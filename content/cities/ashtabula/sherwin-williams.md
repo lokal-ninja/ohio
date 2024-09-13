@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /ashtabula/sherwin-williams/
-shop: Farben
+shop: paint
 ---

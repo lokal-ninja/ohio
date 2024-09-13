@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /milford/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

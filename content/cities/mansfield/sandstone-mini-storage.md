@@ -1,5 +1,5 @@
 ---
 title: "Sandstone Mini Storage"
 url: /mansfield/sandstone-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

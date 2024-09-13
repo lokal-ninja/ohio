@@ -1,5 +1,5 @@
 ---
 title: "Mezmerize"
 url: /columbus/mezmerize/
-shop: Friseur
+shop: hairdresser
 ---

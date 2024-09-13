@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /xenia/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

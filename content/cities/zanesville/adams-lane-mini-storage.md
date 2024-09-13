@@ -1,5 +1,5 @@
 ---
 title: "Adams Lane Mini Storage"
 url: /zanesville/adams-lane-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /ontario/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

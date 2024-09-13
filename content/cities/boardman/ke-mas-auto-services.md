@@ -1,5 +1,5 @@
 ---
 title: "Ke-Mas Auto Services"
 url: /boardman/ke-mas-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

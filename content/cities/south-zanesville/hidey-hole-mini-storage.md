@@ -1,5 +1,5 @@
 ---
 title: "Hidey Hole Mini Storage"
 url: /south-zanesville/hidey-hole-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

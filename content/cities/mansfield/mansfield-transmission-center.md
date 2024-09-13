@@ -1,5 +1,5 @@
 ---
 title: "Mansfield Transmission Center"
 url: /mansfield/mansfield-transmission-center/
-shop: Autowerkstatt
+shop: car repair
 ---

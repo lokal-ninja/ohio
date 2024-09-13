@@ -1,5 +1,5 @@
 ---
 title: "International Halal Market"
 url: /dayton/international-halal-market/
-shop: Supermarkt
+shop: supermarket
 ---

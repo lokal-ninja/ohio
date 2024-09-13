@@ -1,5 +1,5 @@
 ---
 title: "Undercover Charm"
 url: /burton/undercover-charm/
-shop: Basteln
+shop: craft
 ---

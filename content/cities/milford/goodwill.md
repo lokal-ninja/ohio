@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /milford/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

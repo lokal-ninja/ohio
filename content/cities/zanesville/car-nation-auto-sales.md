@@ -1,5 +1,5 @@
 ---
 title: "Car Nation Auto Sales"
 url: /zanesville/car-nation-auto-sales/
-shop: Autohaus
+shop: car
 ---

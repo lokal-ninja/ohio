@@ -1,5 +1,5 @@
 ---
 title: "Zane Food Mart"
 url: /zanesville/zane-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

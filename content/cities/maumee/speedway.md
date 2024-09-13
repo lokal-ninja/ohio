@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /maumee/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

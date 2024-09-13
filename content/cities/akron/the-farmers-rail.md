@@ -1,5 +1,5 @@
 ---
 title: "The Farmer’s Rail"
 url: /akron/the-farmers-rail/
-shop: Metzgerei
+shop: butcher
 ---

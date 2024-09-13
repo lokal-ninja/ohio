@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /north-olmsted/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

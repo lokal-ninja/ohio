@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /miamisburg/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

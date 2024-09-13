@@ -1,5 +1,5 @@
 ---
 title: "Baker Florist"
 url: /dover/baker-florist/
-shop: Blumen
+shop: florist
 ---

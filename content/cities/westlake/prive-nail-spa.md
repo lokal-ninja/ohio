@@ -1,5 +1,5 @@
 ---
 title: "Prive Nail Spa"
 url: /westlake/prive-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

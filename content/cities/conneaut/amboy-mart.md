@@ -1,5 +1,5 @@
 ---
 title: "Amboy Mart"
 url: /conneaut/amboy-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /fremont/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

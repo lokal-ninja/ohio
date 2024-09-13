@@ -1,5 +1,5 @@
 ---
 title: "Mentor Family Foods"
 url: /mentor/mentor-family-foods/
-shop: Supermarkt
+shop: supermarket
 ---

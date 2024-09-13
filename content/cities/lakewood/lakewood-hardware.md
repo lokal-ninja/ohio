@@ -1,5 +1,5 @@
 ---
 title: "Lakewood Hardware"
 url: /lakewood/lakewood-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

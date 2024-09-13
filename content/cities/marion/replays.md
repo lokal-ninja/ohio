@@ -1,5 +1,5 @@
 ---
 title: "Replays"
 url: /marion/replays/
-shop: Videospiele
+shop: video games
 ---

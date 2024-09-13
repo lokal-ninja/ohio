@@ -1,5 +1,5 @@
 ---
 title: "North Court Beverage"
 url: /medina/north-court-beverage/
-shop: Spirituosen
+shop: alcohol
 ---

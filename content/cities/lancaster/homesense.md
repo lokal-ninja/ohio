@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /lancaster/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

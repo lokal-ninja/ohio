@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /boardman/autozone/
-shop: Autoteile
+shop: car parts
 ---

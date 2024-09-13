@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /zanesville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

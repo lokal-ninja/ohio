@@ -1,5 +1,5 @@
 ---
 title: "Rent-A-Center"
 url: /columbus/rent-a-center/
-shop: Möbel
+shop: furniture
 ---

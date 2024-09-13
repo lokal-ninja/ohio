@@ -1,5 +1,5 @@
 ---
 title: "A Guy Thing"
 url: /parma-heights/a-guy-thing/
-shop: Friseur
+shop: hairdresser
 ---

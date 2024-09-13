@@ -1,5 +1,5 @@
 ---
 title: "Silk Road Textiles"
 url: /cincinnati/silk-road-textiles/
-shop: Textil
+shop: fabric
 ---

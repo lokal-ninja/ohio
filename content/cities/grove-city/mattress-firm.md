@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /grove-city/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /dublin/speedway-west-dublin-granville-road/
-shop: Lebensmittel
+shop: convenience
 ---

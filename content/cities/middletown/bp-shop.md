@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /middletown/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

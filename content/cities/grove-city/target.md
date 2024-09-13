@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /grove-city/target/
-shop: Warenhaus
+shop: department store
 ---

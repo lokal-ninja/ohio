@@ -1,5 +1,5 @@
 ---
 title: "Tansky Motors"
 url: /logan/tansky-motors/
-shop: Autohaus
+shop: car
 ---

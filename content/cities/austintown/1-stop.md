@@ -1,5 +1,5 @@
 ---
 title: "1 Stop"
 url: /austintown/1-stop/
-shop: Spirituosen
+shop: alcohol
 ---

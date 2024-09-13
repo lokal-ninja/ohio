@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /mansfield/family-dollar-lexington-avenue/
-shop: Kramladen
+shop: variety store
 ---

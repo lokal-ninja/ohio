@@ -1,5 +1,5 @@
 ---
 title: "Hawaiian TanFastic"
 url: /zanesville/hawaiian-tanfastic/
-shop: Kosmetik
+shop: beauty
 ---

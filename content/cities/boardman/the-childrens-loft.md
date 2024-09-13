@@ -1,5 +1,5 @@
 ---
 title: "The Children's Loft"
 url: /boardman/the-childrens-loft/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Legoheadz"
 url: /cleveland/legoheadz/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /columbus/macys-easton-loop-east/
-shop: Warenhaus
+shop: department store
 ---

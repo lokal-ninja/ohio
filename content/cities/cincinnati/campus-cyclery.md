@@ -1,5 +1,5 @@
 ---
 title: "Campus Cyclery"
 url: /cincinnati/campus-cyclery/
-shop: Fahrrad
+shop: bicycle
 ---

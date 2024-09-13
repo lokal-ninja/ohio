@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /columbus/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

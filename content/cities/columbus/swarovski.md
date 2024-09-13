@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /columbus/swarovski/
-shop: Schmuck
+shop: jewelry
 ---

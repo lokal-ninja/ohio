@@ -1,5 +1,5 @@
 ---
 title: "Winans Chocolates + Coffees"
 url: /sidney/winans-chocolates-coffees/
-shop: Schokolade
+shop: chocolate
 ---

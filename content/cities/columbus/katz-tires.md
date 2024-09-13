@@ -1,5 +1,5 @@
 ---
 title: "Katz Tires"
 url: /columbus/katz-tires/
-shop: Reifen
+shop: tyres
 ---

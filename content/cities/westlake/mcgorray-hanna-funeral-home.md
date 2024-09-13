@@ -1,5 +1,5 @@
 ---
 title: "McGorray-Hanna Funeral Home"
 url: /westlake/mcgorray-hanna-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

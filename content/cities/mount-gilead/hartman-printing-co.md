@@ -1,5 +1,5 @@
 ---
 title: "Hartman Printing Co."
 url: /mount-gilead/hartman-printing-co/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Story Forge Tattoo"
 url: /lancaster/story-forge-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

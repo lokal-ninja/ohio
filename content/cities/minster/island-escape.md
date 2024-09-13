@@ -1,5 +1,5 @@
 ---
 title: "Island Escape"
 url: /minster/island-escape/
-shop: Massage
+shop: massage
 ---

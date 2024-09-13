@@ -1,5 +1,5 @@
 ---
 title: "Automotive Equipment Co."
 url: /north-ridgeville/automotive-equipment-co/
-shop: Autowerkstatt
+shop: car repair
 ---

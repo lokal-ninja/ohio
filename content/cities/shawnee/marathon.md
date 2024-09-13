@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /shawnee/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

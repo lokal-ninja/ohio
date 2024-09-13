@@ -1,5 +1,5 @@
 ---
 title: "Haven"
 url: /perrysburg/haven/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /columbus/spectrum/
-shop: Handy
+shop: mobile phone
 ---

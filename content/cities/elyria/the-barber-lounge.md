@@ -1,5 +1,5 @@
 ---
 title: "The Barber Lounge"
 url: /elyria/the-barber-lounge/
-shop: Friseur
+shop: hairdresser
 ---

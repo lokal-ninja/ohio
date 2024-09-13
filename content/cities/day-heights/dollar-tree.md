@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /day-heights/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

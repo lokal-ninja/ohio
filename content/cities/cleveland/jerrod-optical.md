@@ -1,5 +1,5 @@
 ---
 title: "Jerrod Optical"
 url: /cleveland/jerrod-optical/
-shop: Optiker
+shop: optician
 ---

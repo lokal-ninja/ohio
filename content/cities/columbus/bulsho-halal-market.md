@@ -1,5 +1,5 @@
 ---
 title: "Bulsho Halal Market"
 url: /columbus/bulsho-halal-market/
-shop: Lebensmittel
+shop: convenience
 ---

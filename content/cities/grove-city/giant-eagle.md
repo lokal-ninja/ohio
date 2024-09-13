@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /grove-city/giant-eagle/
-shop: Supermarkt
+shop: supermarket
 ---

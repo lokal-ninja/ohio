@@ -1,5 +1,5 @@
 ---
 title: "truenorth"
 url: /troy/truenorth/
-shop: Lebensmittel
+shop: convenience
 ---

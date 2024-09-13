@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /columbus/staples-easton-market/
-shop: Schreibwaren
+shop: office supplies
 ---

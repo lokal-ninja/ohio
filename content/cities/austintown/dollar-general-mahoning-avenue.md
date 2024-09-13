@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /austintown/dollar-general-mahoning-avenue/
-shop: Kramladen
+shop: variety store
 ---

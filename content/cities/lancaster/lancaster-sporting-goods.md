@@ -1,5 +1,5 @@
 ---
 title: "Lancaster Sporting Goods"
 url: /lancaster/lancaster-sporting-goods/
-shop: Kleidung
+shop: clothes
 ---

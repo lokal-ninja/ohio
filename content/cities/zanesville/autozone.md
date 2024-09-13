@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /zanesville/autozone/
-shop: Autoteile
+shop: car parts
 ---

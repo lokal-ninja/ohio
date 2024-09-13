@@ -1,5 +1,5 @@
 ---
 title: "Fineline Imprints"
 url: /zanesville/fineline-imprints/
-shop: Kleidung
+shop: clothes
 ---

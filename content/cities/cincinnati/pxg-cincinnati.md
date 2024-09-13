@@ -1,5 +1,5 @@
 ---
 title: "PXG Cincinnati"
 url: /cincinnati/pxg-cincinnati/
-shop: Sport
+shop: sports
 ---

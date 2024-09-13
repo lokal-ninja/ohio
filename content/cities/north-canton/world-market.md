@@ -1,5 +1,5 @@
 ---
 title: "World Market"
 url: /north-canton/world-market/
-shop: Raumausstattung
+shop: interior decoration
 ---

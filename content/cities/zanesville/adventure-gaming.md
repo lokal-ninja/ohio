@@ -1,5 +1,5 @@
 ---
 title: "Adventure Gaming"
 url: /zanesville/adventure-gaming/
-shop: Spiele
+shop: games
 ---

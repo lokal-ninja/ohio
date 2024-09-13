@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /beachwood/petco/
-shop: Tiere
+shop: pet
 ---

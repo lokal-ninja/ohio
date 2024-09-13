@@ -1,5 +1,5 @@
 ---
 title: "Halleck Auto Sales"
 url: /bowling-green/halleck-auto-sales/
-shop: Autohaus
+shop: car
 ---

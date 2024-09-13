@@ -1,5 +1,5 @@
 ---
 title: "Mainstreet Studios"
 url: /ashland/mainstreet-studios/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "High Tech Auto"
 url: /south-euclid/high-tech-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

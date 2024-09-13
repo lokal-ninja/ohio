@@ -1,5 +1,5 @@
 ---
 title: "Craciun Berry Funeral Home"
 url: /cleveland/craciun-berry-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

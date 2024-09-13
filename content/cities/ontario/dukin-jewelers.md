@@ -1,5 +1,5 @@
 ---
 title: "Dukin Jewelers"
 url: /ontario/dukin-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /worthington/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

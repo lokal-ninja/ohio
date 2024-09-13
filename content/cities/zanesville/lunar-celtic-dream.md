@@ -1,5 +1,5 @@
 ---
 title: "Lunar Celtic Dream"
 url: /zanesville/lunar-celtic-dream/
-shop: Allgemein
+shop: shop
 ---

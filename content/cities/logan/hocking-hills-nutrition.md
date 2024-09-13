@@ -1,5 +1,5 @@
 ---
 title: "Hocking Hills Nutrition"
 url: /logan/hocking-hills-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

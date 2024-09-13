@@ -1,5 +1,5 @@
 ---
 title: "Century Home Antiques"
 url: /kirtland/century-home-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

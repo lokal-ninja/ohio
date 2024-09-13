@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /zanesville/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

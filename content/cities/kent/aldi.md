@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /kent/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

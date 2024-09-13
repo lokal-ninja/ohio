@@ -1,5 +1,5 @@
 ---
 title: "Exotic Nails"
 url: /elyria/exotic-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kings Beauty"
 url: /east-cleveland/kings-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

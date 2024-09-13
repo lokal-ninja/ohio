@@ -1,5 +1,5 @@
 ---
 title: "Holiday Hair"
 url: /dayton/holiday-hair/
-shop: Friseur
+shop: hairdresser
 ---

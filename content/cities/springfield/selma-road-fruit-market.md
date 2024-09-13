@@ -1,5 +1,5 @@
 ---
 title: "Selma Road Fruit Market"
 url: /springfield/selma-road-fruit-market/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

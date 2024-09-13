@@ -1,5 +1,5 @@
 ---
 title: "Dutro Body Shop"
 url: /zanesville/dutro-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

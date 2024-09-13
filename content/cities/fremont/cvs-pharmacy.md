@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /fremont/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

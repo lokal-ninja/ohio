@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /cleveland/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

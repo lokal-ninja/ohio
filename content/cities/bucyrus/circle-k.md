@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /bucyrus/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

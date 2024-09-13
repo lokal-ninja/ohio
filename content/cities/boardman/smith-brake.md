@@ -1,5 +1,5 @@
 ---
 title: "Smith Brake"
 url: /boardman/smith-brake/
-shop: Autowerkstatt
+shop: car repair
 ---

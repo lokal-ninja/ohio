@@ -1,5 +1,5 @@
 ---
 title: "OP Gallo Tuxedo"
 url: /lancaster/op-gallo-tuxedo/
-shop: Kleidung
+shop: clothes
 ---

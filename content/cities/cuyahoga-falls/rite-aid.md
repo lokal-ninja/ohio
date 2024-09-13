@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /cuyahoga-falls/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

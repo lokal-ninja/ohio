@@ -1,5 +1,5 @@
 ---
 title: "Mac's"
 url: /cleveland-heights/macs/
-shop: Autowerkstatt
+shop: car repair
 ---

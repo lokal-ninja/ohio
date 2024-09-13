@@ -1,5 +1,5 @@
 ---
 title: "Roosters"
 url: /mason/roosters/
-shop: Friseur
+shop: hairdresser
 ---

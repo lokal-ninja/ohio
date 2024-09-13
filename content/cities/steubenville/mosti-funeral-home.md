@@ -1,5 +1,5 @@
 ---
 title: "Mosti Funeral Home"
 url: /steubenville/mosti-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

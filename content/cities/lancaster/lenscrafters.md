@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /lancaster/lenscrafters/
-shop: Optiker
+shop: optician
 ---

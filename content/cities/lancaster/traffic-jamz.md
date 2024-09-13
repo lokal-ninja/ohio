@@ -1,5 +1,5 @@
 ---
 title: "Traffic Jamz"
 url: /lancaster/traffic-jamz/
-shop: Autoteile
+shop: car parts
 ---

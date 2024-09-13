@@ -1,5 +1,5 @@
 ---
 title: "Save-A-Lot"
 url: /columbus/save-a-lot-north-wilson-road/
-shop: Supermarkt
+shop: supermarket
 ---

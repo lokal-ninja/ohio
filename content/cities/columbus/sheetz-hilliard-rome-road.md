@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /columbus/sheetz-hilliard-rome-road/
-shop: Lebensmittel
+shop: convenience
 ---

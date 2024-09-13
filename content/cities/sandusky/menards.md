@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /sandusky/menards/
-shop: Baumarkt
+shop: doityourself
 ---

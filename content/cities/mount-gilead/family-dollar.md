@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /mount-gilead/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

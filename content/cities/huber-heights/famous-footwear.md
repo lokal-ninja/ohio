@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /huber-heights/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

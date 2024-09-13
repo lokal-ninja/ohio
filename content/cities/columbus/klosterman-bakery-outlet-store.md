@@ -1,5 +1,5 @@
 ---
 title: "Klosterman Bakery Outlet Store"
 url: /columbus/klosterman-bakery-outlet-store/
-shop: Bäckerei
+shop: bakery
 ---

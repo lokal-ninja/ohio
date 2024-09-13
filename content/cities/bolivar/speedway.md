@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bolivar/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

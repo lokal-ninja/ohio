@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /south-euclid/mattress-firm/
-shop: Betten
+shop: bed
 ---

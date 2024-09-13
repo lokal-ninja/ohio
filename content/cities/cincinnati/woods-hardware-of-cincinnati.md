@@ -1,5 +1,5 @@
 ---
 title: "Woods Hardware of Cincinnati"
 url: /cincinnati/woods-hardware-of-cincinnati/
-shop: Eisenwaren
+shop: hardware
 ---

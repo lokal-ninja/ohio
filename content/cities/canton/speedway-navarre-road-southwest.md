@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /canton/speedway-navarre-road-southwest/
-shop: Lebensmittel
+shop: convenience
 ---

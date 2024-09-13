@@ -1,5 +1,5 @@
 ---
 title: "Royal Nail Spa"
 url: /brunswick/royal-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grandview Flooring Outlet"
 url: /athens/grandview-flooring-outlet/
-shop: Fußböden
+shop: flooring
 ---

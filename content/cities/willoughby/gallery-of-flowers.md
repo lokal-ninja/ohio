@@ -1,5 +1,5 @@
 ---
 title: "Gallery of Flowers"
 url: /willoughby/gallery-of-flowers/
-shop: Blumen
+shop: florist
 ---

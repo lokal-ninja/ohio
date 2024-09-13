@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /garfield-heights/verizon/
-shop: Handy
+shop: mobile phone
 ---

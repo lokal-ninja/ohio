@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /zanesville/aarons/
-shop: Möbel
+shop: furniture
 ---

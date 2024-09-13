@@ -1,5 +1,5 @@
 ---
 title: "Black Swamp Gamers"
 url: /bowling-green/black-swamp-gamers/
-shop: Spiele
+shop: games
 ---

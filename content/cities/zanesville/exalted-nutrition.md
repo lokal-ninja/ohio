@@ -1,5 +1,5 @@
 ---
 title: "Exalted Nutrition"
 url: /zanesville/exalted-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

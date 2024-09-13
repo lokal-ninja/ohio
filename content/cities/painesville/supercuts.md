@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /painesville/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

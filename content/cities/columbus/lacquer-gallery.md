@@ -1,5 +1,5 @@
 ---
 title: "Lacquer Gallery"
 url: /columbus/lacquer-gallery/
-shop: Kosmetik
+shop: beauty
 ---

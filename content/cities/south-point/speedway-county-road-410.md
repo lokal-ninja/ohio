@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /south-point/speedway-county-road-410/
-shop: Lebensmittel
+shop: convenience
 ---

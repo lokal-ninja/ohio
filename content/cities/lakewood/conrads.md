@@ -1,5 +1,5 @@
 ---
 title: "Conrad's"
 url: /lakewood/conrads/
-shop: Autowerkstatt
+shop: car repair
 ---

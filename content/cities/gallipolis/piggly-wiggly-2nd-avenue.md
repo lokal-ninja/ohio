@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /gallipolis/piggly-wiggly-2nd-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

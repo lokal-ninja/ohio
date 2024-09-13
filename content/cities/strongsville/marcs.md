@@ -1,5 +1,5 @@
 ---
 title: "Marc's"
 url: /strongsville/marcs/
-shop: Supermarkt
+shop: supermarket
 ---

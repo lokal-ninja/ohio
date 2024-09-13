@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /maumee/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

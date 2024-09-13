@@ -1,5 +1,5 @@
 ---
 title: "Ashley Stewart"
 url: /maple-heights/ashley-stewart/
-shop: Kleidung
+shop: clothes
 ---

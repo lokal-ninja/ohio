@@ -1,5 +1,5 @@
 ---
 title: "Duchess"
 url: /bucyrus/duchess/
-shop: Lebensmittel
+shop: convenience
 ---

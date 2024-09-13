@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /elyria/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /boardman/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

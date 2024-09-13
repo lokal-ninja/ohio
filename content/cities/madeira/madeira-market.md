@@ -1,5 +1,5 @@
 ---
 title: "Madeira Market"
 url: /madeira/madeira-market/
-shop: Lebensmittel
+shop: convenience
 ---

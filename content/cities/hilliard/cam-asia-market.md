@@ -1,5 +1,5 @@
 ---
 title: "CAM Asia Market"
 url: /hilliard/cam-asia-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Northwest Tire Service"
 url: /bowling-green/northwest-tire-service/
-shop: Autowerkstatt
+shop: car repair
 ---

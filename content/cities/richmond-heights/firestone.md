@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /richmond-heights/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

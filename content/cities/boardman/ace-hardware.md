@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /boardman/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Westwater Supply"
 url: /zanesville/westwater-supply/
-shop: Baustoffe
+shop: trade
 ---

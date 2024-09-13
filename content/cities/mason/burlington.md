@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /mason/burlington/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Home Spa"
 url: /niles/home-spa/
-shop: Kosmetik
+shop: beauty
 ---

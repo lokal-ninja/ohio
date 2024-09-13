@@ -1,5 +1,5 @@
 ---
 title: "Euphoria Day Spa"
 url: /parma/euphoria-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

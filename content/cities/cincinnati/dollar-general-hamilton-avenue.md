@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /cincinnati/dollar-general-hamilton-avenue/
-shop: Kramladen
+shop: variety store
 ---

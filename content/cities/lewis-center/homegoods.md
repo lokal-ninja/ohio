@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /lewis-center/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

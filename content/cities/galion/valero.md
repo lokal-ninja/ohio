@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /galion/valero/
-shop: Lebensmittel
+shop: convenience
 ---

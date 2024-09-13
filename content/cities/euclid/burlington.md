@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /euclid/burlington/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bliss Salon"
 url: /bowling-green/bliss-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LoanMax"
 url: /columbus/loanmax/
-shop: Leiher
+shop: pawnbroker
 ---

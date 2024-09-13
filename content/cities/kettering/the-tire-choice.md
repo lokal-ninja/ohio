@@ -1,5 +1,5 @@
 ---
 title: "The Tire Choice"
 url: /kettering/the-tire-choice/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /alliance/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

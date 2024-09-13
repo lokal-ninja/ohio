@@ -1,5 +1,5 @@
 ---
 title: "Microsoft Store"
 url: /columbus/microsoft-store/
-shop: Computer
+shop: computer
 ---

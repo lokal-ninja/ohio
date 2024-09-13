@@ -1,5 +1,5 @@
 ---
 title: "Blush"
 url: /bowling-green/blush/
-shop: Kleidung
+shop: clothes
 ---

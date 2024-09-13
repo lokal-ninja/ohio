@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /zanesville/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

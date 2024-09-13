@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /beavercreek/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

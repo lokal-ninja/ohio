@@ -1,5 +1,5 @@
 ---
 title: "Strands Hair Studio"
 url: /university-heights/strands-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

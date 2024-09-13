@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /new-philadelphia/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "U Be Dazzled"
 url: /bucyrus/u-be-dazzled/
-shop: Kleidung
+shop: clothes
 ---

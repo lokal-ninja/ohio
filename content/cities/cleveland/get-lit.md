@@ -1,5 +1,5 @@
 ---
 title: "Get Lit"
 url: /cleveland/get-lit/
-shop: Tabak
+shop: tobacco
 ---

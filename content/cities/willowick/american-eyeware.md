@@ -1,5 +1,5 @@
 ---
 title: "American Eyeware"
 url: /willowick/american-eyeware/
-shop: Optiker
+shop: optician
 ---

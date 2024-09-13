@@ -1,5 +1,5 @@
 ---
 title: "Johnson-Smith Funeral Home"
 url: /baltimore/johnson-smith-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

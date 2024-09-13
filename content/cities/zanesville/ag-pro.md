@@ -1,5 +1,5 @@
 ---
 title: "Ag-Pro"
 url: /zanesville/ag-pro/
-shop: Dorfladen
+shop: general
 ---

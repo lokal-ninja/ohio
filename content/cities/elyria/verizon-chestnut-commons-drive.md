@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /elyria/verizon-chestnut-commons-drive/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /cincinnati/kroger-kenard-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

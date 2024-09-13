@@ -1,5 +1,5 @@
 ---
 title: "Vaporland"
 url: /niles/vaporland/
-shop: Tabak
+shop: tobacco
 ---

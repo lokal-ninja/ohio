@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /macedonia/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

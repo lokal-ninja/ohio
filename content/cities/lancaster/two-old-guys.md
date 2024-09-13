@@ -1,5 +1,5 @@
 ---
 title: "Two Old Guys"
 url: /lancaster/two-old-guys/
-shop: Autohaus
+shop: car
 ---

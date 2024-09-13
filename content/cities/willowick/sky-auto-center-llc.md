@@ -1,5 +1,5 @@
 ---
 title: "Sky Auto Center, LLC"
 url: /willowick/sky-auto-center-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

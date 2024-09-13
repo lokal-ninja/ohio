@@ -1,5 +1,5 @@
 ---
 title: "(vacant)"
 url: /niles/vacant/
-shop: Allgemein
+shop: shop
 ---

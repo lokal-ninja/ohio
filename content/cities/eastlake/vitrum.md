@@ -1,5 +1,5 @@
 ---
 title: "Vitrum"
 url: /eastlake/vitrum/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

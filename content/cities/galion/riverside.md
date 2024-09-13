@@ -1,5 +1,5 @@
 ---
 title: "Riverside"
 url: /galion/riverside/
-shop: Lebensmittel
+shop: convenience
 ---

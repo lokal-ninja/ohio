@@ -1,5 +1,5 @@
 ---
 title: "Ethan Allen"
 url: /lyndhurst/ethan-allen/
-shop: Möbel
+shop: furniture
 ---

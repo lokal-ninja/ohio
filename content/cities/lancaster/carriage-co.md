@@ -1,5 +1,5 @@
 ---
 title: "Carriage Co"
 url: /lancaster/carriage-co/
-shop: Autohaus
+shop: car
 ---

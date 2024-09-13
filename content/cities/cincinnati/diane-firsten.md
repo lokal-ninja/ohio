@@ -1,5 +1,5 @@
 ---
 title: "Diane Firsten"
 url: /cincinnati/diane-firsten/
-shop: Kleidung
+shop: clothes
 ---

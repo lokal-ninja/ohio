@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sandusky/target/
-shop: Warenhaus
+shop: department store
 ---

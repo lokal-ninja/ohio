@@ -1,5 +1,5 @@
 ---
 title: "Inspirations Nail Studio"
 url: /marion/inspirations-nail-studio/
-shop: Kosmetik
+shop: beauty
 ---

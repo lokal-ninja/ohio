@@ -1,5 +1,5 @@
 ---
 title: "HobbyTown"
 url: /mentor/hobbytown/
-shop: Sport
+shop: sports
 ---

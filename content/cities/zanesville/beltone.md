@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /zanesville/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

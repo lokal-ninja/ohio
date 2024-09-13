@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /ontario/kohls/
-shop: Warenhaus
+shop: department store
 ---

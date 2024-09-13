@@ -1,5 +1,5 @@
 ---
 title: "Apples"
 url: /lorain/apples/
-shop: Supermarkt
+shop: supermarket
 ---

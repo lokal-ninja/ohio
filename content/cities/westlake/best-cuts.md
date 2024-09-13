@@ -1,5 +1,5 @@
 ---
 title: "Best Cuts"
 url: /westlake/best-cuts/
-shop: Friseur
+shop: hairdresser
 ---

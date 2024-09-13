@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /delaware/kroger-columbus-pike/
-shop: Supermarkt
+shop: supermarket
 ---

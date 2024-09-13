@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /columbus/autozone/
-shop: Autoteile
+shop: car parts
 ---

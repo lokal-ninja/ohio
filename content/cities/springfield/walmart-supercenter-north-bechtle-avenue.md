@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /springfield/walmart-supercenter-north-bechtle-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Loveland Hardware"
 url: /loveland/loveland-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

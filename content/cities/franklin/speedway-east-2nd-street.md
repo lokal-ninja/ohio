@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /franklin/speedway-east-2nd-street/
-shop: Lebensmittel
+shop: convenience
 ---

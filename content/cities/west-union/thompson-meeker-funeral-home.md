@@ -1,5 +1,5 @@
 ---
 title: "Thompson-Meeker Funeral Home"
 url: /west-union/thompson-meeker-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /reynoldsburg/michaels/
-shop: Basteln
+shop: craft
 ---

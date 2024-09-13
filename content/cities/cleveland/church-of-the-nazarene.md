@@ -1,5 +1,5 @@
 ---
 title: "Church of the Nazarene"
 url: /cleveland/church-of-the-nazarene/
-shop: Religion
+shop: religion
 ---

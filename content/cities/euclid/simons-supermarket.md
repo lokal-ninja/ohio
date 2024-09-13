@@ -1,5 +1,5 @@
 ---
 title: "Simon's Supermarket"
 url: /euclid/simons-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

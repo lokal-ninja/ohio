@@ -1,5 +1,5 @@
 ---
 title: "Big Sandy Superstore"
 url: /zanesville/big-sandy-superstore/
-shop: Möbel
+shop: furniture
 ---

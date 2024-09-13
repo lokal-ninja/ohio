@@ -1,5 +1,5 @@
 ---
 title: "Nola True"
 url: /chagrin-falls/nola-true/
-shop: Kleidung
+shop: clothes
 ---

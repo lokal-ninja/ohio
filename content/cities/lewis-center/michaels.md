@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /lewis-center/michaels/
-shop: Basteln
+shop: craft
 ---

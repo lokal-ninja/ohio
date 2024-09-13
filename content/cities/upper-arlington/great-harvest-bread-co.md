@@ -1,5 +1,5 @@
 ---
 title: "Great Harvest Bread Co."
 url: /upper-arlington/great-harvest-bread-co/
-shop: Bäckerei
+shop: bakery
 ---

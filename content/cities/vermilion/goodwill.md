@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /vermilion/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

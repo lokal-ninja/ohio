@@ -1,5 +1,5 @@
 ---
 title: "Handyman Austintown"
 url: /austintown/handyman-austintown/
-shop: Eisenwaren
+shop: hardware
 ---

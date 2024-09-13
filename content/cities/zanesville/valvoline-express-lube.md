@@ -1,5 +1,5 @@
 ---
 title: "Valvoline Express Lube"
 url: /zanesville/valvoline-express-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

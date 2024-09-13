@@ -1,5 +1,5 @@
 ---
 title: "Citilink Motors"
 url: /columbus/citilink-motors/
-shop: Autohaus
+shop: car
 ---

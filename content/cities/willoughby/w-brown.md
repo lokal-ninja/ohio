@@ -1,5 +1,5 @@
 ---
 title: "W. Brown"
 url: /willoughby/w-brown/
-shop: Schmuck
+shop: jewelry
 ---

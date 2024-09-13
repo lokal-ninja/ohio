@@ -1,5 +1,5 @@
 ---
 title: "Chocolat Salon"
 url: /euclid/chocolat-salon/
-shop: Kosmetik
+shop: beauty
 ---

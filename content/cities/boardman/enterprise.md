@@ -1,5 +1,5 @@
 ---
 title: "Enterprise"
 url: /boardman/enterprise/
-shop: Mieten
+shop: storage rental
 ---

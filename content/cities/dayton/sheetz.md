@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /dayton/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

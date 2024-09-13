@@ -1,5 +1,5 @@
 ---
 title: "Athleta"
 url: /upper-arlington/athleta/
-shop: Kleidung
+shop: clothes
 ---

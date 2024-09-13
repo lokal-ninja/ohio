@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /columbus/target-polaris-parkway/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /north-olmsted/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

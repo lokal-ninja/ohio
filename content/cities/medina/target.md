@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /medina/target/
-shop: Warenhaus
+shop: department store
 ---

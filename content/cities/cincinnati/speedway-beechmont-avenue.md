@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /cincinnati/speedway-beechmont-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

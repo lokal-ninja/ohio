@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /mayfield-heights/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

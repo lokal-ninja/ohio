@@ -1,5 +1,5 @@
 ---
 title: "Samson Storage"
 url: /zanesville/samson-storage/
-shop: Mieten
+shop: storage rental
 ---

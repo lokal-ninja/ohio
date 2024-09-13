@@ -1,5 +1,5 @@
 ---
 title: "White Oak Nutrition"
 url: /cincinnati/white-oak-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

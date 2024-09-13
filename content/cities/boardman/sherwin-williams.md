@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /boardman/sherwin-williams/
-shop: Farben
+shop: paint
 ---

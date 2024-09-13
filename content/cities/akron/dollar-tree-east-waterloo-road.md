@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /akron/dollar-tree-east-waterloo-road/
-shop: Kramladen
+shop: variety store
 ---

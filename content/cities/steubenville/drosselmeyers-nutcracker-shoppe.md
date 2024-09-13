@@ -1,5 +1,5 @@
 ---
 title: "Drosselmeyer's Nutcracker Shoppe"
 url: /steubenville/drosselmeyers-nutcracker-shoppe/
-shop: Allgemein
+shop: shop
 ---

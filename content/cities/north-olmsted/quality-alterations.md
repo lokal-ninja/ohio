@@ -1,5 +1,5 @@
 ---
 title: "Quality Alterations"
 url: /north-olmsted/quality-alterations/
-shop: Schneiderei
+shop: tailor
 ---

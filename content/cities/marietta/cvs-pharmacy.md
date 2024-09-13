@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /marietta/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

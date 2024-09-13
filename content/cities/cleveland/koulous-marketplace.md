@@ -1,5 +1,5 @@
 ---
 title: "Koulou's Marketplace"
 url: /cleveland/koulous-marketplace/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /reynoldsburg/big-lots/
-shop: Warenhaus
+shop: department store
 ---

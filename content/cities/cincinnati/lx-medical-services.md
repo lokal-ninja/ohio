@@ -1,5 +1,5 @@
 ---
 title: "LX Medical Services"
 url: /cincinnati/lx-medical-services/
-shop: Sanitätshaus
+shop: medical supply
 ---

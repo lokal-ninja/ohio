@@ -1,5 +1,5 @@
 ---
 title: "Natural Remedies Massage"
 url: /lancaster/natural-remedies-massage/
-shop: Massage
+shop: massage
 ---

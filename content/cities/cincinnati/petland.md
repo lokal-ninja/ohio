@@ -1,5 +1,5 @@
 ---
 title: "Petland"
 url: /cincinnati/petland/
-shop: Tiere
+shop: pet
 ---

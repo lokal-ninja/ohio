@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /pleasant-hill/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

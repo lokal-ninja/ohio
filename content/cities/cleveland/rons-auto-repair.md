@@ -1,5 +1,5 @@
 ---
 title: "Ron's Auto Repair"
 url: /cleveland/rons-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

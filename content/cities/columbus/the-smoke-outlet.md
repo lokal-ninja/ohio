@@ -1,5 +1,5 @@
 ---
 title: "The Smoke Outlet"
 url: /columbus/the-smoke-outlet/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gastank Rich"
 url: /akron/gastank-rich/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /middleburg-heights/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

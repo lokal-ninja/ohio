@@ -1,5 +1,5 @@
 ---
 title: "Storage Rentals of America"
 url: /zanesville/storage-rentals-of-america/
-shop: Mieten
+shop: storage rental
 ---

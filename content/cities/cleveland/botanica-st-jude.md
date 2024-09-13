@@ -1,5 +1,5 @@
 ---
 title: "Botanica St. Jude"
 url: /cleveland/botanica-st-jude/
-shop: Religion
+shop: religion
 ---

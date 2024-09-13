@@ -1,5 +1,5 @@
 ---
 title: "Kinetic by Windstream"
 url: /granville/kinetic-by-windstream/
-shop: Handy
+shop: mobile phone
 ---

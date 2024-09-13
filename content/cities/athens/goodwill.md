@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /athens/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

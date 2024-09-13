@@ -1,5 +1,5 @@
 ---
 title: "Fresh Thyme"
 url: /mayfield-heights/fresh-thyme/
-shop: Supermarkt
+shop: supermarket
 ---

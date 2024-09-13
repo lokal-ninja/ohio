@@ -1,5 +1,5 @@
 ---
 title: "Dutro Outlet"
 url: /south-zanesville/dutro-outlet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /lancaster/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

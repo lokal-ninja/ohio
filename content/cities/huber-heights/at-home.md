@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /huber-heights/at-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

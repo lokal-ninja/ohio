@@ -1,5 +1,5 @@
 ---
 title: "Donovan Funeral Home"
 url: /tallmadge/donovan-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sleepy Hollow Mattress Outlet"
 url: /boardman/sleepy-hollow-mattress-outlet/
-shop: Betten
+shop: bed
 ---

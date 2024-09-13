@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /cleveland/dollar-general-memphis-avenue/
-shop: Kramladen
+shop: variety store
 ---

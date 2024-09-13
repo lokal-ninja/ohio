@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /defiance/walgreens/
-shop: Drogerie
+shop: chemist
 ---

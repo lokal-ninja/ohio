@@ -1,5 +1,5 @@
 ---
 title: "Bushong Auto Service"
 url: /troy/bushong-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

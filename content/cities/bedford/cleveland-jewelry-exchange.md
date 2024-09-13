@@ -1,5 +1,5 @@
 ---
 title: "Cleveland Jewelry Exchange"
 url: /bedford/cleveland-jewelry-exchange/
-shop: Schmuck
+shop: jewelry
 ---

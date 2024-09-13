@@ -1,5 +1,5 @@
 ---
 title: "Apogee Studios"
 url: /wickliffe/apogee-studios/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "State Road Auto Body"
 url: /parma/state-road-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

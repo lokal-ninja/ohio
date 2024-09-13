@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /dayton/walmart-supercenter-york-commons-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

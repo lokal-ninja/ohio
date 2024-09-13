@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /liberty-township/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

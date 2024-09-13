@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /cincinnati/kroger-glenway-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

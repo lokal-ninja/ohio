@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /avon/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "My Battery Store"
 url: /lancaster/my-battery-store/
-shop: Elektronik
+shop: electronics
 ---

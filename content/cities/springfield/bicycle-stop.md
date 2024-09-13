@@ -1,5 +1,5 @@
 ---
 title: "Bicycle Stop"
 url: /springfield/bicycle-stop/
-shop: Fahrrad
+shop: bicycle
 ---

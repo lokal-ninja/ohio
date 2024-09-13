@@ -1,5 +1,5 @@
 ---
 title: "Conrad's"
 url: /parma/conrads/
-shop: Autowerkstatt
+shop: car repair
 ---

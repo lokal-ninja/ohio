@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /columbus/kroger-georgesville-square-drive/
-shop: Supermarkt
+shop: supermarket
 ---

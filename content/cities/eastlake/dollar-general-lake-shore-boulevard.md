@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /eastlake/dollar-general-lake-shore-boulevard/
-shop: Kramladen
+shop: variety store
 ---

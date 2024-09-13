@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /zanesville/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

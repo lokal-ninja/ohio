@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /poland/gamestop/
-shop: Videospiele
+shop: video games
 ---

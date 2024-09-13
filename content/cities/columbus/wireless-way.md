@@ -1,5 +1,5 @@
 ---
 title: "Wireless Way"
 url: /columbus/wireless-way/
-shop: Handy
+shop: mobile phone
 ---

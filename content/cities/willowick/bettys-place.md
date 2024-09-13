@@ -1,5 +1,5 @@
 ---
 title: "Betty's Place"
 url: /willowick/bettys-place/
-shop: Friseur
+shop: hairdresser
 ---

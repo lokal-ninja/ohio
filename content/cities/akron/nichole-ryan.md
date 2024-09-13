@@ -1,5 +1,5 @@
 ---
 title: "Nichole Ryan"
 url: /akron/nichole-ryan/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /powell/target/
-shop: Warenhaus
+shop: department store
 ---

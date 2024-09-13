@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /sandusky/petco/
-shop: Tiere
+shop: pet
 ---

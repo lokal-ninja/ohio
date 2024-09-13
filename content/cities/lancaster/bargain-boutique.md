@@ -1,5 +1,5 @@
 ---
 title: "Bargain Boutique"
 url: /lancaster/bargain-boutique/
-shop: Gebrauchtwaren
+shop: charity
 ---

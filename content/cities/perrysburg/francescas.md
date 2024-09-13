@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /perrysburg/francescas/
-shop: Kleidung
+shop: clothes
 ---

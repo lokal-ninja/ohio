@@ -1,5 +1,5 @@
 ---
 title: "Johnny's Mini-Mart"
 url: /toledo/johnnys-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

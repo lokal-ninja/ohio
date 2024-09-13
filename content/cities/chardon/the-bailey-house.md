@@ -1,5 +1,5 @@
 ---
 title: "The Bailey House"
 url: /chardon/the-bailey-house/
-shop: Möbel
+shop: furniture
 ---

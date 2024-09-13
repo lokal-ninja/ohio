@@ -1,5 +1,5 @@
 ---
 title: "Sandy Hill Fruit Farm"
 url: /mansfield/sandy-hill-fruit-farm/
-shop: Garten-Center
+shop: garden centre
 ---

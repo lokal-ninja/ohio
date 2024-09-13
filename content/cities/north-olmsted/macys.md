@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /north-olmsted/macys/
-shop: Warenhaus
+shop: department store
 ---

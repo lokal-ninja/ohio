@@ -1,5 +1,5 @@
 ---
 title: "Taylor Rental"
 url: /lancaster/taylor-rental/
-shop: Eisenwaren
+shop: hardware
 ---

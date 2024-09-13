@@ -1,5 +1,5 @@
 ---
 title: "Wolfe Radiator Works"
 url: /zanesville/wolfe-radiator-works/
-shop: Autowerkstatt
+shop: car repair
 ---

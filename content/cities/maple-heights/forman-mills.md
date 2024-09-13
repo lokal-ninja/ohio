@@ -1,5 +1,5 @@
 ---
 title: "Forman Mills"
 url: /maple-heights/forman-mills/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pet Supplies Plus"
 url: /boardman/pet-supplies-plus/
-shop: Tiere
+shop: pet
 ---

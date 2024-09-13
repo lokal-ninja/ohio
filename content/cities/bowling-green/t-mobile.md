@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /bowling-green/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

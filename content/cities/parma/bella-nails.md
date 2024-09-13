@@ -1,5 +1,5 @@
 ---
 title: "Bella Nails"
 url: /parma/bella-nails/
-shop: Kosmetik
+shop: beauty
 ---

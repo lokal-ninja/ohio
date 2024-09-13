@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /pataskala/verizon/
-shop: Handy
+shop: mobile phone
 ---

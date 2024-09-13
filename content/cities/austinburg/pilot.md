@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /austinburg/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

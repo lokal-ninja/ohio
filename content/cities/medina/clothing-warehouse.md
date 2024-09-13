@@ -1,5 +1,5 @@
 ---
 title: "Clothing Warehouse"
 url: /medina/clothing-warehouse/
-shop: Kleidung
+shop: clothes
 ---

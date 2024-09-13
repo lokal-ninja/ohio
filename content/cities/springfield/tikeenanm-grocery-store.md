@@ -1,5 +1,5 @@
 ---
 title: "Tikeenanm Grocery Store"
 url: /springfield/tikeenanm-grocery-store/
-shop: Supermarkt
+shop: supermarket
 ---

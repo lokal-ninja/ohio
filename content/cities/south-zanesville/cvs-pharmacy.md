@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /south-zanesville/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

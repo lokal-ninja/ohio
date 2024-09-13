@@ -1,5 +1,5 @@
 ---
 title: "Citi Trends"
 url: /columbus/citi-trends-great-southern-boulevard/
-shop: Kleidung
+shop: clothes
 ---

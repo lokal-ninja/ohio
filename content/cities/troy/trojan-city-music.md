@@ -1,5 +1,5 @@
 ---
 title: "Trojan City Music"
 url: /troy/trojan-city-music/
-shop: Musik
+shop: music
 ---

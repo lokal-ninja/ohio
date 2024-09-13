@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /boardman/dollar-general-market-street/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /east-cleveland/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trading Post"
 url: /marietta/trading-post/
-shop: Allgemein
+shop: shop
 ---

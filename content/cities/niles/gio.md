@@ -1,5 +1,5 @@
 ---
 title: "Gio"
 url: /niles/gio/
-shop: Raumausstattung
+shop: interior decoration
 ---

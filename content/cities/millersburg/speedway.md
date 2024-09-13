@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /millersburg/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

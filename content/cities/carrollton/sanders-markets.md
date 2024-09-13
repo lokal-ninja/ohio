@@ -1,5 +1,5 @@
 ---
 title: "Sander's Markets"
 url: /carrollton/sanders-markets/
-shop: Supermarkt
+shop: supermarket
 ---

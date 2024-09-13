@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /mentor/kohls/
-shop: Warenhaus
+shop: department store
 ---

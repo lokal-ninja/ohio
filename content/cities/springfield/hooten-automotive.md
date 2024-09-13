@@ -1,5 +1,5 @@
 ---
 title: "Hooten Automotive"
 url: /springfield/hooten-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---
