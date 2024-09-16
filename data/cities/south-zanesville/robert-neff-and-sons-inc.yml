@@ -1,11 +1,11 @@
 id: 1097807796
-type: way
+type: node
 latitude: 39.89908
 longitude: -82.02017
 postcode: "43701"
 city: South Zanesville
-street: "South Shawnee Avenue"
-housenumber: 132
-phone: "+1-740-454-0128"
-opening_hours: "Mo-Fr 08:00-17:00, Sa-Su off"
-website: "https://www.neffsince1931.com/"
+street: South Shawnee Avenue
+housenumber: "132"
+phone: +1-740-454-0128
+opening_hours: Mo-Fr 08:00-17:00, Sa-Su off
+website: https://www.neffsince1931.com/

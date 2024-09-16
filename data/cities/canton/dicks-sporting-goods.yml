@@ -1,11 +1,11 @@
 id: 367038800
-type: way
+type: node
 latitude: 40.85769
 longitude: -81.42608
 postcode: "44718"
 city: Canton
-street: "Belden Village Mall"
-housenumber: 4100
-phone: "+1 330-313-1056"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/oh/canton/5203/"
+street: Belden Village Mall
+housenumber: "4100"
+phone: +1 330-313-1056
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/oh/canton/5203/

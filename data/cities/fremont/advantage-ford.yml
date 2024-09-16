@@ -1,11 +1,11 @@
 id: 921116008
-type: way
+type: node
 latitude: 41.37216
 longitude: -83.11622
 postcode: "43420"
 city: Fremont
-street: "Hagerty Drive"
-housenumber: 885
-phone: "+1-800-354-2220"
-opening_hours: "Mo-Fr 09:00-17:00, Sa 09:00-13:00"
-website: "https://www.advantagefordfremont.com"
+street: Hagerty Drive
+housenumber: "885"
+phone: +1-800-354-2220
+opening_hours: Mo-Fr 09:00-17:00, Sa 09:00-13:00
+website: https://www.advantagefordfremont.com

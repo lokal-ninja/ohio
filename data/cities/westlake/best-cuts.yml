@@ -1,11 +1,11 @@
 id: 496537448
-type: way
+type: node
 latitude: 41.46225
 longitude: -81.95612
 postcode: "44145"
 city: Westlake
-street: "Detroit Road"
-housenumber: 30315
+street: Detroit Road
+housenumber: "30315"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 781422349
-type: way
+type: node
 latitude: 41.09673
 longitude: -81.54467
 postcode: "44303"
 city: Akron
-street: "West Market Street"
-housenumber: 834
+street: West Market Street
+housenumber: "834"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-834+w+market+st-akron-oh-44303/id=3278"
+website: https://www.walgreens.com/locator/walgreens-834+w+market+st-akron-oh-44303/id=3278

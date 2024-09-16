@@ -1,11 +1,11 @@
 id: 653310539
-type: way
+type: node
 latitude: 40.06145
 longitude: -82.97675
 postcode: "43229"
 city: Columbus
-street: "Karl Road"
-housenumber: 4636
+street: Karl Road
+housenumber: "4636"
 phone: ""
 opening_hours: ""
 website: ""

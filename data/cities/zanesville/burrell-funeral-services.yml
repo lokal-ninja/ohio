@@ -1,11 +1,11 @@
 id: 1032504188
-type: way
+type: node
 latitude: 39.94843
 longitude: -82.00866
 postcode: "43701"
 city: Zanesville
-street: "La Salle Street"
-housenumber: 414
-phone: "+1-740-453-7343"
-opening_hours: "Mo-Su appointment only"
-website: "https://www.burrellfuneralservices.com/"
+street: La Salle Street
+housenumber: "414"
+phone: +1-740-453-7343
+opening_hours: Mo-Su "appointment only"
+website: https://www.burrellfuneralservices.com/

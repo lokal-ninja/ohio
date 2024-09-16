@@ -1,11 +1,11 @@
 id: 1063428122
-type: way
+type: node
 latitude: 39.57997
 longitude: -82.52398
 postcode: "43149"
 city: Rockbridge
-street: "Virginia Valley Road"
-housenumber: 26590
+street: Virginia Valley Road
+housenumber: "26590"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/oh/rockbridge/21793"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/oh/rockbridge/21793

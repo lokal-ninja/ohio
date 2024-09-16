@@ -1,11 +1,11 @@
 id: 305180447
-type: way
+type: node
 latitude: 41.11322
 longitude: -81.57494
 postcode: "44313"
 city: Akron
-street: "West Market Street"
-housenumber: 1835
+street: West Market Street
+housenumber: "1835"
 phone: ""
 opening_hours: ""
 website: ""

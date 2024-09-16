@@ -1,11 +1,11 @@
 id: 551066304
-type: way
+type: node
 latitude: 40.07478
 longitude: -83.13743
 postcode: "43016"
 city: Dublin
-street: "Britton Parkway"
-housenumber: 5900
-phone: "+1 614-717-9660"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/2471/dublin-oh/whats-new"
+street: Britton Parkway
+housenumber: "5900"
+phone: +1 614-717-9660
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/2471/dublin-oh/whats-new

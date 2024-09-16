@@ -1,11 +1,11 @@
 id: 1072034150
-type: way
+type: node
 latitude: 41.33409
 longitude: -80.72528
 postcode: "44410"
 city: Cortland
-street: "North High Street"
-housenumber: 246
-phone: "+1-330-637-1871"
+street: North High Street
+housenumber: "246"
+phone: +1-330-637-1871
 opening_hours: ""
-website: "https://campbellcarpet.com/"
+website: https://campbellcarpet.com/

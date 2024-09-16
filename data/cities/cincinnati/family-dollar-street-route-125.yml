@@ -1,11 +1,11 @@
 id: 340285217
-type: way
+type: node
 latitude: 39.0648
 longitude: -84.28964
 postcode: "45245"
 city: Cincinnati
-street: "Street Route 125"
-housenumber: 681
+street: Street Route 125
+housenumber: "681"
 phone: ""
 opening_hours: ""
 website: ""

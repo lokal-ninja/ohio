@@ -1,11 +1,11 @@
 id: 593676783
-type: way
+type: node
 latitude: 39.95584
 longitude: -82.87752
 postcode: "43213"
 city: Whitehall
-street: "East Main Street"
-housenumber: 4548
+street: East Main Street
+housenumber: "4548"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/whitehall-oh-pharmacies/4548-e-main-st-whitehall-oh-43213/storeid=6946"
+website: https://www.cvs.com/store-locator/whitehall-oh-pharmacies/4548-e-main-st-whitehall-oh-43213/storeid=6946

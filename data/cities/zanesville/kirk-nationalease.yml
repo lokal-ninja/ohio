@@ -1,11 +1,11 @@
 id: 1208610184
-type: way
+type: node
 latitude: 39.9395
 longitude: -82.02466
 postcode: "43701"
 city: Zanesville
-street: "Brighton Boulevard"
-housenumber: 85
+street: Brighton Boulevard
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

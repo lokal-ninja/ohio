@@ -1,11 +1,11 @@
 id: 423922491
-type: way
+type: node
 latitude: 41.57371
 longitude: -81.57484
 postcode: "44110"
 city: Cleveland
-street: "East 152nd Street"
-housenumber: 
+street: East 152nd Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

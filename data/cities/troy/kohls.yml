@@ -4,8 +4,8 @@ latitude: 40.05745
 longitude: -84.23882
 postcode: "45373"
 city: Troy
-street: "West Main Street"
-housenumber: 1869
-phone: "+1 937-335-0769"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/oh/troy-626.shtml"
+street: West Main Street
+housenumber: "1869"
+phone: +1 937-335-0769
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/oh/troy-626.shtml

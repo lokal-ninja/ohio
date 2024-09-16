@@ -1,11 +1,12 @@
 id: 1207784503
-type: way
+type: node
 latitude: 40.10256
 longitude: -83.09771
 postcode: "43017"
 city: Dublin
-street: "Village Parkway"
-housenumber: 6645
-phone: "+1-614-418-5350"
-opening_hours: "Mo 11:00-20:00; Tu-Th 08:00-21:00; Fr 08:00-18:00; Sa 08:00-16:00; Su 11:00-17:00"
-website: "https://www.penzonesalons.com/dublin/"
+street: Village Parkway
+housenumber: "6645"
+phone: +1-614-418-5350
+opening_hours: Mo 11:00-20:00; Tu-Th 08:00-21:00; Fr 08:00-18:00; Sa 08:00-16:00;
+    Su 11:00-17:00
+website: https://www.penzonesalons.com/dublin/

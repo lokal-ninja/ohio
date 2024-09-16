@@ -1,11 +1,11 @@
 id: 290063496
-type: way
+type: node
 latitude: 39.13732
 longitude: -84.44075
 postcode: ""
 city: Cincinnati
-street: "Observatory Avenue"
-housenumber: 2759
-phone: "+1-513-871-7782"
+street: Observatory Avenue
+housenumber: "2759"
+phone: +1-513-871-7782
 opening_hours: ""
 website: ""

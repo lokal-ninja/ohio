@@ -1,11 +1,11 @@
 id: 550715873
-type: way
+type: node
 latitude: 40.83479
 longitude: -83.233
 postcode: "43351"
 city: Upper Sandusky
-street: "East Wyandot Avenue"
-housenumber: 1855
-phone: "+1 419-294-3404"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/3809/upper-sandusky-oh/whats-new"
+street: East Wyandot Avenue
+housenumber: "1855"
+phone: +1 419-294-3404
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/3809/upper-sandusky-oh/whats-new

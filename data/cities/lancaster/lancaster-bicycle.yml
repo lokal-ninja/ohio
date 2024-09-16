@@ -1,11 +1,11 @@
 id: 374877666
-type: way
+type: node
 latitude: 39.70482
 longitude: -82.59957
 postcode: "43130"
 city: Lancaster
-street: "South Columbus Street"
-housenumber: 721
-phone: "+1-740-689-2453"
+street: South Columbus Street
+housenumber: "721"
+phone: +1-740-689-2453
 opening_hours: ""
-website: "https://lancasterbicycle.com"
+website: https://lancasterbicycle.com

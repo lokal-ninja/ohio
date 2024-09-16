@@ -1,11 +1,11 @@
 id: 156583834
-type: way
+type: node
 latitude: 39.05845
 longitude: -84.26542
 postcode: "45245"
 city: Cincinnati
-street: "Ohio Pike"
-housenumber: 983
+street: Ohio Pike
+housenumber: "983"
 phone: ""
 opening_hours: ""
 website: ""

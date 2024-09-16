@@ -1,11 +1,11 @@
 id: 1095751139
-type: way
+type: node
 latitude: 39.95962
 longitude: -81.9592
 postcode: "43701"
 city: Zanesville
-street: "Pleasant Grove Road"
-housenumber: 578
-phone: "+1-740-453-6096"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00, Su off"
-website: "https://www.goodysgarage.net/"
+street: Pleasant Grove Road
+housenumber: "578"
+phone: +1-740-453-6096
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00, Su off
+website: https://www.goodysgarage.net/

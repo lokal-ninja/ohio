@@ -1,11 +1,11 @@
 id: 637618044
-type: way
+type: node
 latitude: 41.31709
 longitude: -81.35138
 postcode: "44202"
 city: Aurora
-street: "Garfield Road West"
-housenumber: 161
+street: Garfield Road West
+housenumber: "161"
 phone: ""
 opening_hours: ""
 website: ""

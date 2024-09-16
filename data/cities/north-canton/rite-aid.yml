@@ -1,11 +1,11 @@
 id: 1053798275
-type: way
+type: node
 latitude: 40.89894
 longitude: -81.40543
 postcode: "44720"
 city: North Canton
-street: "Cleveland Avenue Northwest"
-housenumber: 7800
+street: Cleveland Avenue Northwest
+housenumber: "7800"
 phone: ""
 opening_hours: ""
 website: ""

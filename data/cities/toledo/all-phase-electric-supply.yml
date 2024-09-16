@@ -1,11 +1,11 @@
 id: 1025540276
-type: way
+type: node
 latitude: 41.68404
 longitude: -83.5675
 postcode: "43610"
 city: Toledo
-street: "Jeep Parkway"
-housenumber: 3345
+street: Jeep Parkway
+housenumber: "3345"
 phone: ""
 opening_hours: ""
 website: ""

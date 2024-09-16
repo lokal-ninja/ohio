@@ -1,11 +1,11 @@
 id: 379845438
-type: way
+type: node
 latitude: 39.59784
 longitude: -84.23573
 postcode: "45342"
 city: Miamisburg
-street: "Innovation Drive"
-housenumber: 10351
+street: Innovation Drive
+housenumber: "10351"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
 website: ""

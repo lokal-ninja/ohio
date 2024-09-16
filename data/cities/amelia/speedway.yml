@@ -1,11 +1,11 @@
 id: 1312264835
-type: way
+type: node
 latitude: 39.03036
 longitude: -84.22037
 postcode: "45102"
 city: Amelia
-street: "West Main Street"
-housenumber: 51
+street: West Main Street
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/OH/Amelia/51-West-Main-Street"
+website: https://www.speedway.com/locations/OH/Amelia/51-West-Main-Street

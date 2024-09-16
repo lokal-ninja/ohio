@@ -1,11 +1,11 @@
 id: 779931495
-type: way
+type: node
 latitude: 41.71184
 longitude: -81.29315
 postcode: "44060"
 city: Mentor
-street: "Diamond Centre Drive"
-housenumber: 9600
+street: Diamond Centre Drive
+housenumber: "9600"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3364"
+website: https://www.menards.com/store-details/store.html?store=3364

@@ -1,11 +1,11 @@
 id: 605233171
-type: way
+type: node
 latitude: 39.88413
 longitude: -83.00304
 postcode: "43207"
 city: Columbus
-street: "South High Street"
-housenumber: 3839
+street: South High Street
+housenumber: "3839"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-columbus-oh-10223849/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-columbus-oh-10223849/

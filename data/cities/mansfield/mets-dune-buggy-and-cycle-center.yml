@@ -1,11 +1,11 @@
 id: 953737562
-type: way
+type: node
 latitude: 40.76992
 longitude: -82.49154
 postcode: "44905"
 city: Mansfield
-street: "Grace Street"
-housenumber: 700
-phone: "+1-419-526-5454"
-opening_hours: "Mo-Sa 10:00-16:00"
+street: Grace Street
+housenumber: "700"
+phone: +1-419-526-5454
+opening_hours: Mo-Sa 10:00-16:00
 website: ""

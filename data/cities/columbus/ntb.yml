@@ -1,11 +1,11 @@
 id: 365358117
-type: way
+type: node
 latitude: 40.01265
 longitude: -82.99381
 postcode: "43211"
 city: Columbus
-street: "Silver Drive"
-housenumber: 2385
+street: Silver Drive
+housenumber: "2385"
 phone: ""
 opening_hours: ""
-website: "https://www.ntb.com/store/oh/columbus/2385-silver-dr-43211/4336"
+website: https://www.ntb.com/store/oh/columbus/2385-silver-dr-43211/4336

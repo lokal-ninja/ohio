@@ -4,8 +4,8 @@ latitude: 41.3682
 longitude: -82.10769
 postcode: "44035"
 city: Elyria
-street: "Kerstetter Way"
-housenumber: 6
+street: Kerstetter Way
+housenumber: "6"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

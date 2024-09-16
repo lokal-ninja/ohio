@@ -1,11 +1,11 @@
 id: 603291495
-type: way
+type: node
 latitude: 39.92943
 longitude: -82.98472
 postcode: "43207"
 city: Columbus
-street: "Parsons Avenue"
-housenumber: 1655
-phone: "+1 614-444-8963"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su 10:00-16:00"
-website: "https://schreinerhardware.com/stores/"
+street: Parsons Avenue
+housenumber: "1655"
+phone: +1 614-444-8963
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su 10:00-16:00
+website: https://schreinerhardware.com/stores/

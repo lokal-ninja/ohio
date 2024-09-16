@@ -1,11 +1,11 @@
 id: 588673586
-type: way
+type: node
 latitude: 41.38282
 longitude: -81.74526
 postcode: "44129"
 city: Parma
-street: "West Ridgewood Drive"
-housenumber: 8303
-phone: "+1 440-884-5641"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/5082-parma-oh"
+street: West Ridgewood Drive
+housenumber: "8303"
+phone: +1 440-884-5641
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/5082-parma-oh

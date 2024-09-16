@@ -1,11 +1,11 @@
 id: 876253092
-type: way
+type: node
 latitude: 40.77988
 longitude: -82.55249
 postcode: "44906"
 city: Mansfield
-street: "North Trimble Road"
-housenumber: 741
-phone: "+1-419-747-3013"
+street: North Trimble Road
+housenumber: "741"
+phone: +1-419-747-3013
 opening_hours: ""
 website: ""

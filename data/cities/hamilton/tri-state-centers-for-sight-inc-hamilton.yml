@@ -4,8 +4,8 @@ latitude: 39.41444
 longitude: -84.58331
 postcode: "45013"
 city: Hamilton
-street: "Main Street"
-housenumber: 1017
-phone: "+1-513-868-2181"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://tristatesight.com/"
+street: Main Street
+housenumber: "1017"
+phone: +1-513-868-2181
+opening_hours: Mo-Fr 08:00-17:00
+website: https://tristatesight.com/

@@ -1,11 +1,11 @@
 id: 342268457
-type: way
+type: node
 latitude: 41.28599
 longitude: -81.09828
 postcode: "44231"
 city: Garrettsville
-street: "North Street"
-housenumber: 10764
+street: North Street
+housenumber: "10764"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/oh/garrettsville/10764-north-street.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/oh/garrettsville/10764-north-street.html

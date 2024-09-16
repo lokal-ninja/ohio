@@ -1,11 +1,11 @@
 id: 863586658
-type: way
+type: node
 latitude: 40.27043
 longitude: -82.35715
 postcode: "43037"
 city: Martinsburg
-street: "West Liberty Street"
-housenumber: 100
+street: West Liberty Street
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/oh/martinsburg/18743"
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/oh/martinsburg/18743

@@ -1,11 +1,11 @@
 id: 126820682
-type: way
+type: node
 latitude: 41.49852
 longitude: -81.68943
 postcode: "44115"
 city: Cleveland
-street: "Euclid Avenue"
-housenumber: 530
+street: Euclid Avenue
+housenumber: "530"
 phone: ""
 opening_hours: ""
-website: "https://www.5thstreetarcades.com/"
+website: https://www.5thstreetarcades.com/

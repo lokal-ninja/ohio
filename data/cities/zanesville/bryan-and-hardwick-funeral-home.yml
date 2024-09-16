@@ -1,11 +1,11 @@
 id: 1025630994
-type: way
+type: node
 latitude: 39.96618
 longitude: -82.00932
 postcode: "43701"
 city: Zanesville
-street: "Maple Avenue"
-housenumber: 2318
-phone: "+1-740-452-8466"
-opening_hours: "24/7"
-website: "https://www.bryanhardwickfuneralhome.com/"
+street: Maple Avenue
+housenumber: "2318"
+phone: +1-740-452-8466
+opening_hours: 24/7
+website: https://www.bryanhardwickfuneralhome.com/

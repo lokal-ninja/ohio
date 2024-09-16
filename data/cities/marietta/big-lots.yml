@@ -1,11 +1,11 @@
 id: 772544887
-type: way
+type: node
 latitude: 39.41339
 longitude: -81.44392
 postcode: "45750"
 city: Marietta
-street: "South 7th Street"
-housenumber: 110
-phone: "+1 740-538-0411"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://local.biglots.com/oh/marietta/110-s-7th-st"
+street: South 7th Street
+housenumber: "110"
+phone: +1 740-538-0411
+opening_hours: Mo-Su 09:00-21:00
+website: https://local.biglots.com/oh/marietta/110-s-7th-st

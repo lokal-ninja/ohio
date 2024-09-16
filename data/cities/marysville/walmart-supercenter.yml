@@ -1,11 +1,11 @@
 id: 243713681
-type: way
+type: node
 latitude: 40.23068
 longitude: -83.34705
 postcode: "43040"
 city: Marysville
-street: "Colemans Crossing Boulevard"
-housenumber: 555
-phone: "+1 937-644-2800"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1595/marysville-oh/whats-new"
+street: Colemans Crossing Boulevard
+housenumber: "555"
+phone: +1 937-644-2800
+opening_hours: 24/7
+website: https://www.walmart.com/store/1595/marysville-oh/whats-new

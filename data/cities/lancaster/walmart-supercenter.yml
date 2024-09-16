@@ -1,11 +1,11 @@
 id: 646998300
-type: way
+type: node
 latitude: 39.73987
 longitude: -82.64235
 postcode: "43130"
 city: Lancaster
-street: "North Memorial Drive"
-housenumber: 2687
-phone: "+1 740-687-0323"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3792/lancaster-oh/whats-new"
+street: North Memorial Drive
+housenumber: "2687"
+phone: +1 740-687-0323
+opening_hours: 24/7
+website: https://www.walmart.com/store/3792/lancaster-oh/whats-new

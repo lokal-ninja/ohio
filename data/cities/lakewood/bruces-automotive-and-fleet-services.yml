@@ -1,11 +1,11 @@
 id: 388917121
-type: way
+type: node
 latitude: 41.48527
 longitude: -81.78897
 postcode: "44107"
 city: Lakewood
-street: "Detroit Avenue"
-housenumber: 13919
+street: Detroit Avenue
+housenumber: "13919"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "http://brucesautoandfleet.com/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: http://brucesautoandfleet.com/

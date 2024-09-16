@@ -1,11 +1,11 @@
 id: 655052833
-type: way
+type: node
 latitude: 41.4329
 longitude: -82.18724
 postcode: "44053"
 city: Lorain
-street: "Tower Boulevard"
-housenumber: 1211
-phone: "+1 440-282-2303"
-opening_hours: "09:00-21:00"
-website: "https://local.biglots.com/oh/lorain/1211-tower-blvd"
+street: Tower Boulevard
+housenumber: "1211"
+phone: +1 440-282-2303
+opening_hours: 09:00-21:00
+website: https://local.biglots.com/oh/lorain/1211-tower-blvd

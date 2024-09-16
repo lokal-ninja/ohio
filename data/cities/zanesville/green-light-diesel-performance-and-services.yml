@@ -1,11 +1,11 @@
 id: 1237242387
-type: way
+type: node
 latitude: 39.95471
 longitude: -82.07525
 postcode: "43701"
 city: Zanesville
-street: "West Pike"
-housenumber: 4200
-phone: "+1-740-891-7786"
-opening_hours: "Mo-Fr 08:00-17:00, Sa-Su off || by appointment"
+street: West Pike
+housenumber: "4200"
+phone: +1-740-891-7786
+opening_hours: Mo-Fr 08:00-17:00, Sa-Su off || "by appointment"
 website: ""

@@ -1,11 +1,11 @@
 id: 496478094
-type: way
+type: node
 latitude: 41.46279
 longitude: -82.01839
 postcode: "44011"
 city: Avon
-street: "Detroit Road"
-housenumber: 35930
-phone: "+1 440-937-2240"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Avon-OH/OH/Avon/44011/3835"
+street: Detroit Road
+housenumber: "35930"
+phone: +1 440-937-2240
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Avon-OH/OH/Avon/44011/3835

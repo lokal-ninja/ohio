@@ -1,11 +1,11 @@
 id: 512155732
-type: way
+type: node
 latitude: 40.02278
 longitude: -83.01422
 postcode: "43202"
 city: Columbus
-street: "North High Street"
-housenumber: 2975
+street: North High Street
+housenumber: "2975"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-17:00"
-website: "https://store.vioc.com/oh/columbus/oil-change-060011.html"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-17:00
+website: https://store.vioc.com/oh/columbus/oil-change-060011.html

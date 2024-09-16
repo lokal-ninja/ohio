@@ -1,11 +1,11 @@
 id: 292009876
-type: way
+type: node
 latitude: 40.07594
 longitude: -83.13012
 postcode: "43016"
 city: Dublin
-street: "Tuttle Crossing Boulevard"
-housenumber: 5061
+street: Tuttle Crossing Boulevard
+housenumber: "5061"
 phone: ""
 opening_hours: ""
 website: ""

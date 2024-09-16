@@ -1,11 +1,11 @@
 id: 103625156
-type: way
+type: node
 latitude: 41.26218
 longitude: -82.61198
 postcode: "44857"
 city: Norwalk
-street: "Milan Avenue"
-housenumber: 225
+street: Milan Avenue
+housenumber: "225"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/oh/norwalk/225-milan-ave"
+website: https://stores.advanceautoparts.com/oh/norwalk/225-milan-ave

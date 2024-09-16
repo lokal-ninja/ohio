@@ -1,11 +1,11 @@
 id: 1133045317
-type: way
+type: node
 latitude: 41.22314
 longitude: -80.78632
 postcode: "44484"
 city: Warren
-street: "Youngstown Road Southeast"
-housenumber: 2680
-phone: "+1 330 341 9001"
+street: Youngstown Road Southeast
+housenumber: "2680"
+phone: +1 330 341 9001
 opening_hours: ""
 website: ""

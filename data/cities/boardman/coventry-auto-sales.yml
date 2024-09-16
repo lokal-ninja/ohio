@@ -1,11 +1,11 @@
 id: 1199597475
-type: way
+type: node
 latitude: 40.99075
 longitude: -80.66194
 postcode: "44512"
 city: Boardman
-street: "Market Street"
-housenumber: 8533
+street: Market Street
+housenumber: "8533"
 phone: ""
 opening_hours: ""
 website: ""

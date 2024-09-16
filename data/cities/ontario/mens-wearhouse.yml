@@ -1,11 +1,12 @@
 id: 530801422
-type: way
+type: node
 latitude: 40.7746
 longitude: -82.59083
 postcode: "44906"
 city: Ontario
-street: "North Lexington-Springmill Road"
-housenumber: 815
-phone: "+1-419-747-7001"
-opening_hours: "Mo,We 10:30-20:30; Tu 10:30-19:30; Th 10:30-21:00; Fr 10:00-20:30; Sa 10:00-19:30; Su 12:00-17:00"
-website: "https://www.menswearhouse.com/store-locator/4420"
+street: North Lexington-Springmill Road
+housenumber: "815"
+phone: +1-419-747-7001
+opening_hours: Mo,We 10:30-20:30; Tu 10:30-19:30; Th 10:30-21:00; Fr 10:00-20:30;
+    Sa 10:00-19:30; Su 12:00-17:00
+website: https://www.menswearhouse.com/store-locator/4420

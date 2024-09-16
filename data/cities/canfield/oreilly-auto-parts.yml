@@ -1,11 +1,11 @@
 id: 1253842230
-type: way
+type: node
 latitude: 41.02429
 longitude: -80.73027
 postcode: "44406"
 city: Canfield
-street: "Boardman Canfield Road"
-housenumber: 4337
+street: Boardman Canfield Road
+housenumber: "4337"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/oh/canfield/autoparts-4560.html"
+website: https://locations.oreillyauto.com/oh/canfield/autoparts-4560.html

@@ -1,11 +1,11 @@
 id: 1025942215
-type: way
+type: node
 latitude: 39.96368
 longitude: -82.0099
 postcode: "43701"
 city: Zanesville
-street: "Maple Avenue"
-housenumber: 2116
-phone: "+1-740-704-3160"
+street: Maple Avenue
+housenumber: "2116"
+phone: +1-740-704-3160
 opening_hours: ""
 website: ""

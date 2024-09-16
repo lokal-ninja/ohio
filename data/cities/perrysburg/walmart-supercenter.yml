@@ -1,11 +1,11 @@
 id: 639888740
-type: way
+type: node
 latitude: 41.54981
 longitude: -83.59442
 postcode: "43551"
 city: Perrysburg
-street: "Fremont Pike"
-housenumber: 10392
-phone: "+1 419-874-0291"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4479/perrysburg-oh/whats-new"
+street: Fremont Pike
+housenumber: "10392"
+phone: +1 419-874-0291
+opening_hours: 24/7
+website: https://www.walmart.com/store/4479/perrysburg-oh/whats-new

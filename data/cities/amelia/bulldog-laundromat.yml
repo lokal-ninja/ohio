@@ -1,11 +1,11 @@
 id: 1311843604
-type: way
+type: node
 latitude: 39.05075
 longitude: -84.25176
 postcode: "45102"
 city: Amelia
-street: "West Ohio Pike"
-housenumber: 1145
+street: West Ohio Pike
+housenumber: "1145"
 phone: ""
 opening_hours: ""
-website: "https://bulldoglaundromat.com/amelia/"
+website: https://bulldoglaundromat.com/amelia/

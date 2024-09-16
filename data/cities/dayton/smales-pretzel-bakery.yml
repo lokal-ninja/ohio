@@ -1,11 +1,11 @@
 id: 732412532
-type: way
+type: node
 latitude: 39.75242
 longitude: -84.1737
 postcode: "45410"
 city: Dayton
-street: "Xenia Avenue"
-housenumber: 210
-phone: "+1-937-253-7482"
-opening_hours: "Mo-Fr 07:00-13:00; Sa 08:00-14:00"
-website: "https://www.facebook.com/SmalesPretzelBakery/"
+street: Xenia Avenue
+housenumber: "210"
+phone: +1-937-253-7482
+opening_hours: Mo-Fr 07:00-13:00; Sa 08:00-14:00
+website: https://www.facebook.com/SmalesPretzelBakery/

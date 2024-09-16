@@ -1,11 +1,11 @@
 id: 200257395
-type: way
+type: node
 latitude: 39.21528
 longitude: -84.47357
 postcode: "45216"
 city: Cincinnati
-street: "Vine Street"
-housenumber: 8372
+street: Vine Street
+housenumber: "8372"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/cincinnati-oh-pharmacies/8372-vine-st-cincinnati-oh-45216/storeid=6093"
+website: https://www.cvs.com/store-locator/cincinnati-oh-pharmacies/8372-vine-st-cincinnati-oh-45216/storeid=6093

@@ -1,11 +1,11 @@
 id: 708069230
-type: way
+type: node
 latitude: 40.23619
 longitude: -83.35719
 postcode: "43040"
 city: Marysville
-street: "Cherry Street"
-housenumber: 101
+street: Cherry Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

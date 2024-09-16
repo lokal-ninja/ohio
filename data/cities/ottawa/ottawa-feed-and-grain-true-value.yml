@@ -1,11 +1,11 @@
 id: 265560500
-type: way
+type: node
 latitude: 41.01858
 longitude: -84.04765
 postcode: "45875"
 city: Ottawa
-street: "South Oak Street"
-housenumber: 156
-phone: "+1-419-523-3197"
-opening_hours: "07:30-20:00"
-website: "http://ww3.truevalue.com/feedandgrain/Home.aspx"
+street: South Oak Street
+housenumber: "156"
+phone: +1-419-523-3197
+opening_hours: 07:30-20:00
+website: http://ww3.truevalue.com/feedandgrain/Home.aspx

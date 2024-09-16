@@ -1,11 +1,11 @@
 id: 558599740
-type: way
+type: node
 latitude: 40.14838
 longitude: -82.91926
 postcode: "43082"
 city: Westerville
-street: "Maxtown Road"
-housenumber: 6017
-phone: "+1 614-794-3651"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/westerville/oh/westerville/43082/3825"
+street: Maxtown Road
+housenumber: "6017"
+phone: +1 614-794-3651
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/westerville/oh/westerville/43082/3825

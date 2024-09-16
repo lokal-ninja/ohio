@@ -1,11 +1,11 @@
 id: 590905862
-type: way
+type: node
 latitude: 40.83849
 longitude: -81.26528
-postcode: "44641-1308"
+postcode: 44641-1308
 city: Louisville
-street: "Constitution Avenue"
-housenumber: 109
-phone: "+1 330-875-5586"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00"
+street: Constitution Avenue
+housenumber: "109"
+phone: +1 330-875-5586
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00
 website: ""

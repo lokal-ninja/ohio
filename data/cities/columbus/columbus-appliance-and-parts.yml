@@ -1,11 +1,11 @@
 id: 604539629
-type: way
+type: node
 latitude: 39.88596
 longitude: -83.00226
 postcode: "43207"
 city: Columbus
-street: "South High Street"
-housenumber: 3755
+street: South High Street
+housenumber: "3755"
 phone: ""
 opening_hours: ""
 website: ""

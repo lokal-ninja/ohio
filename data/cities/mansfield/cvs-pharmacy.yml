@@ -1,11 +1,11 @@
 id: 724663913
-type: way
+type: node
 latitude: 40.77109
 longitude: -82.48593
 postcode: "44905"
 city: Mansfield
-street: "Ashland Road"
-housenumber: 755
-phone: "+1-419-589-2030"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.cvs.com/store-locator/mansfield-oh-pharmacies/755-ashland-road-mansfield-oh-44905/storeid=6175"
+street: Ashland Road
+housenumber: "755"
+phone: +1-419-589-2030
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.cvs.com/store-locator/mansfield-oh-pharmacies/755-ashland-road-mansfield-oh-44905/storeid=6175

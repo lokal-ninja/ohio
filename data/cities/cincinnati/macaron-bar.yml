@@ -1,11 +1,11 @@
 id: 3076735122
 type: node
-latitude: 39.10949
-longitude: -84.51156
+latitude: 39.10947
+longitude: -84.51157
 postcode: "45202"
 city: Cincinnati
-street: "Main Street"
-housenumber: 1206
-phone: "+1-513-813-8180"
-opening_hours: "Mo-Th 10:00-21:00, Fr-Su 10:00-22:00"
-website: "https://www.macaron-bar.com/"
+street: Main Street
+housenumber: "1206"
+phone: +1-513-813-8180
+opening_hours: Mo-Th 10:00-21:00, Fr-Su 10:00-22:00
+website: https://www.macaron-bar.com/

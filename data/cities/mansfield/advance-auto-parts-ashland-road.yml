@@ -1,11 +1,11 @@
 id: 1015298401
-type: way
+type: node
 latitude: 40.7822
 longitude: -82.46467
 postcode: "44905"
 city: Mansfield
-street: "Ashland Road"
-housenumber: 1370
-phone: "+1-419-589-5843"
-opening_hours: "Mo-Sa 07:30-21:00, Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/oh/mansfield/1370-ashland-rd"
+street: Ashland Road
+housenumber: "1370"
+phone: +1-419-589-5843
+opening_hours: Mo-Sa 07:30-21:00, Su 09:00-20:00
+website: https://stores.advanceautoparts.com/oh/mansfield/1370-ashland-rd

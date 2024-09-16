@@ -1,11 +1,11 @@
 id: 606009225
-type: way
+type: node
 latitude: 40.05016
 longitude: -82.91427
 postcode: "43219"
 city: Columbus
-street: "Easton Station"
-housenumber: 4012
-phone: "+1-614-478-0901"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://local.lenscrafters.com/oh/columbus/4012-easton-station.html"
+street: Easton Station
+housenumber: "4012"
+phone: +1-614-478-0901
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://local.lenscrafters.com/oh/columbus/4012-easton-station.html

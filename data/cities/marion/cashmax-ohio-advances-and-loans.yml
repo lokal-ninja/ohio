@@ -1,11 +1,11 @@
 id: 559163299
-type: way
+type: node
 latitude: 40.58035
 longitude: -83.10181
 postcode: "43302"
 city: Marion
-street: "Mt Vernon Avenue"
-housenumber: 1071
-phone: "+1-740-751-4688"
+street: Mt Vernon Avenue
+housenumber: "1071"
+phone: +1-740-751-4688
 opening_hours: ""
-website: "https://www.cashmaxohio.com/contact-us/marion/"
+website: https://www.cashmaxohio.com/contact-us/marion/

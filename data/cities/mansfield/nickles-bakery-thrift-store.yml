@@ -1,11 +1,11 @@
 id: 887999457
-type: way
+type: node
 latitude: 40.75816
 longitude: -82.50867
 postcode: "44902"
 city: Mansfield
-street: "Park Avenue East"
-housenumber: 194
-phone: "+1-419-524-1851"
+street: Park Avenue East
+housenumber: "194"
+phone: +1-419-524-1851
 opening_hours: ""
-website: "https://nicklesbakery.com/"
+website: https://nicklesbakery.com/

@@ -1,11 +1,11 @@
 id: 1043484103
-type: way
+type: node
 latitude: 39.52728
 longitude: -82.37646
 postcode: ""
 city: Logan
-street: "East Front Street"
-housenumber: 1981
-phone: "+1-740-216-4452"
+street: East Front Street
+housenumber: "1981"
+phone: +1-740-216-4452
 opening_hours: ""
 website: ""

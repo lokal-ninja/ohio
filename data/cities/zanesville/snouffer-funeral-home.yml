@@ -1,11 +1,11 @@
 id: 1035016307
-type: way
+type: node
 latitude: 39.97941
 longitude: -82.02149
 postcode: "43701"
 city: Zanesville
-street: "Military Road"
-housenumber: 1150
-phone: "+1-740-450-8000"
+street: Military Road
+housenumber: "1150"
+phone: +1-740-450-8000
 opening_hours: ""
-website: "https://www.snoufferfuneralhome.com/"
+website: https://www.snoufferfuneralhome.com/

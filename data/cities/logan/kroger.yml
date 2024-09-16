@@ -1,11 +1,11 @@
 id: 291704633
-type: way
+type: node
 latitude: 39.54667
 longitude: -82.43455
 postcode: "43138"
 city: Logan
-street: "Chieftain Drive"
-housenumber: 31550
-phone: "+1 740-380-3236"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.kroger.com/stores/grocery/oh/logan/logan/016/00542"
+street: Chieftain Drive
+housenumber: "31550"
+phone: +1 740-380-3236
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.kroger.com/stores/grocery/oh/logan/logan/016/00542

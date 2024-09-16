@@ -1,11 +1,11 @@
 id: 247950492
-type: way
+type: node
 latitude: 39.94848
 longitude: -81.96174
 postcode: "43701"
 city: Zanesville
-street: "East Pike"
-housenumber: 2497
+street: East Pike
+housenumber: "2497"
 phone: ""
 opening_hours: ""
 website: ""

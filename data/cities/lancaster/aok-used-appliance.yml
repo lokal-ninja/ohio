@@ -1,11 +1,11 @@
 id: 1120618026
-type: way
+type: node
 latitude: 39.72037
 longitude: -82.60568
 postcode: "43130"
 city: Lancaster
-street: "Forest Rose East"
-housenumber: 610
+street: Forest Rose East
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

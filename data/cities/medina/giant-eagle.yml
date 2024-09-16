@@ -1,11 +1,11 @@
 id: 784962423
-type: way
+type: node
 latitude: 41.15115
 longitude: -81.86154
 postcode: "44256"
 city: Medina
-street: "North Court Street"
-housenumber: 870
-phone: "+1 330-723-8873"
-opening_hours: "Mo-Su 07:00-22:00"
+street: North Court Street
+housenumber: "870"
+phone: +1 330-723-8873
+opening_hours: Mo-Su 07:00-22:00
 website: ""

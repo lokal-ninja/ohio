@@ -1,11 +1,11 @@
 id: 426920053
-type: way
+type: node
 latitude: 40.08921
 longitude: -83.08992
 postcode: "43017"
 city: Dublin
-street: "Sawmill Road"
-housenumber: 6000
-phone: "+1-614-798-8160"
-opening_hours: "Mo-Sa 11:00-23:00; Su 11:00-22:00"
-website: "https://www.target.com/sl/columbus-nw/666"
+street: Sawmill Road
+housenumber: "6000"
+phone: +1-614-798-8160
+opening_hours: Mo-Sa 11:00-23:00; Su 11:00-22:00
+website: https://www.target.com/sl/columbus-nw/666

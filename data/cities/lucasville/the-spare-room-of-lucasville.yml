@@ -1,11 +1,11 @@
 id: 651079821
-type: way
+type: node
 latitude: 38.88401
 longitude: -82.99878
 postcode: "45648"
 city: Lucasville
-street: "Merritt Street"
-housenumber: 52
-phone: "+1 740-259-3121"
+street: Merritt Street
+housenumber: "52"
+phone: +1 740-259-3121
 opening_hours: ""
-website: "https://www.spareroomlucasville.com/"
+website: https://www.spareroomlucasville.com/

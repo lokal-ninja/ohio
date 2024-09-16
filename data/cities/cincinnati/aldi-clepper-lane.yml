@@ -1,11 +1,11 @@
 id: 96796909
-type: way
+type: node
 latitude: 39.09159
 longitude: -84.26541
 postcode: "45245"
 city: Cincinnati
-street: "Clepper Lane"
-housenumber: 821
-phone: "+1 833-461-7059"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/oh/cincinnati/821-clepper-ln"
+street: Clepper Lane
+housenumber: "821"
+phone: +1 833-461-7059
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/oh/cincinnati/821-clepper-ln

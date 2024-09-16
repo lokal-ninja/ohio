@@ -1,11 +1,11 @@
 id: 530027448
-type: way
+type: node
 latitude: 41.67361
 longitude: -81.32104
 postcode: "44060"
 city: Mentor
-street: "Mentor Avenue"
-housenumber: 8900
+street: Mentor Avenue
+housenumber: "8900"
 phone: ""
 opening_hours: ""
 website: ""

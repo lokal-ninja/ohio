@@ -1,11 +1,11 @@
 id: 584709662
-type: way
+type: node
 latitude: 40.40431
 longitude: -82.44269
 postcode: "43050"
 city: Mount Vernon
-street: "Coshocton Avenue"
-housenumber: 1575
-phone: "+1 740-392-3800"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2149/mount-vernon-oh/whats-new"
+street: Coshocton Avenue
+housenumber: "1575"
+phone: +1 740-392-3800
+opening_hours: 24/7
+website: https://www.walmart.com/store/2149/mount-vernon-oh/whats-new

@@ -1,11 +1,11 @@
 id: 448319855
-type: way
+type: node
 latitude: 39.74538
 longitude: -84.16919
 postcode: "45410"
 city: Dayton
-street: "Wayne Avenue"
-housenumber: 1632
+street: Wayne Avenue
+housenumber: "1632"
 phone: ""
 opening_hours: ""
-website: "https://schlientzandmoore.com/"
+website: https://schlientzandmoore.com/

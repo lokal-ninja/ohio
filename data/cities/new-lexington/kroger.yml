@@ -1,11 +1,11 @@
 id: 979399681
-type: way
+type: node
 latitude: 39.72189
 longitude: -82.20336
 postcode: "43764"
 city: New Lexington
-street: "Carroll Street"
-housenumber: 610
-phone: "+1 740-342-3578"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/oh/new-lexington/new-lex/016/00313"
+street: Carroll Street
+housenumber: "610"
+phone: +1 740-342-3578
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/oh/new-lexington/new-lex/016/00313

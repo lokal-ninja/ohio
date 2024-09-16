@@ -1,11 +1,11 @@
 id: 423109124
-type: way
+type: node
 latitude: 41.35539
 longitude: -83.64987
 postcode: "43402"
 city: Bowling Green
-street: "South Main Street"
-housenumber: 1121
-phone: "+1-419-352-0790"
+street: South Main Street
+housenumber: "1121"
+phone: +1-419-352-0790
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/oh/bowling-green/3754/shoppes-on-main-street-gamestop"
+website: https://www.gamestop.com/store/us/oh/bowling-green/3754/shoppes-on-main-street-gamestop

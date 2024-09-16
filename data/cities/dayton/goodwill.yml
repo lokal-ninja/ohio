@@ -1,11 +1,11 @@
 id: 148025622
-type: way
+type: node
 latitude: 39.81682
 longitude: -84.19788
 postcode: "45414"
 city: Dayton
-street: "North Dixie Drive"
-housenumber: 5400
+street: North Dixie Drive
+housenumber: "5400"
 phone: ""
 opening_hours: ""
 website: ""

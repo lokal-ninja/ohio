@@ -1,11 +1,11 @@
 id: 542585070
-type: way
+type: node
 latitude: 39.38773
 longitude: -84.51405
 postcode: "45011"
 city: Hamilton
-street: "Gilmore Road"
-housenumber: 6720
-phone: "+1-513-863-8111"
+street: Gilmore Road
+housenumber: "6720"
+phone: +1-513-863-8111
 opening_hours: ""
-website: "https://www.fiehrermotors.com/"
+website: https://www.fiehrermotors.com/

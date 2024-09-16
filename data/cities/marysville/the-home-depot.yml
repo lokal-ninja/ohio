@@ -1,11 +1,11 @@
 id: 243719276
-type: way
+type: node
 latitude: 40.23091
 longitude: -83.33825
 postcode: "43040"
 city: Marysville
-street: "Colemans Crossing"
-housenumber: 880
-phone: "+1 937-578-0280"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/marysville/oh/marysville/43040/3889"
+street: Colemans Crossing
+housenumber: "880"
+phone: +1 937-578-0280
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/marysville/oh/marysville/43040/3889

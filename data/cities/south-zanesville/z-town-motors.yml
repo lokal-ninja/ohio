@@ -1,11 +1,11 @@
 id: 1088638351
-type: way
+type: node
 latitude: 39.9023
 longitude: -82.02143
 postcode: "43701"
 city: South Zanesville
-street: "South Maysville Avenue"
-housenumber: 37
-phone: "+1-740-487-3069"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-16:00, Su off"
+street: South Maysville Avenue
+housenumber: "37"
+phone: +1-740-487-3069
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-16:00, Su off
 website: ""

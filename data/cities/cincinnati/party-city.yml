@@ -4,8 +4,8 @@ latitude: 39.20319
 longitude: -84.37157
 postcode: "45236"
 city: Cincinnati
-street: "Montgomery Road"
-housenumber: 8063
-phone: "+1 513-514-8912"
-opening_hours: "Mo-Th 10:00-20:00; Fr 09:00-21:00; Sa 08:00-20:00; Su 10:00-18:00"
-website: "https://stores.partycity.com/us/oh/cincinnati/party-store-pc165.html"
+street: Montgomery Road
+housenumber: "8063"
+phone: +1 513-514-8912
+opening_hours: Mo-Th 10:00-20:00; Fr 09:00-21:00; Sa 08:00-20:00; Su 10:00-18:00
+website: https://stores.partycity.com/us/oh/cincinnati/party-store-pc165.html

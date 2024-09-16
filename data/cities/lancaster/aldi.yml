@@ -1,11 +1,11 @@
 id: 973356593
-type: way
+type: node
 latitude: 39.7337
 longitude: -82.62096
 postcode: "43130"
 city: Lancaster
-street: "North Memorial Drive"
-housenumber: 1904
-phone: "+1 833-461-7074"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/oh/lancaster/1904-n-memorial-drive"
+street: North Memorial Drive
+housenumber: "1904"
+phone: +1 833-461-7074
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/oh/lancaster/1904-n-memorial-drive

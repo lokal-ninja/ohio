@@ -1,11 +1,11 @@
 id: 726950032
-type: way
+type: node
 latitude: 39.76275
 longitude: -84.16525
 postcode: "45403"
 city: Dayton
-street: "Linden Avenue"
-housenumber: 49
+street: Linden Avenue
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

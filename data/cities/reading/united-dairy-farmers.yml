@@ -1,11 +1,11 @@
 id: 112245227
-type: way
+type: node
 latitude: 39.22811
 longitude: -84.43858
 postcode: "45215"
 city: Reading
-street: "Reading Road"
-housenumber: 9203
+street: Reading Road
+housenumber: "9203"
 phone: ""
 opening_hours: ""
 website: ""

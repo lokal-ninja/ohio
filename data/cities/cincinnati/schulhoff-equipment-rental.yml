@@ -1,11 +1,11 @@
 id: 293484186
-type: way
+type: node
 latitude: 39.12789
 longitude: -84.4782
 postcode: "45206"
 city: Cincinnati
-street: "Woodburn Avenue"
-housenumber: 2709
-phone: "+1 513 961 1122"
+street: Woodburn Avenue
+housenumber: "2709"
+phone: +1 513 961 1122
 opening_hours: ""
-website: "http://schulhoff-tool.com/"
+website: http://schulhoff-tool.com/

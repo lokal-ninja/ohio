@@ -1,11 +1,11 @@
 id: 67142828
-type: way
+type: node
 latitude: 39.12786
 longitude: -84.52093
 postcode: "45219"
 city: Cincinnati
-street: "West McMillan Avenue"
-housenumber: 241
-phone: "+1-513-721-6628"
+street: West McMillan Avenue
+housenumber: "241"
+phone: +1-513-721-6628
 opening_hours: ""
-website: "https://campuscyclery.com/"
+website: https://campuscyclery.com/

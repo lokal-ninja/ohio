@@ -1,11 +1,11 @@
 id: 289960209
-type: way
+type: node
 latitude: 41.26606
 longitude: -82.61164
 postcode: "44857"
 city: Norwalk
-street: "Milan Avenue"
-housenumber: 295
+street: Milan Avenue
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 231272115
-type: way
+type: node
 latitude: 41.05748
 longitude: -83.59663
 postcode: "45840"
 city: Findlay
-street: "Tiffin Avenue"
-housenumber: 2330
-phone: "+1 419-423-6869"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/oh/findlay-store2246.html"
+street: Tiffin Avenue
+housenumber: "2330"
+phone: +1 419-423-6869
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/oh/findlay-store2246.html

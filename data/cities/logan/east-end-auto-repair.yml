@@ -1,11 +1,11 @@
 id: 1049340730
-type: way
+type: node
 latitude: 39.52789
 longitude: -82.37752
 postcode: "43138"
 city: Logan
-street: "East Front Street"
-housenumber: 1945
+street: East Front Street
+housenumber: "1945"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.facebook.com/cherrystire"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.facebook.com/cherrystire

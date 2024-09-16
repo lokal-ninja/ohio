@@ -1,11 +1,11 @@
 id: 337258445
-type: way
+type: node
 latitude: 41.60866
 longitude: -83.71092
 postcode: "43528"
 city: Holland
-street: "Orchard Centre Drive"
-housenumber: 7059
-phone: "+1 567-297-4109"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/oh/holland/orchard-centre/016/00907"
+street: Orchard Centre Drive
+housenumber: "7059"
+phone: +1 567-297-4109
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/oh/holland/orchard-centre/016/00907

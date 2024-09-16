@@ -4,8 +4,8 @@ latitude: 41.46974
 longitude: -81.60835
 postcode: "44104"
 city: Cleveland
-street: "Kinsman"
-housenumber: 10815
-phone: "+1 844-463-1034"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/oh/cleveland/10815-kinsman"
+street: Kinsman
+housenumber: "10815"
+phone: +1 844-463-1034
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/oh/cleveland/10815-kinsman

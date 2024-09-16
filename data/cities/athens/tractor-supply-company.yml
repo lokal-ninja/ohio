@@ -4,8 +4,8 @@ latitude: 39.33718
 longitude: -82.05787
 postcode: "45701"
 city: Athens
-street: "East State Street"
-housenumber: 1000
-phone: "+1 740-594-1892"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East State Street
+housenumber: "1000"
+phone: +1 740-594-1892
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

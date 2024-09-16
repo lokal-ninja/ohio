@@ -1,11 +1,11 @@
 id: 1193476654
-type: way
+type: node
 latitude: 40.79895
 longitude: -81.94208
 postcode: "44691"
 city: Wooster
-street: "North Walnut Street"
-housenumber: 148
+street: North Walnut Street
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

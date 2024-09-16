@@ -1,11 +1,11 @@
 id: 1033582442
-type: way
+type: node
 latitude: 39.9562
 longitude: -82.00475
 postcode: "43701"
 city: Zanesville
-street: "Linden Avenue"
-housenumber: 1407
-phone: "+1-740-819-0869"
+street: Linden Avenue
+housenumber: "1407"
+phone: +1-740-819-0869
 opening_hours: ""
 website: ""

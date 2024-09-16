@@ -1,11 +1,11 @@
 id: 425202413
-type: way
+type: node
 latitude: 41.05912
 longitude: -83.65768
 postcode: "45840"
 city: Findlay
-street: "West Trenton Avenue"
-housenumber: 420
+street: West Trenton Avenue
+housenumber: "420"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/oh/findlay/420-trenton-ave"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/oh/findlay/420-trenton-ave

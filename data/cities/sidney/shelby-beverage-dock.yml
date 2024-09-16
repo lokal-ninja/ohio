@@ -1,11 +1,11 @@
 id: 1065028028
-type: way
+type: node
 latitude: 40.28721
 longitude: -84.18693
 postcode: "45365"
 city: Sidney
-street: "Old Vandemark Road"
-housenumber: 122
+street: Old Vandemark Road
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

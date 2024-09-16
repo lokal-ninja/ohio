@@ -1,11 +1,11 @@
 id: 243864217
-type: way
+type: node
 latitude: 41.45179
 longitude: -81.63201
 postcode: "44105"
 city: Cleveland
-street: "Broadway Avenue"
-housenumber: 8022
+street: Broadway Avenue
+housenumber: "8022"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1293745489
-type: way
+type: node
 latitude: 39.95844
 longitude: -83.14521
 postcode: "43228"
 city: Columbus
-street: "Hilliard-Rome Road"
-housenumber: 300
+street: Hilliard-Rome Road
+housenumber: "300"
 phone: "+16148785796"
 opening_hours: ""
 website: ""

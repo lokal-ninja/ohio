@@ -1,11 +1,11 @@
 id: 1043797560
-type: way
+type: node
 latitude: 39.54342
 longitude: -82.42642
 postcode: "43138"
 city: Logan
-street: "West Hunter Street"
-housenumber: 1266
-phone: "+1-740-385-5782"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-17:00"
-website: "http://www.logan-sales.com"
+street: West Hunter Street
+housenumber: "1266"
+phone: +1-740-385-5782
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-17:00
+website: http://www.logan-sales.com

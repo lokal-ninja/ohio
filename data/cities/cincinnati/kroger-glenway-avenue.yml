@@ -1,11 +1,11 @@
 id: 56395127
-type: way
+type: node
 latitude: 39.14328
 longitude: -84.62306
 postcode: "45211"
 city: Cincinnati
-street: "Glenway Avenue"
-housenumber: 6165
-phone: "+1 513-719-2420"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/oh/cincinnati/western-hills-plaza/014/00948"
+street: Glenway Avenue
+housenumber: "6165"
+phone: +1 513-719-2420
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/oh/cincinnati/western-hills-plaza/014/00948

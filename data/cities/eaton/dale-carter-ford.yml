@@ -1,11 +1,11 @@
 id: 161068971
-type: way
+type: node
 latitude: 39.7382
 longitude: -84.63581
 postcode: "45320"
 city: Eaton
-street: "South Barron Street"
-housenumber: 510
+street: South Barron Street
+housenumber: "510"
 phone: ""
 opening_hours: ""
-website: "http://www.dalecarterford.com/"
+website: http://www.dalecarterford.com/

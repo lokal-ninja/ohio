@@ -4,8 +4,8 @@ latitude: 40.12177
 longitude: -83.09226
 postcode: "43016"
 city: Dublin
-street: "Sawmill Road"
-housenumber: 7625
-phone: "+1 614-923-2333"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/oh/dublin/sawmill-rd/016/00581"
+street: Sawmill Road
+housenumber: "7625"
+phone: +1 614-923-2333
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/oh/dublin/sawmill-rd/016/00581

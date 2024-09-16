@@ -1,11 +1,11 @@
 id: 1056634879
-type: way
+type: node
 latitude: 41.08525
 longitude: -81.53391
 postcode: "44302"
 city: Akron
-street: "South Maple Street"
-housenumber: 330
+street: South Maple Street
+housenumber: "330"
 phone: "+13304310156"
 opening_hours: ""
 website: ""

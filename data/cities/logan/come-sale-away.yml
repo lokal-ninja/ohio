@@ -1,11 +1,11 @@
 id: 1057773929
-type: way
+type: node
 latitude: 39.54104
 longitude: -82.40773
 postcode: "43138"
 city: Logan
-street: "East Hunter Street"
-housenumber: 49
+street: East Hunter Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 668064312
-type: way
+type: node
 latitude: 41.03641
 longitude: -81.72847
 postcode: "44281"
 city: Wadsworth
-street: "Akron Road"
-housenumber: 110
+street: Akron Road
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 491663534
-type: way
+type: node
 latitude: 40.75883
 longitude: -82.58984
 postcode: "44906"
 city: Ontario
-street: "South Lexington-Springmill Road"
-housenumber: 25
-phone: "+1-419-529-2198"
+street: South Lexington-Springmill Road
+housenumber: "25"
+phone: +1-419-529-2198
 opening_hours: ""
 website: ""

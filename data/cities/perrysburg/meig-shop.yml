@@ -1,11 +1,11 @@
 id: 608390368
-type: way
+type: node
 latitude: 41.55984
 longitude: -83.62938
 postcode: "43551"
 city: Perrysburg
-street: "Louisiana Avenue"
-housenumber: 119
+street: Louisiana Avenue
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 752046454
-type: way
+type: node
 latitude: 41.47469
 longitude: -84.53299
 postcode: "43506"
 city: Bryan
-street: "East High Street"
-housenumber: 1302
+street: East High Street
+housenumber: "1302"
 phone: ""
 opening_hours: ""
-website: "https://www.haschbodyshop.com/"
+website: https://www.haschbodyshop.com/

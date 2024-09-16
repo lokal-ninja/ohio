@@ -1,11 +1,11 @@
 id: 1238184755
-type: way
+type: node
 latitude: 40.10223
 longitude: -82.952
 postcode: "43231"
 city: Columbus
-street: "Cleveland Avenue"
-housenumber: 6333
-phone: "+1 614-523-0600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Cleveland-Ave/OH/Columbus/43231/3811"
+street: Cleveland Avenue
+housenumber: "6333"
+phone: +1 614-523-0600
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Cleveland-Ave/OH/Columbus/43231/3811

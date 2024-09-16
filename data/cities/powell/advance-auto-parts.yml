@@ -1,11 +1,11 @@
 id: 42606290
-type: way
+type: node
 latitude: 40.1675
 longitude: -83.02128
 postcode: "43065"
 city: Powell
-street: "Owenfield Drive"
-housenumber: 8531
+street: Owenfield Drive
+housenumber: "8531"
 phone: "+17405494979"
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/oh/powell/8531-owenfield-dr"
+website: https://stores.advanceautoparts.com/oh/powell/8531-owenfield-dr

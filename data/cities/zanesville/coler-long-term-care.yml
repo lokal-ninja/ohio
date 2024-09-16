@@ -1,11 +1,11 @@
 id: 1093315196
-type: way
+type: node
 latitude: 39.9355
 longitude: -81.98094
 postcode: "43701"
 city: Zanesville
-street: "Chandlersville Road"
-housenumber: 1811
-phone: "+1-740-454-2086"
-opening_hours: "Mo-Sa 09:00-17:00, Su off"
-website: "https://www.shriverspharmacy.com/Coler-LTC-Long-Term-Care/"
+street: Chandlersville Road
+housenumber: "1811"
+phone: +1-740-454-2086
+opening_hours: Mo-Sa 09:00-17:00, Su off
+website: https://www.shriverspharmacy.com/Coler-LTC-Long-Term-Care/

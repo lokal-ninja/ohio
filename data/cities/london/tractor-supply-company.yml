@@ -1,11 +1,11 @@
 id: 209285546
-type: way
+type: node
 latitude: 39.90386
 longitude: -83.42815
 postcode: "43140"
 city: London
-street: "Lafayette Street"
-housenumber: 300
-phone: "+1 740-845-1139"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Lafayette Street
+housenumber: "300"
+phone: +1 740-845-1139
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

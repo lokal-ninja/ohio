@@ -1,11 +1,11 @@
 id: 737992843
-type: way
+type: node
 latitude: 40.06208
 longitude: -82.99236
 postcode: "43229"
 city: Columbus
-street: "Morse Road"
-housenumber: 1000
+street: Morse Road
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

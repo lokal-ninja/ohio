@@ -1,11 +1,11 @@
 id: 31250806
-type: way
+type: node
 latitude: 39.29939
 longitude: -84.31272
 postcode: "45040"
 city: Mason
-street: "Mason Montgomery Road"
-housenumber: 9550
-phone: "+1 513-754-0235"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00,11:00-18:00"
-website: "https://stores.staples.com/oh/mason/9550-mason-montgomery-rd"
+street: Mason Montgomery Road
+housenumber: "9550"
+phone: +1 513-754-0235
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00,11:00-18:00
+website: https://stores.staples.com/oh/mason/9550-mason-montgomery-rd

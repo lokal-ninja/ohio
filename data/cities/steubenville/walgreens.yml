@@ -1,11 +1,11 @@
 id: 925394969
-type: way
+type: node
 latitude: 40.37252
 longitude: -80.68144
 postcode: "43952"
 city: Steubenville
-street: "Sunset Boulevard"
-housenumber: 4402
+street: Sunset Boulevard
+housenumber: "4402"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4402+sunset+blvd-steubenville-oh-43952/id=17303"
+website: https://www.walgreens.com/locator/walgreens-4402+sunset+blvd-steubenville-oh-43952/id=17303

@@ -1,11 +1,11 @@
 id: 598626456
-type: way
+type: node
 latitude: 38.87763
 longitude: -82.99638
 postcode: "45648"
 city: Lucasville
-street: "US Highway 23"
-housenumber: 10464
+street: US Highway 23
+housenumber: "10464"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 223865301
-type: way
+type: node
 latitude: 39.74117
 longitude: -84.1836
 postcode: "45409"
 city: Dayton
-street: "East Stewart Street"
-housenumber: 121
+street: East Stewart Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/OH/Dayton/121-East-Stewart-Street"
+website: https://www.speedway.com/locations/OH/Dayton/121-East-Stewart-Street

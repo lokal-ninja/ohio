@@ -1,11 +1,11 @@
 id: 462678435
-type: way
+type: node
 latitude: 41.59995
 longitude: -81.50408
 postcode: "44132"
 city: Euclid
-street: "Lakeland Boulevard"
-housenumber: 25890
+street: Lakeland Boulevard
+housenumber: "25890"
 phone: ""
 opening_hours: ""
 website: ""

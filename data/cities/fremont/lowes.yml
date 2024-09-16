@@ -1,11 +1,11 @@
 id: 652543373
-type: way
+type: node
 latitude: 41.37129
 longitude: -83.12034
 postcode: "43420"
 city: Fremont
-street: "North State Route 53"
-housenumber: 1952
-phone: "+1 419-355-0221"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-19:00"
-website: "https://www.lowes.com/store/OH-Fremont/0019"
+street: North State Route 53
+housenumber: "1952"
+phone: +1 419-355-0221
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-19:00
+website: https://www.lowes.com/store/OH-Fremont/0019

@@ -1,11 +1,11 @@
 id: 553147213
-type: way
+type: node
 latitude: 41.6916
 longitude: -83.62582
 postcode: "43623"
 city: Toledo
-street: "Monroe Street"
-housenumber: 4656
+street: Monroe Street
+housenumber: "4656"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/oh/toledo/autoparts-3301.html"
+website: https://locations.oreillyauto.com/oh/toledo/autoparts-3301.html

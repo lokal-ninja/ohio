@@ -1,11 +1,11 @@
 id: 325334257
-type: way
+type: node
 latitude: 40.1473
 longitude: -82.99429
 postcode: "43240"
 city: Columbus
-street: "Polaris Parkway"
-housenumber: 935
+street: Polaris Parkway
+housenumber: "935"
 phone: ""
 opening_hours: ""
 website: ""

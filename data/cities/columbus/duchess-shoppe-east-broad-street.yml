@@ -1,11 +1,11 @@
 id: 626165920
-type: way
+type: node
 latitude: 39.96424
 longitude: -82.97841
 postcode: "43205"
 city: Columbus
-street: "East Broad Street"
-housenumber: 825
-phone: "+1-614-228-0139"
-opening_hours: "24/7"
-website: "https://myduchess.com/"
+street: East Broad Street
+housenumber: "825"
+phone: +1-614-228-0139
+opening_hours: 24/7
+website: https://myduchess.com/

@@ -1,11 +1,11 @@
 id: 504593902
-type: way
+type: node
 latitude: 41.03095
 longitude: -81.49165
 postcode: "44306"
 city: Akron
-street: "South Arlington Street"
-housenumber: 1506
-phone: "+1-330-773-7165"
-opening_hours: "Mo-Th 00:00-02:00, 08:00-24:00; Fr-Su 00:00-24:00"
-website: "https://sclaundromats.com/hollands-24-hour-laundromat"
+street: South Arlington Street
+housenumber: "1506"
+phone: +1-330-773-7165
+opening_hours: Mo-Th 00:00-02:00, 08:00-24:00; Fr-Su 00:00-24:00
+website: https://sclaundromats.com/hollands-24-hour-laundromat

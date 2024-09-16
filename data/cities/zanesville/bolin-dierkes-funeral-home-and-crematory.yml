@@ -1,11 +1,11 @@
 id: 1090836677
-type: way
+type: node
 latitude: 39.95527
 longitude: -82.01781
 postcode: "43701"
 city: Zanesville
-street: "Blue Avenue"
-housenumber: 1271
-phone: "+1-740-452-4551"
-opening_hours: "24/7"
-website: "https://www.bolin-dierkesfuneralhome.com/"
+street: Blue Avenue
+housenumber: "1271"
+phone: +1-740-452-4551
+opening_hours: 24/7
+website: https://www.bolin-dierkesfuneralhome.com/

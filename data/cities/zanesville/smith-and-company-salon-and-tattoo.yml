@@ -1,11 +1,11 @@
 id: 1091192453
-type: way
+type: node
 latitude: 39.94074
 longitude: -82.02216
 postcode: "43701"
 city: Zanesville
-street: "West Main Street"
-housenumber: 1315
+street: West Main Street
+housenumber: "1315"
 phone: ""
-opening_hours: "appointment only"
+opening_hours: '"appointment only"'
 website: ""

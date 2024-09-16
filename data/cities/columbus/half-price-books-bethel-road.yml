@@ -1,11 +1,11 @@
 id: 371540550
-type: way
+type: node
 latitude: 40.06724
 longitude: -83.08873
 postcode: "43220"
 city: Columbus
-street: "Bethel Road"
-housenumber: 2642
+street: Bethel Road
+housenumber: "2642"
 phone: "+16144576333"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://www.hpb.com/store?storeid=HPB-040&showMap=true&horizontalView=true&isForm=true&y_source=1_MTExNTM2OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+opening_hours: Mo-Su 10:00-21:00
+website: https://www.hpb.com/store?storeid=HPB-040&showMap=true&horizontalView=true&isForm=true&y_source=1_MTExNTM2OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D

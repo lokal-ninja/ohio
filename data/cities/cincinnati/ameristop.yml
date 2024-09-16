@@ -1,11 +1,11 @@
 id: 1308361542
-type: way
+type: node
 latitude: 39.29266
 longitude: -84.32207
 postcode: "45249"
 city: Cincinnati
-street: "Fields Ertel Road"
-housenumber: 8675
+street: Fields Ertel Road
+housenumber: "8675"
 phone: ""
 opening_hours: ""
 website: ""

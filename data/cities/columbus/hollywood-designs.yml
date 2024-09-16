@@ -1,11 +1,11 @@
 id: 984556699
-type: way
+type: node
 latitude: 39.99534
 longitude: -83.00017
 postcode: ""
 city: Columbus
-street: "Chittenden Avenue"
-housenumber: 253
+street: Chittenden Avenue
+housenumber: "253"
 phone: ""
 opening_hours: ""
 website: ""

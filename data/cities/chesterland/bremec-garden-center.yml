@@ -1,11 +1,11 @@
 id: 1013813546
-type: way
+type: node
 latitude: 41.53548
 longitude: -81.3377
 postcode: "44026"
 city: Chesterland
-street: "Chillicothe Road"
-housenumber: 12265
+street: Chillicothe Road
+housenumber: "12265"
 phone: "+14407292122"
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-17:00"
-website: "https://bremec.com/locations-hours/chesterland/"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-17:00
+website: https://bremec.com/locations-hours/chesterland/

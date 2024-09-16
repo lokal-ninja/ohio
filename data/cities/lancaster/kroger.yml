@@ -1,11 +1,11 @@
 id: 965332377
-type: way
+type: node
 latitude: 39.72923
 longitude: -82.61382
 postcode: "43130"
 city: Lancaster
-street: "North Memorial Drive"
-housenumber: 1621
-phone: "+1 740-654-2044"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/oh/lancaster/memorial-dr/016/00264"
+street: North Memorial Drive
+housenumber: "1621"
+phone: +1 740-654-2044
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/oh/lancaster/memorial-dr/016/00264

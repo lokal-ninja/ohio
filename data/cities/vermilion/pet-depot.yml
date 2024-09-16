@@ -1,11 +1,11 @@
 id: 590861754
-type: way
+type: node
 latitude: 41.42554
 longitude: -82.34019
 postcode: "44089"
 city: Vermilion
-street: "Liberty Avenue"
-housenumber: 4340
+street: Liberty Avenue
+housenumber: "4340"
 phone: ""
 opening_hours: ""
 website: ""

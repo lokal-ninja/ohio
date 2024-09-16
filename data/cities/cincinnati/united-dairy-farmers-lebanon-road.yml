@@ -1,11 +1,11 @@
 id: 847075797
-type: way
+type: node
 latitude: 39.28362
 longitude: -84.40056
 postcode: "45241"
 city: Cincinnati
-street: "Lebanon Road"
-housenumber: 11610
+street: Lebanon Road
+housenumber: "11610"
 phone: ""
 opening_hours: ""
 website: ""

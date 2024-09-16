@@ -1,11 +1,11 @@
 id: 573574626
-type: way
+type: node
 latitude: 40.75972
 longitude: -82.56756
 postcode: "44906"
 city: Mansfield
-street: "Park Avenue West"
-housenumber: 1430
+street: Park Avenue West
+housenumber: "1430"
 phone: ""
 opening_hours: ""
 website: ""

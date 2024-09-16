@@ -1,11 +1,11 @@
 id: 1216654154
-type: way
+type: node
 latitude: 39.94764
 longitude: -83.85245
 postcode: "45504"
 city: Springfield
-street: "Upper Valley Pike"
-housenumber: 1510
+street: Upper Valley Pike
+housenumber: "1510"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/springfield-oh-pharmacies/1493-upper-valley-pike-springfield-oh-45504/storeid=3468"
+website: https://www.cvs.com/store-locator/springfield-oh-pharmacies/1493-upper-valley-pike-springfield-oh-45504/storeid=3468

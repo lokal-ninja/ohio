@@ -1,11 +1,11 @@
 id: 360747817
-type: way
+type: node
 latitude: 41.42042
 longitude: -81.71067
 postcode: "44134"
 city: Cleveland
-street: "State Road"
-housenumber: 4930
+street: State Road
+housenumber: "4930"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 682263868
-type: way
+type: node
 latitude: 41.58613
 longitude: -81.21859
 postcode: "44024"
 city: Chardon
-street: "Center Street"
-housenumber: 379
+street: Center Street
+housenumber: "379"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/oh/chardon/autoparts-5744.html"
+website: https://locations.oreillyauto.com/oh/chardon/autoparts-5744.html

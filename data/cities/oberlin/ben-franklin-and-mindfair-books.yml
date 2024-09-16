@@ -4,8 +4,8 @@ latitude: 41.2915
 longitude: -82.21782
 postcode: "44074"
 city: Oberlin
-street: "West College Street"
-housenumber: 13
+street: West College Street
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.benfranklinoberlin.com/"
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.benfranklinoberlin.com/

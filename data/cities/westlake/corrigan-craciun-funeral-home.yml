@@ -1,11 +1,11 @@
 id: 969648134
-type: way
+type: node
 latitude: 41.45734
 longitude: -81.87549
 postcode: "44145"
 city: Westlake
-street: "Center Ridge Road"
-housenumber: 23040
+street: Center Ridge Road
+housenumber: "23040"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1228727726
-type: way
+type: node
 latitude: 41.62883
 longitude: -81.42038
 postcode: "44094"
 city: Willoughby
-street: "Euclid Avenue"
-housenumber: 37100
-phone: "+1 888-463-1087"
-opening_hours: "Su-Sa 08:30-20:00"
-website: "https://stores.aldi.us/oh/willoughby/37100-euclid-avenue"
+street: Euclid Avenue
+housenumber: "37100"
+phone: +1 888-463-1087
+opening_hours: Su-Sa 08:30-20:00
+website: https://stores.aldi.us/oh/willoughby/37100-euclid-avenue

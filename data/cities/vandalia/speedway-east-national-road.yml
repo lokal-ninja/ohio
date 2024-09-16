@@ -1,11 +1,11 @@
 id: 200566805
-type: way
+type: node
 latitude: 39.89164
 longitude: -84.18314
 postcode: "45377"
 city: Vandalia
-street: "East National Road"
-housenumber: 830
+street: East National Road
+housenumber: "830"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/OH/Vandalia/830-East-National-Road"
+website: https://www.speedway.com/locations/OH/Vandalia/830-East-National-Road

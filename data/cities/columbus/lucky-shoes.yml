@@ -1,11 +1,11 @@
 id: 605599775
-type: way
+type: node
 latitude: 40.04921
 longitude: -82.91834
 postcode: "43219"
 city: Columbus
-street: "Townsfair Way"
-housenumber: 3870
-phone: "+1-614-475-4744"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://www.luckyshoes.com/stores/lucky-shoes-easton/"
+street: Townsfair Way
+housenumber: "3870"
+phone: +1-614-475-4744
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://www.luckyshoes.com/stores/lucky-shoes-easton/

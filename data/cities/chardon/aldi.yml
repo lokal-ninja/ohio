@@ -1,11 +1,11 @@
 id: 307437364
-type: way
+type: node
 latitude: 41.58477
 longitude: -81.21212
 postcode: "44024"
 city: Chardon
-street: "Center Street"
-housenumber: 302
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/oh/chardon/302-center-street"
+street: Center Street
+housenumber: "302"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/oh/chardon/302-center-street

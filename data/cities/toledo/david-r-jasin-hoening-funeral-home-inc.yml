@@ -1,11 +1,11 @@
 id: 1022442737
-type: way
+type: node
 latitude: 41.71811
 longitude: -83.47907
 postcode: "43611"
 city: Toledo
-street: "North Summit Street"
-housenumber: 5300
+street: North Summit Street
+housenumber: "5300"
 phone: ""
 opening_hours: ""
 website: ""

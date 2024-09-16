@@ -1,11 +1,11 @@
 id: 1020153331
-type: way
+type: node
 latitude: 40.2364
 longitude: -83.35899
 postcode: "43040"
 city: Marysville
-street: "East 5th Street"
-housenumber: 616
+street: East 5th Street
+housenumber: "616"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/oh/marysville/616-e-5th-st.html"
+website: https://www.autozone.com/locations/oh/marysville/616-e-5th-st.html

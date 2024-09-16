@@ -1,11 +1,11 @@
 id: 148240324
-type: way
+type: node
 latitude: 39.12932
 longitude: -84.43091
 postcode: "45208"
 city: Cincinnati
-street: "Linwood Avenue"
-housenumber: 3183
-phone: "+1 513 321 0404"
+street: Linwood Avenue
+housenumber: "3183"
+phone: +1 513 321 0404
 opening_hours: ""
-website: "https://www.rohdefuneral.com/"
+website: https://www.rohdefuneral.com/

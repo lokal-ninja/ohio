@@ -1,11 +1,11 @@
 id: 600727918
-type: way
+type: node
 latitude: 40.04948
 longitude: -82.95294
 postcode: "43224"
 city: Columbus
-street: "Cleveland Avenue"
-housenumber: 3960
+street: Cleveland Avenue
+housenumber: "3960"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/oh/columbus/3960-cleveland-ave"
+website: https://stores.advanceautoparts.com/oh/columbus/3960-cleveland-ave

@@ -1,11 +1,11 @@
 id: 155960817
-type: way
+type: node
 latitude: 39.83923
 longitude: -84.42381
 postcode: "45309"
 city: Brookville
-street: "McMaken Lane"
-housenumber: 1
-phone: "+1-937-833-2118"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "http://www.mcmakensiga.com"
+street: McMaken Lane
+housenumber: "1"
+phone: +1-937-833-2118
+opening_hours: Mo-Su 07:00-21:00
+website: http://www.mcmakensiga.com

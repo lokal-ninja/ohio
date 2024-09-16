@@ -1,11 +1,11 @@
 id: 1022106114
-type: way
+type: node
 latitude: 41.69195
 longitude: -83.54558
 postcode: "43612"
 city: Toledo
-street: "Lagrange Street"
-housenumber: 3916
+street: Lagrange Street
+housenumber: "3916"
 phone: ""
 opening_hours: ""
 website: ""

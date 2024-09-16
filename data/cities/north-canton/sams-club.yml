@@ -1,11 +1,11 @@
 id: 232606044
-type: way
+type: node
 latitude: 40.87773
 longitude: -81.4384
 postcode: "44720"
 city: North Canton
-street: "Portage Street Northwest"
-housenumber: 4790
-phone: "+1 330-497-5295"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/canton-oh-sams-club/6317"
+street: Portage Street Northwest
+housenumber: "4790"
+phone: +1 330-497-5295
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/canton-oh-sams-club/6317

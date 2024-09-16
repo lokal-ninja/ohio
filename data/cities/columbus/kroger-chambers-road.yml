@@ -1,11 +1,11 @@
 id: 425878526
-type: way
+type: node
 latitude: 39.99305
 longitude: -83.04392
 postcode: "43212"
 city: Columbus
-street: "Chambers Road"
-housenumber: 1375
-phone: "+1 614-488-4062"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/oh/columbus/chambers-rd/016/00942"
+street: Chambers Road
+housenumber: "1375"
+phone: +1 614-488-4062
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/oh/columbus/chambers-rd/016/00942

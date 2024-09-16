@@ -1,11 +1,11 @@
 id: 382105955
-type: way
+type: node
 latitude: 40.0583
 longitude: -82.51475
 postcode: "43023"
 city: Granville
-street: "River Road"
-housenumber: 1090
+street: River Road
+housenumber: "1090"
 phone: "+17405873439"
 opening_hours: ""
-website: "https://www.villageflowerbasket.com/"
+website: https://www.villageflowerbasket.com/

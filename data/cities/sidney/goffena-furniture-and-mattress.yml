@@ -1,11 +1,11 @@
 id: 1065028020
-type: way
+type: node
 latitude: 40.28863
 longitude: -84.19769
 postcode: "45365"
 city: Sidney
-street: "Michigan Street"
-housenumber: 2600
+street: Michigan Street
+housenumber: "2600"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1107743409
-type: way
+type: node
 latitude: 41.03498
 longitude: -81.4438
 postcode: "44312"
 city: Akron
-street: "Canfield Road"
-housenumber: 2379
+street: Canfield Road
+housenumber: "2379"
 phone: ""
 opening_hours: ""
 website: ""

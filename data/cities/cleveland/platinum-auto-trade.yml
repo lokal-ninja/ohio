@@ -1,11 +1,11 @@
 id: 509504594
-type: way
+type: node
 latitude: 41.57225
 longitude: -81.56024
 postcode: ""
 city: Cleveland
-street: "South Waterloo Road"
-housenumber: 17204
+street: South Waterloo Road
+housenumber: "17204"
 phone: ""
 opening_hours: ""
 website: ""

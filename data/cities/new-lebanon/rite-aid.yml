@@ -1,11 +1,11 @@
 id: 936158904
-type: way
+type: node
 latitude: 39.74524
 longitude: -84.39672
 postcode: "45345"
 city: New Lebanon
-street: "West Main Street"
-housenumber: 590
+street: West Main Street
+housenumber: "590"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00"
-website: "https://www.riteaid.com/locations/oh/new-lebanon/590-west-main-street.html"
+opening_hours: Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00
+website: https://www.riteaid.com/locations/oh/new-lebanon/590-west-main-street.html

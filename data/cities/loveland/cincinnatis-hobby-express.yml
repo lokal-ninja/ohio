@@ -1,11 +1,11 @@
 id: 39860650
-type: way
+type: node
 latitude: 39.22
 longitude: -84.28697
 postcode: "45140"
 city: Loveland
-street: "Wards Corner Road"
-housenumber: 415
-phone: "+1-513-248-4666"
+street: Wards Corner Road
+housenumber: "415"
+phone: +1-513-248-4666
 opening_hours: ""
-website: "http://hobbyohio.com"
+website: http://hobbyohio.com

@@ -1,11 +1,11 @@
 id: 603291509
-type: way
+type: node
 latitude: 39.93397
 longitude: -82.98587
 postcode: "43207"
 city: Columbus
-street: "Parsons Avenue"
-housenumber: 1441
-phone: "+1 614-445-5727"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.kroger.com/stores/grocery/oh/columbus/moler/016/00893"
+street: Parsons Avenue
+housenumber: "1441"
+phone: +1 614-445-5727
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.kroger.com/stores/grocery/oh/columbus/moler/016/00893

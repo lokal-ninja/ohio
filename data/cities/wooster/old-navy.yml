@@ -1,11 +1,11 @@
 id: 648794157
-type: way
+type: node
 latitude: 40.84653
 longitude: -81.94107
 postcode: "44691"
 city: Wooster
-street: "Burbank Road"
-housenumber: 3793
-phone: "+1-330-845-4145"
-opening_hours: "Mo-Sa 10:00-21:00, Su 10:00-19:00"
-website: "https://oldnavy.gap.com/"
+street: Burbank Road
+housenumber: "3793"
+phone: +1-330-845-4145
+opening_hours: Mo-Sa 10:00-21:00, Su 10:00-19:00
+website: https://oldnavy.gap.com/

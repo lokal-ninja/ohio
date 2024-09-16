@@ -1,11 +1,11 @@
 id: 313022797
-type: way
+type: node
 latitude: 39.01385
 longitude: -83.8103
 postcode: "45171"
 city: Sardinia
-street: "Bachman Road"
-housenumber: 7110
-phone: "+1 937-446-9425"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Bachman Road
+housenumber: "7110"
+phone: +1 937-446-9425
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

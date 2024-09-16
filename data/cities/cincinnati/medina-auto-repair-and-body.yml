@@ -1,11 +1,11 @@
 id: 53258347
-type: way
+type: node
 latitude: 39.11394
 longitude: -84.52343
 postcode: "45214"
 city: Cincinnati
-street: "West Liberty Street"
-housenumber: 412
-phone: "+1-513-442-6983"
+street: West Liberty Street
+housenumber: "412"
+phone: +1-513-442-6983
 opening_hours: ""
 website: ""

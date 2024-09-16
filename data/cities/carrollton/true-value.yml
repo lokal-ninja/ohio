@@ -1,11 +1,11 @@
 id: 1175961669
-type: way
+type: node
 latitude: 40.59152
 longitude: -81.09602
-postcode: "44615-9461"
+postcode: 44615-9461
 city: Carrollton
-street: "Trump Road Northwest"
-housenumber: 1060
-phone: "+1 330-627-4980"
+street: Trump Road Northwest
+housenumber: "1060"
+phone: +1 330-627-4980
 opening_hours: ""
-website: "https://www.lumberserviceyard.com/"
+website: https://www.lumberserviceyard.com/

@@ -4,8 +4,9 @@ latitude: 41.62026
 longitude: -81.45644
 postcode: "44092"
 city: Willowick
-street: "East 305th Street"
-housenumber: 1257
-phone: "+1 440 943 9276"
-opening_hours: "Su off; Mo-Tu 09:30-17:00; We 09:30-18:30; Th 09:30-17:00; Fr 09:30-16:00; Sa 08:30-13:00"
+street: East 305th Street
+housenumber: "1257"
+phone: +1 440 943 9276
+opening_hours: Su off; Mo-Tu 09:30-17:00; We 09:30-18:30; Th 09:30-17:00; Fr 09:30-16:00;
+    Sa 08:30-13:00
 website: ""

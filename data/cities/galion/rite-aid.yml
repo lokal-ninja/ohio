@@ -1,11 +1,11 @@
 id: 637398262
-type: way
+type: node
 latitude: 40.73451
 longitude: -82.7939
 postcode: "44833"
 city: Galion
-street: "Harding Way West"
-housenumber: 304
-phone: "+1-419-468-5340"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
-website: "https://www.riteaid.com/locations/oh/galion/304-harding-way-west.html"
+street: Harding Way West
+housenumber: "304"
+phone: +1-419-468-5340
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
+website: https://www.riteaid.com/locations/oh/galion/304-harding-way-west.html

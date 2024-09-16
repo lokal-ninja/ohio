@@ -1,11 +1,11 @@
 id: 211775887
-type: way
+type: node
 latitude: 41.48525
 longitude: -81.79195
 postcode: "44107"
 city: Lakewood
-street: "Detroit Avenue"
-housenumber: 14133
+street: Detroit Avenue
+housenumber: "14133"
 phone: ""
 opening_hours: ""
-website: "https://www.mcgorray.com/"
+website: https://www.mcgorray.com/

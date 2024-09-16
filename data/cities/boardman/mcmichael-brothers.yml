@@ -1,11 +1,11 @@
 id: 1191502142
-type: way
+type: node
 latitude: 41.05441
 longitude: -80.63428
 postcode: "44512"
 city: Boardman
-street: "Lake Park Road"
-housenumber: 4393
+street: Lake Park Road
+housenumber: "4393"
 phone: ""
 opening_hours: ""
 website: ""

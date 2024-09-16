@@ -1,11 +1,11 @@
 id: 1193030388
-type: way
+type: node
 latitude: 41.02513
 longitude: -80.68252
 postcode: "44512"
 city: Boardman
-street: "Boardman Canfield Road"
-housenumber: 708
+street: Boardman Canfield Road
+housenumber: "708"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/OH/Boardman/708-Boardman-Canfield-Rd"
+website: https://www.speedway.com/locations/OH/Boardman/708-Boardman-Canfield-Rd

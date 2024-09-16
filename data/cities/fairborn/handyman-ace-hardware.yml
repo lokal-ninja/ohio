@@ -1,11 +1,11 @@
 id: 277527555
-type: way
+type: node
 latitude: 39.79017
 longitude: -84.02401
-postcode: "45324-3447"
+postcode: 45324-3447
 city: Fairborn
-street: "East Dayton Yellow Springs Road"
-housenumber: 122
-phone: "+1 937-879-7866"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: East Dayton Yellow Springs Road
+housenumber: "122"
+phone: +1 937-879-7866
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

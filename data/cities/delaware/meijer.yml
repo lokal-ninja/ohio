@@ -1,11 +1,11 @@
 id: 556604504
-type: way
+type: node
 latitude: 40.29097
 longitude: -83.03241
 postcode: "43015"
 city: Delaware
-street: "US 36 & SR 37"
-housenumber: 1380
-phone: "+1-740-368-1400"
-opening_hours: "Mo-Su 06:00-24:00"
+street: US 36 & SR 37
+housenumber: "1380"
+phone: +1-740-368-1400
+opening_hours: Mo-Su 06:00-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 604003872
-type: way
+type: node
 latitude: 41.10195
 longitude: -81.43885
 postcode: "44278"
 city: Tallmadge
-street: "East Avenue"
-housenumber: 45
+street: East Avenue
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/oh/tallmadge/45-east-avenue.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/oh/tallmadge/45-east-avenue.html

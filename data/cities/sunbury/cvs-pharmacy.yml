@@ -1,11 +1,11 @@
 id: 561171481
-type: way
+type: node
 latitude: 40.24447
 longitude: -82.86444
 postcode: "43074"
 city: Sunbury
-street: "West Cherry Street"
-housenumber: 111
+street: West Cherry Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

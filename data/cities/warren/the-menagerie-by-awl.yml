@@ -1,11 +1,11 @@
 id: 1136320383
-type: way
+type: node
 latitude: 41.23878
 longitude: -80.75074
 postcode: "44484"
 city: Warren
-street: "East Market Street"
-housenumber: 6037
-phone: "+1 330 856 5174"
+street: East Market Street
+housenumber: "6037"
+phone: +1 330 856 5174
 opening_hours: ""
 website: ""

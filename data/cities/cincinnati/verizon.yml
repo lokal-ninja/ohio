@@ -1,11 +1,11 @@
 id: 1289196396
-type: way
+type: node
 latitude: 39.14829
 longitude: -84.4458
 postcode: "45209"
 city: Cincinnati
-street: "Edmondson Road"
-housenumber: 2637
+street: Edmondson Road
+housenumber: "2637"
 phone: ""
 opening_hours: ""
 website: ""

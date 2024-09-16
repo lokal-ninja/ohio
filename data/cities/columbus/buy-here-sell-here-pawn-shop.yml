@@ -1,11 +1,12 @@
 id: 1187493529
-type: way
+type: node
 latitude: 39.98604
 longitude: -82.94182
 postcode: "43219"
 city: Columbus
-street: "East 5th Avenue"
-housenumber: 2344
-phone: "614-914-6056"
-opening_hours: "Mo-Fr 10:00-17:00; week 1-53/2 Sa off; week 2-52/2 Sa 10:00-15:00; Su off"
-website: "https://buysellohio.net/"
+street: East 5th Avenue
+housenumber: "2344"
+phone: 614-914-6056
+opening_hours: Mo-Fr 10:00-17:00; week 1-53/2 Sa off; week 2-52/2 Sa 10:00-15:00;
+    Su off
+website: https://buysellohio.net/

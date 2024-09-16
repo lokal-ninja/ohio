@@ -1,11 +1,11 @@
 id: 721315674
-type: way
+type: node
 latitude: 40.88946
 longitude: -83.89034
 postcode: "45817"
 city: Bluffton
-street: "East College Avenue"
-housenumber: 158
-phone: "+1 419 358 1640"
-opening_hours: "24/7"
-website: "https://www.bluffton-ohio-storage.com/"
+street: East College Avenue
+housenumber: "158"
+phone: +1 419 358 1640
+opening_hours: 24/7
+website: https://www.bluffton-ohio-storage.com/

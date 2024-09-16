@@ -1,11 +1,11 @@
 id: 1052090765
-type: way
+type: node
 latitude: 41.06115
 longitude: -80.64476
 postcode: "44502"
 city: Youngstown
-street: "East Midlothian Boulevard"
-housenumber: 540
+street: East Midlothian Boulevard
+housenumber: "540"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00"
-website: "https://www.riteaid.com/locations/oh/youngstown/540-east-midlothian-blvd.html"
+opening_hours: Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00
+website: https://www.riteaid.com/locations/oh/youngstown/540-east-midlothian-blvd.html

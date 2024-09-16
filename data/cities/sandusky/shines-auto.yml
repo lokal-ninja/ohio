@@ -1,11 +1,11 @@
 id: 487758496
-type: way
+type: node
 latitude: 41.43994
 longitude: -82.73633
 postcode: "44870"
 city: Sandusky
-street: "Venice Road"
-housenumber: 2560
-phone: "+1-419-502-2016"
-opening_hours: "Mo-Sa 08:30-17:00"
-website: "https://www.shinesauto.com/"
+street: Venice Road
+housenumber: "2560"
+phone: +1-419-502-2016
+opening_hours: Mo-Sa 08:30-17:00
+website: https://www.shinesauto.com/

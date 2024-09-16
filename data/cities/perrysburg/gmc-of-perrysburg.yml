@@ -1,11 +1,11 @@
 id: 700846097
-type: way
+type: node
 latitude: 41.54186
 longitude: -83.63628
 postcode: "43551"
 city: Perrysburg
-street: "Dixie Highway"
-housenumber: 26875
-phone: "+1-419-874-4331"
+street: Dixie Highway
+housenumber: "26875"
+phone: +1-419-874-4331
 opening_hours: ""
-website: "https://www.perrysburgautomall.com/"
+website: https://www.perrysburgautomall.com/

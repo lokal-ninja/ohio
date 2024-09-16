@@ -1,11 +1,11 @@
 id: 590427122
-type: way
+type: node
 latitude: 40.90073
 longitude: -80.85909
 postcode: "44460"
 city: Salem
-street: "West State Street"
-housenumber: 239
+street: West State Street
+housenumber: "239"
 phone: ""
 opening_hours: ""
 website: ""

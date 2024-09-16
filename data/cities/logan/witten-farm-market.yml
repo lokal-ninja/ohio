@@ -1,11 +1,11 @@
 id: 1062218164
-type: way
+type: node
 latitude: 39.54195
 longitude: -82.41903
 postcode: "43138"
 city: Logan
-street: "West Hunter Street"
-housenumber: 750
+street: West Hunter Street
+housenumber: "750"
 phone: ""
 opening_hours: ""
-website: "https://www.wittenfarm.com/locations/logan-oh/"
+website: https://www.wittenfarm.com/locations/logan-oh/

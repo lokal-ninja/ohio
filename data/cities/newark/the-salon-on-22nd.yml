@@ -1,11 +1,11 @@
 id: 1229471651
-type: way
+type: node
 latitude: 40.05185
 longitude: -82.43168
 postcode: "43055"
 city: Newark
-street: "North 22nd Street"
-housenumber: 22
+street: North 22nd Street
+housenumber: "22"
 phone: "+17407554030"
 opening_hours: ""
 website: ""

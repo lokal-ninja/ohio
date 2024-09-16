@@ -1,11 +1,11 @@
 id: 608731543
-type: way
+type: node
 latitude: 41.4158
 longitude: -81.9132
 postcode: "44070"
 city: North Olmsted
-street: "Great Northern Plaza"
-housenumber: 26241
-phone: "+1 440-734-0556"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/North-Olmsted/OH/North-Olmsted/44070/3803"
+street: Great Northern Plaza
+housenumber: "26241"
+phone: +1 440-734-0556
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/North-Olmsted/OH/North-Olmsted/44070/3803

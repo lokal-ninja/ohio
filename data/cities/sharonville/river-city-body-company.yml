@@ -1,11 +1,11 @@
 id: 36897145
-type: way
+type: node
 latitude: 39.29069
 longitude: -84.41852
 postcode: "45241"
 city: Sharonville
-street: "Commerce Boulevard"
-housenumber: 2660
-phone: "+1-513-772-9317"
+street: Commerce Boulevard
+housenumber: "2660"
+phone: +1-513-772-9317
 opening_hours: ""
-website: "https://rivercitybody.com/"
+website: https://rivercitybody.com/

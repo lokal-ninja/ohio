@@ -1,11 +1,11 @@
 id: 718187859
-type: way
+type: node
 latitude: 40.89163
 longitude: -83.88984
 postcode: "45817"
 city: Bluffton
-street: "Cherry Street"
-housenumber: 212
-phone: "+1 419 358 7593"
-opening_hours: "Tu-Th 09:00-20:00; Fr 09:00-17:00; Sa 09:00-14:00"
-website: "https://m.facebook.com/Village-Cut-Curl-105937449486574/"
+street: Cherry Street
+housenumber: "212"
+phone: +1 419 358 7593
+opening_hours: Tu-Th 09:00-20:00; Fr 09:00-17:00; Sa 09:00-14:00
+website: https://m.facebook.com/Village-Cut-Curl-105937449486574/

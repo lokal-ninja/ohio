@@ -4,8 +4,8 @@ latitude: 41.00958
 longitude: -81.55245
 postcode: "44319"
 city: Akron
-street: "Manchester Road"
-housenumber: 3333
-phone: "+1 330-245-0264"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/3333-manchester-rd-unit-18-akron-44319?number=121"
+street: Manchester Road
+housenumber: "3333"
+phone: +1 330-245-0264
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/3333-manchester-rd-unit-18-akron-44319?number=121

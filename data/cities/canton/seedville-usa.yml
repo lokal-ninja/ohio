@@ -1,11 +1,11 @@
 id: 1034847535
-type: way
+type: node
 latitude: 40.82042
 longitude: -81.39113
 postcode: "44709"
 city: Canton
-street: "Fulton Road Northwest"
-housenumber: 2120
+street: Fulton Road Northwest
+housenumber: "2120"
 phone: ""
 opening_hours: ""
-website: "https://www.seedvilleusa.com/"
+website: https://www.seedvilleusa.com/

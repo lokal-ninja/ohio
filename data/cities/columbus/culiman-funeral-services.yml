@@ -1,11 +1,11 @@
 id: 1199313366
-type: way
+type: node
 latitude: 39.91717
 longitude: -82.89795
 postcode: "43232"
 city: Columbus
-street: "Refugee Road"
-housenumber: 3700
+street: Refugee Road
+housenumber: "3700"
 phone: ""
 opening_hours: ""
 website: ""

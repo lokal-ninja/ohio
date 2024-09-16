@@ -1,11 +1,11 @@
 id: 554706443
-type: way
+type: node
 latitude: 40.5826
 longitude: -83.08436
 postcode: "43302"
 city: Marion
-street: "Marion-Mt Gilead Road"
-housenumber: 1678
-phone: "+1-740-389-9905"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 09:00-18:00"
-website: "https://www.rentacenter.com"
+street: Marion-Mt Gilead Road
+housenumber: "1678"
+phone: +1-740-389-9905
+opening_hours: Mo-Fr 11:00-19:00; Sa 09:00-18:00
+website: https://www.rentacenter.com

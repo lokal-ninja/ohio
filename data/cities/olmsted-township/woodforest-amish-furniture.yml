@@ -1,11 +1,11 @@
 id: 377234708
-type: way
+type: node
 latitude: 41.38282
 longitude: -81.93518
 postcode: "44138"
 city: Olmsted Township
-street: "Cook Road"
-housenumber: 27005
+street: Cook Road
+housenumber: "27005"
 phone: ""
 opening_hours: ""
 website: ""

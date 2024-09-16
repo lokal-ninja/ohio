@@ -1,11 +1,11 @@
 id: 936158900
-type: way
+type: node
 latitude: 39.74625
 longitude: -84.41758
 postcode: "45345"
 city: New Lebanon
-street: "W Main St"
-housenumber: 1687
-phone: "+1-937-687-1318"
+street: W Main St
+housenumber: "1687"
+phone: +1-937-687-1318
 opening_hours: ""
-website: "https://newlebanonbody.com/"
+website: https://newlebanonbody.com/

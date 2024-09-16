@@ -4,8 +4,8 @@ latitude: 40.10365
 longitude: -83.08972
 postcode: "43235"
 city: Columbus
-street: "Sawmill Road"
-housenumber: 6672
-phone: "+1-614-791-8735"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 12:00-17:00"
-website: "http://trekstorecolumbus.com/"
+street: Sawmill Road
+housenumber: "6672"
+phone: +1-614-791-8735
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 12:00-17:00
+website: http://trekstorecolumbus.com/

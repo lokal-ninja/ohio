@@ -1,11 +1,11 @@
 id: 23797291
-type: way
+type: node
 latitude: 39.2534
 longitude: -84.29358
 postcode: "45140"
 city: Loveland
-street: "Loveland Madeira Road"
-housenumber: 10682
+street: Loveland Madeira Road
+housenumber: "10682"
 phone: ""
 opening_hours: ""
-website: "https://elsensautohaus.com/"
+website: https://elsensautohaus.com/

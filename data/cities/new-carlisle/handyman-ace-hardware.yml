@@ -1,11 +1,11 @@
 id: 191520748
-type: way
+type: node
 latitude: 39.88033
 longitude: -84.04756
-postcode: "45344-2366"
+postcode: 45344-2366
 city: New Carlisle
-street: "South Dayton-Lakeview Road"
-housenumber: 3300
-phone: "+1 937-849-1306"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: South Dayton-Lakeview Road
+housenumber: "3300"
+phone: +1 937-849-1306
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1022094958
-type: way
+type: node
 latitude: 41.32268
 longitude: -81.62786
 postcode: ""
 city: Brecksville
-street: "Mill Road"
-housenumber: 7064
+street: Mill Road
+housenumber: "7064"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 360588244
-type: way
+type: node
 latitude: 41.50257
 longitude: -81.55582
 postcode: "44118"
 city: University Heights
-street: "South Taylor Road"
-housenumber: 2107
+street: South Taylor Road
+housenumber: "2107"
 phone: ""
 opening_hours: ""
 website: ""

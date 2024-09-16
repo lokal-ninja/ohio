@@ -1,11 +1,11 @@
 id: 561204770
-type: way
+type: node
 latitude: 39.94806
 longitude: -82.9825
 postcode: "43206"
 city: Columbus
-street: "Parsons Avenue"
-housenumber: 766
-phone: "+1-614-449-2780"
-opening_hours: "Mo-Su 10:00-01:00"
+street: Parsons Avenue
+housenumber: "766"
+phone: +1-614-449-2780
+opening_hours: Mo-Su 10:00-01:00
 website: ""

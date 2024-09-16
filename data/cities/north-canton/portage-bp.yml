@@ -1,11 +1,11 @@
 id: 1236102582
-type: way
+type: node
 latitude: 40.88048
 longitude: -81.43355
 postcode: "44720"
 city: North Canton
-street: "Portage Street Northwest"
-housenumber: 4625
+street: Portage Street Northwest
+housenumber: "4625"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 921128278
-type: way
+type: node
 latitude: 41.34569
 longitude: -83.10369
 postcode: "43420"
 city: Fremont
-street: "East State Street"
-housenumber: 600
+street: East State Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/fremont-oh-pharmacies/600-e-state-st-fremont-oh-43420/storeid=3471"
+website: https://www.cvs.com/store-locator/fremont-oh-pharmacies/600-e-state-st-fremont-oh-43420/storeid=3471

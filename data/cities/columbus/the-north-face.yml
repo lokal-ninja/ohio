@@ -1,11 +1,11 @@
 id: 607101000
-type: way
+type: node
 latitude: 40.05164
 longitude: -82.91479
 postcode: "43219"
 city: Columbus
-street: "Gramercy Street"
-housenumber: 4025
-phone: "+1-614-337-1147"
-opening_hours: "Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 12:00-18:00"
-website: "http://stores.thenorthface.com/OH/columbus/USA43/"
+street: Gramercy Street
+housenumber: "4025"
+phone: +1-614-337-1147
+opening_hours: Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 12:00-18:00
+website: http://stores.thenorthface.com/OH/columbus/USA43/

@@ -1,11 +1,11 @@
 id: 936161578
-type: way
+type: node
 latitude: 39.74542
 longitude: -84.39148
 postcode: "45345"
 city: New Lebanon
-street: "W Main St"
-housenumber: 324
+street: W Main St
+housenumber: "324"
 phone: ""
 opening_hours: ""
 website: ""

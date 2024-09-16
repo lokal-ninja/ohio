@@ -1,11 +1,11 @@
 id: 169679787
-type: way
+type: node
 latitude: 39.22526
 longitude: -84.58928
 postcode: "45239"
 city: Cincinnati
-street: "Colerain Avenue"
-housenumber: 8465
+street: Colerain Avenue
+housenumber: "8465"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/oh/cincinnati/8465-colerain-ave"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/oh/cincinnati/8465-colerain-ave

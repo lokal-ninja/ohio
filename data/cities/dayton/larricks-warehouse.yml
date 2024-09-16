@@ -1,11 +1,11 @@
 id: 305394571
-type: way
+type: node
 latitude: 39.75262
 longitude: -84.1428
 postcode: "45403"
 city: Dayton
-street: "Mackoil Avenue"
-housenumber: 23
-phone: "+1 937 2538686"
+street: Mackoil Avenue
+housenumber: "23"
+phone: +1 937 2538686
 opening_hours: ""
-website: "https://www.uniquesunlimited.com/"
+website: https://www.uniquesunlimited.com/

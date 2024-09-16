@@ -1,11 +1,11 @@
 id: 714062746
-type: way
+type: node
 latitude: 39.75529
 longitude: -84.1801
 postcode: "45410"
 city: Dayton
-street: "Wayne Avenue"
-housenumber: 508
+street: Wayne Avenue
+housenumber: "508"
 phone: ""
-opening_hours: "Mo-Th 12:00-19:00; Fr-Sa 12:00-20:00; Su 13:00-17:00"
-website: "https://www.boujeebeeboutique.com/"
+opening_hours: Mo-Th 12:00-19:00; Fr-Sa 12:00-20:00; Su 13:00-17:00
+website: https://www.boujeebeeboutique.com/

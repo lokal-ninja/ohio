@@ -1,11 +1,11 @@
 id: 348106730
-type: way
+type: node
 latitude: 39.70715
 longitude: -84.2022
 postcode: "45439"
 city: Moraine
-street: "Kettering Boulevard"
-housenumber: 3030
-phone: "+1-800-243-9943"
+street: Kettering Boulevard
+housenumber: "3030"
+phone: +1-800-243-9943
 opening_hours: ""
-website: "https://www.hillsanddalesflorist.com/"
+website: https://www.hillsanddalesflorist.com/

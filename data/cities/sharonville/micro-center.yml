@@ -1,11 +1,11 @@
 id: 314360326
-type: way
+type: node
 latitude: 39.28852
 longitude: -84.43068
 postcode: "45241"
 city: Sharonville
-street: "Mosteller Rd"
-housenumber: 11755
+street: Mosteller Rd
+housenumber: "11755"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00, Su 11:00-18:00"
-website: "https://www.microcenter.com/site/stores/sharonville.aspx?storeid=71"
+opening_hours: Mo-Sa 10:00-21:00, Su 11:00-18:00
+website: https://www.microcenter.com/site/stores/sharonville.aspx?storeid=71

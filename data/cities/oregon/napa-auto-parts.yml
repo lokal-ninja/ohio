@@ -1,11 +1,11 @@
 id: 1027537896
-type: way
+type: node
 latitude: 41.64348
 longitude: -83.49483
 postcode: "43616"
 city: Oregon
-street: "Starr Avenue"
-housenumber: 2260
+street: Starr Avenue
+housenumber: "2260"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 183542466
-type: way
+type: node
 latitude: 39.50713
 longitude: -84.75002
 postcode: "45056"
 city: Oxford
-street: "South Locust Street"
-housenumber: 260
+street: South Locust Street
+housenumber: "260"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/OH/Oxford/260-South-Locust-Street"
+website: https://www.speedway.com/locations/OH/Oxford/260-South-Locust-Street

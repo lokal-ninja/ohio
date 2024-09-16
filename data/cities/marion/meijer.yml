@@ -1,11 +1,11 @@
 id: 549397060
-type: way
+type: node
 latitude: 40.57876
 longitude: -83.073
 postcode: "43302"
 city: Marion
-street: "Marion-Mt Gilead Road"
-housenumber: 2153
-phone: "+1-740-389-6710"
-opening_hours: "24/7"
-website: "https://www.meijer.com"
+street: Marion-Mt Gilead Road
+housenumber: "2153"
+phone: +1-740-389-6710
+opening_hours: 24/7
+website: https://www.meijer.com

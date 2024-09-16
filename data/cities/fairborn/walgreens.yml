@@ -1,11 +1,11 @@
 id: 269739472
-type: way
+type: node
 latitude: 39.79006
 longitude: -84.02027
 postcode: "45324"
 city: Fairborn
-street: "East Dayton Yellow Springs Road"
-housenumber: 183
+street: East Dayton Yellow Springs Road
+housenumber: "183"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-183+e+dayton+yellow+springs+rd-fairborn-oh-45324/id=6990"
+website: https://www.walgreens.com/locator/walgreens-183+e+dayton+yellow+springs+rd-fairborn-oh-45324/id=6990

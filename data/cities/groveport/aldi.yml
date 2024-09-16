@@ -1,11 +1,11 @@
 id: 1124492008
-type: way
+type: node
 latitude: 39.89442
 longitude: -82.88393
 postcode: "43125"
 city: Groveport
-street: "South Hamilton Road"
-housenumber: 3945
-phone: "+1 844-461-7010"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/oh/groveport/3945-s-hamilton-rd"
+street: South Hamilton Road
+housenumber: "3945"
+phone: +1 844-461-7010
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/oh/groveport/3945-s-hamilton-rd

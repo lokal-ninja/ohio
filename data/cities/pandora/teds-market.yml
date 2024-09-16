@@ -1,11 +1,11 @@
 id: 358444791
-type: way
+type: node
 latitude: 40.94937
 longitude: -83.9578
 postcode: "45877"
 city: Pandora
-street: "E Washington"
-housenumber: 311
+street: E Washington
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

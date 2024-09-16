@@ -1,11 +1,11 @@
 id: 320471184
-type: way
+type: node
 latitude: 39.73748
 longitude: -82.63059
 postcode: "43130"
 city: Lancaster
-street: "Lowes Drive"
-housenumber: 2240
-phone: "+1 740-681-3464"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/oh-lancaster/0527"
+street: Lowes Drive
+housenumber: "2240"
+phone: +1 740-681-3464
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/oh-lancaster/0527

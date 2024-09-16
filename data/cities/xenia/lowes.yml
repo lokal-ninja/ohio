@@ -1,11 +1,11 @@
 id: 229129487
-type: way
+type: node
 latitude: 39.68694
 longitude: -83.97029
 postcode: "45385"
 city: Xenia
-street: "Hospitality Drive"
-housenumber: 126
-phone: "+1 937-347-4000"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/OH-Xenia/2603"
+street: Hospitality Drive
+housenumber: "126"
+phone: +1 937-347-4000
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/OH-Xenia/2603

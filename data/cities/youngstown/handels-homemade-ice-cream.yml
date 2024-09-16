@@ -1,11 +1,11 @@
 id: 549174720
-type: way
+type: node
 latitude: 41.02429
 longitude: -80.71045
 postcode: "44512"
 city: Youngstown
-street: "Boardman-Canfield Road"
-housenumber: 1491
+street: Boardman-Canfield Road
+housenumber: "1491"
 phone: ""
 opening_hours: ""
-website: "https://handelsicecream.com/"
+website: https://handelsicecream.com/

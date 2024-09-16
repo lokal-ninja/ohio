@@ -1,11 +1,11 @@
 id: 32334057
-type: way
+type: node
 latitude: 39.9833
 longitude: -83.15504
 postcode: "43228"
 city: Hilliard
-street: "Hilliard-Rome Road"
-housenumber: 1661
-phone: "+1-614-771-4800"
-opening_hours: "Mo-Su 06:00-00:00"
+street: Hilliard-Rome Road
+housenumber: "1661"
+phone: +1-614-771-4800
+opening_hours: Mo-Su 06:00-00:00
 website: ""

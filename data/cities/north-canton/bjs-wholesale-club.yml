@@ -1,11 +1,11 @@
 id: 700876780
-type: way
+type: node
 latitude: 40.8822
 longitude: -81.4405
 postcode: "44720"
 city: North Canton
-street: "Frank Avenue Northwest"
-housenumber: 6924
+street: Frank Avenue Northwest
+housenumber: "6924"
 phone: ""
 opening_hours: ""
 website: ""

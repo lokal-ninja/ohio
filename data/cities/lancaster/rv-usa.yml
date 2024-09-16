@@ -1,11 +1,11 @@
 id: 1110386847
-type: way
+type: node
 latitude: 39.74406
 longitude: -82.64696
 postcode: "43130"
 city: Lancaster
-street: "Columbus-Lancaster Road Northwest"
-housenumber: 2429
+street: Columbus-Lancaster Road Northwest
+housenumber: "2429"
 phone: ""
 opening_hours: ""
-website: "https://www.glasscityautocenter.com"
+website: https://www.glasscityautocenter.com

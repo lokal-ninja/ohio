@@ -1,11 +1,11 @@
 id: 446500009
-type: way
+type: node
 latitude: 41.46213
 longitude: -81.09174
 postcode: "44062"
 city: Middlefield
-street: "West High Street"
-housenumber: 15424
-phone: "+1 440-632-0240"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West High Street
+housenumber: "15424"
+phone: +1 440-632-0240
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

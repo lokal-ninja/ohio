@@ -1,11 +1,11 @@
 id: 692351257
-type: way
+type: node
 latitude: 40.96636
 longitude: -81.34057
 postcode: "44632"
 city: Hartville
-street: "West Maple Street"
-housenumber: 600
+street: West Maple Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/hartville-oh-pharmacies/600-west-maple-st-hartville-oh-44632/storeid=4802"
+website: https://www.cvs.com/store-locator/hartville-oh-pharmacies/600-west-maple-st-hartville-oh-44632/storeid=4802

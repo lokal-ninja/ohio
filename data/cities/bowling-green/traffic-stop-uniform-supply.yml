@@ -1,11 +1,11 @@
 id: 615424996
-type: way
+type: node
 latitude: 41.37405
 longitude: -83.64421
 postcode: "43402"
 city: Bowling Green
-street: "Railroad Street"
-housenumber: 115
+street: Railroad Street
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

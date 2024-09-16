@@ -1,11 +1,11 @@
 id: 512510743
-type: way
+type: node
 latitude: 40.77011
 longitude: -82.5972
 postcode: "44906"
 city: Ontario
-street: "Richland Mall"
-housenumber: 2209
-phone: "+1-419-529-5312"
-opening_hours: "Mo-Sa 11:00-19:00, Su 12:00-18:00"
-website: "https://richlandmallshopping.com/"
+street: Richland Mall
+housenumber: "2209"
+phone: +1-419-529-5312
+opening_hours: Mo-Sa 11:00-19:00, Su 12:00-18:00
+website: https://richlandmallshopping.com/

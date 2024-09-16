@@ -1,11 +1,11 @@
 id: 557740452
-type: way
+type: node
 latitude: 39.94582
 longitude: -82.98339
 postcode: "43206"
 city: Columbus
-street: "Parsons Avenue"
-housenumber: 865
-phone: "+1-614-449-6515"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://locations.familydollar.com/oh/columbus/20978/"
+street: Parsons Avenue
+housenumber: "865"
+phone: +1-614-449-6515
+opening_hours: Mo-Su 08:00-22:00
+website: https://locations.familydollar.com/oh/columbus/20978/

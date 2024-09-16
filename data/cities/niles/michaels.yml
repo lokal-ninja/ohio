@@ -1,11 +1,11 @@
 id: 546410736
-type: way
+type: node
 latitude: 41.21496
 longitude: -80.7468
 postcode: "44446"
 city: Niles
-street: "Youngstown Warren Road"
-housenumber: 5555
-phone: "+1 330-505-1168"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/oh/niles/9837"
+street: Youngstown Warren Road
+housenumber: "5555"
+phone: +1 330-505-1168
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/oh/niles/9837

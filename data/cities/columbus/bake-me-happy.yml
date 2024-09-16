@@ -1,11 +1,11 @@
 id: 921902451
-type: way
+type: node
 latitude: 39.9353
 longitude: -82.99298
 postcode: "43207"
 city: Columbus
-street: "East Moler Street"
-housenumber: 106
-phone: "+1-614-477-3642"
-opening_hours: "Tu-Fr 7:00-16:00; Sa-Su 9:00-16:00"
-website: "https://www.bakemehappygf.com/"
+street: East Moler Street
+housenumber: "106"
+phone: +1-614-477-3642
+opening_hours: Tu-Fr 7:00-16:00; Sa-Su 9:00-16:00
+website: https://www.bakemehappygf.com/

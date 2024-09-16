@@ -1,11 +1,11 @@
 id: 188869662
-type: way
+type: node
 latitude: 39.64153
 longitude: -84.26969
 postcode: "45342"
 city: Miamisburg
-street: "East Central Avenue"
-housenumber: 1205
+street: East Central Avenue
+housenumber: "1205"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/miamisburg-oh-pharmacies/1205-east-central-avenue-miamisburg-oh-45342/storeid=6138"
+website: https://www.cvs.com/store-locator/miamisburg-oh-pharmacies/1205-east-central-avenue-miamisburg-oh-45342/storeid=6138

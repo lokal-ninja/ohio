@@ -4,8 +4,8 @@ latitude: 40.09644
 longitude: -80.72504
 postcode: "43939"
 city: Martins Ferry
-street: "South 5th Street"
-housenumber: 21
+street: South 5th Street
+housenumber: "21"
 phone: "+17406332507"
-opening_hours: "by appointment"
-website: "https://www.eclectichairstudio.com/"
+opening_hours: '"by appointment"'
+website: https://www.eclectichairstudio.com/

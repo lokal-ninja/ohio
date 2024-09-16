@@ -1,11 +1,11 @@
 id: 155765669
-type: way
+type: node
 latitude: 39.52144
 longitude: -83.46066
 postcode: "43160"
 city: Washington Court House
-street: "Commerce Boulevard"
-housenumber: 200
-phone: "+1 833-461-7048"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/oh/washington-court-house/200-commerce-blvd"
+street: Commerce Boulevard
+housenumber: "200"
+phone: +1 833-461-7048
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/oh/washington-court-house/200-commerce-blvd

@@ -1,11 +1,11 @@
 id: 1027496198
-type: way
+type: node
 latitude: 39.95373
 longitude: -82.00635
 postcode: "43701"
 city: Zanesville
-street: "Linden Avenue"
-housenumber: 1215
-phone: "+1-740-454-2564"
-opening_hours: "Mo-Sa 07:30-22:00, Su 09:00-21:00"
-website: "https://stores.advanceautoparts.com/oh/zanesville/1215-linden-ave"
+street: Linden Avenue
+housenumber: "1215"
+phone: +1-740-454-2564
+opening_hours: Mo-Sa 07:30-22:00, Su 09:00-21:00
+website: https://stores.advanceautoparts.com/oh/zanesville/1215-linden-ave

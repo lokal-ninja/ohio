@@ -1,11 +1,11 @@
 id: 604259840
-type: way
+type: node
 latitude: 40.10191
 longitude: -83.15106
 postcode: "43017"
 city: Dublin
-street: "Perimeter Loop Road"
-housenumber: 6321
+street: Perimeter Loop Road
+housenumber: "6321"
 phone: ""
 opening_hours: ""
 website: ""

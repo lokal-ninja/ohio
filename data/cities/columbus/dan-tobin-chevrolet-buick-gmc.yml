@@ -1,11 +1,11 @@
 id: 478444782
-type: way
+type: node
 latitude: 40.11025
 longitude: -83.08363
 postcode: "43235"
 city: Columbus
-street: "Billingsley Road"
-housenumber: 2539
+street: Billingsley Road
+housenumber: "2539"
 phone: ""
 opening_hours: ""
-website: "https://www.dantobin.com/"
+website: https://www.dantobin.com/

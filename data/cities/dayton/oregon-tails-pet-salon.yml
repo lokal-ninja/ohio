@@ -1,11 +1,11 @@
 id: 714062743
-type: way
+type: node
 latitude: 39.75556
 longitude: -84.18039
 postcode: "45410"
 city: Dayton
-street: "Wayne Avenue"
-housenumber: 502
-phone: "+1-937-259-8642"
+street: Wayne Avenue
+housenumber: "502"
+phone: +1-937-259-8642
 opening_hours: ""
-website: "http://www.oregontailspetsalon.com/"
+website: http://www.oregontailspetsalon.com/

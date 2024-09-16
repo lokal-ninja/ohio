@@ -1,11 +1,11 @@
 id: 616339433
-type: way
+type: node
 latitude: 40.65091
 longitude: -83.59283
 postcode: "43326"
 city: Kenton
-street: "East Columbus Street"
-housenumber: 940
-phone: "+1-419-673-2122"
+street: East Columbus Street
+housenumber: "940"
+phone: +1-419-673-2122
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/oh/kenton/940-e-columbus-st"
+website: https://stores.advanceautoparts.com/oh/kenton/940-e-columbus-st

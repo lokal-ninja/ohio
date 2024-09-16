@@ -1,11 +1,11 @@
 id: 1240394509
-type: way
+type: node
 latitude: 39.92646
 longitude: -82.00493
 postcode: "43701"
 city: Zanesville
-street: "Harrison Street"
-housenumber: 68
-phone: "+1-740-231-3240;+1-740-814-3071"
-opening_hours: "Mo-Fr 08:00-17:00, Sa-Su off"
-website: "https://www.dentmandanoh.com/"
+street: Harrison Street
+housenumber: "68"
+phone: +1-740-231-3240;+1-740-814-3071
+opening_hours: Mo-Fr 08:00-17:00, Sa-Su off
+website: https://www.dentmandanoh.com/

@@ -1,11 +1,11 @@
 id: 43991557
-type: way
+type: node
 latitude: 39.1639
 longitude: -84.51526
 postcode: "45232"
 city: Cincinnati
-street: "Kenard Avenue"
-housenumber: 4777
-phone: "+1 513-681-7916"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/oh/cincinnati/st-bernard/014/00428"
+street: Kenard Avenue
+housenumber: "4777"
+phone: +1 513-681-7916
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/oh/cincinnati/st-bernard/014/00428

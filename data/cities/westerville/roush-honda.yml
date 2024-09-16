@@ -1,11 +1,11 @@
 id: 778748608
-type: way
+type: node
 latitude: 40.11098
 longitude: -82.92904
 postcode: "43081"
 city: Westerville
-street: "West Schrock Road"
-housenumber: 100
+street: West Schrock Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 759459944
-type: way
+type: node
 latitude: 40.56511
 longitude: -83.1213
 postcode: "43302"
 city: Marion
-street: "Delaware Avenue"
-housenumber: 1321
+street: Delaware Avenue
+housenumber: "1321"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1321+delaware+ave-marion-oh-43302/id=10295"
+website: https://www.walgreens.com/locator/walgreens-1321+delaware+ave-marion-oh-43302/id=10295

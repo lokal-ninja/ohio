@@ -1,11 +1,11 @@
 id: 517966229
-type: way
+type: node
 latitude: 40.55965
 longitude: -82.86988
 postcode: "43320"
 city: Edison
-street: "State Route 95"
-housenumber: 3029
-phone: "+1-419-946-3029"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+street: State Route 95
+housenumber: "3029"
+phone: +1-419-946-3029
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 191297896
-type: way
+type: node
 latitude: 39.133
 longitude: -84.22862
 postcode: "45150"
 city: Milford
-street: "US 50"
-housenumber: 1343
+street: US 50
+housenumber: "1343"
 phone: ""
 opening_hours: ""
 website: ""

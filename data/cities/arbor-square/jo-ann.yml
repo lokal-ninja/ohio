@@ -1,11 +1,11 @@
 id: 962459415
-type: way
+type: node
 latitude: 39.32067
 longitude: -84.31593
-postcode: "45040-5003"
+postcode: 45040-5003
 city: Arbor Square
-street: "Arbor Square Drive"
-housenumber: 8125
-phone: "+1 513-204-1493"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/oh/mason/2147/"
+street: Arbor Square Drive
+housenumber: "8125"
+phone: +1 513-204-1493
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/oh/mason/2147/

@@ -1,11 +1,11 @@
 id: 1055095240
-type: way
+type: node
 latitude: 39.53185
 longitude: -82.38565
 postcode: "43138"
 city: Logan
-street: "Radio Lane"
-housenumber: 521
-phone: "+1-740-407-2032"
+street: Radio Lane
+housenumber: "521"
+phone: +1-740-407-2032
 opening_hours: ""
-website: "https://steelautogroup.net"
+website: https://steelautogroup.net

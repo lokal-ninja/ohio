@@ -1,11 +1,11 @@
 id: 155948397
-type: way
+type: node
 latitude: 39.85885
 longitude: -84.27531
 postcode: "45415"
 city: Englewood
-street: "Main Street"
-housenumber: 9200
-phone: "+1-937-836-1017"
+street: Main Street
+housenumber: "9200"
+phone: +1-937-836-1017
 opening_hours: ""
 website: ""

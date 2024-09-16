@@ -1,11 +1,11 @@
 id: 679632889
-type: way
+type: node
 latitude: 40.91933
 longitude: -84.05772
 postcode: "45830"
 city: Columbus Grove
-street: "South High Street"
-housenumber: 107
+street: South High Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

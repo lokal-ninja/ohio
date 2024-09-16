@@ -1,11 +1,11 @@
 id: 1005764086
-type: way
+type: node
 latitude: 41.60363
 longitude: -84.15617
 postcode: "43567"
 city: Wauseon
-street: "County Road J"
-housenumber: 15108
-phone: "+1-419-337-1103"
-opening_hours: "Mo-Fr 08:00-17:00; 13:00-14:00 closed; PH closed"
-website: "http://richardsrepair.co/"
+street: County Road J
+housenumber: "15108"
+phone: +1-419-337-1103
+opening_hours: Mo-Fr 08:00-17:00; 13:00-14:00 closed; PH closed
+website: http://richardsrepair.co/

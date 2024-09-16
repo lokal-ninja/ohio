@@ -1,11 +1,11 @@
 id: 108050331
-type: way
+type: node
 latitude: 39.15073
 longitude: -84.74265
 postcode: "45002"
 city: North Bend
-street: "3 Rivers Parkway"
-housenumber: 280
+street: 3 Rivers Parkway
+housenumber: "280"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/oh/north-bend/10994"
+website: https://www.dollargeneral.com/store-directory/oh/north-bend/10994

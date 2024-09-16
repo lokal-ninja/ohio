@@ -1,11 +1,11 @@
 id: 105137206
-type: way
+type: node
 latitude: 39.16014
 longitude: -84.28091
 postcode: "45150"
 city: Milford
-street: "Chamber Drive"
-housenumber: 201
-phone: "+1 513-248-0067"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/5499/milford-oh/whats-new"
+street: Chamber Drive
+housenumber: "201"
+phone: +1 513-248-0067
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/5499/milford-oh/whats-new

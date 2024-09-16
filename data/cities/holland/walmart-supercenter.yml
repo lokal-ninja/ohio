@@ -1,11 +1,11 @@
 id: 354016998
-type: way
+type: node
 latitude: 41.61729
 longitude: -83.70008
 postcode: "43528"
 city: Holland
-street: "South McCord Road"
-housenumber: 1355
-phone: "+1 419-867-0155"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3445/holland-oh/whats-new"
+street: South McCord Road
+housenumber: "1355"
+phone: +1 419-867-0155
+opening_hours: 24/7
+website: https://www.walmart.com/store/3445/holland-oh/whats-new

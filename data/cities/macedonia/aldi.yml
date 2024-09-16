@@ -1,11 +1,11 @@
 id: 274459053
-type: way
+type: node
 latitude: 41.31522
 longitude: -81.52514
 postcode: "44067"
 city: Macedonia
-street: "East Aurora Road"
-housenumber: 371
-phone: "+1 855-463-1012"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/oh/macedonia/371-east-aurora-road"
+street: East Aurora Road
+housenumber: "371"
+phone: +1 855-463-1012
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/oh/macedonia/371-east-aurora-road

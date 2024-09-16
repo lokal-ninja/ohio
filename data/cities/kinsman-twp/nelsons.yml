@@ -1,11 +1,11 @@
 id: 1191862171
-type: way
+type: node
 latitude: 41.44065
 longitude: -80.58879
 postcode: "44428"
 city: Kinsman Twp
-street: "Main Street Northeast"
-housenumber: 8085
+street: Main Street Northeast
+housenumber: "8085"
 phone: ""
 opening_hours: ""
 website: ""

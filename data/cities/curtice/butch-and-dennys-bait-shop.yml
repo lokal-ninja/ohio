@@ -1,11 +1,11 @@
 id: 1280041839
-type: way
+type: node
 latitude: 41.66024
 longitude: -83.29816
 postcode: "43412"
 city: Curtice
-street: "Corduroy Road"
-housenumber: 10408
+street: Corduroy Road
+housenumber: "10408"
 phone: ""
 opening_hours: ""
 website: ""

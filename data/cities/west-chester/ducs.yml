@@ -1,11 +1,11 @@
 id: 1300631815
-type: way
+type: node
 latitude: 39.31646
 longitude: -84.37104
 postcode: ""
 city: West Chester
-street: "Cincinnati Columbus Road"
-housenumber: 9324
+street: Cincinnati Columbus Road
+housenumber: "9324"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 365358111
-type: way
+type: node
 latitude: 40.01043
 longitude: -82.99347
 postcode: "43211"
 city: Columbus
-street: "Silver Drive"
-housenumber: 2345
-phone: "+1 614-447-2851"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/oh-columbus/1175"
+street: Silver Drive
+housenumber: "2345"
+phone: +1 614-447-2851
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/oh-columbus/1175

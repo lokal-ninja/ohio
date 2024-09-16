@@ -1,11 +1,11 @@
 id: 987237202
-type: way
+type: node
 latitude: 39.95501
 longitude: -82.86666
 postcode: "43213"
 city: Columbus
-street: "East Main Street"
-housenumber: 4901
+street: East Main Street
+housenumber: "4901"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/OH/Columbus/4901-East-Main-Street"
+website: https://www.speedway.com/locations/OH/Columbus/4901-East-Main-Street

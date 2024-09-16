@@ -1,11 +1,11 @@
 id: 697909211
-type: way
+type: node
 latitude: 40.89148
 longitude: -81.42052
 postcode: "44720"
 city: North Canton
-street: "Pittsburg Avenue, Northwest"
-housenumber: 1415
-phone: "+1 330-498-8440"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/431"
+street: Pittsburg Avenue, Northwest
+housenumber: "1415"
+phone: +1 330-498-8440
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/431

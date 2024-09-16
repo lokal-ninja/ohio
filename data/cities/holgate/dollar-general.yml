@@ -1,11 +1,11 @@
 id: 358523172
-type: way
+type: node
 latitude: 41.25297
 longitude: -84.12446
 postcode: "43527"
 city: Holgate
-street: "Joe E. Brown Avenue"
-housenumber: 501
-phone: "+1-567-341-4241"
+street: Joe E. Brown Avenue
+housenumber: "501"
+phone: +1-567-341-4241
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/oh/holgate/11952"
+website: https://www.dollargeneral.com/store-directory/oh/holgate/11952

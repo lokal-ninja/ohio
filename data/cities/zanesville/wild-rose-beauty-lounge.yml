@@ -1,11 +1,11 @@
 id: 1207284336
-type: way
+type: node
 latitude: 39.93997
 longitude: -82.00568
 postcode: "43701"
 city: Zanesville
-street: "Main Street"
-housenumber: 526
+street: Main Street
+housenumber: "526"
 phone: ""
-opening_hours: "by appointment"
-website: "https://wildrosebeautylounge.square.site/"
+opening_hours: '"by appointment"'
+website: https://wildrosebeautylounge.square.site/

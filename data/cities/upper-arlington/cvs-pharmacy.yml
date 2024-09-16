@@ -1,11 +1,11 @@
 id: 557732531
-type: way
+type: node
 latitude: 40.05426
 longitude: -83.06958
 postcode: "43220"
 city: Upper Arlington
-street: "West Henderson Road"
-housenumber: 1885
-phone: "+1-614-451-6555"
+street: West Henderson Road
+housenumber: "1885"
+phone: +1-614-451-6555
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/upper-arlington-oh-pharmacies/1885-west-henderson-road-upper-arlington-oh-43220/storeid=6149"
+website: https://www.cvs.com/store-locator/upper-arlington-oh-pharmacies/1885-west-henderson-road-upper-arlington-oh-43220/storeid=6149

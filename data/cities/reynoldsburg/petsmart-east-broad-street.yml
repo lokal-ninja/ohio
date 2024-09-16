@@ -1,11 +1,11 @@
 id: 1065737718
-type: way
+type: node
 latitude: 39.98374
 longitude: -82.78685
 postcode: "43068"
 city: Reynoldsburg
-street: "East Broad Street"
-housenumber: 8095
-phone: "+1 614-490-3027"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/oh/reynoldsburg-store2774.html"
+street: East Broad Street
+housenumber: "8095"
+phone: +1 614-490-3027
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/oh/reynoldsburg-store2774.html

@@ -4,8 +4,8 @@ latitude: 39.3049
 longitude: -84.52013
 postcode: "45240"
 city: Cincinnati
-street: "Cincinnati Mills Drive"
-housenumber: 100
-phone: "+1 513-671-1432"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/oh/cincinnati-210.shtml"
+street: Cincinnati Mills Drive
+housenumber: "100"
+phone: +1 513-671-1432
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/oh/cincinnati-210.shtml

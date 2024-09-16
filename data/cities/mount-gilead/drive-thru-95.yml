@@ -1,11 +1,11 @@
 id: 490407188
-type: way
+type: node
 latitude: 40.54921
 longitude: -82.84833
 postcode: "43338"
 city: Mount Gilead
-street: "West Marion Street"
-housenumber: 608
-phone: "+1-419-946-7538"
+street: West Marion Street
+housenumber: "608"
+phone: +1-419-946-7538
 opening_hours: ""
 website: ""

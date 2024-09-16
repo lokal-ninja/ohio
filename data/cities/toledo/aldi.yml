@@ -1,11 +1,11 @@
 id: 563896340
-type: way
+type: node
 latitude: 41.72196
 longitude: -83.51328
 postcode: "43612"
 city: Toledo
-street: "East Alexis Road"
-housenumber: 1430
-phone: "+1 833-463-7022"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/oh/toledo/1430-east-alexis-road"
+street: East Alexis Road
+housenumber: "1430"
+phone: +1 833-463-7022
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/oh/toledo/1430-east-alexis-road

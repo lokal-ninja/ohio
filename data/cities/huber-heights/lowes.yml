@@ -1,11 +1,11 @@
 id: 61245631
-type: way
+type: node
 latitude: 39.87784
 longitude: -84.1398
 postcode: "45424"
 city: Huber Heights
-street: "Old Troy Pike"
-housenumber: 8421
-phone: "+1 937-235-2920"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/OH-Huber-Heights/0781"
+street: Old Troy Pike
+housenumber: "8421"
+phone: +1 937-235-2920
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/OH-Huber-Heights/0781

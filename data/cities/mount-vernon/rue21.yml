@@ -1,11 +1,11 @@
 id: 585471199
-type: way
+type: node
 latitude: 40.40182
 longitude: -82.45634
 postcode: "43050"
 city: Mount Vernon
-street: "Coshocton Road"
-housenumber: 909
+street: Coshocton Road
+housenumber: "909"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 297190308
-type: way
+type: node
 latitude: 41.4126
 longitude: -82.66326
 postcode: "44870"
 city: Sandusky
-street: "Milan Road"
-housenumber: 4702
-phone: "+1-419-627-7900"
+street: Milan Road
+housenumber: "4702"
+phone: +1-419-627-7900
 opening_hours: ""
 website: ""

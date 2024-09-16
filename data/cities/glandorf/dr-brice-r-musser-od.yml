@@ -1,11 +1,11 @@
 id: 286091277
-type: way
+type: node
 latitude: 41.01928
 longitude: -84.06998
 postcode: "45848"
 city: Glandorf
-street: "Doctor Thatye Drive"
-housenumber: 102
-phone: "+1-419-538-6273"
+street: Doctor Thatye Drive
+housenumber: "102"
+phone: +1-419-538-6273
 opening_hours: ""
 website: ""

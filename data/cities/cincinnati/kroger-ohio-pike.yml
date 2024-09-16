@@ -1,11 +1,11 @@
 id: 34024984
-type: way
+type: node
 latitude: 39.07444
 longitude: -84.31203
 postcode: "45255"
 city: Cincinnati
-street: "Ohio Pike"
-housenumber: 450
-phone: "+1 513-528-6131"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.kroger.com/stores/grocery/oh/cincinnati/cherry-grove/014/00431"
+street: Ohio Pike
+housenumber: "450"
+phone: +1 513-528-6131
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.kroger.com/stores/grocery/oh/cincinnati/cherry-grove/014/00431

@@ -1,11 +1,11 @@
 id: 359451050
-type: way
+type: node
 latitude: 41.55773
 longitude: -84.13381
 postcode: "43567"
 city: Wauseon
-street: "North Shoop Avenue"
-housenumber: 810
-phone: "+1-419-335-7645"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.chiefmarkets.com/"
+street: North Shoop Avenue
+housenumber: "810"
+phone: +1-419-335-7645
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.chiefmarkets.com/

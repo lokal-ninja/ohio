@@ -1,11 +1,11 @@
 id: 1073401694
-type: way
+type: node
 latitude: 39.73258
 longitude: -82.61036
 postcode: "43130"
 city: Lancaster
-street: "North Columbus Street"
-housenumber: 1454
+street: North Columbus Street
+housenumber: "1454"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00; Su 11:00-20:00"
+opening_hours: Mo-Sa 10:00-22:00; Su 11:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 660327950
-type: way
+type: node
 latitude: 39.20038
 longitude: -84.37562
 postcode: "45236"
 city: Cincinnati
-street: "Montgomery Road"
-housenumber: 7906
-phone: "+1 513-791-5444"
+street: Montgomery Road
+housenumber: "7906"
+phone: +1 513-791-5444
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/oh/cincinnati/020030/"
+website: https://www.mattressfirm.com/en-us/stores/oh/cincinnati/020030/

@@ -1,11 +1,11 @@
 id: 487550945
-type: way
+type: node
 latitude: 39.12811
 longitude: -84.50961
 postcode: "45219"
 city: Cincinnati
-street: "West Corry Street"
-housenumber: 1
-phone: "+1 513-872-1520"
-opening_hours: "05:00-13:00"
-website: "https://www.kroger.com/stores/grocery/oh/cincinnati/university-plaza/014/00929"
+street: West Corry Street
+housenumber: "1"
+phone: +1 513-872-1520
+opening_hours: 05:00-13:00
+website: https://www.kroger.com/stores/grocery/oh/cincinnati/university-plaza/014/00929

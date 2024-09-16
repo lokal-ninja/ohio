@@ -1,11 +1,11 @@
 id: 809350624
-type: way
+type: node
 latitude: 40.96916
 longitude: -81.35546
 postcode: "44632"
 city: Hartville
-street: "West Maple Street"
-housenumber: 1280
-phone: "+1 330-877-3422"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/529"
+street: West Maple Street
+housenumber: "1280"
+phone: +1 330-877-3422
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/529

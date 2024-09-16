@@ -1,11 +1,11 @@
 id: 551337372
-type: way
+type: node
 latitude: 39.45329
 longitude: -83.80105
 postcode: "45177"
 city: Wilmington
-street: "Rombach Avenue"
-housenumber: 1627
-phone: "+1 937-382-2595"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Rombach Avenue
+housenumber: "1627"
+phone: +1 937-382-2595
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

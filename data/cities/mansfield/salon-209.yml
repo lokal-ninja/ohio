@@ -1,11 +1,11 @@
 id: 866109280
-type: way
+type: node
 latitude: 40.75615
 longitude: -82.53037
 postcode: "44903"
 city: Mansfield
-street: "Marion Avenue"
-housenumber: 209
-phone: "+1-419-524-4242"
+street: Marion Avenue
+housenumber: "209"
+phone: +1-419-524-4242
 opening_hours: ""
 website: ""

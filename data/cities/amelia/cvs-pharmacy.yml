@@ -1,11 +1,11 @@
 id: 1312259805
-type: way
+type: node
 latitude: 39.02993
 longitude: -84.22103
 postcode: "45102"
 city: Amelia
-street: "West Main Street"
-housenumber: 52
+street: West Main Street
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/amelia-oh-pharmacies/52-w-main-st-amelia-oh-45102/storeid=7776"
+website: https://www.cvs.com/store-locator/amelia-oh-pharmacies/52-w-main-st-amelia-oh-45102/storeid=7776

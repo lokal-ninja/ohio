@@ -1,11 +1,11 @@
 id: 546192738
-type: way
+type: node
 latitude: 41.21791
 longitude: -80.74402
 postcode: "44484"
 city: Warren
-street: "Niles Cortland Road Southeast"
-housenumber: 1900
-phone: "+1 330-505-0225"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/niles-oh/oh/warren/44484/3808"
+street: Niles Cortland Road Southeast
+housenumber: "1900"
+phone: +1 330-505-0225
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/niles-oh/oh/warren/44484/3808

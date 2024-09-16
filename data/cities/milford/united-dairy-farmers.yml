@@ -1,11 +1,11 @@
 id: 110164299
-type: way
+type: node
 latitude: 39.161
 longitude: -84.27778
 postcode: "45150"
 city: Milford
-street: "Chamber Drive"
-housenumber: 100
+street: Chamber Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

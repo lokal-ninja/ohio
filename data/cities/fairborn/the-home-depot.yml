@@ -1,11 +1,11 @@
 id: 76436613
-type: way
+type: node
 latitude: 39.7758
 longitude: -84.07125
 postcode: "45324"
 city: Fairborn
-street: "Presidential Drive"
-housenumber: 3775
-phone: "+1 937-431-7346"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/beavercreek/oh/fairborn/45324/3855"
+street: Presidential Drive
+housenumber: "3775"
+phone: +1 937-431-7346
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/beavercreek/oh/fairborn/45324/3855

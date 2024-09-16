@@ -1,11 +1,11 @@
 id: 133567419
-type: way
+type: node
 latitude: 40.2848
 longitude: -84.16245
 postcode: "45365"
 city: Sidney
-street: "South Wilkinson Avenue"
-housenumber: 130
+street: South Wilkinson Avenue
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

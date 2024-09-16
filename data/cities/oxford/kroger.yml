@@ -1,11 +1,11 @@
 id: 107937465
-type: way
+type: node
 latitude: 39.50635
 longitude: -84.75101
 postcode: "45056"
 city: Oxford
-street: "South Locust Street"
-housenumber: 300
-phone: "+1 513-523-7323"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/oh/oxford/oxford/014/00412"
+street: South Locust Street
+housenumber: "300"
+phone: +1 513-523-7323
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/oh/oxford/oxford/014/00412

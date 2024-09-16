@@ -1,11 +1,11 @@
 id: 192367591
-type: way
+type: node
 latitude: 41.37126
 longitude: -83.65736
 postcode: ""
 city: Bowling Green
-street: "Pearl Street"
-housenumber: 525
+street: Pearl Street
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

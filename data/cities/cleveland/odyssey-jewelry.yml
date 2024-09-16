@@ -1,11 +1,11 @@
 id: 671091373
-type: way
+type: node
 latitude: 41.47687
 longitude: -81.75377
 postcode: ""
 city: Cleveland
-street: "Madison Avenue"
-housenumber: 10017
+street: Madison Avenue
+housenumber: "10017"
 phone: ""
 opening_hours: ""
 website: ""

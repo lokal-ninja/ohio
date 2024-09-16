@@ -1,11 +1,11 @@
 id: 860323614
-type: way
+type: node
 latitude: 40.77315
 longitude: -82.48207
 postcode: "44905"
 city: Mansfield
-street: "Ashland Road"
-housenumber: 899
-phone: "+1-419-589-6868"
+street: Ashland Road
+housenumber: "899"
+phone: +1-419-589-6868
 opening_hours: ""
-website: "https://www.find.shell.com"
+website: https://www.find.shell.com

@@ -1,11 +1,11 @@
 id: 769657274
-type: way
+type: node
 latitude: 38.43856
 longitude: -82.38505
 postcode: "45669"
 city: Proctorville
-street: "State Street"
-housenumber: 119
+street: State Street
+housenumber: "119"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/OH/Proctorville/119-State-Route-7"
+website: https://www.speedway.com/locations/OH/Proctorville/119-State-Route-7

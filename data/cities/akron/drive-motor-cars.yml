@@ -1,11 +1,11 @@
 id: 321907618
-type: way
+type: node
 latitude: 41.0905
 longitude: -81.52747
 postcode: "44303"
 city: Akron
-street: "West Market Street"
-housenumber: 321
+street: West Market Street
+housenumber: "321"
 phone: "+13308198064"
 opening_hours: ""
-website: "https://www.dmotorcars.com"
+website: https://www.dmotorcars.com

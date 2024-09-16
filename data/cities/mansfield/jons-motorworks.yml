@@ -1,11 +1,11 @@
 id: 888536938
-type: way
+type: node
 latitude: 40.75798
 longitude: -82.48897
 postcode: "44905"
 city: Mansfield
-street: "Park Avenue East"
-housenumber: 728
-phone: "+1-480-773-5344"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://jonsmotorworks.com/"
+street: Park Avenue East
+housenumber: "728"
+phone: +1-480-773-5344
+opening_hours: Mo-Fr 09:00-16:00
+website: https://jonsmotorworks.com/

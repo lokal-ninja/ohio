@@ -1,11 +1,11 @@
 id: 618968929
-type: way
+type: node
 latitude: 40.87355
 longitude: -81.33383
 postcode: "44721"
 city: Canton
-street: "Easton Street Northeast"
-housenumber: 2574
+street: Easton Street Northeast
+housenumber: "2574"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 09:00-19:00"
-website: "https://www.riteaid.com/locations/oh/canton/2574-easton-street-ne.html"
+opening_hours: Mo-Fr 09:00-21:00; Sa-Su 09:00-19:00
+website: https://www.riteaid.com/locations/oh/canton/2574-easton-street-ne.html

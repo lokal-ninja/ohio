@@ -1,11 +1,11 @@
 id: 656905615
-type: way
+type: node
 latitude: 40.03592
 longitude: -82.96175
 postcode: "43224"
 city: Columbus
-street: "Cleveland-Innis Plaza"
-housenumber: 1932
+street: Cleveland-Innis Plaza
+housenumber: "1932"
 phone: ""
 opening_hours: ""
 website: ""

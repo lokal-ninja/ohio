@@ -1,11 +1,11 @@
 id: 157499943
-type: way
+type: node
 latitude: 39.15472
 longitude: -84.54226
 postcode: "45223"
 city: Cincinnati
-street: "Spring Grove Avenue"
-housenumber: 3719
-phone: "+1-513-542-6500"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://brocksasc.com/"
+street: Spring Grove Avenue
+housenumber: "3719"
+phone: +1-513-542-6500
+opening_hours: Mo-Fr 08:00-17:00
+website: http://brocksasc.com/

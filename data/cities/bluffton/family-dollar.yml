@@ -1,11 +1,11 @@
 id: 717667128
-type: way
+type: node
 latitude: 40.89295
 longitude: -83.89083
 postcode: "45817"
 city: Bluffton
-street: "Cherry Street"
-housenumber: 111
-phone: "+1 419 358 6360"
+street: Cherry Street
+housenumber: "111"
+phone: +1 419 358 6360
 opening_hours: ""
-website: "https://locations.familydollar.com/oh/bluffton/21094/"
+website: https://locations.familydollar.com/oh/bluffton/21094/

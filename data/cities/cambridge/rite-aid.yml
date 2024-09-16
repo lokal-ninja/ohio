@@ -1,11 +1,11 @@
 id: 766133352
-type: way
+type: node
 latitude: 40.02527
 longitude: -81.58551
 postcode: "43725"
 city: Cambridge
-street: "Wheeling Avenue"
-housenumber: 1045
+street: Wheeling Avenue
+housenumber: "1045"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/oh/cambridge/1045-wheeling-avenue.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/oh/cambridge/1045-wheeling-avenue.html

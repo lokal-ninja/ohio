@@ -1,11 +1,11 @@
 id: 1105076042
-type: way
+type: node
 latitude: 39.7298
 longitude: -82.61571
 postcode: "43130"
 city: Lancaster
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00
 website: ""

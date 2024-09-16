@@ -1,11 +1,11 @@
 id: 464396874
-type: way
+type: node
 latitude: 41.51936
 longitude: -82.86392
 postcode: "43452"
 city: Port Clinton
-street: "East Harbor Road"
-housenumber: 2826
-phone: "+1 419-732-3369"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.walmart.com/store/1445/port-clinton-oh/whats-new"
+street: East Harbor Road
+housenumber: "2826"
+phone: +1 419-732-3369
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.walmart.com/store/1445/port-clinton-oh/whats-new

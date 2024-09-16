@@ -1,11 +1,11 @@
 id: 625303963
-type: way
+type: node
 latitude: 40.05236
 longitude: -82.91514
 postcode: "43219"
 city: Columbus
-street: "The Strand East"
-housenumber: 4049
-phone: "+1-614-569-7923"
+street: The Strand East
+housenumber: "4049"
+phone: +1-614-569-7923
 opening_hours: ""
-website: "https://stores.warbyparker.com/oh/columbus/4049-the-strand-e"
+website: https://stores.warbyparker.com/oh/columbus/4049-the-strand-e

@@ -1,11 +1,11 @@
 id: 409413122
-type: way
+type: node
 latitude: 41.54539
 longitude: -83.59732
 postcode: "43551"
 city: Perrysburg
-street: "Carronade Drive"
-housenumber: 27322
-phone: "+1 567-336-4658"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/oh/perrysburg/perrysburg-marketplace/016/00548"
+street: Carronade Drive
+housenumber: "27322"
+phone: +1 567-336-4658
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/oh/perrysburg/perrysburg-marketplace/016/00548

@@ -1,11 +1,11 @@
 id: 43759440
-type: way
+type: node
 latitude: 39.09893
 longitude: -84.2636
 postcode: "45245"
 city: Cincinnati
-street: "Eastgate North Drive"
-housenumber: 888
-phone: "+1-513-943-5700"
+street: Eastgate North Drive
+housenumber: "888"
+phone: +1-513-943-5700
 opening_hours: ""
 website: ""

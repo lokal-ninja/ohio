@@ -1,11 +1,11 @@
 id: 243721597
-type: way
+type: node
 latitude: 40.24131
 longitude: -83.34018
 postcode: "43040"
 city: Marysville
-street: "US Highway 36"
-housenumber: 15740
-phone: "+1 833-461-7020"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/oh/marysville/15740-us-highway-36"
+street: US Highway 36
+housenumber: "15740"
+phone: +1 833-461-7020
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/oh/marysville/15740-us-highway-36

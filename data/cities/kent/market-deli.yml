@@ -5,7 +5,7 @@ longitude: -81.34323
 postcode: ""
 city: Kent
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-14:00; PH off"
-website: "https://www.kent.edu/dining/kent-markets"
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-14:00; PH off
+website: https://www.kent.edu/dining/kent-markets

@@ -1,11 +1,11 @@
 id: 1312259746
-type: way
+type: node
 latitude: 39.02929
 longitude: -84.22019
 postcode: "45102"
 city: Amelia
-street: "West Main Street"
-housenumber: 40
+street: West Main Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

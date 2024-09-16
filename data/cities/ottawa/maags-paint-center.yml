@@ -1,11 +1,11 @@
 id: 266414868
-type: way
+type: node
 latitude: 41.01884
 longitude: -84.0462
 postcode: "45875"
 city: Ottawa
-street: "East Main Street"
-housenumber: 248
-phone: "+1-419-523-6878"
+street: East Main Street
+housenumber: "248"
+phone: +1-419-523-6878
 opening_hours: ""
-website: "http://paintstore.benjaminmoore.com/stores/us/oh/ottawa/signature-design-llc?lang=en_US"
+website: http://paintstore.benjaminmoore.com/stores/us/oh/ottawa/signature-design-llc?lang=en_US

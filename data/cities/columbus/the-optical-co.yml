@@ -1,11 +1,11 @@
 id: 639453014
-type: way
+type: node
 latitude: 39.98012
 longitude: -83.00399
 postcode: "43215"
 city: Columbus
-street: "North High Street"
-housenumber: 870
-phone: "+1-614-477-9229"
+street: North High Street
+housenumber: "870"
+phone: +1-614-477-9229
 opening_hours: ""
-website: "https://www.theoptical.co"
+website: https://www.theoptical.co

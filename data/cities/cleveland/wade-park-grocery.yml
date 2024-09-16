@@ -1,11 +1,11 @@
 id: 949571578
-type: way
+type: node
 latitude: 41.51603
 longitude: -81.63956
 postcode: ""
 city: Cleveland
-street: "Wade Park Avenue"
-housenumber: 7101
+street: Wade Park Avenue
+housenumber: "7101"
 phone: ""
 opening_hours: ""
 website: ""

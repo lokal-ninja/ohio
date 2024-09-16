@@ -1,11 +1,11 @@
 id: 700758318
-type: way
+type: node
 latitude: 41.07188
 longitude: -80.65689
 postcode: "44507"
 city: Youngstown
-street: "Market Street"
-housenumber: 2701
+street: Market Street
+housenumber: "2701"
 phone: ""
 opening_hours: ""
-website: "https://locations.riteaid.com/locations/oh/youngstown/2701-market-street.html"
+website: https://locations.riteaid.com/locations/oh/youngstown/2701-market-street.html

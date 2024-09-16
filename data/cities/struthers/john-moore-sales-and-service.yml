@@ -1,11 +1,11 @@
 id: 877724071
-type: way
+type: node
 latitude: 41.05408
 longitude: -80.58642
 postcode: "44471"
 city: Struthers
-street: "Lowellville Road"
-housenumber: 68
-phone: "+1-330-715-3015"
+street: Lowellville Road
+housenumber: "68"
+phone: +1-330-715-3015
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 984859119
-type: way
+type: node
 latitude: 40.55473
 longitude: -84.38721
 postcode: "45885"
 city: Saint Marys
-street: "Fortman Drive"
-housenumber: 415
-phone: "+1 419-394-2983"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/oh/saintmarys-1425.shtml"
+street: Fortman Drive
+housenumber: "415"
+phone: +1 419-394-2983
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/oh/saintmarys-1425.shtml

@@ -1,11 +1,11 @@
 id: 169007867
-type: way
+type: node
 latitude: 41.18592
 longitude: -80.97159
 postcode: "44444"
 city: Newton Falls
-street: "South Milton Boulevard"
-housenumber: 30
+street: South Milton Boulevard
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/oh/newton-falls/30-s-milton-blvd"
+website: https://stores.advanceautoparts.com/oh/newton-falls/30-s-milton-blvd

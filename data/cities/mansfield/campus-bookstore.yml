@@ -1,11 +1,11 @@
 id: 316621118
-type: way
+type: node
 latitude: 40.79745
 longitude: -82.58139
 postcode: "44906"
 city: Mansfield
-street: "Eisenhower Drive"
-housenumber: 1635
+street: Eisenhower Drive
+housenumber: "1635"
 phone: ""
 opening_hours: ""
 website: ""

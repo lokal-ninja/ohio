@@ -1,11 +1,11 @@
 id: 881530252
-type: way
+type: node
 latitude: 41.30484
 longitude: -82.95413
 postcode: ""
 city: Clyde
-street: "East McPherson Highway"
-housenumber: 1014
-phone: "+1-419-547-9483"
+street: East McPherson Highway
+housenumber: "1014"
+phone: +1-419-547-9483
 opening_hours: ""
 website: ""

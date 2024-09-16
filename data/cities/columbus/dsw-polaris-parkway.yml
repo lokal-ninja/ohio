@@ -1,11 +1,11 @@
 id: 354931999
-type: way
+type: node
 latitude: 40.14363
 longitude: -82.98817
 postcode: "43240"
 city: Columbus
-street: "Polaris Parkway"
-housenumber: 1200
-phone: "+1 614-854-0994"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/oh/columbus/dsw-designer-shoe-warehouse-polaris.html"
+street: Polaris Parkway
+housenumber: "1200"
+phone: +1 614-854-0994
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/oh/columbus/dsw-designer-shoe-warehouse-polaris.html

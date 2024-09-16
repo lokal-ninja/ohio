@@ -1,11 +1,11 @@
 id: 96796945
-type: way
+type: node
 latitude: 39.08962
 longitude: -84.27051
 postcode: "45245"
 city: Cincinnati
-street: "Eastgate Square Drive"
-housenumber: 4370
-phone: "+1 513-753-3200"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1443/cincinnati-oh/whats-new"
+street: Eastgate Square Drive
+housenumber: "4370"
+phone: +1 513-753-3200
+opening_hours: 24/7
+website: https://www.walmart.com/store/1443/cincinnati-oh/whats-new

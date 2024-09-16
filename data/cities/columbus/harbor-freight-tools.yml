@@ -4,8 +4,8 @@ latitude: 39.95364
 longitude: -83.12534
 postcode: "43228"
 city: Columbus
-street: "West Broad Street"
-housenumber: 4608
-phone: "+1 614-851-2720"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/4608-w-broad-st-ste-b-columbus-43228?number=180"
+street: West Broad Street
+housenumber: "4608"
+phone: +1 614-851-2720
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/4608-w-broad-st-ste-b-columbus-43228?number=180

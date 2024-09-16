@@ -1,11 +1,11 @@
 id: 1296661164
-type: way
+type: node
 latitude: 41.67425
 longitude: -81.28195
 postcode: "44060"
 city: Concord
-street: "Johnnycake Ridge Road"
-housenumber: 9875
-phone: "+1 440 578 7522"
-opening_hours: "Mo-Tu 09:00-17:00; We 09:00-19:00; Th 09:00-17:00 || by appointment"
-website: "https://myhearingcenters.com/locations/ohio/concord"
+street: Johnnycake Ridge Road
+housenumber: "9875"
+phone: +1 440 578 7522
+opening_hours: Mo-Tu 09:00-17:00; We 09:00-19:00; Th 09:00-17:00 || "by appointment"
+website: https://myhearingcenters.com/locations/ohio/concord

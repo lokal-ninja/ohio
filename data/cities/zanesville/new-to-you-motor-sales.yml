@@ -1,11 +1,11 @@
 id: 1088385087
-type: way
+type: node
 latitude: 39.91539
 longitude: -82.01282
 postcode: "43701"
 city: Zanesville
-street: "Maysville Avenue"
-housenumber: 1604
+street: Maysville Avenue
+housenumber: "1604"
 phone: ""
 opening_hours: ""
 website: ""

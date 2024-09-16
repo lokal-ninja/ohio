@@ -1,11 +1,11 @@
 id: 305368470
-type: way
+type: node
 latitude: 41.1314
 longitude: -81.64312
 postcode: "44333"
 city: Akron
-street: "Medina Road"
-housenumber: 4014
+street: Medina Road
+housenumber: "4014"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/oh/akron/4014-medina-road"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/oh/akron/4014-medina-road

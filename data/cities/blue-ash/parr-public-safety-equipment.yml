@@ -1,11 +1,11 @@
 id: 41951895
-type: way
+type: node
 latitude: 39.27106
 longitude: -84.35683
 postcode: "45242"
 city: Blue Ash
-street: "Tamarco Drive"
-housenumber: 11326
-phone: "+1-419-834-7135"
-opening_hours: "Mo-Fr 08:00-16:30"
-website: "https://parrpse.com/"
+street: Tamarco Drive
+housenumber: "11326"
+phone: +1-419-834-7135
+opening_hours: Mo-Fr 08:00-16:30
+website: https://parrpse.com/

@@ -1,11 +1,11 @@
 id: 823636678
-type: way
+type: node
 latitude: 41.23529
 longitude: -80.55784
 postcode: "44403"
 city: Brookfield
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00
 website: ""

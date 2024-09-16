@@ -1,11 +1,11 @@
 id: 422065642
-type: way
+type: node
 latitude: 41.14949
 longitude: -81.33775
 postcode: ""
 city: Kent
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.kent.edu/dining/tri-towers-rotunda"
+opening_hours: 24/7
+website: https://www.kent.edu/dining/tri-towers-rotunda

@@ -1,11 +1,11 @@
 id: 999617738
-type: way
+type: node
 latitude: 41.7005
 longitude: -81.27702
 postcode: "44077"
 city: Painesville
-street: "Mentor Avenue"
-housenumber: 1522
+street: Mentor Avenue
+housenumber: "1522"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/oh/painesville/autoparts-4700.html"
+website: https://locations.oreillyauto.com/oh/painesville/autoparts-4700.html

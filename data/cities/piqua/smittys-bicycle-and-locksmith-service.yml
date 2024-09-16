@@ -1,11 +1,11 @@
 id: 1078945094
-type: way
+type: node
 latitude: 40.14415
 longitude: -84.25729
 postcode: "45356"
 city: Piqua
-street: "Covington Avenue"
-housenumber: 1032
-phone: "+1-937-773-0747"
-opening_hours: "Mo-We 09:00-18:00; Th-Fr 09:00-17:00; Sa 09:00-14:00"
-website: "http://www.smittyspiqua.com/"
+street: Covington Avenue
+housenumber: "1032"
+phone: +1-937-773-0747
+opening_hours: Mo-We 09:00-18:00; Th-Fr 09:00-17:00; Sa 09:00-14:00
+website: http://www.smittyspiqua.com/

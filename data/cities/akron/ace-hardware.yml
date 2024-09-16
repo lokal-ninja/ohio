@@ -2,10 +2,10 @@ id: 5771879485
 type: node
 latitude: 41.04817
 longitude: -81.44154
-postcode: "44312-2432"
+postcode: 44312-2432
 city: Akron
-street: "Wedgewood Drive"
-housenumber: 2420
-phone: "+1 330-733-9813"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 10:00-17:00"
+street: Wedgewood Drive
+housenumber: "2420"
+phone: +1 330-733-9813
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 10:00-17:00
 website: ""

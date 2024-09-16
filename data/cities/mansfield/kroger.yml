@@ -1,11 +1,11 @@
 id: 605212989
-type: way
+type: node
 latitude: 40.77433
 longitude: -82.47639
 postcode: "44905"
 city: Mansfield
-street: "Ashland Road"
-housenumber: 1060
-phone: "+1 419-589-3147"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/oh/mansfield/ashland-road/016/00557"
+street: Ashland Road
+housenumber: "1060"
+phone: +1 419-589-3147
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/oh/mansfield/ashland-road/016/00557

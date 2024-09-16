@@ -1,11 +1,11 @@
 id: 1199656924
-type: way
+type: node
 latitude: 39.88022
 longitude: -83.03675
 postcode: "43123"
 city: Grove City
-street: "Stringtown Road"
-housenumber: 1548
-phone: "+1 614-871-1622"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/oh/grovecity-1157.shtml"
+street: Stringtown Road
+housenumber: "1548"
+phone: +1 614-871-1622
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/oh/grovecity-1157.shtml

@@ -1,11 +1,11 @@
 id: 700756424
-type: way
+type: node
 latitude: 41.7021
 longitude: -83.65274
 postcode: "43623"
 city: Toledo
-street: "Monroe Street"
-housenumber: 
+street: Monroe Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

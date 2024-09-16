@@ -1,11 +1,11 @@
 id: 627432171
-type: way
+type: node
 latitude: 39.97742
 longitude: -83.00373
 postcode: "43215"
 city: Columbus
-street: "North High Street"
-housenumber: 737
-phone: "+1-614-424-6617"
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "https://www.onpaper.com"
+street: North High Street
+housenumber: "737"
+phone: +1-614-424-6617
+opening_hours: Tu-Sa 10:00-18:00
+website: https://www.onpaper.com

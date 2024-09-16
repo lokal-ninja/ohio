@@ -1,11 +1,11 @@
 id: 546688039
-type: way
+type: node
 latitude: 41.18183
 longitude: -80.72311
 postcode: "44446"
 city: Niles
-street: "Robbins Avenue"
-housenumber: 2363
-phone: "+1-330-349-9249"
+street: Robbins Avenue
+housenumber: "2363"
+phone: +1-330-349-9249
 opening_hours: ""
 website: ""

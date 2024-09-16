@@ -1,11 +1,11 @@
 id: 481509574
-type: way
+type: node
 latitude: 40.83549
 longitude: -81.06168
 postcode: "44634"
 city: Homeworth
-street: "Georgetown Road"
-housenumber: 23303
-phone: "+1-330-525-7161"
+street: Georgetown Road
+housenumber: "23303"
+phone: +1-330-525-7161
 opening_hours: ""
-website: "https://homeworthsales.stihldealer.net/"
+website: https://homeworthsales.stihldealer.net/

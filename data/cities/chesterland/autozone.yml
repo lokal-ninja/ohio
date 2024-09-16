@@ -1,11 +1,11 @@
 id: 967078500
-type: way
+type: node
 latitude: 41.52191
 longitude: -81.3499
 postcode: "44026"
 city: Chesterland
-street: "Mayfield Road"
-housenumber: 8189
+street: Mayfield Road
+housenumber: "8189"
 phone: "+14407290216"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://www.autozone.com/locations/oh/chesterland/8189-mayfield-rd.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://www.autozone.com/locations/oh/chesterland/8189-mayfield-rd.html

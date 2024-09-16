@@ -1,11 +1,11 @@
 id: 499171823
-type: way
+type: node
 latitude: 41.60985
 longitude: -83.71443
 postcode: "43528"
 city: Holland
-street: "Airport Highway"
-housenumber: 7225
+street: Airport Highway
+housenumber: "7225"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/oh/holland/7225-airport-highway.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/oh/holland/7225-airport-highway.html

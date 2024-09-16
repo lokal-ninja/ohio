@@ -1,11 +1,11 @@
 id: 222563620
-type: way
+type: node
 latitude: 40.75621
 longitude: -82.51378
 postcode: "44902"
 city: Mansfield
-street: "South Diamond Street"
-housenumber: 77
-phone: "+1-419-775-5308"
+street: South Diamond Street
+housenumber: "77"
+phone: +1-419-775-5308
 opening_hours: ""
 website: ""

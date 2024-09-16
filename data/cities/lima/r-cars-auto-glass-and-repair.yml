@@ -1,11 +1,11 @@
 id: 766814482
-type: way
+type: node
 latitude: 40.76145
 longitude: -84.09026
 postcode: "45801"
 city: Lima
-street: "North Sugar Street"
-housenumber: 1603
-phone: "+1 419-331-2264"
+street: North Sugar Street
+housenumber: "1603"
+phone: +1 419-331-2264
 opening_hours: ""
 website: ""

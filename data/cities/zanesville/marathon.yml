@@ -1,11 +1,11 @@
 id: 611700672
-type: way
+type: node
 latitude: 39.90853
 longitude: -82.00079
 postcode: "43701"
 city: Zanesville
-street: "South River Road"
-housenumber: 2040
+street: South River Road
+housenumber: "2040"
 phone: ""
 opening_hours: ""
 website: ""

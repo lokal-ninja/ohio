@@ -1,11 +1,11 @@
 id: 410990379
-type: way
+type: node
 latitude: 40.648
 longitude: -83.97514
 postcode: "45806"
 city: Lima
-street: "Waynesfield Road"
-housenumber: 6445
-phone: "+1 419 648 2502"
-opening_hours: "Mo-Fr 09:30-17:30"
-website: "http://www.camstransmission.com/"
+street: Waynesfield Road
+housenumber: "6445"
+phone: +1 419 648 2502
+opening_hours: Mo-Fr 09:30-17:30
+website: http://www.camstransmission.com/

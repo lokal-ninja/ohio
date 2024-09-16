@@ -1,11 +1,11 @@
 id: 291707886
-type: way
+type: node
 latitude: 39.54063
 longitude: -82.40861
 postcode: "43138"
 city: Logan
-street: "North Market Street"
-housenumber: 40
+street: North Market Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

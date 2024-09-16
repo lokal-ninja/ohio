@@ -1,11 +1,11 @@
 id: 1111175433
-type: way
+type: node
 latitude: 39.97847
 longitude: -82.01806
 postcode: "43701"
 city: Zanesville
-street: "Beverly Avenue"
-housenumber: 1004
-phone: "+1-740-450-2626"
-opening_hours: "We-Th 10:00-16:00, Fr-Sa 10:00-15:00, Su-Tu off"
-website: "https://www.nonnasquiltingnook.com/"
+street: Beverly Avenue
+housenumber: "1004"
+phone: +1-740-450-2626
+opening_hours: We-Th 10:00-16:00, Fr-Sa 10:00-15:00, Su-Tu off
+website: https://www.nonnasquiltingnook.com/

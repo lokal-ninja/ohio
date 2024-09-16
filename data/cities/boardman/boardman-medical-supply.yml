@@ -1,11 +1,11 @@
 id: 554371748
-type: way
+type: node
 latitude: 41.02471
 longitude: -80.67458
 postcode: "44512"
 city: Boardman
-street: "Boardman Canfield Road"
-housenumber: 404
+street: Boardman Canfield Road
+housenumber: "404"
 phone: ""
 opening_hours: ""
 website: ""

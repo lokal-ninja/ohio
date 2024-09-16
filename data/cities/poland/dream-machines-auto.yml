@@ -1,11 +1,11 @@
 id: 542251003
-type: way
+type: node
 latitude: 41.00269
 longitude: -80.6323
 postcode: "44514"
 city: Poland
-street: "Walker Mill Road"
-housenumber: 1150
+street: Walker Mill Road
+housenumber: "1150"
 phone: ""
 opening_hours: ""
 website: ""

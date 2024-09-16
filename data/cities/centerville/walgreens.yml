@@ -1,11 +1,11 @@
 id: 161026302
-type: way
+type: node
 latitude: 39.61281
 longitude: -84.16121
 postcode: "45458"
 city: Centerville
-street: "South Main Street"
-housenumber: 911
+street: South Main Street
+housenumber: "911"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-911+s+main+st-centerville-oh-45458/id=9873"
+website: https://www.walgreens.com/locator/walgreens-911+s+main+st-centerville-oh-45458/id=9873

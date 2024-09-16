@@ -1,11 +1,11 @@
 id: 965262931
-type: way
+type: node
 latitude: 39.71946
 longitude: -82.58174
 postcode: "43130"
 city: Lancaster
-street: "East 6th Avenue"
-housenumber: 1043
+street: East 6th Avenue
+housenumber: "1043"
 phone: ""
 opening_hours: ""
 website: ""

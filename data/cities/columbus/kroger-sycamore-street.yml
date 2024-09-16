@@ -1,11 +1,11 @@
 id: 293478810
-type: way
+type: node
 latitude: 39.95003
 longitude: -83.00241
 postcode: "43215"
 city: Columbus
-street: "Sycamore Street"
-housenumber: 150
-phone: "+1 614-340-7979"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.kroger.com/stores/grocery/oh/columbus/brewers-yard/016/00569"
+street: Sycamore Street
+housenumber: "150"
+phone: +1 614-340-7979
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.kroger.com/stores/grocery/oh/columbus/brewers-yard/016/00569

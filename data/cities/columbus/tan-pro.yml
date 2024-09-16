@@ -1,11 +1,11 @@
 id: 167152095
-type: way
+type: node
 latitude: 39.99211
 longitude: -83.02542
 postcode: "43212"
 city: Columbus
-street: "Olentangy River Road"
-housenumber: 1450
+street: Olentangy River Road
+housenumber: "1450"
 phone: ""
 opening_hours: ""
-website: "https://www.tanprousa.com/"
+website: https://www.tanprousa.com/

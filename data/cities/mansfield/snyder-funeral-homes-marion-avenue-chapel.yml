@@ -1,11 +1,11 @@
 id: 845210850
-type: way
+type: node
 latitude: 40.75436
 longitude: -82.53485
 postcode: "44903"
 city: Mansfield
-street: "Marion Avenue"
-housenumber: 350
-phone: "+1-419-525-4411"
+street: Marion Avenue
+housenumber: "350"
+phone: +1-419-525-4411
 opening_hours: ""
-website: "https://www.snyderfuneralhomes.com"
+website: https://www.snyderfuneralhomes.com

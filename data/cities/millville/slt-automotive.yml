@@ -1,11 +1,11 @@
 id: 1206402191
-type: way
+type: node
 latitude: 39.39197
 longitude: -84.65966
 postcode: ""
 city: Millville
-street: "Millville Oxford Road"
-housenumber: 159
+street: Millville Oxford Road
+housenumber: "159"
 phone: ""
 opening_hours: ""
 website: ""

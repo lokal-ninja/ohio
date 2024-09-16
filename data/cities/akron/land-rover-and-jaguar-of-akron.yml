@@ -1,11 +1,11 @@
 id: 1113203223
-type: way
+type: node
 latitude: 40.97441
 longitude: -81.48993
 postcode: "44312"
 city: Akron
-street: "East Turkeyfoot Lake Road"
-housenumber: 944
-phone: "+1-234-206-2525"
+street: East Turkeyfoot Lake Road
+housenumber: "944"
+phone: +1-234-206-2525
 opening_hours: ""
-website: "https://www.landroverakron.com/"
+website: https://www.landroverakron.com/

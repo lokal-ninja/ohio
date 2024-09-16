@@ -1,11 +1,11 @@
 id: 531468193
-type: way
+type: node
 latitude: 41.50785
 longitude: -81.5978
 postcode: "44106"
 city: Cleveland
-street: "Murray Hill Road"
-housenumber: 2029
+street: Murray Hill Road
+housenumber: "2029"
 phone: ""
 opening_hours: ""
 website: ""

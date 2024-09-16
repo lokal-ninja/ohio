@@ -1,11 +1,11 @@
 id: 243721567
-type: way
+type: node
 latitude: 40.23706
 longitude: -83.34039
 postcode: "43040"
 city: Marysville
-street: "US 36E"
-housenumber: 15775
-phone: "+1 937-578-4440"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/oh-marysville/2944"
+street: US 36E
+housenumber: "15775"
+phone: +1 937-578-4440
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/oh-marysville/2944

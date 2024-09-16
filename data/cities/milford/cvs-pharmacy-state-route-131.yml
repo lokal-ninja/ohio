@@ -1,11 +1,11 @@
 id: 117439024
-type: way
+type: node
 latitude: 39.17477
 longitude: -84.2372
 postcode: "45150"
 city: Milford
-street: "State Route 131"
-housenumber: 1137
+street: State Route 131
+housenumber: "1137"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/milford-oh-pharmacies/1137-state-route-131-milford-oh-45150/storeid=3978"
+website: https://www.cvs.com/store-locator/milford-oh-pharmacies/1137-state-route-131-milford-oh-45150/storeid=3978

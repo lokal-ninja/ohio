@@ -4,8 +4,9 @@ latitude: 39.97456
 longitude: -82.0116
 postcode: "43701"
 city: Zanesville
-street: "Maple Avenue"
-housenumber: 2782
-phone: "+1-740-318-0357"
-opening_hours: "Mo-We 07:00-19:00, Th 07:00-18:00, Fr 07:00-16:00, Sa 08:00-15:00, Su off"
+street: Maple Avenue
+housenumber: "2782"
+phone: +1-740-318-0357
+opening_hours: Mo-We 07:00-19:00, Th 07:00-18:00, Fr 07:00-16:00, Sa 08:00-15:00,
+    Su off
 website: ""

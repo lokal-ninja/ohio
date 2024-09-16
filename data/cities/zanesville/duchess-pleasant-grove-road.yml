@@ -1,11 +1,11 @@
 id: 1090323228
-type: way
+type: node
 latitude: 39.95145
 longitude: -81.95972
 postcode: "43701"
 city: Zanesville
-street: "Pleasant Grove Road"
-housenumber: 140
-phone: "+1-740-452-3136"
-opening_hours: "24/7"
-website: "https://www.myduchess.com/locations/#1125"
+street: Pleasant Grove Road
+housenumber: "140"
+phone: +1-740-452-3136
+opening_hours: 24/7
+website: https://www.myduchess.com/locations/#1125

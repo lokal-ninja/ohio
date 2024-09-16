@@ -1,11 +1,11 @@
 id: 568565595
-type: way
+type: node
 latitude: 40.73122
 longitude: -84.04477
 postcode: "45804"
 city: Lima
-street: "Harding Highway"
-housenumber: 3283
-phone: "+1 419-225-9054"
-opening_hours: "Mo-Fr 08:00-17:30; PH closed"
-website: "https://www.allentireservice.com/"
+street: Harding Highway
+housenumber: "3283"
+phone: +1 419-225-9054
+opening_hours: Mo-Fr 08:00-17:30; PH closed
+website: https://www.allentireservice.com/

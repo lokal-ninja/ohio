@@ -1,11 +1,11 @@
 id: 251284651
-type: way
+type: node
 latitude: 41.23764
 longitude: -81.34789
 postcode: "44241"
 city: Streetsboro
-street: "State Route 303"
-housenumber: 1280
-phone: "+1 330-626-1085"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.gianteagle.com/"
+street: State Route 303
+housenumber: "1280"
+phone: +1 330-626-1085
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.gianteagle.com/

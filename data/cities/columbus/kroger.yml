@@ -4,8 +4,8 @@ latitude: 39.98449
 longitude: -82.81636
 postcode: "43213"
 city: Columbus
-street: "East Broad Street"
-housenumber: 7000
-phone: "+1 614-575-3742"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/oh/columbus/e-broad/016/00853"
+street: East Broad Street
+housenumber: "7000"
+phone: +1 614-575-3742
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/oh/columbus/e-broad/016/00853

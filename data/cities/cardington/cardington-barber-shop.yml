@@ -1,11 +1,11 @@
 id: 190122541
-type: way
+type: node
 latitude: 40.50036
 longitude: -82.89393
 postcode: "43315"
 city: Cardington
-street: "East Main Street"
-housenumber: 109
+street: East Main Street
+housenumber: "109"
 phone: "+16149720508"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 61358736
-type: way
+type: node
 latitude: 39.16206
 longitude: -84.42673
 postcode: "45209"
 city: Cincinnati
-street: "Geier Drive"
-housenumber: 3195
-phone: "+1-513-458-2400"
+street: Geier Drive
+housenumber: "3195"
+phone: +1-513-458-2400
 opening_hours: ""
 website: ""

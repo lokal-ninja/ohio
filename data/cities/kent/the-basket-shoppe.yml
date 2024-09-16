@@ -1,11 +1,11 @@
 id: 422064940
-type: way
+type: node
 latitude: 41.14778
 longitude: -81.33934
 postcode: ""
 city: Kent
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.kent.edu/dining/basket-shoppe"
+website: https://www.kent.edu/dining/basket-shoppe

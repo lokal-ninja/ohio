@@ -1,11 +1,11 @@
 id: 310415487
-type: way
+type: node
 latitude: 41.1587
 longitude: -81.22762
 postcode: "44266"
 city: Ravenna
-street: "East Main Street"
-housenumber: 909
-phone: "+1 330-296-7115"
-opening_hours: "Mo-Su 06:00-22:00"
+street: East Main Street
+housenumber: "909"
+phone: +1 330-296-7115
+opening_hours: Mo-Su 06:00-22:00
 website: ""

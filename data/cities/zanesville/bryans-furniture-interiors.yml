@@ -1,11 +1,11 @@
 id: 1026504061
-type: way
+type: node
 latitude: 39.95998
 longitude: -82.01003
 postcode: "43701"
 city: Zanesville
-street: "Dresden Road"
-housenumber: 1812
-phone: "+1-740-452-5000"
-opening_hours: "Mo-Sa 09:00-17:00, Su 13:00-17:00"
-website: "https://www.bryansfurniture.com/"
+street: Dresden Road
+housenumber: "1812"
+phone: +1-740-452-5000
+opening_hours: Mo-Sa 09:00-17:00, Su 13:00-17:00
+website: https://www.bryansfurniture.com/

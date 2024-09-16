@@ -1,11 +1,11 @@
 id: 421063389
-type: way
+type: node
 latitude: 41.14758
 longitude: -81.34224
 postcode: ""
 city: Kent
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://kent.bncollege.com/"
+website: https://kent.bncollege.com/

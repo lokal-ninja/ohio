@@ -1,11 +1,11 @@
 id: 554706478
-type: way
+type: node
 latitude: 40.58355
 longitude: -83.08714
 postcode: "43302"
 city: Marion
-street: "Marion-Mt Gilead Road"
-housenumber: 1580
-phone: "+1-740-389-2121"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.gamestop.com/store/us/oh/marion/5456/eastland-towne-center-gamestop"
+street: Marion-Mt Gilead Road
+housenumber: "1580"
+phone: +1-740-389-2121
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.gamestop.com/store/us/oh/marion/5456/eastland-towne-center-gamestop

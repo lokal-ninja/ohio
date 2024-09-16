@@ -1,11 +1,11 @@
 id: 600424248
-type: way
+type: node
 latitude: 41.28551
 longitude: -81.4396
 postcode: "44087"
 city: Twinsburg
-street: "Darrow Road"
-housenumber: 8059
+street: Darrow Road
+housenumber: "8059"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/twinsburg-oh-pharmacies/8059-darrow-rd-twinsburg-oh-44087/storeid=8932"
+website: https://www.cvs.com/store-locator/twinsburg-oh-pharmacies/8059-darrow-rd-twinsburg-oh-44087/storeid=8932

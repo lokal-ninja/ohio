@@ -1,11 +1,11 @@
 id: 1274457395
-type: way
+type: node
 latitude: 40.5434
 longitude: -84.39188
 postcode: "45885"
 city: St. Marys
-street: "West High Street"
-housenumber: 314
-phone: "+1-419-394-2301"
+street: West High Street
+housenumber: "314"
+phone: +1-419-394-2301
 opening_hours: ""
-website: "https://www.millerfuneralhomes.net/miller-long-and-folk"
+website: https://www.millerfuneralhomes.net/miller-long-and-folk

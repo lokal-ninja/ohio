@@ -1,11 +1,11 @@
 id: 376555050
-type: way
+type: node
 latitude: 41.22901
 longitude: -80.74236
 postcode: "44484"
 city: Warren
-street: "Niles Cortland Road Southeast"
-housenumber: 940
-phone: "+1 330-609-8000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/oh-warren/0244"
+street: Niles Cortland Road Southeast
+housenumber: "940"
+phone: +1 330-609-8000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/oh-warren/0244

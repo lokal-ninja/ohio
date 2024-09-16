@@ -1,11 +1,11 @@
 id: 1269036341
-type: way
+type: node
 latitude: 39.64851
 longitude: -81.85635
 postcode: "43756"
 city: McConnelsville
-street: "West Main Street"
-housenumber: 240
-phone: "+1 740-962-2113"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.kroger.com/stores/grocery/oh/mcconnelsville/mcconnelsville/016/00251"
+street: West Main Street
+housenumber: "240"
+phone: +1 740-962-2113
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.kroger.com/stores/grocery/oh/mcconnelsville/mcconnelsville/016/00251

@@ -1,11 +1,11 @@
 id: 951212380
-type: way
+type: node
 latitude: 41.51663
 longitude: -81.55221
 postcode: "44118"
 city: Cleveland Heights
-street: "Severance Circle"
-housenumber: 3460
-phone: "+1-216-297-1303"
+street: Severance Circle
+housenumber: "3460"
+phone: +1-216-297-1303
 opening_hours: ""
-website: "https://www.homedepot.com/l/Cleveland-Heights/OH/Cleveland-Heights/44118/3818"
+website: https://www.homedepot.com/l/Cleveland-Heights/OH/Cleveland-Heights/44118/3818

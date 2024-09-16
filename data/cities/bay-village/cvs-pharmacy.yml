@@ -1,11 +1,11 @@
 id: 1216968203
-type: way
+type: node
 latitude: 41.47766
 longitude: -81.92074
 postcode: "44140"
 city: Bay Village
-street: "Dover Center Road"
-housenumber: 621
+street: Dover Center Road
+housenumber: "621"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/bay-village-oh-pharmacies/625-dover-center-road-bay-village-oh-44140/storeid=2469"
+website: https://www.cvs.com/store-locator/bay-village-oh-pharmacies/625-dover-center-road-bay-village-oh-44140/storeid=2469

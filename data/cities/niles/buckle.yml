@@ -1,11 +1,11 @@
 id: 1157770648
-type: way
+type: node
 latitude: 41.21503
 longitude: -80.75095
 postcode: "44446"
 city: Niles
-street: "Youngstown Warren Road"
-housenumber: 5555
+street: Youngstown Warren Road
+housenumber: "5555"
 phone: ""
 opening_hours: ""
 website: ""

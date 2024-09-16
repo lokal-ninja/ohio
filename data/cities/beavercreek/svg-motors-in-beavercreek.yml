@@ -1,11 +1,11 @@
 id: 77972793
-type: way
+type: node
 latitude: 39.72289
 longitude: -84.06489
 postcode: "45430"
 city: Beavercreek
-street: "Seajay Drive"
-housenumber: 3415
-phone: "+1-937-400-1871"
+street: Seajay Drive
+housenumber: "3415"
+phone: +1-937-400-1871
 opening_hours: ""
 website: ""

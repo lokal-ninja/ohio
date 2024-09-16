@@ -1,11 +1,11 @@
 id: 355277532
-type: way
+type: node
 latitude: 39.12459
 longitude: -84.33727
 postcode: "45244"
 city: Newtown
-street: "Main Street"
-housenumber: 7849
+street: Main Street
+housenumber: "7849"
 phone: ""
 opening_hours: ""
-website: "https://burgerfarms.com/"
+website: https://burgerfarms.com/

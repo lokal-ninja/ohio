@@ -1,11 +1,11 @@
 id: 1092973229
-type: way
+type: node
 latitude: 39.97223
 longitude: -82.05597
 postcode: "43701"
 city: Zanesville
-street: "Dillon School Drive"
-housenumber: 3000
-phone: "+1-740-868-8528"
-opening_hours: "Mo-Fr 07:30-17:00, Sa-Su off"
-website: "https://www.bobcat-ent.com/map-hours-directions-cargo-trailers-excavators-loaders-dealership--hours-zanesville"
+street: Dillon School Drive
+housenumber: "3000"
+phone: +1-740-868-8528
+opening_hours: Mo-Fr 07:30-17:00, Sa-Su off
+website: https://www.bobcat-ent.com/map-hours-directions-cargo-trailers-excavators-loaders-dealership--hours-zanesville

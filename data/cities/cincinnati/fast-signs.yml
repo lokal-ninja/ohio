@@ -4,8 +4,8 @@ latitude: 39.10343
 longitude: -84.516
 postcode: "45202"
 city: Cincinnati
-street: "West 7th Street"
-housenumber: 120
-phone: "513-847-3974"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: West 7th Street
+housenumber: "120"
+phone: 513-847-3974
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 768652854
-type: way
+type: node
 latitude: 39.97487
 longitude: -83.01011
 postcode: "43215"
 city: Columbus
-street: "Neil Avenue"
-housenumber: 660
-phone: "+1-614-224-9484"
-opening_hours: "Mo-Fr 06:00-22:00; Sa,Su 06:00-23:00"
+street: Neil Avenue
+housenumber: "660"
+phone: +1-614-224-9484
+opening_hours: Mo-Fr 06:00-22:00; Sa,Su 06:00-23:00
 website: ""

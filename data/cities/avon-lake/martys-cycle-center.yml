@@ -1,11 +1,11 @@
 id: 492222223
-type: way
+type: node
 latitude: 41.49384
 longitude: -82.01838
 postcode: "44012"
 city: Avon Lake
-street: "Avon Belden Road"
-housenumber: 453
-phone: "+1-440-933-4204"
-opening_hours: "Mo,Tu,Th,Fr 10:00-17:00; Sa 10:00-16:00"
-website: "https://www.martyscycle.com/"
+street: Avon Belden Road
+housenumber: "453"
+phone: +1-440-933-4204
+opening_hours: Mo,Tu,Th,Fr 10:00-17:00; Sa 10:00-16:00
+website: https://www.martyscycle.com/

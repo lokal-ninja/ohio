@@ -1,11 +1,11 @@
 id: 233544569
-type: way
+type: node
 latitude: 40.06407
 longitude: -83.08691
 postcode: ""
 city: Columbus
-street: "Bethel Road"
-housenumber: 2136
+street: Bethel Road
+housenumber: "2136"
 phone: ""
 opening_hours: ""
 website: ""

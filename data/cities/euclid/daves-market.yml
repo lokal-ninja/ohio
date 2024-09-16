@@ -1,11 +1,11 @@
 id: 355343646
-type: way
+type: node
 latitude: 41.60955
 longitude: -81.524
 postcode: "44123"
 city: Euclid
-street: "Shore Center Drive"
-housenumber: 22501
+street: Shore Center Drive
+housenumber: "22501"
 phone: ""
 opening_hours: ""
 website: ""

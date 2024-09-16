@@ -1,11 +1,11 @@
 id: 607100984
-type: way
+type: node
 latitude: 40.05109
 longitude: -82.91512
 postcode: "43219"
 city: Columbus
-street: "Easton Town Center"
-housenumber: 180
+street: Easton Town Center
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

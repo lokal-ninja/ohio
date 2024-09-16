@@ -1,11 +1,11 @@
 id: 595579997
-type: way
+type: node
 latitude: 39.95598
 longitude: -82.79014
 postcode: "43068"
 city: Reynoldsburg
-street: "East Main Street"
-housenumber: 7770
+street: East Main Street
+housenumber: "7770"
 phone: ""
 opening_hours: ""
 website: ""

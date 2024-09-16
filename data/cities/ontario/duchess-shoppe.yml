@@ -1,11 +1,11 @@
 id: 573535427
-type: way
+type: node
 latitude: 40.76002
 longitude: -82.64682
 postcode: "44903"
 city: Ontario
-street: "Park Avenue West"
-housenumber: 3675
-phone: "+1-419-529-6200"
+street: Park Avenue West
+housenumber: "3675"
+phone: +1-419-529-6200
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.92352
 longitude: -83.81179
 postcode: "45502"
 city: Springfield
-street: "West High Street"
-housenumber: 40
-phone: "+1-937-717-5173"
+street: West High Street
+housenumber: "40"
+phone: +1-937-717-5173
 opening_hours: ""
-website: "https://cyclotherapy.com/"
+website: https://cyclotherapy.com/

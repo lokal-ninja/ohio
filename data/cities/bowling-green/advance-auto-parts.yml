@@ -1,11 +1,11 @@
 id: 192310966
-type: way
+type: node
 latitude: 41.3589
 longitude: -83.65005
 postcode: "43402"
 city: Bowling Green
-street: "South Main Street"
-housenumber: 
+street: South Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/oh/bowling-green/1025-s-main-st"
+website: https://stores.advanceautoparts.com/oh/bowling-green/1025-s-main-st

@@ -1,11 +1,11 @@
 id: 271056471
-type: way
+type: node
 latitude: 41.01733
 longitude: -81.55096
 postcode: "44319"
 city: Akron
-street: "Manchester Road"
-housenumber: 3011
+street: Manchester Road
+housenumber: "3011"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/oh/coventry-township/3011-manchester-rd.html"
+website: https://www.autozone.com/locations/oh/coventry-township/3011-manchester-rd.html

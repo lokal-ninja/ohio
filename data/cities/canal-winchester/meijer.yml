@@ -1,11 +1,11 @@
 id: 685102492
-type: way
+type: node
 latitude: 39.84997
 longitude: -82.77651
 postcode: "43110"
 city: Canal Winchester
-street: "Meijer Drive"
-housenumber: 8300
-phone: "+1 614-920-7200"
-opening_hours: "Mo-Su 06:00-24:00"
+street: Meijer Drive
+housenumber: "8300"
+phone: +1 614-920-7200
+opening_hours: Mo-Su 06:00-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 717547645
-type: way
+type: node
 latitude: 41.55693
 longitude: -83.62962
 postcode: "43551"
 city: Perrysburg
-street: "West Indiana Avenue"
-housenumber: 131
-phone: "+1-419-874-9404"
+street: West Indiana Avenue
+housenumber: "131"
+phone: +1-419-874-9404
 opening_hours: ""
-website: "https://www.salonhazelton.com/"
+website: https://www.salonhazelton.com/

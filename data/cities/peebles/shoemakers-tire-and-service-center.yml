@@ -1,11 +1,11 @@
 id: 1155326574
-type: way
+type: node
 latitude: 38.94453
 longitude: -83.40973
 postcode: "45660"
 city: Peebles
-street: "South Main Street"
-housenumber: 100
+street: South Main Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

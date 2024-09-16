@@ -1,11 +1,11 @@
 id: 572725866
-type: way
+type: node
 latitude: 39.12318
 longitude: -84.13627
 postcode: "45160"
 city: Owensville
-street: "East Main Street"
-housenumber: 110
+street: East Main Street
+housenumber: "110"
 phone: ""
-opening_hours: "05:00-23:00"
+opening_hours: 05:00-23:00
 website: ""

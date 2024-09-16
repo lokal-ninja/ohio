@@ -1,11 +1,11 @@
 id: 1046702711
-type: way
+type: node
 latitude: 39.53889
 longitude: -82.39518
 postcode: "43138"
 city: Logan
-street: "East Main Street"
-housenumber: 823
+street: East Main Street
+housenumber: "823"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/Gillespieauto/"
+website: https://www.facebook.com/Gillespieauto/

@@ -1,11 +1,11 @@
 id: 759787835
-type: way
+type: node
 latitude: 41.11338
 longitude: -83.20584
 postcode: "44883"
 city: Tiffin
-street: "West Market Street"
-housenumber: 682
-phone: "+1 567-938-0909"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/682-w-market-street-suite-13-tiffin-44883?number=2956"
+street: West Market Street
+housenumber: "682"
+phone: +1 567-938-0909
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/682-w-market-street-suite-13-tiffin-44883?number=2956

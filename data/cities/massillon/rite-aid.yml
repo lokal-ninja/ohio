@@ -1,11 +1,11 @@
 id: 701124211
-type: way
+type: node
 latitude: 40.79594
 longitude: -81.52629
 postcode: "44647"
 city: Massillon
-street: "Lincoln Way West"
-housenumber: 242
+street: Lincoln Way West
+housenumber: "242"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00"
-website: "https://www.riteaid.com/locations/oh/massillon/242-lincoln-way-west.html"
+opening_hours: Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00
+website: https://www.riteaid.com/locations/oh/massillon/242-lincoln-way-west.html

@@ -1,11 +1,11 @@
 id: 43726450
-type: way
+type: node
 latitude: 41.70112
 longitude: -81.37918
 postcode: "44060"
 city: Mentor
-street: "Lakeshore Boulevard"
-housenumber: 7301
+street: Lakeshore Boulevard
+housenumber: "7301"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/mentor-oh-pharmacies/7301-lakeshore-boulevard-mentor-oh-44060/storeid=7686"
+website: https://www.cvs.com/store-locator/mentor-oh-pharmacies/7301-lakeshore-boulevard-mentor-oh-44060/storeid=7686

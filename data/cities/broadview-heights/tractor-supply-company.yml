@@ -1,11 +1,11 @@
 id: 541771916
-type: way
+type: node
 latitude: 41.34847
 longitude: -81.68527
 postcode: "44147"
 city: Broadview Heights
-street: "Broadview Road"
-housenumber: 7984
-phone: "+1 440-587-1047"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Broadview Road
+housenumber: "7984"
+phone: +1 440-587-1047
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

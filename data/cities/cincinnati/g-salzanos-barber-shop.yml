@@ -4,8 +4,8 @@ latitude: 39.10819
 longitude: -84.51458
 postcode: "45202"
 city: Cincinnati
-street: "Vine Street"
-housenumber: 1150
-phone: "+1-513-381-2420"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-15:00"
+street: Vine Street
+housenumber: "1150"
+phone: +1-513-381-2420
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-15:00
 website: ""

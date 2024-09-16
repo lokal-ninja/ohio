@@ -1,11 +1,11 @@
 id: 1106676000
-type: way
+type: node
 latitude: 39.98576
 longitude: -82.78249
 postcode: "43068"
 city: Reynoldsburg
-street: "East Broad Street"
-housenumber: 8271
-phone: "+1 614-694-4520"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/739"
+street: East Broad Street
+housenumber: "8271"
+phone: +1 614-694-4520
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/739

@@ -1,11 +1,11 @@
 id: 608043833
-type: way
+type: node
 latitude: 40.05205
 longitude: -82.91364
 postcode: "43219"
 city: Columbus
-street: "Fenlon Street"
-housenumber: 4016
-phone: "+1-614-473-9813"
-opening_hours: "Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 12:00-18:00"
-website: "https://www.childrensplace.com/us/store/eastontowncenter-oh-columbus-43219-114325"
+street: Fenlon Street
+housenumber: "4016"
+phone: +1-614-473-9813
+opening_hours: Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 12:00-18:00
+website: https://www.childrensplace.com/us/store/eastontowncenter-oh-columbus-43219-114325

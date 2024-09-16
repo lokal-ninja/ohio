@@ -1,11 +1,11 @@
 id: 1235921997
-type: way
+type: node
 latitude: 39.89687
 longitude: -82.03373
 postcode: "43701"
 city: Zanesville
-street: "Greenhouse Road"
-housenumber: 2113
-phone: "+1-740-453-4141"
-opening_hours: "Mo-Tu 05:00-18:00, We,Fr 12:00-18:00, Sa 09:00-12:00, Th,Su off"
-website: "https://www.storengozville.com/"
+street: Greenhouse Road
+housenumber: "2113"
+phone: +1-740-453-4141
+opening_hours: Mo-Tu 05:00-18:00, We,Fr 12:00-18:00, Sa 09:00-12:00, Th,Su off
+website: https://www.storengozville.com/

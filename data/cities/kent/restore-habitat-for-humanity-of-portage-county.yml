@@ -1,11 +1,11 @@
 id: 431725509
-type: way
+type: node
 latitude: 41.13962
 longitude: -81.35722
 postcode: "44240"
 city: Kent
-street: "South Water Street"
-housenumber: 1510
-phone: "+1-330-677-8881"
+street: South Water Street
+housenumber: "1510"
+phone: +1-330-677-8881
 opening_hours: ""
 website: ""

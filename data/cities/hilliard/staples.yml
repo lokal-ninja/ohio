@@ -1,11 +1,11 @@
 id: 32058469
-type: way
+type: node
 latitude: 40.03413
 longitude: -83.11811
 postcode: "43026"
 city: Hilliard
-street: "Trueman Boulevard"
-housenumber: 3939
+street: Trueman Boulevard
+housenumber: "3939"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/oh/hilliard/3939-trueman-blvd"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/oh/hilliard/3939-trueman-blvd

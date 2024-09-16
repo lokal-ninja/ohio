@@ -1,11 +1,11 @@
 id: 608000230
-type: way
+type: node
 latitude: 40.8762
 longitude: -81.36945
 postcode: "44720"
 city: North Canton
-street: "East Maple Street"
-housenumber: 1955
-phone: "+1 330-966-1739"
-opening_hours: "Mo-Su 07:00-22:00"
+street: East Maple Street
+housenumber: "1955"
+phone: +1 330-966-1739
+opening_hours: Mo-Su 07:00-22:00
 website: ""

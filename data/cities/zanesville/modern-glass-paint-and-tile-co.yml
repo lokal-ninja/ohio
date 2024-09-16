@@ -1,11 +1,11 @@
 id: 1032696117
-type: way
+type: node
 latitude: 39.94941
 longitude: -82.00957
 postcode: "43701"
 city: Zanesville
-street: "Linden Avenue"
-housenumber: 933
-phone: "+1-740-454-1253"
-opening_hours: "Mo-Fr 07:30-17:30, Sa 08:00-13:00, Su off"
-website: "http://www.moderngpt.com/"
+street: Linden Avenue
+housenumber: "933"
+phone: +1-740-454-1253
+opening_hours: Mo-Fr 07:30-17:30, Sa 08:00-13:00, Su off
+website: http://www.moderngpt.com/

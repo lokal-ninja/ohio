@@ -1,11 +1,11 @@
 id: 836094226
-type: way
+type: node
 latitude: 40.03127
 longitude: -81.4492
 postcode: "43755"
 city: Lore City
-street: "Wintergreen Road"
-housenumber: 64279
+street: Wintergreen Road
+housenumber: "64279"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 185411354
-type: way
+type: node
 latitude: 39.77639
 longitude: -84.18235
 postcode: "45404"
 city: Dayton
-street: "Webster Street"
-housenumber: 1000
-phone: "+1-937-262-7452"
+street: Webster Street
+housenumber: "1000"
+phone: +1-937-262-7452
 opening_hours: ""
 website: ""

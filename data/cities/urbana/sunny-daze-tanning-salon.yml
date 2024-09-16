@@ -4,8 +4,8 @@ latitude: 40.10481
 longitude: -83.72017
 postcode: "43078"
 city: Urbana
-street: "E US Hwy 36, #2"
-housenumber: 1637
-phone: "+1-937-653-3707"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 10:00-16:00; Su 12:00-16:00"
-website: "https://sunnydazetanning.net"
+street: 'E US Hwy 36, #2'
+housenumber: "1637"
+phone: +1-937-653-3707
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 10:00-16:00; Su 12:00-16:00
+website: https://sunnydazetanning.net

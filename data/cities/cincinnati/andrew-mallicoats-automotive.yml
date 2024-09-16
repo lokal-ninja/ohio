@@ -1,11 +1,11 @@
 id: 116570206
-type: way
+type: node
 latitude: 39.29375
 longitude: -84.52381
 postcode: "45240"
 city: Cincinnati
-street: "Kemper Meadow Drive"
-housenumber: 1190
-phone: "+1-513-407-7157"
+street: Kemper Meadow Drive
+housenumber: "1190"
+phone: +1-513-407-7157
 opening_hours: ""
 website: ""

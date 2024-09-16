@@ -1,11 +1,11 @@
 id: 484645392
-type: way
+type: node
 latitude: 40.37313
 longitude: -80.68206
 postcode: "43952"
 city: Steubenville
-street: "Sunset Boulevard"
-housenumber: 4419
+street: Sunset Boulevard
+housenumber: "4419"
 phone: ""
 opening_hours: ""
 website: ""

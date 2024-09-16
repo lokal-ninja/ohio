@@ -1,11 +1,11 @@
 id: 843333005
-type: way
+type: node
 latitude: 41.50944
 longitude: -81.69259
 postcode: "44052"
 city: Cleveland
-street: "East 9th Street"
-housenumber: 1055
+street: East 9th Street
+housenumber: "1055"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00, Sa 10:00-14:00"
-website: "https://shopcgx.com/store-locations.html"
+opening_hours: Mo-Fr 08:00-16:00, Sa 10:00-14:00
+website: https://shopcgx.com/store-locations.html

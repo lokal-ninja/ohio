@@ -1,11 +1,11 @@
 id: 1025324996
-type: way
+type: node
 latitude: 39.96677
 longitude: -82.01047
 postcode: "43701"
 city: Zanesville
-street: "Maple Avenue"
-housenumber: 2347
-phone: "+1-740-607-0151"
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-17:00"
-website: "https://www.cricketwireless.com/stores/ll/US/OH/Zanesville/2347-Maple-Ave"
+street: Maple Avenue
+housenumber: "2347"
+phone: +1-740-607-0151
+opening_hours: Mo-Sa 10:00-20:00, Su 11:00-17:00
+website: https://www.cricketwireless.com/stores/ll/US/OH/Zanesville/2347-Maple-Ave

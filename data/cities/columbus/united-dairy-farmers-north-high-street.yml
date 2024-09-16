@@ -1,11 +1,11 @@
 id: 562705275
-type: way
+type: node
 latitude: 40.13639
 longitude: -83.01623
 postcode: ""
 city: Columbus
-street: "North High Street"
-housenumber: 8480
+street: North High Street
+housenumber: "8480"
 phone: ""
 opening_hours: ""
 website: ""

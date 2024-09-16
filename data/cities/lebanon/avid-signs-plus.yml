@@ -1,11 +1,11 @@
 id: 244467647
-type: way
+type: node
 latitude: 39.44141
 longitude: -84.19388
 postcode: "45036"
 city: Lebanon
-street: "Columbus Avenue"
-housenumber: 650
-phone: "+1-513-932-7446"
+street: Columbus Avenue
+housenumber: "650"
+phone: +1-513-932-7446
 opening_hours: ""
-website: "https://avidsignsplus.com/"
+website: https://avidsignsplus.com/

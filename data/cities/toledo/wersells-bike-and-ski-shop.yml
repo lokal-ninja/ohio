@@ -1,11 +1,11 @@
 id: 1204779406
-type: way
+type: node
 latitude: 41.67786
 longitude: -83.61462
 postcode: "43606"
 city: Toledo
-street: "West Central Avenue"
-housenumber: 2860
-phone: "419-474-7412"
+street: West Central Avenue
+housenumber: "2860"
+phone: 419-474-7412
 opening_hours: ""
-website: "https://wersellsbikeshop.com/"
+website: https://wersellsbikeshop.com/

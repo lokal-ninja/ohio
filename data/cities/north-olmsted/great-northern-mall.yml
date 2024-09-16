@@ -1,11 +1,11 @@
 id: 131546902
-type: way
+type: node
 latitude: 41.4176
 longitude: -81.90865
 postcode: "44070"
 city: North Olmsted
-street: "Great Northern Boulevard"
-housenumber: 4954
+street: Great Northern Boulevard
+housenumber: "4954"
 phone: ""
 opening_hours: ""
 website: ""

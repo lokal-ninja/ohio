@@ -1,11 +1,11 @@
 id: 742645231
-type: way
+type: node
 latitude: 39.97421
 longitude: -82.90599
 postcode: "43213"
 city: Columbus
-street: "East Broad Street"
-housenumber: 3616
-phone: "+1 614-238-2601"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/oh-columbus/1211"
+street: East Broad Street
+housenumber: "3616"
+phone: +1 614-238-2601
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/oh-columbus/1211

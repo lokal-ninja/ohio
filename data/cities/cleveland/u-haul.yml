@@ -1,11 +1,11 @@
 id: 157054426
-type: way
+type: node
 latitude: 41.45043
 longitude: -81.81335
 postcode: "44111"
 city: Cleveland
-street: "Lorain Avenue"
-housenumber: 16515
+street: Lorain Avenue
+housenumber: "16515"
 phone: ""
 opening_hours: ""
 website: ""

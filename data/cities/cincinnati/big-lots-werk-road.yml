@@ -4,8 +4,8 @@ latitude: 39.14367
 longitude: -84.62625
 postcode: "45248"
 city: Cincinnati
-street: "Werk Road"
-housenumber: 3640
-phone: "+1 513-666-3390"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/oh/cincinnati/3640-werk-rd"
+street: Werk Road
+housenumber: "3640"
+phone: +1 513-666-3390
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/oh/cincinnati/3640-werk-rd

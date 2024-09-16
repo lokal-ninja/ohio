@@ -1,11 +1,11 @@
 id: 1147649408
-type: way
+type: node
 latitude: 40.96392
 longitude: -81.33083
 postcode: "44632"
 city: Hartville
-street: "East Maple Street"
-housenumber: 106
+street: East Maple Street
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

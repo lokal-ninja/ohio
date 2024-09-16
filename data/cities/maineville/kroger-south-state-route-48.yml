@@ -1,11 +1,11 @@
 id: 45009634
-type: way
+type: node
 latitude: 39.35099
 longitude: -84.22036
 postcode: "45039"
 city: Maineville
-street: "South State Route 48"
-housenumber: 5705
-phone: "+1 513-494-1774"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/oh/maineville/maineville/014/00408"
+street: South State Route 48
+housenumber: "5705"
+phone: +1 513-494-1774
+opening_hours: Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/oh/maineville/maineville/014/00408

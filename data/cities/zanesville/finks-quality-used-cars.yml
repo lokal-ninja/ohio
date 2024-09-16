@@ -1,11 +1,11 @@
 id: 566778676
-type: way
+type: node
 latitude: 39.9017
 longitude: -82.02066
 postcode: "43701"
 city: Zanesville
-street: "Merriam Street"
-housenumber: 2
-phone: "+1-740-453-1772"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00, Su off"
-website: "https://www.finksqualityautos.com/"
+street: Merriam Street
+housenumber: "2"
+phone: +1-740-453-1772
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-17:00, Su off
+website: https://www.finksqualityautos.com/

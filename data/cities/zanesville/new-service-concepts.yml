@@ -1,11 +1,11 @@
 id: 1093712678
-type: way
+type: node
 latitude: 39.94587
 longitude: -82.01381
 postcode: "43701"
 city: Zanesville
-street: "Keen Street"
-housenumber: 705
-phone: "+1-740-453-4876"
+street: Keen Street
+housenumber: "705"
+phone: +1-740-453-4876
 opening_hours: ""
-website: "https://newserviceconcepts.com/"
+website: https://newserviceconcepts.com/

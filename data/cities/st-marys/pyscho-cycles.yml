@@ -1,11 +1,11 @@
 id: 1196925238
-type: way
+type: node
 latitude: 40.54379
 longitude: -84.38719
 postcode: "45885"
 city: St. Marys
-street: "East Spring Street"
-housenumber: 138
-phone: "+1-419-953-7808"
+street: East Spring Street
+housenumber: "138"
+phone: +1-419-953-7808
 opening_hours: ""
-website: "https://psycho-cycles-llc.square.site"
+website: https://psycho-cycles-llc.square.site

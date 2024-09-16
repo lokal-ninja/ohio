@@ -1,11 +1,11 @@
 id: 561682689
-type: way
+type: node
 latitude: 40.14101
 longitude: -82.96586
 postcode: "43240"
 city: Columbus
-street: "Pulsar Place"
-housenumber: 8500
+street: Pulsar Place
+housenumber: "8500"
 phone: ""
 opening_hours: ""
 website: ""

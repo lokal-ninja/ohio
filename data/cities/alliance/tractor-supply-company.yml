@@ -1,11 +1,11 @@
 id: 508830443
-type: way
+type: node
 latitude: 40.90145
 longitude: -81.15719
 postcode: "44601"
 city: Alliance
-street: "West State Street"
-housenumber: 2520
-phone: "+1 330-823-2808"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West State Street
+housenumber: "2520"
+phone: +1 330-823-2808
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

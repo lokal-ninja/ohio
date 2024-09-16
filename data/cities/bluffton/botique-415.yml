@@ -4,8 +4,9 @@ latitude: 40.8963
 longitude: -83.88827
 postcode: "45817"
 city: Bluffton
-street: "North Main Street"
-housenumber: 415
-phone: "+1 419 358 0001"
-opening_hours: "Mo 10:00-20:00; Tu-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-14:00; PH closed"
-website: "https://squareup.com/market/boutique415"
+street: North Main Street
+housenumber: "415"
+phone: +1 419 358 0001
+opening_hours: Mo 10:00-20:00; Tu-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-14:00;
+    PH closed
+website: https://squareup.com/market/boutique415

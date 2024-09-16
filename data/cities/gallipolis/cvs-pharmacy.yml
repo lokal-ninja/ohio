@@ -1,11 +1,11 @@
 id: 740046428
-type: way
+type: node
 latitude: 38.84453
 longitude: -82.23391
 postcode: "45631"
 city: Gallipolis
-street: "SR 160"
-housenumber: 3066
+street: SR 160
+housenumber: "3066"
 phone: ""
-opening_hours: "Mo-Su 08:00-24:00"
-website: "https://www.cvs.com/store-locator/gallipolis-oh-pharmacies/3066-state-rt-160-gallipolis-oh-45631/storeid=4400"
+opening_hours: Mo-Su 08:00-24:00
+website: https://www.cvs.com/store-locator/gallipolis-oh-pharmacies/3066-state-rt-160-gallipolis-oh-45631/storeid=4400

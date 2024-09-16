@@ -1,11 +1,11 @@
 id: 601554203
-type: way
+type: node
 latitude: 39.9759
 longitude: -83.00316
 postcode: "43215"
 city: Columbus
-street: "North High Street"
-housenumber: 662
+street: North High Street
+housenumber: "662"
 phone: ""
-opening_hours: "Mo-Su 12:00-22:00"
-website: "https://www.kilwins.com/columbus-short-north"
+opening_hours: Mo-Su 12:00-22:00
+website: https://www.kilwins.com/columbus-short-north

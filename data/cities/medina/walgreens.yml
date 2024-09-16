@@ -1,11 +1,11 @@
 id: 784960368
-type: way
+type: node
 latitude: 41.1492
 longitude: -81.86443
 postcode: "44256"
 city: Medina
-street: "North Court Street"
-housenumber: 805
+street: North Court Street
+housenumber: "805"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-805+n+court+st-medina-oh-44256/id=6458"
+website: https://www.walgreens.com/locator/walgreens-805+n+court+st-medina-oh-44256/id=6458

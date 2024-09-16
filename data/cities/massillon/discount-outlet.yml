@@ -1,11 +1,11 @@
 id: 940793883
-type: way
+type: node
 latitude: 40.81061
 longitude: -81.5255
 postcode: ""
 city: Massillon
-street: "1st Street Northeast"
-housenumber: 1070
+street: 1st Street Northeast
+housenumber: "1070"
 phone: ""
 opening_hours: ""
-website: "https://discountoutlet.com/"
+website: https://discountoutlet.com/

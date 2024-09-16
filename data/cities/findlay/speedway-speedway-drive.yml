@@ -1,11 +1,11 @@
 id: 543208447
-type: way
+type: node
 latitude: 41.08692
 longitude: -83.65752
 postcode: "45840"
 city: Findlay
-street: "Speedway Drive"
-housenumber: 3730
+street: Speedway Drive
+housenumber: "3730"
 phone: ""
 opening_hours: ""
 website: ""

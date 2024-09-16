@@ -1,11 +1,11 @@
 id: 482550415
-type: way
+type: node
 latitude: 41.47761
 longitude: -84.55058
 postcode: "43506"
 city: Bryan
-street: "North Main Street"
-housenumber: 310
+street: North Main Street
+housenumber: "310"
 phone: ""
 opening_hours: ""
-website: "https://www.pennzoil.com/"
+website: https://www.pennzoil.com/

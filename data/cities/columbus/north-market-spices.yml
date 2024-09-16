@@ -4,8 +4,8 @@ latitude: 39.97197
 longitude: -83.00421
 postcode: "43215"
 city: Columbus
-street: "Spruce Street"
-housenumber: 59
+street: Spruce Street
+housenumber: "59"
 phone: ""
-opening_hours: "Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00"
-website: "https://www.northmarketspices.com"
+opening_hours: Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00
+website: https://www.northmarketspices.com

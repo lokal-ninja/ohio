@@ -1,11 +1,11 @@
 id: 1077238759
-type: way
+type: node
 latitude: 39.99923
 longitude: -82.03837
 postcode: "43701"
 city: Zanesville
-street: "Olde Falls Road"
-housenumber: 3619
-phone: "+1-740-453-4660"
-opening_hours: "Mo-Fr 09:00-17:00, Sa 09:00-13:00, Su off"
-website: "https://www.ziebart.com/find-my-ziebart/location/oh97-oh-zanesville"
+street: Olde Falls Road
+housenumber: "3619"
+phone: +1-740-453-4660
+opening_hours: Mo-Fr 09:00-17:00, Sa 09:00-13:00, Su off
+website: https://www.ziebart.com/find-my-ziebart/location/oh97-oh-zanesville

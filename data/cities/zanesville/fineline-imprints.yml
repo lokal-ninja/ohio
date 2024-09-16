@@ -1,11 +1,11 @@
 id: 1030629963
-type: way
+type: node
 latitude: 39.94691
 longitude: -82.01919
 postcode: "43701"
 city: Zanesville
-street: "State Street"
-housenumber: 516
-phone: "+1-740-453-1083"
-opening_hours: "Mo-Fr 09:00-17:00, Sa-Su off"
-website: "https://finelineimprints.com/"
+street: State Street
+housenumber: "516"
+phone: +1-740-453-1083
+opening_hours: Mo-Fr 09:00-17:00, Sa-Su off
+website: https://finelineimprints.com/

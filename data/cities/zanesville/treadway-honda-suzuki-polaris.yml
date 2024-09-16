@@ -1,11 +1,11 @@
 id: 566778684
-type: way
+type: node
 latitude: 39.89973
 longitude: -82.0302
 postcode: "43701"
 city: Zanesville
-street: "Maysville Pike"
-housenumber: 2503
-phone: "+1-740-452-1000"
-opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-16:00, Su-Mo off"
-website: "https://www.treadwayhondasuzuki.com/"
+street: Maysville Pike
+housenumber: "2503"
+phone: +1-740-452-1000
+opening_hours: Tu-Fr 09:00-18:00, Sa 09:00-16:00, Su-Mo off
+website: https://www.treadwayhondasuzuki.com/

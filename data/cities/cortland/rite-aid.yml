@@ -1,11 +1,11 @@
 id: 549596224
-type: way
+type: node
 latitude: 41.3191
 longitude: -80.73074
 postcode: "44410"
 city: Cortland
-street: "South High Street"
-housenumber: 569
+street: South High Street
+housenumber: "569"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa-Su 09:00-19:00"
-website: "https://www.riteaid.com/locations/oh/cortland/569-south-high-street.html"
+opening_hours: Mo-Fr 08:00-21:00; Sa-Su 09:00-19:00
+website: https://www.riteaid.com/locations/oh/cortland/569-south-high-street.html

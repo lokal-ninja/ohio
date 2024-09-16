@@ -1,11 +1,11 @@
 id: 492866885
-type: way
+type: node
 latitude: 41.50879
 longitude: -81.9889
 postcode: "44012"
 city: Avon Lake
-street: "Electric Boulevard"
-housenumber: 32087
-phone: "+1-440-933-8627"
+street: Electric Boulevard
+housenumber: "32087"
+phone: +1-440-933-8627
 opening_hours: ""
-website: "https://goodneighborthrift.org/"
+website: https://goodneighborthrift.org/

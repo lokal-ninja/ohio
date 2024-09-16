@@ -1,11 +1,11 @@
 id: 885303017
-type: way
+type: node
 latitude: 41.5075
 longitude: -83.14219
 postcode: "43449"
 city: Oak Harbor
-street: "East Water Street"
-housenumber: 165
-phone: "+1-419-898-3011"
-opening_hours: "24/7"
-website: "https://www.walkerfuneralhomes.com/"
+street: East Water Street
+housenumber: "165"
+phone: +1-419-898-3011
+opening_hours: 24/7
+website: https://www.walkerfuneralhomes.com/

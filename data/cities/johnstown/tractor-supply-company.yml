@@ -1,11 +1,11 @@
 id: 747415372
-type: way
+type: node
 latitude: 40.14585
 longitude: -82.7012
 postcode: "43031"
 city: Johnstown
-street: "West Coshocton Street"
-housenumber: 659
-phone: "+1 740-966-5415"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West Coshocton Street
+housenumber: "659"
+phone: +1 740-966-5415
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 291766549
-type: way
+type: node
 latitude: 39.17266
 longitude: -84.63706
 postcode: "45248"
 city: Cincinnati
-street: "Harrison Avenue"
-housenumber: 5750
+street: Harrison Avenue
+housenumber: "5750"
 phone: ""
 opening_hours: ""
 website: ""

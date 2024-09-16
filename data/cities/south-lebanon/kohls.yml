@@ -1,11 +1,11 @@
 id: 187895372
-type: way
+type: node
 latitude: 39.38027
 longitude: -84.21895
 postcode: "45065"
 city: South Lebanon
-street: "Corwin Nixon Boulevard"
-housenumber: 500
-phone: "+1 513-268-2898"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/oh/southlebanon-1145.shtml"
+street: Corwin Nixon Boulevard
+housenumber: "500"
+phone: +1 513-268-2898
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/oh/southlebanon-1145.shtml

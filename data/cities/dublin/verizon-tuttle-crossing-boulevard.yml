@@ -1,11 +1,11 @@
 id: 481391426
-type: way
+type: node
 latitude: 40.07571
 longitude: -83.13004
 postcode: "43016"
 city: Dublin
-street: "Tuttle Crossing Boulevard"
-housenumber: 5065
-phone: "+1-800-880-1077"
-opening_hours: "Mo-Sa 9:00-19:00; Su 11:00-17:00"
-website: "https://www.verizon.com/stores/details/ohio/dublin/dublin-oh-1069866/"
+street: Tuttle Crossing Boulevard
+housenumber: "5065"
+phone: +1-800-880-1077
+opening_hours: Mo-Sa 9:00-19:00; Su 11:00-17:00
+website: https://www.verizon.com/stores/details/ohio/dublin/dublin-oh-1069866/

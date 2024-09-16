@@ -1,11 +1,11 @@
 id: 603291496
-type: way
+type: node
 latitude: 39.92985
 longitude: -82.98438
 postcode: "43207"
 city: Columbus
-street: "Parsons Avenue"
-housenumber: 1635
+street: Parsons Avenue
+housenumber: "1635"
 phone: ""
 opening_hours: ""
 website: ""

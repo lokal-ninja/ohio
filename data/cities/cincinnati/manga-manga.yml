@@ -4,8 +4,8 @@ latitude: 39.19887
 longitude: -84.5473
 postcode: "45224"
 city: Cincinnati
-street: "Cedar Avenue"
-housenumber: 1612
+street: Cedar Avenue
+housenumber: "1612"
 phone: "+15134298361"
-opening_hours: "Tu-Th 13:00-19:00, Fr 13:00-20:00, Sa 11:00-20:00"
-website: "https://www.mangacincinnati.com/"
+opening_hours: Tu-Th 13:00-19:00, Fr 13:00-20:00, Sa 11:00-20:00
+website: https://www.mangacincinnati.com/

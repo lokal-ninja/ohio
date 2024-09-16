@@ -1,11 +1,11 @@
 id: 1149641178
-type: way
+type: node
 latitude: 40.87737
 longitude: -82.69531
 postcode: "44875"
 city: Shelby
-street: "State Route 39"
-housenumber: 5001
-phone: "+1-419-342-6228"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://m.facebook.com/Gwirtzfoods/"
+street: State Route 39
+housenumber: "5001"
+phone: +1-419-342-6228
+opening_hours: Mo-Sa 09:00-18:00
+website: https://m.facebook.com/Gwirtzfoods/

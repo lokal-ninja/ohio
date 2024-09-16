@@ -1,11 +1,11 @@
 id: 453145710
-type: way
+type: node
 latitude: 40.0657
 longitude: -83.07416
 postcode: "43235"
 city: Columbus
-street: "Crown Plaza Drive"
-housenumber: 2090
-phone: "+1 614-326-5645"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.kroger.com/stores/grocery/oh/columbus/crown-plaza/016/00818"
+street: Crown Plaza Drive
+housenumber: "2090"
+phone: +1 614-326-5645
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.kroger.com/stores/grocery/oh/columbus/crown-plaza/016/00818

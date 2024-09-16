@@ -1,11 +1,11 @@
 id: 156582206
-type: way
+type: node
 latitude: 39.0648
 longitude: -84.28795
 postcode: "45245"
 city: Cincinnati
-street: "Ohio Pike"
-housenumber: 719
+street: Ohio Pike
+housenumber: "719"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-719+ohio+pike-cincinnati-oh-45245/id=3864"
+website: https://www.walgreens.com/locator/walgreens-719+ohio+pike-cincinnati-oh-45245/id=3864

@@ -1,11 +1,11 @@
 id: 367037807
-type: way
+type: node
 latitude: 41.40006
 longitude: -83.6644
 postcode: "43402"
 city: Bowling Green
-street: "West Newton Road"
-housenumber: 829
+street: West Newton Road
+housenumber: "829"
 phone: ""
 opening_hours: ""
 website: ""

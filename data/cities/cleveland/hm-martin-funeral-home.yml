@@ -1,11 +1,11 @@
 id: 618786788
-type: way
+type: node
 latitude: 41.45374
 longitude: -81.59137
 postcode: ""
 city: Cleveland
-street: "East 131st Street"
-housenumber: 3856
+street: East 131st Street
+housenumber: "3856"
 phone: ""
 opening_hours: ""
 website: ""

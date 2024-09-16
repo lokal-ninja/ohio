@@ -1,11 +1,11 @@
 id: 640236102
-type: way
+type: node
 latitude: 40.07329
 longitude: -80.87869
 postcode: "43950"
 city: Saint Clairsville
-street: "Valley Plaza Drive"
-housenumber: 50421
-phone: "+1 740-699-3000"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/oh-saint-clairsville/0110"
+street: Valley Plaza Drive
+housenumber: "50421"
+phone: +1 740-699-3000
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/oh-saint-clairsville/0110

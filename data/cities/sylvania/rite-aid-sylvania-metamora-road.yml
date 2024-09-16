@@ -1,11 +1,11 @@
 id: 1026143802
-type: way
+type: node
 latitude: 41.71785
 longitude: -83.74504
 postcode: "43560"
 city: Sylvania
-street: "Sylvania-Metamora Road"
-housenumber: 8310
+street: Sylvania-Metamora Road
+housenumber: "8310"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/oh/sylvania/8310-sylvania-metamora-road.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/oh/sylvania/8310-sylvania-metamora-road.html

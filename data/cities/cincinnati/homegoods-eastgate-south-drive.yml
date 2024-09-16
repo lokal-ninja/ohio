@@ -1,11 +1,11 @@
 id: 43681387
-type: way
+type: node
 latitude: 39.09662
 longitude: -84.27214
 postcode: "45245"
 city: Cincinnati
-street: "Eastgate South Drive"
-housenumber: 700
-phone: "+1 513-752-2963"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Eastgate South Drive
+housenumber: "700"
+phone: +1 513-752-2963
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 479063433
-type: way
+type: node
 latitude: 40.10349
 longitude: -82.92271
 postcode: "43081"
 city: Westerville
-street: "Huber Village Boulevard"
-housenumber: 111
+street: Huber Village Boulevard
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

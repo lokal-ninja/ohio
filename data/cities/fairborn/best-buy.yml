@@ -1,11 +1,11 @@
 id: 75558850
-type: way
+type: node
 latitude: 39.77401
 longitude: -84.05052
 postcode: "45324"
 city: Fairborn
-street: "Centre Drive"
-housenumber: 2907
-phone: "+1 937-320-1484"
+street: Centre Drive
+housenumber: "2907"
+phone: +1 937-320-1484
 opening_hours: ""
-website: "https://stores.bestbuy.com/oh/fairborn/2907-centre-dr-266.html"
+website: https://stores.bestbuy.com/oh/fairborn/2907-centre-dr-266.html

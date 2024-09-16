@@ -1,11 +1,11 @@
 id: 191870548
-type: way
+type: node
 latitude: 39.76337
 longitude: -84.16729
 postcode: "45402"
 city: Dayton
-street: "East 3rd Street"
-housenumber: 1914
+street: East 3rd Street
+housenumber: "1914"
 phone: ""
 opening_hours: ""
 website: ""

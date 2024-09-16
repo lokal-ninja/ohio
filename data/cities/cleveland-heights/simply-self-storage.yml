@@ -1,11 +1,11 @@
 id: 343055676
-type: way
+type: node
 latitude: 41.52289
 longitude: -81.53703
 postcode: "44121"
 city: Cleveland Heights
-street: "Warrensville Center Road"
-housenumber: 1415
+street: Warrensville Center Road
+housenumber: "1415"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 10:00-14:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 10:00-14:00
 website: ""

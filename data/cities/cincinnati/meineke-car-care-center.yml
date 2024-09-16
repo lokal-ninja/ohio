@@ -4,8 +4,8 @@ latitude: 39.20304
 longitude: -84.45482
 postcode: "45237"
 city: Cincinnati
-street: "Reading Road"
-housenumber: 7760
-phone: "+1-513-823-9240"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://meineke.com/locations/oh/cincinnati-325/"
+street: Reading Road
+housenumber: "7760"
+phone: +1-513-823-9240
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://meineke.com/locations/oh/cincinnati-325/

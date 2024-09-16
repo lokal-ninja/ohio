@@ -1,11 +1,11 @@
 id: 1003534583
-type: way
+type: node
 latitude: 39.99529
 longitude: -83.15376
 postcode: "43026"
 city: Hilliard
-street: "Nike Drive"
-housenumber: 5514
+street: Nike Drive
+housenumber: "5514"
 phone: "+16144884311"
 opening_hours: ""
-website: "https://theguardtower.com/"
+website: https://theguardtower.com/

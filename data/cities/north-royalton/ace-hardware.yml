@@ -1,11 +1,11 @@
 id: 656823674
-type: way
+type: node
 latitude: 41.31344
 longitude: -81.73402
-postcode: "44133-4967"
+postcode: 44133-4967
 city: North Royalton
-street: "Ridge Road"
-housenumber: 14069
-phone: "+1 440-237-7350"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-18:00"
+street: Ridge Road
+housenumber: "14069"
+phone: +1 440-237-7350
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-18:00
 website: ""

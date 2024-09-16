@@ -1,11 +1,11 @@
 id: 487480489
-type: way
+type: node
 latitude: 41.5408
 longitude: -82.72412
 postcode: "43440"
 city: Marblehead
-street: "West Main Street"
-housenumber: 122
-phone: "+1-419-366-5842"
+street: West Main Street
+housenumber: "122"
+phone: +1-419-366-5842
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1059877657
-type: way
+type: node
 latitude: 38.70576
 longitude: -83.12088
 postcode: "45663"
 city: West Portsmouth
-street: "OH-125"
-housenumber: 9597
+street: OH-125
+housenumber: "9597"
 phone: "+17408582484"
-opening_hours: "Mo-Sa 08:00-16:00"
+opening_hours: Mo-Sa 08:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1131072564
-type: way
+type: node
 latitude: 41.40322
 longitude: -81.73437
 postcode: "44129"
 city: Parma
-street: "Ridge Road"
-housenumber: 5867
-phone: "+1 440 842 3434"
+street: Ridge Road
+housenumber: "5867"
+phone: +1 440 842 3434
 opening_hours: ""
 website: ""

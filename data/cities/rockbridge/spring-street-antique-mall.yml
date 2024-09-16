@@ -1,11 +1,11 @@
 id: 1054318138
-type: way
+type: node
 latitude: 39.57434
 longitude: -82.51921
 postcode: "43149"
 city: Rockbridge
-street: "US 33"
-housenumber: 26782
+street: US 33
+housenumber: "26782"
 phone: ""
 opening_hours: ""
-website: "https://springstreetantiquemallinthehills.com"
+website: https://springstreetantiquemallinthehills.com

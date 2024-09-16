@@ -1,11 +1,12 @@
 id: 362198836
-type: way
+type: node
 latitude: 41.39707
 longitude: -83.65117
 postcode: "43402"
 city: Bowling Green
-street: "North Main Street"
-housenumber: 1225
+street: North Main Street
+housenumber: "1225"
 phone: ""
-opening_hours: "Mo 08:30-21:00; Tu-We 08:30-18:00; Th 08:30-21:00; Fr 08:30-18:00; Sa 09:00-16:00"
+opening_hours: Mo 08:30-21:00; Tu-We 08:30-18:00; Th 08:30-21:00; Fr 08:30-18:00;
+    Sa 09:00-16:00
 website: ""

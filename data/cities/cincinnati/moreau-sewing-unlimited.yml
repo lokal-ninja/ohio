@@ -4,8 +4,8 @@ latitude: 39.11124
 longitude: -84.51231
 postcode: "45202"
 city: Cincinnati
-street: "Main Street"
-housenumber: 1351
-phone: "+1-513-413-6136"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.moreausewingunlimited.com/"
+street: Main Street
+housenumber: "1351"
+phone: +1-513-413-6136
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.moreausewingunlimited.com/

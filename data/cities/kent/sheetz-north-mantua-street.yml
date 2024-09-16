@@ -1,11 +1,11 @@
 id: 232486865
-type: way
+type: node
 latitude: 41.15902
 longitude: -81.3606
 postcode: "44240"
 city: Kent
-street: "North Mantua Street"
-housenumber: 600
-phone: "+1 330-346-0059"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/452"
+street: North Mantua Street
+housenumber: "600"
+phone: +1 330-346-0059
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/452

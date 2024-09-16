@@ -1,11 +1,11 @@
 id: 924665703
-type: way
+type: node
 latitude: 39.94122
 longitude: -82.00191
 postcode: "43701"
 city: Zanesville
-street: "Market Street"
-housenumber: 828
-phone: "+1-740-454-2357"
-opening_hours: "Mo 10:00-20:00, Tu-Fr 10:00-18:00, Sa 10:00-16:00, Su off"
-website: "https://www.cahousemusic.com/t-locations.aspx"
+street: Market Street
+housenumber: "828"
+phone: +1-740-454-2357
+opening_hours: Mo 10:00-20:00, Tu-Fr 10:00-18:00, Sa 10:00-16:00, Su off
+website: https://www.cahousemusic.com/t-locations.aspx

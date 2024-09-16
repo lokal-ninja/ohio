@@ -4,8 +4,8 @@ latitude: 40.89995
 longitude: -80.82666
 postcode: "44460"
 city: Salem
-street: "East State Street"
-housenumber: 2401
-phone: "+1 330-337-6378"
-opening_hours: "Mo-Su 07:00-21:00"
+street: East State Street
+housenumber: "2401"
+phone: +1 330-337-6378
+opening_hours: Mo-Su 07:00-21:00
 website: ""

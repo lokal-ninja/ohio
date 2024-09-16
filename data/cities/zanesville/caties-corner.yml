@@ -1,11 +1,11 @@
 id: 1088906875
-type: way
+type: node
 latitude: 39.92061
 longitude: -82.01669
 postcode: "43701"
 city: Zanesville
-street: "Seborn Avenue"
-housenumber: 729
-phone: "+1-740-450-7004"
+street: Seborn Avenue
+housenumber: "729"
+phone: +1-740-450-7004
 opening_hours: ""
 website: ""

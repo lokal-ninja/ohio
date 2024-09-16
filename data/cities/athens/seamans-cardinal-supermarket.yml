@@ -1,11 +1,11 @@
 id: 287882643
-type: way
+type: node
 latitude: 39.32965
 longitude: -82.11461
 postcode: "45701"
 city: Athens
-street: "West Union Street"
-housenumber: 305
+street: West Union Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

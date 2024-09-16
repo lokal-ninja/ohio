@@ -1,11 +1,11 @@
 id: 1025324983
-type: way
+type: node
 latitude: 39.96776
 longitude: -82.0096
 postcode: "43701"
 city: Zanesville
-street: "Maple Avenue"
-housenumber: 2424
-phone: "+1-740-487-0218"
-opening_hours: "Mo-Sa 10:00-19:00, Su 12:00-17:00"
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-zanesville-oh-10222479/"
+street: Maple Avenue
+housenumber: "2424"
+phone: +1-740-487-0218
+opening_hours: Mo-Sa 10:00-19:00, Su 12:00-17:00
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-zanesville-oh-10222479/

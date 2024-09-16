@@ -1,11 +1,11 @@
 id: 1065874728
-type: way
+type: node
 latitude: 39.13357
 longitude: -82.97714
 postcode: "45690"
 city: Waverly
-street: "Waverly Plaza"
-housenumber: 220
-phone: "+1 740-947-0128"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/oh/waverly/waverly/016/00363"
+street: Waverly Plaza
+housenumber: "220"
+phone: +1 740-947-0128
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/oh/waverly/waverly/016/00363

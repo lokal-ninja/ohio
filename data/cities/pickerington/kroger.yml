@@ -1,11 +1,11 @@
 id: 637957436
-type: way
+type: node
 latitude: 39.90612
 longitude: -82.73543
 postcode: "43147"
 city: Pickerington
-street: "Refugee Road"
-housenumber: 7833
-phone: "+1 614-417-0050"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/oh/pickerington/refugee-road/016/00532"
+street: Refugee Road
+housenumber: "7833"
+phone: +1 614-417-0050
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/oh/pickerington/refugee-road/016/00532

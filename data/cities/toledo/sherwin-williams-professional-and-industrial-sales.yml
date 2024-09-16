@@ -1,11 +1,11 @@
 id: 233918071
-type: way
+type: node
 latitude: 41.66636
 longitude: -83.57234
 postcode: ""
 city: Toledo
-street: "Monroe Street"
-housenumber: 3062
+street: Monroe Street
+housenumber: "3062"
 phone: ""
 opening_hours: ""
 website: ""

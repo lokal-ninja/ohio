@@ -1,11 +1,11 @@
 id: 949706400
-type: way
+type: node
 latitude: 41.35716
 longitude: -81.68164
 postcode: "44131"
 city: Seven Hills
-street: "Broadview Road"
-housenumber: 7701
-phone: "+1-216-238-9740"
+street: Broadview Road
+housenumber: "7701"
+phone: +1-216-238-9740
 opening_hours: ""
 website: ""

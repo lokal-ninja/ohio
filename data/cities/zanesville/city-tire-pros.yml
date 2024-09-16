@@ -1,11 +1,11 @@
 id: 1022461024
-type: way
+type: node
 latitude: 39.94288
 longitude: -81.97985
 postcode: "43701"
 city: Zanesville
-street: "East Pike"
-housenumber: 1800
-phone: "+1-740-452-7512"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 08:00-12:00, Su off"
-website: "https://www.citytireinc.net/Find-Us/Mode/1/1800-East-Pike-Zanesville-OH-43701/details"
+street: East Pike
+housenumber: "1800"
+phone: +1-740-452-7512
+opening_hours: Mo-Fr 08:00-17:00, Sa 08:00-12:00, Su off
+website: https://www.citytireinc.net/Find-Us/Mode/1/1800-East-Pike-Zanesville-OH-43701/details

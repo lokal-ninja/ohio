@@ -4,8 +4,8 @@ latitude: 39.05357
 longitude: -84.25632
 postcode: "45245"
 city: Cincinnati
-street: "Ohio Pike"
-housenumber: 1091
-phone: "+1-513-943-7283"
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-17:00"
-website: "https://www.smokensaveoh.com/"
+street: Ohio Pike
+housenumber: "1091"
+phone: +1-513-943-7283
+opening_hours: Mo-Sa 10:00-20:00, Su 11:00-17:00
+website: https://www.smokensaveoh.com/

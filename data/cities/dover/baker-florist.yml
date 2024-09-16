@@ -1,11 +1,11 @@
 id: 451126223
-type: way
+type: node
 latitude: 40.53572
 longitude: -81.4898
 postcode: "44622"
 city: Dover
-street: "North Walnut Street"
-housenumber: 1616
+street: North Walnut Street
+housenumber: "1616"
 phone: ""
 opening_hours: ""
-website: "https://www.bakerflorist.com/"
+website: https://www.bakerflorist.com/

@@ -1,11 +1,11 @@
 id: 1087095602
-type: way
+type: node
 latitude: 39.74963
 longitude: -82.66028
 postcode: ""
 city: Lancaster
-street: "Columbus-Lancaster Road Northwest"
-housenumber: 3040
+street: Columbus-Lancaster Road Northwest
+housenumber: "3040"
 phone: ""
 opening_hours: ""
 website: ""

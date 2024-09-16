@@ -1,11 +1,11 @@
 id: 134633787
-type: way
+type: node
 latitude: 40.0567
 longitude: -84.23686
 postcode: "45373"
 city: Troy
-street: "West Main Street"
-housenumber: 1801
-phone: "+1 937-339-7211"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1410/troy-oh/whats-new"
+street: West Main Street
+housenumber: "1801"
+phone: +1 937-339-7211
+opening_hours: 24/7
+website: https://www.walmart.com/store/1410/troy-oh/whats-new

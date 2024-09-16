@@ -4,8 +4,8 @@ latitude: 41.62213
 longitude: -81.45003
 postcode: "44094"
 city: Willoughby
-street: "Euclid Avenue"
-housenumber: 30851
-phone: "+1 440 833 0532"
-opening_hours: "by appointment"
+street: Euclid Avenue
+housenumber: "30851"
+phone: +1 440 833 0532
+opening_hours: '"by appointment"'
 website: ""

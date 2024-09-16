@@ -1,11 +1,11 @@
 id: 1301550119
-type: way
+type: node
 latitude: 41.60677
 longitude: -81.4731
 postcode: "44092"
 city: Wickliffe
-street: "Euclid Avenue"
-housenumber: 29348
-phone: "+1 440 278 4975"
-opening_hours: "Su off; Mo 12:00-16:00; Tu-Sa 12:00-18:00; We off"
-website: "https://www.sweetstreetwickliffe.com"
+street: Euclid Avenue
+housenumber: "29348"
+phone: +1 440 278 4975
+opening_hours: Su off; Mo 12:00-16:00; Tu-Sa 12:00-18:00; We off
+website: https://www.sweetstreetwickliffe.com

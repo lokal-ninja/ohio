@@ -1,11 +1,11 @@
 id: 1254038879
-type: way
+type: node
 latitude: 41.54212
 longitude: -81.49609
 postcode: "44143"
 city: Richmond Heights
-street: "Richmond Road"
-housenumber: 641
+street: Richmond Road
+housenumber: "641"
 phone: ""
 opening_hours: ""
 website: ""

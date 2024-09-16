@@ -1,11 +1,11 @@
 id: 1199313326
-type: way
+type: node
 latitude: 39.91709
 longitude: -82.89657
 postcode: "43232"
 city: Columbus
-street: "Courtright Road"
-housenumber: 3750
+street: Courtright Road
+housenumber: "3750"
 phone: ""
 opening_hours: ""
 website: ""

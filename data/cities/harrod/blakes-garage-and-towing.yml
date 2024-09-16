@@ -1,11 +1,11 @@
 id: 412982269
-type: way
+type: node
 latitude: 40.70888
 longitude: -83.92086
 postcode: "45850"
 city: Harrod
-street: "South Main Street"
-housenumber: 152
-phone: "+1 419 648 4162"
+street: South Main Street
+housenumber: "152"
+phone: +1 419 648 4162
 opening_hours: ""
 website: ""

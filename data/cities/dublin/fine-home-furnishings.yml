@@ -4,8 +4,9 @@ latitude: 40.07443
 longitude: -83.14055
 postcode: "43016"
 city: Dublin
-street: "Tuttle Crossing Boulevard"
-housenumber: 5353
+street: Tuttle Crossing Boulevard
+housenumber: "5353"
 phone: "+16144073336"
-opening_hours: "Mo 10:00-20:00, Tu 10:00-20:00, We closed, Th 10:00-20:00, Fr 10:00-21:00, Sa 10:00-20:00, Su 11:00-18:00"
-website: "https://www.finehomefurnishingsoh.com/stores/dublin-ohio/56234"
+opening_hours: Mo 10:00-20:00, Tu 10:00-20:00, We closed, Th 10:00-20:00, Fr 10:00-21:00,
+    Sa 10:00-20:00, Su 11:00-18:00
+website: https://www.finehomefurnishingsoh.com/stores/dublin-ohio/56234

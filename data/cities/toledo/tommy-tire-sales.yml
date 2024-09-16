@@ -1,11 +1,11 @@
 id: 1021989926
-type: way
+type: node
 latitude: 41.69937
 longitude: -83.54119
 postcode: "43612"
 city: Toledo
-street: "Dura Avenue"
-housenumber: 222
+street: Dura Avenue
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 611221480
-type: way
+type: node
 latitude: 41.55083
 longitude: -83.60649
 postcode: "43551"
 city: Perrysburg
-street: "Sandusky Street"
-housenumber: 11141
+street: Sandusky Street
+housenumber: "11141"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/OH/Perrysburg/11141-Sandusky-Street"
+website: https://www.speedway.com/locations/OH/Perrysburg/11141-Sandusky-Street

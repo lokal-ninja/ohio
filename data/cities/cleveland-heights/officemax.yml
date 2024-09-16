@@ -1,11 +1,11 @@
 id: 951212378
-type: way
+type: node
 latitude: 41.5166
 longitude: -81.55218
 postcode: "44118"
 city: Cleveland Heights
-street: "Mayfield Road"
-housenumber: 3462
+street: Mayfield Road
+housenumber: "3462"
 phone: ""
 opening_hours: ""
-website: "https://www.officedepot.com/storelocator/oh/cleveland-heights/officemax-6601"
+website: https://www.officedepot.com/storelocator/oh/cleveland-heights/officemax-6601

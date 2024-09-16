@@ -1,11 +1,11 @@
 id: 987552593
-type: way
+type: node
 latitude: 39.98469
 longitude: -82.79221
 postcode: "43004"
 city: Reynoldsburg
-street: "East Broad Street"
-housenumber: 7905
+street: East Broad Street
+housenumber: "7905"
 phone: ""
 opening_hours: ""
 website: ""

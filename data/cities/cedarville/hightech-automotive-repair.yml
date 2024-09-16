@@ -1,11 +1,11 @@
 id: 783421624
-type: way
+type: node
 latitude: 39.73898
 longitude: -83.80988
 postcode: "45314"
 city: Cedarville
-street: "West Xenia Avenue"
-housenumber: 105
+street: West Xenia Avenue
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00"
+opening_hours: Mo-Fr 10:00-17:00
 website: ""

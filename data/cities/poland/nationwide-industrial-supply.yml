@@ -1,11 +1,11 @@
 id: 1233948505
-type: way
+type: node
 latitude: 40.99431
 longitude: -80.63417
 postcode: "44514"
 city: Poland
-street: "South Avenue"
-housenumber: 8414
+street: South Avenue
+housenumber: "8414"
 phone: ""
 opening_hours: ""
 website: ""

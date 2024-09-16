@@ -1,11 +1,11 @@
 id: 672626049
-type: way
+type: node
 latitude: 41.43303
 longitude: -82.7024
 postcode: "44870"
 city: Sandusky
-street: "West Perkins Avenue"
-housenumber: 301
-phone: "+1-419-626-0802"
+street: West Perkins Avenue
+housenumber: "301"
+phone: +1-419-626-0802
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 156583816
-type: way
+type: node
 latitude: 39.06191
 longitude: -84.27358
 postcode: "45245"
 city: Cincinnati
-street: "Ohio Pike"
-housenumber: 893
+street: Ohio Pike
+housenumber: "893"
 phone: ""
 opening_hours: ""
-website: "https://www.jaystintandvinyl.com/"
+website: https://www.jaystintandvinyl.com/

@@ -1,11 +1,11 @@
 id: 955824118
-type: way
+type: node
 latitude: 41.68271
 longitude: -81.33717
 postcode: "44060"
 city: Mentor
-street: "Tyler Boulevard"
-housenumber: 8460
+street: Tyler Boulevard
+housenumber: "8460"
 phone: ""
 opening_hours: ""
 website: ""

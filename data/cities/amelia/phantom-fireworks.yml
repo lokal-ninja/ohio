@@ -1,11 +1,11 @@
 id: 198730458
-type: way
+type: node
 latitude: 39.01079
 longitude: -84.17335
 postcode: "45102"
 city: Amelia
-street: "State Route 125"
-housenumber: 2076
+street: State Route 125
+housenumber: "2076"
 phone: ""
 opening_hours: ""
 website: ""

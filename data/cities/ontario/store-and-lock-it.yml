@@ -1,11 +1,11 @@
 id: 502960869
-type: way
+type: node
 latitude: 40.7655
 longitude: -82.59453
 postcode: "44906"
 city: Ontario
-street: "Stumbo Road South"
-housenumber: 2220
+street: Stumbo Road South
+housenumber: "2220"
 phone: ""
 opening_hours: ""
 website: ""

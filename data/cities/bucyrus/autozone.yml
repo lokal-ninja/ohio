@@ -1,11 +1,11 @@
 id: 923365159
-type: way
+type: node
 latitude: 40.81275
 longitude: -82.95312
 postcode: "44820"
 city: Bucyrus
-street: "East Mansfield Street"
-housenumber: 1690
-phone: "+1-419-562-7722"
-opening_hours: "Mo-Fr 07:30-20:00, Sa 08:00-20:00, Su 09:00-19:00"
-website: "https://www.autozone.com/locations/oh/bucyrus/1690-mansfield-st.html"
+street: East Mansfield Street
+housenumber: "1690"
+phone: +1-419-562-7722
+opening_hours: Mo-Fr 07:30-20:00, Sa 08:00-20:00, Su 09:00-19:00
+website: https://www.autozone.com/locations/oh/bucyrus/1690-mansfield-st.html

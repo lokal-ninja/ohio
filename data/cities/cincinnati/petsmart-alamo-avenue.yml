@@ -1,11 +1,11 @@
 id: 61358777
-type: way
+type: node
 latitude: 39.16222
 longitude: -84.42194
 postcode: "45209"
 city: Cincinnati
-street: "Alamo Avenue"
-housenumber: 3401
-phone: "+1 513-731-9400"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/oh/cincinnati-store1237.html"
+street: Alamo Avenue
+housenumber: "3401"
+phone: +1 513-731-9400
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/oh/cincinnati-store1237.html

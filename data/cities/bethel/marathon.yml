@@ -1,11 +1,11 @@
 id: 198734996
-type: way
+type: node
 latitude: 38.96399
 longitude: -84.08149
 postcode: "45106"
 city: Bethel
-street: "West Plane Street"
-housenumber: 308
+street: West Plane Street
+housenumber: "308"
 phone: ""
 opening_hours: ""
 website: ""

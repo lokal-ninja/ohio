@@ -1,11 +1,11 @@
 id: 1059988893
-type: way
+type: node
 latitude: 41.4622
 longitude: -81.0846
 postcode: "44062"
 city: Middlefield
-street: "West High Street"
-housenumber: 15611
-phone: "+1 833-463-7023"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/oh/middlefield/15611-w-high-st"
+street: West High Street
+housenumber: "15611"
+phone: +1 833-463-7023
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/oh/middlefield/15611-w-high-st

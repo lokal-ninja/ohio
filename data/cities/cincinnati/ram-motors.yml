@@ -1,11 +1,11 @@
 id: 156583885
-type: way
+type: node
 latitude: 39.05506
 longitude: -84.25822
 postcode: "45245"
 city: Cincinnati
-street: "Ohio Pike"
-housenumber: 1071
+street: Ohio Pike
+housenumber: "1071"
 phone: ""
 opening_hours: ""
-website: "https://www.rammotorexpress.com/"
+website: https://www.rammotorexpress.com/

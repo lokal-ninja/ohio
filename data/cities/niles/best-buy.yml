@@ -1,11 +1,11 @@
 id: 550940995
-type: way
+type: node
 latitude: 41.2097
 longitude: -80.74676
 postcode: "44446"
 city: Niles
-street: "Youngstown Warren Road"
-housenumber: 5815
-phone: "+1 330-544-1487"
+street: Youngstown Warren Road
+housenumber: "5815"
+phone: +1 330-544-1487
 opening_hours: ""
-website: "https://stores.bestbuy.com/oh/niles/5815-youngstown-warren-rd-834.html"
+website: https://stores.bestbuy.com/oh/niles/5815-youngstown-warren-rd-834.html

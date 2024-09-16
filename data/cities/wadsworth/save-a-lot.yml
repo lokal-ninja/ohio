@@ -1,11 +1,11 @@
 id: 806217872
-type: way
+type: node
 latitude: 41.02848
 longitude: -81.73076
 postcode: "44281"
 city: Wadsworth
-street: "High Street"
-housenumber: 204
-phone: "+1-330-336-6125"
+street: High Street
+housenumber: "204"
+phone: +1-330-336-6125
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/wadsworth-44281-60158/"
+website: https://savealot.com/grocery-stores/wadsworth-44281-60158/

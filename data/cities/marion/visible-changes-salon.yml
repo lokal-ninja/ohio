@@ -1,11 +1,11 @@
 id: 558846554
-type: way
+type: node
 latitude: 40.58109
 longitude: -83.09904
 postcode: "43302"
 city: Marion
-street: "Mt Vernon Avenue"
-housenumber: 1136
-phone: "+1-740-389-6477"
+street: Mt Vernon Avenue
+housenumber: "1136"
+phone: +1-740-389-6477
 opening_hours: ""
 website: ""

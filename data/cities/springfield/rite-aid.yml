@@ -1,11 +1,11 @@
-id: 138706168
-type: way
-latitude: 39.92732
-longitude: -83.81833
-postcode: "45504"
+id: 128964840
+type: node
+latitude: 39.90364
+longitude: -83.81126
+postcode: "45505"
 city: Springfield
-street: "West North Street"
-housenumber: 401
+street: South Limestone Street
+housenumber: "1805"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://www.riteaid.com/locations/oh/springfield/1805-south-limestone-street.html

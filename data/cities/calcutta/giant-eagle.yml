@@ -1,11 +1,11 @@
 id: 433097079
-type: way
+type: node
 latitude: 40.67225
 longitude: -80.5859
 postcode: "43920"
 city: Calcutta
-street: "SR 170"
-housenumber: 15937
-phone: "+1 330-385-5313"
-opening_hours: "Mo-Su 06:00-22:00"
+street: SR 170
+housenumber: "15937"
+phone: +1 330-385-5313
+opening_hours: Mo-Su 06:00-22:00
 website: ""

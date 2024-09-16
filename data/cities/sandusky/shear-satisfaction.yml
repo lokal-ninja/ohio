@@ -1,11 +1,11 @@
 id: 487823324
-type: way
+type: node
 latitude: 41.44948
 longitude: -82.72362
 postcode: "44870"
 city: Sandusky
-street: "Tiffin Avenue"
-housenumber: 443
+street: Tiffin Avenue
+housenumber: "443"
 phone: ""
 opening_hours: ""
 website: ""

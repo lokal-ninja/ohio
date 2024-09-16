@@ -1,11 +1,11 @@
 id: 425176781
-type: way
+type: node
 latitude: 41.46206
 longitude: -81.64455
 postcode: "44105"
 city: Cleveland
-street: "East 65th Street"
-housenumber: 
+street: East 65th Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

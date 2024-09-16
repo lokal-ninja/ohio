@@ -1,11 +1,11 @@
 id: 426929484
-type: way
+type: node
 latitude: 40.09901
 longitude: -83.09203
 postcode: "43017"
 city: Dublin
-street: "Sawmill Road"
-housenumber: 6477
+street: Sawmill Road
+housenumber: "6477"
 phone: ""
 opening_hours: ""
 website: ""

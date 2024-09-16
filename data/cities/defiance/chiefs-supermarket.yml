@@ -1,11 +1,11 @@
 id: 1086847482
-type: way
+type: node
 latitude: 41.2755
 longitude: -84.3772
 postcode: "43512"
 city: Defiance
-street: "Deatrick Street"
-housenumber: 705
-phone: "+1 419 7829156"
+street: Deatrick Street
+housenumber: "705"
+phone: +1 419 7829156
 opening_hours: ""
-website: "https://www.chiefmarkets.com/"
+website: https://www.chiefmarkets.com/

@@ -1,11 +1,11 @@
 id: 772544863
-type: way
+type: node
 latitude: 39.41874
 longitude: -81.45906
 postcode: "45750"
 city: Marietta
-street: "2nd Street"
-housenumber: 433
+street: 2nd Street
+housenumber: "433"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/OH/Marietta/433-2nd-Street"
+website: https://www.speedway.com/locations/OH/Marietta/433-2nd-Street

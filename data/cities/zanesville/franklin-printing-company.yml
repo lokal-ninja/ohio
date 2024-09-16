@@ -1,11 +1,11 @@
 id: 1023717413
-type: way
+type: node
 latitude: 39.97856
 longitude: -82.01763
 postcode: "43701"
 city: Zanesville
-street: "Beverly Avenue"
-housenumber: 984
-phone: "+1-740-452-6375"
-opening_hours: "Mo-Fr 07:00-17:00, Sa-Su off"
-website: "https://franklin-printing-ohio.business.site/"
+street: Beverly Avenue
+housenumber: "984"
+phone: +1-740-452-6375
+opening_hours: Mo-Fr 07:00-17:00, Sa-Su off
+website: https://franklin-printing-ohio.business.site/

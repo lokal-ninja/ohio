@@ -1,11 +1,11 @@
 id: 492210712
-type: way
+type: node
 latitude: 41.23707
 longitude: -81.80649
 postcode: "44212"
 city: Brunswick
-street: "Center Road"
-housenumber: 3330
-phone: "+1 330-220-2654"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Brunswick-OH/OH/Brunswick/44212/3875"
+street: Center Road
+housenumber: "3330"
+phone: +1 330-220-2654
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Brunswick-OH/OH/Brunswick/44212/3875

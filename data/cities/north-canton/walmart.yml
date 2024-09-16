@@ -1,11 +1,11 @@
 id: 232603916
-type: way
+type: node
 latitude: 40.87123
 longitude: -81.43417
 postcode: "44720"
 city: North Canton
-street: "Mega Street Northwest"
-housenumber: 4572
-phone: "+1 330-305-9527"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2361/north-canton-oh/whats-new"
+street: Mega Street Northwest
+housenumber: "4572"
+phone: +1 330-305-9527
+opening_hours: 24/7
+website: https://www.walmart.com/store/2361/north-canton-oh/whats-new

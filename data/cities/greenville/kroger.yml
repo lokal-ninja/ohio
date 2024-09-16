@@ -1,11 +1,11 @@
 id: 818619420
-type: way
+type: node
 latitude: 40.12735
 longitude: -84.62295
 postcode: "45331"
 city: Greenville
-street: "Lease Avenue"
-housenumber: 200
-phone: "+1 937-548-1960"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/oh/greenville/greenville/014/00833"
+street: Lease Avenue
+housenumber: "200"
+phone: +1 937-548-1960
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/oh/greenville/greenville/014/00833

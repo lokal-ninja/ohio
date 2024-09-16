@@ -1,11 +1,11 @@
 id: 1195037607
-type: way
+type: node
 latitude: 41.02353
 longitude: -80.67862
 postcode: "44512"
 city: Boardman
-street: "Boardman Canfield Road"
-housenumber: 527
-phone: "+1 330-729-9356"
-opening_hours: "Mo-Th 08:00-23:00; Fr-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/oh/boardman/171"
+street: Boardman Canfield Road
+housenumber: "527"
+phone: +1 330-729-9356
+opening_hours: Mo-Th 08:00-23:00; Fr-Sa 09:00-23:00; Su 09:00-22:00
+website: https://stores.burlington.com/oh/boardman/171

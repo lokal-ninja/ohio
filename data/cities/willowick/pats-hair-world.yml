@@ -1,11 +1,11 @@
 id: 550170131
-type: way
+type: node
 latitude: 41.64269
 longitude: -81.45771
 postcode: "44095"
 city: Willowick
-street: "Vine Street"
-housenumber: 32417
+street: Vine Street
+housenumber: "32417"
 phone: ""
 opening_hours: ""
 website: ""

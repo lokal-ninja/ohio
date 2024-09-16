@@ -1,11 +1,11 @@
 id: 1231633501
-type: way
+type: node
 latitude: 39.8962
 longitude: -82.04231
 postcode: "43701"
 city: South Zanesville
-street: "Pinkerton Lane"
-housenumber: 2941
-phone: "+1-740-868-8016"
-opening_hours: "by appointment"
-website: "https://www.latitudesalonandspa.com/"
+street: Pinkerton Lane
+housenumber: "2941"
+phone: +1-740-868-8016
+opening_hours: '"by appointment"'
+website: https://www.latitudesalonandspa.com/

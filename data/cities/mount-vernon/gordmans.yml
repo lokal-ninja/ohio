@@ -1,11 +1,11 @@
 id: 584753942
-type: way
+type: node
 latitude: 40.40033
 longitude: -82.44307
 postcode: "43050"
 city: Mount Vernon
-street: "Coshocton Road"
-housenumber: 1548
+street: Coshocton Road
+housenumber: "1548"
 phone: ""
 opening_hours: ""
-website: "https://www.gordmans.com/ghome"
+website: https://www.gordmans.com/ghome

@@ -1,11 +1,11 @@
 id: 718215126
-type: way
+type: node
 latitude: 41.39864
 longitude: -81.99467
 postcode: "44039"
 city: North Ridgeville
-street: "Center Ridge Road"
-housenumber: 34043
+street: Center Ridge Road
+housenumber: "34043"
 phone: ""
 opening_hours: ""
 website: ""

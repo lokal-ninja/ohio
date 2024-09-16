@@ -1,11 +1,11 @@
 id: 626655351
-type: way
+type: node
 latitude: 40.09525
 longitude: -82.92402
 postcode: "43081"
 city: Westerville
-street: "Westerville Road"
-housenumber: 5996
-phone: "+1 844-461-7005"
-opening_hours: "Mo-Fr 09:00-21:00, Sa 09:00-20:00, Su 09:00-19:00"
-website: "https://stores.aldi.us/oh/westerville/5996-westerville-rd"
+street: Westerville Road
+housenumber: "5996"
+phone: +1 844-461-7005
+opening_hours: Mo-Fr 09:00-21:00, Sa 09:00-20:00, Su 09:00-19:00
+website: https://stores.aldi.us/oh/westerville/5996-westerville-rd

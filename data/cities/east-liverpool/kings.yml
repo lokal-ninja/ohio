@@ -1,11 +1,11 @@
 id: 951832463
-type: way
+type: node
 latitude: 40.64641
 longitude: -80.59872
 postcode: "43920"
 city: East Liverpool
-street: "Lisbon Street"
-housenumber: 2371
+street: Lisbon Street
+housenumber: "2371"
 phone: ""
 opening_hours: ""
 website: ""

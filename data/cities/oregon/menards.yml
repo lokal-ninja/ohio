@@ -1,11 +1,11 @@
 id: 468516714
-type: way
+type: node
 latitude: 41.62076
 longitude: -83.47538
 postcode: "43616"
 city: Oregon
-street: "Brown Road"
-housenumber: 3100
+street: Brown Road
+housenumber: "3100"
 phone: ""
-opening_hours: "06:30-21:00"
-website: "https://www.menards.com/store-details/store.html?store=3204"
+opening_hours: 06:30-21:00
+website: https://www.menards.com/store-details/store.html?store=3204

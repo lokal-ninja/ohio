@@ -1,11 +1,11 @@
 id: 753602871
-type: way
+type: node
 latitude: 41.61589
 longitude: -83.68266
 postcode: "43615"
 city: Toledo
-street: "Airport Highway"
-housenumber: 5900
-phone: "+1 419-866-3024"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/w-toledo/oh/toledo/43615/3801"
+street: Airport Highway
+housenumber: "5900"
+phone: +1 419-866-3024
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/w-toledo/oh/toledo/43615/3801

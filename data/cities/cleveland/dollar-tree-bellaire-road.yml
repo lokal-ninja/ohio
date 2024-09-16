@@ -1,11 +1,11 @@
 id: 633928383
-type: way
+type: node
 latitude: 41.43913
 longitude: -81.77736
 postcode: ""
 city: Cleveland
-street: "Bellaire Road"
-housenumber: 12709
+street: Bellaire Road
+housenumber: "12709"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/oh/cleveland/5846/"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/oh/cleveland/5846/

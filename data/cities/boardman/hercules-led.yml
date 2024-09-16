@@ -1,11 +1,11 @@
 id: 1070631418
-type: way
+type: node
 latitude: 41.04319
 longitude: -80.66257
 postcode: "44512"
 city: Boardman
-street: "Market Street"
-housenumber: 5411
+street: Market Street
+housenumber: "5411"
 phone: "+18444372533"
 opening_hours: ""
-website: "https://www.herculesled.com/"
+website: https://www.herculesled.com/

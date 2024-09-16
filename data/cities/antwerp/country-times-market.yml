@@ -1,11 +1,11 @@
 id: 875787921
-type: way
+type: node
 latitude: 41.17262
 longitude: -84.73675
 postcode: "45813"
 city: Antwerp
-street: "Erie Street"
-housenumber: 625
-phone: "+1 (419) 258-2600"
-opening_hours: "Mo-Fr 05:00-20:00, Sa-Su 07:00-20:00"
+street: Erie Street
+housenumber: "625"
+phone: +1 (419) 258-2600
+opening_hours: Mo-Fr 05:00-20:00, Sa-Su 07:00-20:00
 website: ""

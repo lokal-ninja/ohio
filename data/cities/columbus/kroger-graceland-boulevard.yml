@@ -1,11 +1,11 @@
 id: 547819898
-type: way
+type: node
 latitude: 40.06532
 longitude: -83.02635
 postcode: "43214"
 city: Columbus
-street: "Graceland Boulevard"
-housenumber: 199
-phone: "+1 614-410-2814"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/oh/columbus/graceland/016/00819"
+street: Graceland Boulevard
+housenumber: "199"
+phone: +1 614-410-2814
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/oh/columbus/graceland/016/00819

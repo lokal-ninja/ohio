@@ -1,11 +1,11 @@
 id: 287204089
-type: way
+type: node
 latitude: 40.90367
 longitude: -81.15485
 postcode: "44601"
 city: Alliance
-street: "Freshley Avenue"
-housenumber: 1846
+street: Freshley Avenue
+housenumber: "1846"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/oh/alliance/1846-freshley-ave"
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/oh/alliance/1846-freshley-ave

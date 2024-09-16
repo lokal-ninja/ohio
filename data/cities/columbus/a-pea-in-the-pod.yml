@@ -1,11 +1,11 @@
 id: 625303961
-type: way
+type: node
 latitude: 40.05252
 longitude: -82.91539
 postcode: "43219"
 city: Columbus
-street: "The Strand West"
-housenumber: 4074
-phone: "+1-614-418-5233"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 12:00-18:00"
-website: "https://stores.apeainthepod.com/s/a-pea-in-the-pod-easton-town-center"
+street: The Strand West
+housenumber: "4074"
+phone: +1-614-418-5233
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 12:00-18:00
+website: https://stores.apeainthepod.com/s/a-pea-in-the-pod-easton-town-center

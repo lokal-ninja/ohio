@@ -1,11 +1,11 @@
 id: 606009258
-type: way
+type: node
 latitude: 40.0501
 longitude: -82.91499
 postcode: "43219"
 city: Columbus
-street: "Easton Station"
-housenumber: 4000
-phone: "+1-614-418-7260"
-opening_hours: "Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 12:00-18:00"
-website: "https://www.gap.com"
+street: Easton Station
+housenumber: "4000"
+phone: +1-614-418-7260
+opening_hours: Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 12:00-18:00
+website: https://www.gap.com

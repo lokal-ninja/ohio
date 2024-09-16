@@ -1,11 +1,11 @@
 id: 426920084
-type: way
+type: node
 latitude: 40.09452
 longitude: -83.08609
 postcode: "43235"
 city: Columbus
-street: "West Dublin Granville Road"
-housenumber: 3586
-phone: "+1-614-210-0577"
-opening_hours: "08:00-24:00"
+street: West Dublin Granville Road
+housenumber: "3586"
+phone: +1-614-210-0577
+opening_hours: 08:00-24:00
 website: ""

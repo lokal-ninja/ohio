@@ -1,11 +1,11 @@
 id: 745971139
-type: way
+type: node
 latitude: 39.94376
 longitude: -82.8273
 postcode: "43068"
 city: Reynoldsburg
-street: "East Livingston Avenue"
-housenumber: 6300
-phone: "+1 614-751-6364"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/oh/reynoldsburg/6300-e-livingston-ave"
+street: East Livingston Avenue
+housenumber: "6300"
+phone: +1 614-751-6364
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/oh/reynoldsburg/6300-e-livingston-ave

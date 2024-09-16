@@ -1,11 +1,11 @@
 id: 1119181314
-type: way
+type: node
 latitude: 39.35454
 longitude: -82.09987
 postcode: ""
 city: Athens
-street: "Columbus Road"
-housenumber: 175
+street: Columbus Road
+housenumber: "175"
 phone: ""
 opening_hours: ""
-website: "https://gwisco.org/map-location/athens-store/"
+website: https://gwisco.org/map-location/athens-store/

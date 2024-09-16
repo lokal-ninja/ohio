@@ -1,11 +1,11 @@
 id: 365358115
-type: way
+type: node
 latitude: 40.01247
 longitude: -82.99526
 postcode: "43211"
 city: Columbus
-street: "Silver Drive"
-housenumber: 2395
-phone: "+1 833-461-7029"
-opening_hours: "Mo-Su 9:00-20:00"
-website: "https://stores.aldi.us/oh/columbus/2395-silver-dr"
+street: Silver Drive
+housenumber: "2395"
+phone: +1 833-461-7029
+opening_hours: Mo-Su 9:00-20:00
+website: https://stores.aldi.us/oh/columbus/2395-silver-dr

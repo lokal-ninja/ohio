@@ -1,11 +1,11 @@
 id: 1034005723
-type: way
+type: node
 latitude: 41.68888
 longitude: -83.56566
 postcode: "43612"
 city: Toledo
-street: "Berdan Avenue"
-housenumber: 1001
+street: Berdan Avenue
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

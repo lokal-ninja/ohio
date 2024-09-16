@@ -1,11 +1,11 @@
 id: 289181790
-type: way
+type: node
 latitude: 41.0279
 longitude: -84.07843
 postcode: "45848"
 city: Glandorf
-street: "South Main Street"
-housenumber: 138
-phone: "+1-419-538-6543"
+street: South Main Street
+housenumber: "138"
+phone: +1-419-538-6543
 opening_hours: ""
 website: ""

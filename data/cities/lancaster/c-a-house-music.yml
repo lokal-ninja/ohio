@@ -1,11 +1,11 @@
 id: 1112165408
-type: way
+type: node
 latitude: 39.71977
 longitude: -82.60577
 postcode: "43130"
 city: Lancaster
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://cahousemusic.com"
+website: https://cahousemusic.com

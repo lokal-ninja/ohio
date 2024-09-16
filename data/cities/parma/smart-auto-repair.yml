@@ -1,11 +1,11 @@
 id: 726590233
-type: way
+type: node
 latitude: 41.41845
 longitude: -81.71422
 postcode: "44134"
 city: Parma
-street: "Brookpark Road"
-housenumber: 4211
+street: Brookpark Road
+housenumber: "4211"
 phone: ""
 opening_hours: ""
 website: ""

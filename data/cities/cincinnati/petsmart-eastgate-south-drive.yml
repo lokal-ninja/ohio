@@ -1,11 +1,11 @@
 id: 1282635900
-type: way
+type: node
 latitude: 39.09826
 longitude: -84.27836
 postcode: "45245"
 city: Cincinnati
-street: "Eastgate South Drive"
-housenumber: 650
-phone: "+1 513-752-8463"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/oh/cincinnati-store0538.html"
+street: Eastgate South Drive
+housenumber: "650"
+phone: +1 513-752-8463
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/oh/cincinnati-store0538.html

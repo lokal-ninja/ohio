@@ -1,11 +1,11 @@
 id: 305806708
-type: way
+type: node
 latitude: 41.58863
 longitude: -81.22564
 postcode: "44024"
 city: Chardon
-street: "Meadowlands Drive"
-housenumber: 287
-phone: "+1 440-285-7400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/chardon/oh/chardon/44024/8981"
+street: Meadowlands Drive
+housenumber: "287"
+phone: +1 440-285-7400
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/chardon/oh/chardon/44024/8981

@@ -1,11 +1,11 @@
 id: 517966234
-type: way
+type: node
 latitude: 40.55981
 longitude: -82.87008
 postcode: "43320"
 city: Edison
-street: "State Route 95"
-housenumber: 3027
-phone: "+1-419-946-8682"
+street: State Route 95
+housenumber: "3027"
+phone: +1-419-946-8682
 opening_hours: ""
-website: "https://www.edisonbilliardandcycle.com/"
+website: https://www.edisonbilliardandcycle.com/

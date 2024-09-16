@@ -1,11 +1,11 @@
 id: 105915771
-type: way
+type: node
 latitude: 39.45176
 longitude: -83.79688
 postcode: "45177"
 city: Wilmington
-street: "Rombach Avenue"
-housenumber: 1801
-phone: "+1 833-461-7049"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/oh/wilmington/1801-rombach-ave"
+street: Rombach Avenue
+housenumber: "1801"
+phone: +1 833-461-7049
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/oh/wilmington/1801-rombach-ave

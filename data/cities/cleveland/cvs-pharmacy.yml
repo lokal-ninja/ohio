@@ -1,11 +1,11 @@
 id: 513693925
-type: way
+type: node
 latitude: 41.36761
 longitude: -81.80406
 postcode: "44130"
 city: Cleveland
-street: "Pearl Road"
-housenumber: 7259
+street: Pearl Road
+housenumber: "7259"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/middleburg-heights-oh-pharmacies/7259-pearl-rd-middleburg-heights-oh-44130/storeid=3334"
+website: https://www.cvs.com/store-locator/middleburg-heights-oh-pharmacies/7259-pearl-rd-middleburg-heights-oh-44130/storeid=3334

@@ -1,11 +1,11 @@
 id: 487211406
-type: way
+type: node
 latitude: 40.54961
 longitude: -82.82951
 postcode: "43338"
 city: Mount Gilead
-street: "North Cherry Street"
-housenumber: 14
-phone: "+1-419-947-9502"
+street: North Cherry Street
+housenumber: "14"
+phone: +1-419-947-9502
 opening_hours: ""
 website: ""

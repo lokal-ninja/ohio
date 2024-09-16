@@ -1,11 +1,11 @@
 id: 924697139
-type: way
+type: node
 latitude: 39.94387
 longitude: -82.01667
 postcode: "43701"
 city: Zanesville
-street: "Lee Street"
-housenumber: 818
-phone: "+1-740-455-4036"
-opening_hours: "Mo-Fr 07:30-17:00, Sa-Su off"
-website: "https://www.columbusequipment.com/locations/zanesville"
+street: Lee Street
+housenumber: "818"
+phone: +1-740-455-4036
+opening_hours: Mo-Fr 07:30-17:00, Sa-Su off
+website: https://www.columbusequipment.com/locations/zanesville

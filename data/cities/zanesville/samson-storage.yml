@@ -1,11 +1,11 @@
 id: 1099769648
-type: way
+type: node
 latitude: 39.94139
 longitude: -81.98528
 postcode: "43701"
 city: Zanesville
-street: "Greenwood Avenue"
-housenumber: 1540
-phone: "+1-740-855-1373"
-opening_hours: "Mo-Su 08:00-22:00"
+street: Greenwood Avenue
+housenumber: "1540"
+phone: +1-740-855-1373
+opening_hours: Mo-Su 08:00-22:00
 website: ""

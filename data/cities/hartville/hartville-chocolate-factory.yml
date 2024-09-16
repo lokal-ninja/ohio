@@ -1,11 +1,11 @@
 id: 809353345
-type: way
+type: node
 latitude: 40.9637
 longitude: -81.3314
 postcode: "44632"
 city: Hartville
-street: "Prospect Avenue North"
-housenumber: 114
+street: Prospect Avenue North
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

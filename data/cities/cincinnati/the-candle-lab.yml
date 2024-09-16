@@ -4,8 +4,8 @@ latitude: 39.11025
 longitude: -84.51542
 postcode: "45202"
 city: Cincinnati
-street: "Vine Street"
-housenumber: 1325
-phone: "+1-614-915-0777\;ext=2"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-17:00"
-website: "https://www.thecandlelabcincy.com/"
+street: Vine Street
+housenumber: "1325"
+phone: +1-614-915-0777\;ext=2
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-17:00
+website: https://www.thecandlelabcincy.com/

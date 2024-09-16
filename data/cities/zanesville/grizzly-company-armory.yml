@@ -1,11 +1,11 @@
 id: 1207384269
-type: way
+type: node
 latitude: 39.91379
 longitude: -82.01502
 postcode: "43701"
 city: Zanesville
-street: "Maysville Avenue"
-housenumber: 1719
-phone: "+1 743-888-0456"
-opening_hours: "Mo-Sa 11:00-19:00; Su off"
-website: "https://zanesvillegunshop.com/"
+street: Maysville Avenue
+housenumber: "1719"
+phone: +1 743-888-0456
+opening_hours: Mo-Sa 11:00-19:00; Su off
+website: https://zanesvillegunshop.com/

@@ -1,11 +1,11 @@
 id: 75555729
-type: way
+type: node
 latitude: 39.76094
 longitude: -84.05035
-postcode: "45431-1787"
+postcode: 45431-1787
 city: Beavercreek
-street: "North Fairfield Road"
-housenumber: 2490
-phone: "+1 937-431-8660"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/beavercreek/1128"
+street: North Fairfield Road
+housenumber: "2490"
+phone: +1 937-431-8660
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/beavercreek/1128

@@ -1,11 +1,11 @@
 id: 638203630
-type: way
+type: node
 latitude: 40.08406
 longitude: -82.95355
 postcode: "43229"
 city: Columbus
-street: "East Dublin Granville Road"
-housenumber: 2433
+street: East Dublin Granville Road
+housenumber: "2433"
 phone: ""
 opening_hours: ""
 website: ""

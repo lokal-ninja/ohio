@@ -1,11 +1,11 @@
 id: 741293548
-type: way
+type: node
 latitude: 40.83186
 longitude: -84.08283
 postcode: "45820"
 city: Cairo
-street: "West Main Street"
-housenumber: 121
-phone: "+1 419-236-4297"
+street: West Main Street
+housenumber: "121"
+phone: +1 419-236-4297
 opening_hours: ""
 website: ""

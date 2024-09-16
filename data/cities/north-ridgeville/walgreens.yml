@@ -1,11 +1,11 @@
 id: 717786995
-type: way
+type: node
 latitude: 41.40174
 longitude: -81.99112
 postcode: "44039"
 city: North Ridgeville
-street: "Center Ridge Road"
-housenumber: 33760
+street: Center Ridge Road
+housenumber: "33760"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-33760+center+ridge+rd-north+ridgeville-oh-44039/id=9372"
+website: https://www.walgreens.com/locator/walgreens-33760+center+ridge+rd-north+ridgeville-oh-44039/id=9372

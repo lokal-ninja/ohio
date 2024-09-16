@@ -1,11 +1,11 @@
 id: 978252736
-type: way
+type: node
 latitude: 41.44062
 longitude: -81.77596
 postcode: ""
 city: Cleveland
-street: "Bellaire Road"
-housenumber: 12526
+street: Bellaire Road
+housenumber: "12526"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/oh/cleveland/20045"
+website: https://www.dollargeneral.com/store-directory/oh/cleveland/20045

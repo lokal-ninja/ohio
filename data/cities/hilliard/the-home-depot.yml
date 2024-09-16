@@ -1,11 +1,11 @@
 id: 32057660
-type: way
+type: node
 latitude: 40.0356
 longitude: -83.1211
 postcode: "43026"
 city: Hilliard
-street: "Trueman Boulevard"
-housenumber: 4101
-phone: "+1 614-876-5558"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Hilliard/OH/Hilliard/43026/3872"
+street: Trueman Boulevard
+housenumber: "4101"
+phone: +1 614-876-5558
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Hilliard/OH/Hilliard/43026/3872

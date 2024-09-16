@@ -1,11 +1,12 @@
 id: 724804411
-type: way
+type: node
 latitude: 40.02342
 longitude: -83.05803
 postcode: "43221"
 city: Upper Arlington
-street: "Tremont Road"
-housenumber: 3280
-phone: "+1 833-461-7078"
-opening_hours: "Su-Mo 09:00-20:00; Tu 08:30-20:00; We 09:00-20:00; Th 08:30-20:00; Fr 09:00-16:00; Sa off"
-website: "https://stores.aldi.us/oh/upper-arlington/3280-tremont-road"
+street: Tremont Road
+housenumber: "3280"
+phone: +1 833-461-7078
+opening_hours: Su-Mo 09:00-20:00; Tu 08:30-20:00; We 09:00-20:00; Th 08:30-20:00;
+    Fr 09:00-16:00; Sa off
+website: https://stores.aldi.us/oh/upper-arlington/3280-tremont-road

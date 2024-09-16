@@ -1,11 +1,11 @@
 id: 923298652
-type: way
+type: node
 latitude: 40.81154
 longitude: -82.94293
 postcode: "44820"
 city: Bucyrus
-street: "East Mansfield Street"
-housenumber: 2141
-phone: "+1 419-562-0344"
-opening_hours: "Mo-Sa 08:00-20:00, Su 09:00-19:00"
-website: "https://www.tractorsupply.com/"
+street: East Mansfield Street
+housenumber: "2141"
+phone: +1 419-562-0344
+opening_hours: Mo-Sa 08:00-20:00, Su 09:00-19:00
+website: https://www.tractorsupply.com/

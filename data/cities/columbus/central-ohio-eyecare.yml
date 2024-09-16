@@ -1,11 +1,11 @@
 id: 379812705
-type: way
+type: node
 latitude: 40.02481
 longitude: -83.02577
 postcode: "43202"
 city: Columbus
-street: "Olentangy River Road"
-housenumber: 3130
-phone: "+1-614-262-2020"
+street: Olentangy River Road
+housenumber: "3130"
+phone: +1-614-262-2020
 opening_hours: ""
-website: "https://www.centralohioeyecare.com/"
+website: https://www.centralohioeyecare.com/

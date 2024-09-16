@@ -1,11 +1,11 @@
 id: 1218928318
-type: way
+type: node
 latitude: 41.46002
 longitude: -81.85615
 postcode: "44116"
 city: Fairview Park
-street: "Center Ridge Road"
-housenumber: 21329
-phone: "+1 844-463-1013"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/oh/fairview-park/21329-center-ridge-road"
+street: Center Ridge Road
+housenumber: "21329"
+phone: +1 844-463-1013
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/oh/fairview-park/21329-center-ridge-road

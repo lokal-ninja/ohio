@@ -1,11 +1,11 @@
 id: 305368471
-type: way
+type: node
 latitude: 41.13139
 longitude: -81.64263
 postcode: "44333"
 city: Akron
-street: "Medina Road"
-housenumber: 4036
-phone: "+1 330-668-1231"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/oh/akron/63/"
+street: Medina Road
+housenumber: "4036"
+phone: +1 330-668-1231
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/oh/akron/63/

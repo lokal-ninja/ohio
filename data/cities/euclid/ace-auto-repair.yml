@@ -1,11 +1,11 @@
 id: 483801167
-type: way
+type: node
 latitude: 41.59786
 longitude: -81.54638
 postcode: "44119"
 city: Euclid
-street: "Lake Shore Boulevard"
-housenumber: 19099
+street: Lake Shore Boulevard
+housenumber: "19099"
 phone: ""
 opening_hours: ""
 website: ""

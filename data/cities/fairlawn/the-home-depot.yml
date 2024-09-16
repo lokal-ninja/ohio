@@ -1,11 +1,11 @@
 id: 305368467
-type: way
+type: node
 latitude: 41.13142
 longitude: -81.64755
 postcode: "44333"
 city: Fairlawn
-street: "Medina Road"
-housenumber: 4066
-phone: "+1 330-670-0988"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/fairlawn/oh/fairlawn/44333/3841"
+street: Medina Road
+housenumber: "4066"
+phone: +1 330-670-0988
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/fairlawn/oh/fairlawn/44333/3841

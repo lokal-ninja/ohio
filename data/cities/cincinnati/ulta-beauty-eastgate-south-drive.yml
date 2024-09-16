@@ -4,8 +4,8 @@ latitude: 39.09655
 longitude: -84.2728
 postcode: "45245"
 city: Cincinnati
-street: "Eastgate South Drive"
-housenumber: 700
-phone: "+1 513-752-1472"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/cincinnati-oh-1163"
+street: Eastgate South Drive
+housenumber: "700"
+phone: +1 513-752-1472
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/cincinnati-oh-1163

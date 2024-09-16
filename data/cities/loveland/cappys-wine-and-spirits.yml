@@ -1,11 +1,11 @@
 id: 26695542
-type: way
+type: node
 latitude: 39.26802
 longitude: -84.25998
 postcode: "45140"
 city: Loveland
-street: "West Loveland Avenue"
-housenumber: 309
+street: West Loveland Avenue
+housenumber: "309"
 phone: ""
 opening_hours: ""
-website: "https://www.lovelandcappys.com/"
+website: https://www.lovelandcappys.com/

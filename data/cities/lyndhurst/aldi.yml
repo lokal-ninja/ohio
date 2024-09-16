@@ -1,11 +1,11 @@
 id: 421716664
-type: way
+type: node
 latitude: 41.51902
 longitude: -81.49478
 postcode: "44124"
 city: Lyndhurst
-street: "Mayfield Road"
-housenumber: 5144
-phone: "+1 833-463-7060"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/oh/lyndhurst/5144-mayfield-road"
+street: Mayfield Road
+housenumber: "5144"
+phone: +1 833-463-7060
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/oh/lyndhurst/5144-mayfield-road

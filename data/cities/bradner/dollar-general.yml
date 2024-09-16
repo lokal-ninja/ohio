@@ -1,11 +1,11 @@
 id: 1123473145
-type: way
+type: node
 latitude: 41.34084
 longitude: -83.41989
 postcode: "43406"
 city: Bradner
-street: "Bowling Green Road East"
-housenumber: 1107
-phone: "+1 567 386 4400"
+street: Bowling Green Road East
+housenumber: "1107"
+phone: +1 567 386 4400
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/oh/bradner/21251"
+website: https://www.dollargeneral.com/store-directory/oh/bradner/21251

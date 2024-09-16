@@ -1,11 +1,11 @@
 id: 1049793765
-type: way
+type: node
 latitude: 40.28084
 longitude: -84.15639
 postcode: "45365"
 city: Sidney
-street: "South Ohio Avenue"
-housenumber: 502
+street: South Ohio Avenue
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

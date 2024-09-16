@@ -1,11 +1,11 @@
 id: 172999862
-type: way
+type: node
 latitude: 39.96195
 longitude: -84.19096
 postcode: "45371"
 city: Tipp City
-street: "Weller Drive"
-housenumber: 4
+street: Weller Drive
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/OH/Tipp-City/4-Weller-Drive"
+website: https://www.speedway.com/locations/OH/Tipp-City/4-Weller-Drive

@@ -1,11 +1,11 @@
 id: 1268506089
-type: way
+type: node
 latitude: 39.73271
 longitude: -82.61776
 postcode: "43130"
 city: Lancaster
-street: "North Memorial Drive"
-housenumber: 1800
+street: North Memorial Drive
+housenumber: "1800"
 phone: ""
 opening_hours: ""
 website: ""

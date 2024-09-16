@@ -1,11 +1,11 @@
 id: 542622315
-type: way
+type: node
 latitude: 41.40958
 longitude: -81.94028
 postcode: "44070"
 city: North Olmsted
-street: "Lorain Road"
-housenumber: 28800
+street: Lorain Road
+housenumber: "28800"
 phone: ""
 opening_hours: ""
 website: ""

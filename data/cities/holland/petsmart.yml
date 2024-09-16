@@ -1,11 +1,11 @@
 id: 428724581
-type: way
+type: node
 latitude: 41.61512
 longitude: -83.69893
 postcode: "43528"
 city: Holland
-street: "Spring Meadows Drive"
-housenumber: 1450
-phone: "+1 419-865-3424"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/oh/holland-store1434.html"
+street: Spring Meadows Drive
+housenumber: "1450"
+phone: +1 419-865-3424
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/oh/holland-store1434.html

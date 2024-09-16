@@ -1,11 +1,11 @@
 id: 1090697125
-type: way
+type: node
 latitude: 39.9451
 longitude: -81.98033
 postcode: "43701"
 city: Zanesville
-street: "Sunrise Center Drive"
-housenumber: 180
-phone: "+1-740-252-5111"
-opening_hours: "Mo-Sa 09:00-22:00, Su 09:00-21:00"
-website: "https://www.familydollar.com/locations/oh/zanesville/21368/"
+street: Sunrise Center Drive
+housenumber: "180"
+phone: +1-740-252-5111
+opening_hours: Mo-Sa 09:00-22:00, Su 09:00-21:00
+website: https://www.familydollar.com/locations/oh/zanesville/21368/

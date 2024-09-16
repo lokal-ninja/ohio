@@ -1,11 +1,11 @@
 id: 717420146
-type: way
+type: node
 latitude: 41.65466
 longitude: -81.36217
 postcode: "44060"
 city: Mentor
-street: "Mentor Road"
-housenumber: 7850
-phone: "+1-440-255-8932"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://shopgreatlakesmall.com/"
+street: Mentor Road
+housenumber: "7850"
+phone: +1-440-255-8932
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://shopgreatlakesmall.com/

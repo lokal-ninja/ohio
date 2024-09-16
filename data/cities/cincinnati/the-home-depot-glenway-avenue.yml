@@ -1,11 +1,11 @@
 id: 201731061
-type: way
+type: node
 latitude: 39.14783
 longitude: -84.62383
 postcode: "45211"
 city: Cincinnati
-street: "Glenway Avenue"
-housenumber: 6300
-phone: "+1 513-661-2413"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/western-hills/oh/cincinnati/45211/3822"
+street: Glenway Avenue
+housenumber: "6300"
+phone: +1 513-661-2413
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/western-hills/oh/cincinnati/45211/3822

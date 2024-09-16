@@ -1,11 +1,11 @@
 id: 488056028
-type: way
+type: node
 latitude: 41.45655
 longitude: -82.70929
 postcode: "44870"
 city: Sandusky
-street: "East Market Street"
-housenumber: 202
-phone: "+1-419-626-4131"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-19:00"
-website: "http://oh.sandusky.valuecityfurniture.com"
+street: East Market Street
+housenumber: "202"
+phone: +1-419-626-4131
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-19:00
+website: http://oh.sandusky.valuecityfurniture.com

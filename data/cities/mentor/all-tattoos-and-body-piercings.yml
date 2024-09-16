@@ -1,11 +1,11 @@
 id: 531314576
-type: way
+type: node
 latitude: 41.66708
 longitude: -81.33902
 postcode: "44060"
 city: Mentor
-street: "Mentor Avenue"
-housenumber: 8435
-phone: "+1 440 205 1440"
+street: Mentor Avenue
+housenumber: "8435"
+phone: +1 440 205 1440
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 143010953
-type: way
+type: node
 latitude: 39.62737
 longitude: -84.17746
 postcode: "45458"
 city: Dayton
-street: "Miamisburg Centerville Rd"
-housenumber: 766
+street: Miamisburg Centerville Rd
+housenumber: "766"
 phone: ""
 opening_hours: ""
 website: ""

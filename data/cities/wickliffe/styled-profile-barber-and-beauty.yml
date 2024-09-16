@@ -4,8 +4,9 @@ latitude: 41.60601
 longitude: -81.47374
 postcode: "44092"
 city: Wickliffe
-street: "Euclid Avenue"
-housenumber: 29324
-phone: "+1 440 943 2454"
-opening_hours: "Su-Mo by appointment; Tu 09:00-14:00; We off; Th-Fr 09:00-18:00; Sa 08:00-16:00"
-website: "https://styled-profile-barber-beauty.square.site/home"
+street: Euclid Avenue
+housenumber: "29324"
+phone: +1 440 943 2454
+opening_hours: Su-Mo "by appointment"; Tu 09:00-14:00; We off; Th-Fr 09:00-18:00;
+    Sa 08:00-16:00
+website: https://styled-profile-barber-beauty.square.site/home

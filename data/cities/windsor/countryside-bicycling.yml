@@ -1,11 +1,11 @@
 id: 867784077
-type: way
+type: node
 latitude: 41.51168
 longitude: -80.98299
 postcode: "44099"
 city: Windsor
-street: "Cox Road"
-housenumber: 8663
-phone: "+1-440-487-5018"
+street: Cox Road
+housenumber: "8663"
+phone: +1-440-487-5018
 opening_hours: ""
-website: "http://www.countrysidebicycling.com/"
+website: http://www.countrysidebicycling.com/

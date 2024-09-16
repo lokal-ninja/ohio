@@ -1,11 +1,11 @@
 id: 492679246
-type: way
+type: node
 latitude: 39.9858
 longitude: -82.02447
 postcode: "43701"
 city: Zanesville
-street: "Maple Avenue"
-housenumber: 3515
-phone: "+1-740-891-2085"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://local.biglots.com/oh/zanesville/3515-maple-ave"
+street: Maple Avenue
+housenumber: "3515"
+phone: +1-740-891-2085
+opening_hours: Mo-Su 09:00-21:00
+website: https://local.biglots.com/oh/zanesville/3515-maple-ave

@@ -1,11 +1,11 @@
 id: 196269728
-type: way
+type: node
 latitude: 39.7087
 longitude: -84.17141
 postcode: "45419"
 city: Dayton
-street: "Far Hills Avenue"
-housenumber: 2507
-phone: "+1-937-293-1723"
+street: Far Hills Avenue
+housenumber: "2507"
+phone: +1-937-293-1723
 opening_hours: ""
-website: "http://genezimmerman.com"
+website: http://genezimmerman.com

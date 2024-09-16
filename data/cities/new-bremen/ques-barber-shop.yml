@@ -1,11 +1,11 @@
 id: 1258445597
-type: way
+type: node
 latitude: 40.43952
 longitude: -84.38318
 postcode: "45869"
 city: New Bremen
-street: "North Main Street"
-housenumber: 201
+street: North Main Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

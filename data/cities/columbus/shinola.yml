@@ -1,11 +1,11 @@
 id: 605904295
-type: way
+type: node
 latitude: 40.05011
 longitude: -82.91544
 postcode: "43219"
 city: Columbus
-street: "Easton Station"
-housenumber: 3976
-phone: "+1-614-420-2915"
-opening_hours: "Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 12:00-18:00"
-website: "https://www.shinola.com/shinola-store---columbus"
+street: Easton Station
+housenumber: "3976"
+phone: +1-614-420-2915
+opening_hours: Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 12:00-18:00
+website: https://www.shinola.com/shinola-store---columbus

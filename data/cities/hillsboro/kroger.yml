@@ -1,11 +1,11 @@
 id: 810352763
-type: way
+type: node
 latitude: 39.22487
 longitude: -83.62001
 postcode: "45133"
 city: Hillsboro
-street: "Harry Sauner Road"
-housenumber: 575
-phone: "+1 937-840-9374"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.kroger.com/stores/grocery/oh/hillsboro/hillsboro/014/00380"
+street: Harry Sauner Road
+housenumber: "575"
+phone: +1 937-840-9374
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.kroger.com/stores/grocery/oh/hillsboro/hillsboro/014/00380

@@ -1,11 +1,11 @@
 id: 169530564
-type: way
+type: node
 latitude: 39.10434
 longitude: -84.291
 postcode: "45244"
 city: Mount Carmel
-street: "Cincinnati Batavia Pike"
-housenumber: 621
+street: Cincinnati Batavia Pike
+housenumber: "621"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/OH/Mount-Carmel/621-Old-State-Route-74"
+website: https://www.speedway.com/locations/OH/Mount-Carmel/621-Old-State-Route-74

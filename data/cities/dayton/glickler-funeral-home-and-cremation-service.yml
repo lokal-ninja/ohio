@@ -1,11 +1,11 @@
 id: 1097413144
-type: way
+type: node
 latitude: 39.78157
 longitude: -84.22407
 postcode: "45406"
 city: Dayton
-street: "Salem Avenue"
-housenumber: 1849
-phone: "+1-937-278-4287"
-opening_hours: "24/7"
-website: "https://www.glicklerfuneralhome.com/"
+street: Salem Avenue
+housenumber: "1849"
+phone: +1-937-278-4287
+opening_hours: 24/7
+website: https://www.glicklerfuneralhome.com/

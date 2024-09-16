@@ -1,11 +1,11 @@
 id: 673801875
-type: way
+type: node
 latitude: 39.37255
 longitude: -84.37137
 postcode: "45069"
 city: Liberty Township
-street: "Foundry Row"
-housenumber: 1700
+street: Foundry Row
+housenumber: "1700"
 phone: ""
 opening_hours: ""
 website: ""

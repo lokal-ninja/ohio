@@ -1,11 +1,11 @@
 id: 308024224
-type: way
+type: node
 latitude: 41.58236
 longitude: -81.21235
 postcode: "44024"
 city: Chardon
-street: "Cherry Avenue"
-housenumber: 216
-phone: "+1-440-285-8473"
+street: Cherry Avenue
+housenumber: "216"
+phone: +1-440-285-8473
 opening_hours: ""
 website: ""

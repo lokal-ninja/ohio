@@ -1,11 +1,11 @@
 id: 981886925
-type: way
+type: node
 latitude: 39.95244
 longitude: -82.83638
 postcode: "43213"
 city: Columbus
-street: "East Main Street"
-housenumber: 6055
-phone: "+1 614-751-5315"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-21:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/oh/columbus/736"
+street: East Main Street
+housenumber: "6055"
+phone: +1 614-751-5315
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-21:00; Su 09:00-22:00
+website: https://stores.burlington.com/oh/columbus/736

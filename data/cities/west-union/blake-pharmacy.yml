@@ -1,11 +1,11 @@
 id: 1043516518
-type: way
+type: node
 latitude: 38.79498
 longitude: -83.54557
 postcode: "45693"
 city: West Union
-street: "North Market Street"
-housenumber: 206
-phone: "+1-937-544-2451"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-17:00; Su 13:00-17:00"
+street: North Market Street
+housenumber: "206"
+phone: +1-937-544-2451
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-17:00; Su 13:00-17:00
 website: ""

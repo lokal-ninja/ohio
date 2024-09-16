@@ -1,11 +1,11 @@
 id: 160825338
-type: way
+type: node
 latitude: 40.25095
 longitude: -83.7551
 postcode: "43357"
 city: West Liberty
-street: "South Detroit Street"
-housenumber: 201
-phone: "+1 937-462-8353"
+street: South Detroit Street
+housenumber: "201"
+phone: +1 937-462-8353
 opening_hours: ""
 website: ""

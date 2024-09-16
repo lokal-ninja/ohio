@@ -1,11 +1,11 @@
 id: 738376165
-type: way
+type: node
 latitude: 40.56165
 longitude: -81.79487
 postcode: "44610"
 city: Berlin
-street: "East Main Street"
-housenumber: 4799
+street: East Main Street
+housenumber: "4799"
 phone: ""
 opening_hours: ""
 website: ""

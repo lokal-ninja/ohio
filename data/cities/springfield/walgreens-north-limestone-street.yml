@@ -1,11 +1,11 @@
 id: 583549289
-type: way
+type: node
 latitude: 39.93825
 longitude: -83.80514
 postcode: "45503"
 city: Springfield
-street: "North Limestone Street"
-housenumber: 1140
+street: North Limestone Street
+housenumber: "1140"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1140+n+limestone+st-springfield-oh-45503/id=7884"
+website: https://www.walgreens.com/locator/walgreens-1140+n+limestone+st-springfield-oh-45503/id=7884

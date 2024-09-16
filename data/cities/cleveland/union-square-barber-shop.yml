@@ -1,11 +1,11 @@
 id: 627448660
-type: way
+type: node
 latitude: 41.4637
 longitude: -81.60909
 postcode: ""
 city: Cleveland
-street: "Union Avenue"
-housenumber: 10901
+street: Union Avenue
+housenumber: "10901"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 516708928
-type: way
+type: node
 latitude: 40.77826
 longitude: -82.5913
 postcode: "44906"
 city: Ontario
-street: "North Lexington-Springmill Road"
-housenumber: 955
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://stores.aldi.us/oh/ontario/955-n-lexington-springmill"
+street: North Lexington-Springmill Road
+housenumber: "955"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-21:00
+website: https://stores.aldi.us/oh/ontario/955-n-lexington-springmill

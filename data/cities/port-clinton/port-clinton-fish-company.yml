@@ -1,11 +1,11 @@
 id: 597319946
-type: way
+type: node
 latitude: 41.51412
 longitude: -82.94159
 postcode: "43452"
 city: Port Clinton
-street: "Madison Street"
-housenumber: 2
-phone: "+1-419-732-3101"
+street: Madison Street
+housenumber: "2"
+phone: +1-419-732-3101
 opening_hours: ""
 website: ""

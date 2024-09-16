@@ -1,11 +1,11 @@
 id: 36897073
-type: way
+type: node
 latitude: 39.28741
 longitude: -84.42439
 postcode: "45241"
 city: Sharonville
-street: "Freightliner Drive"
-housenumber: 1
-phone: "+1-513-772-7171"
+street: Freightliner Drive
+housenumber: "1"
+phone: +1-513-772-7171
 opening_hours: ""
-website: "https://www.fydafreightliner.com/"
+website: https://www.fydafreightliner.com/

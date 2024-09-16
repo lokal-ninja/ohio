@@ -1,11 +1,11 @@
 id: 424578095
-type: way
+type: node
 latitude: 40.37408
 longitude: -80.69799
 postcode: "43953"
 city: Wintersville
-street: "Main Street"
-housenumber: 620
+street: Main Street
+housenumber: "620"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 102962793
-type: way
+type: node
 latitude: 39.0748
 longitude: -84.34877
 postcode: "45255"
 city: Cincinnati
-street: "Beechmont Avenue"
-housenumber: 7580
-phone: "+1 513-233-4400"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/oh/cincinnati/anderson-township/014/00915"
+street: Beechmont Avenue
+housenumber: "7580"
+phone: +1 513-233-4400
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/oh/cincinnati/anderson-township/014/00915

@@ -1,11 +1,11 @@
 id: 1191501432
-type: way
+type: node
 latitude: 41.05456
 longitude: -80.63865
 postcode: "44512"
 city: Boardman
-street: "Simon Road"
-housenumber: 4440
+street: Simon Road
+housenumber: "4440"
 phone: ""
 opening_hours: ""
 website: ""

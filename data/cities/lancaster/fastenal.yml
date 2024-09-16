@@ -1,11 +1,11 @@
 id: 1273937960
-type: way
+type: node
 latitude: 39.72621
 longitude: -82.64222
 postcode: "43130"
 city: Lancaster
-street: "West Fair Avenue"
-housenumber: 2245
+street: West Fair Avenue
+housenumber: "2245"
 phone: ""
 opening_hours: ""
 website: ""

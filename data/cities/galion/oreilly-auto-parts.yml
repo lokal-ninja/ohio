@@ -1,11 +1,11 @@
 id: 809301488
-type: way
+type: node
 latitude: 40.73439
 longitude: -82.80157
 postcode: "44833"
 city: Galion
-street: "Harding Way West"
-housenumber: 730
-phone: "+1-419-462-5929"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://locations.oreillyauto.com/oh/galion/autoparts-2482.html"
+street: Harding Way West
+housenumber: "730"
+phone: +1-419-462-5929
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://locations.oreillyauto.com/oh/galion/autoparts-2482.html

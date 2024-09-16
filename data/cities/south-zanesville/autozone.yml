@@ -1,11 +1,11 @@
 id: 556790357
-type: way
+type: node
 latitude: 39.90758
 longitude: -82.01743
 postcode: "43701"
 city: South Zanesville
-street: "North Maysville Avenue"
-housenumber: 180
+street: North Maysville Avenue
+housenumber: "180"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/oh/zanesville/180-maysville-ave.html"
+website: https://www.autozone.com/locations/oh/zanesville/180-maysville-ave.html

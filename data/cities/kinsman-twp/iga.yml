@@ -1,11 +1,11 @@
 id: 1034320086
-type: way
+type: node
 latitude: 41.44599
 longitude: -80.58979
 postcode: "44428"
 city: Kinsman Twp
-street: "State Street Northeast"
-housenumber: 8281
-phone: "+1 330-674-7075"
+street: State Street Northeast
+housenumber: "8281"
+phone: +1 330-674-7075
 opening_hours: ""
 website: ""

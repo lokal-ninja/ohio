@@ -4,8 +4,8 @@ latitude: 39.111
 longitude: -84.51195
 postcode: "45202"
 city: Cincinnati
-street: "Main Street"
-housenumber: 1342
+street: Main Street
+housenumber: "1342"
 phone: ""
-opening_hours: "We-Fr 12:00-18:00; Sa-Su 11:00-17:00"
-website: "https://www.mainstreetshopstudio.com/"
+opening_hours: We-Fr 12:00-18:00; Sa-Su 11:00-17:00
+website: https://www.mainstreetshopstudio.com/

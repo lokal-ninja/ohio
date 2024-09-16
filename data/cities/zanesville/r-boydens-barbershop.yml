@@ -1,11 +1,11 @@
 id: 1207384274
-type: way
+type: node
 latitude: 39.92554
 longitude: -82.01684
 postcode: "43701"
 city: Zanesville
-street: "Pershing Road"
-housenumber: 805
+street: Pershing Road
+housenumber: "805"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 698139882
-type: way
+type: node
 latitude: 40.8973
 longitude: -81.4048
 postcode: "44720"
 city: N Canton
-street: "North Main Street"
-housenumber: 1664
+street: North Main Street
+housenumber: "1664"
 phone: ""
 opening_hours: ""
 website: ""

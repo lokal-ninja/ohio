@@ -1,11 +1,11 @@
 id: 723231548
-type: way
+type: node
 latitude: 41.33407
 longitude: -80.73492
 postcode: "44410"
 city: Cortland
-street: "North Mecca Street"
-housenumber: 181
+street: North Mecca Street
+housenumber: "181"
 phone: ""
 opening_hours: ""
-website: "http://packard-gm.com/"
+website: http://packard-gm.com/

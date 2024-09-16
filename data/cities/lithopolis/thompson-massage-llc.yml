@@ -1,11 +1,11 @@
 id: 1153319407
-type: way
+type: node
 latitude: 39.8026
 longitude: -82.80738
 postcode: "43136"
 city: Lithopolis
-street: "East Columbus Street"
-housenumber: 87
+street: East Columbus Street
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

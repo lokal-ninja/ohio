@@ -1,11 +1,11 @@
 id: 764497971
-type: way
+type: node
 latitude: 40.75402
 longitude: -84.08739
 postcode: "45801"
 city: Lima
-street: "Findlay Road"
-housenumber: 1301
-phone: "+1 419-228-1624"
+street: Findlay Road
+housenumber: "1301"
+phone: +1 419-228-1624
 opening_hours: ""
 website: ""

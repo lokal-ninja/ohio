@@ -1,11 +1,11 @@
 id: 170773179
-type: way
+type: node
 latitude: 41.45806
 longitude: -81.77922
 postcode: "44111"
 city: Cleveland
-street: "West 130th Street"
-housenumber: 3527
+street: West 130th Street
+housenumber: "3527"
 phone: ""
 opening_hours: ""
 website: ""

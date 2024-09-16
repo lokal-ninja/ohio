@@ -1,11 +1,11 @@
 id: 1059105582
-type: way
+type: node
 latitude: 41.60528
 longitude: -81.43914
 postcode: "44094"
 city: Willoughby
-street: "Som Center Road"
-housenumber: 6035
-phone: "+1 440-833-4349"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/693"
+street: Som Center Road
+housenumber: "6035"
+phone: +1 440-833-4349
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/693

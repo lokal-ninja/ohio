@@ -1,11 +1,11 @@
 id: 548583422
-type: way
+type: node
 latitude: 40.78604
 longitude: -82.59655
 postcode: "44903"
 city: Ontario
-street: "Walker Lake Road"
-housenumber: 2275
-phone: "+1-419-747-4544"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/store-locator/store/?storeID=1298"
+street: Walker Lake Road
+housenumber: "2275"
+phone: +1-419-747-4544
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/store-locator/store/?storeID=1298

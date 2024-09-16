@@ -1,11 +1,11 @@
 id: 1222105939
-type: way
+type: node
 latitude: 40.05171
 longitude: -82.43105
 postcode: "43055"
 city: Newark
-street: "West Main Street"
-housenumber: 740
+street: West Main Street
+housenumber: "740"
 phone: "+17403443130"
 opening_hours: ""
-website: "http://alsmeatmarketonline.com/"
+website: http://alsmeatmarketonline.com/

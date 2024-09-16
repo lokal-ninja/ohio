@@ -1,11 +1,11 @@
 id: 776900250
-type: way
+type: node
 latitude: 40.02342
 longitude: -82.98256
 postcode: "43211"
 city: Columbus
-street: "E Weber Road"
-housenumber: 1101
+street: E Weber Road
+housenumber: "1101"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 390494972
-type: way
+type: node
 latitude: 41.47778
 longitude: -81.81348
 postcode: "44107"
 city: Lakewood
-street: "Madison Avenue"
-housenumber: 16608
+street: Madison Avenue
+housenumber: "16608"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 486838277
-type: way
+type: node
 latitude: 40.55294
 longitude: -82.82722
 postcode: "43338"
 city: Mount Gilead
-street: "North Main Street"
-housenumber: 140
+street: North Main Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

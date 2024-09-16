@@ -1,11 +1,11 @@
 id: 192364228
-type: way
+type: node
 latitude: 41.368
 longitude: -83.65659
 postcode: "43402"
 city: Bowling Green
-street: "South Maple Street"
-housenumber: 520
+street: South Maple Street
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

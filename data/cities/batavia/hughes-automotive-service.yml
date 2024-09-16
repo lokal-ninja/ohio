@@ -1,11 +1,11 @@
 id: 1303757085
-type: way
+type: node
 latitude: 39.05141
 longitude: -84.08076
 postcode: "45103"
 city: Batavia
-street: "Old State Route 32"
-housenumber: 3099
+street: Old State Route 32
+housenumber: "3099"
 phone: "+15137242985"
 opening_hours: ""
 website: ""

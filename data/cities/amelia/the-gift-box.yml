@@ -1,11 +1,11 @@
 id: 156595034
-type: way
+type: node
 latitude: 39.03816
 longitude: -84.23128
 postcode: "45102"
 city: Amelia
-street: "West Ohio Pike"
-housenumber: 1400
+street: West Ohio Pike
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

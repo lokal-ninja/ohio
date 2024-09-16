@@ -1,11 +1,11 @@
 id: 1051398320
-type: way
+type: node
 latitude: 39.20441
 longitude: -84.2165
 postcode: "45140"
 city: Loveland
-street: "State Route 28"
-housenumber: 1325
-phone: "+1 513-575-0508"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: State Route 28
+housenumber: "1325"
+phone: +1 513-575-0508
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.50046
 longitude: -81.49598
 postcode: "44122"
 city: Beachwood
-street: "Richmond Road"
-housenumber: 2101
-phone: "+1 (216) 682-7575"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.containerstore.com/locations/showStore.htm?store=CLE&cid=ns:maps:google:main-store:39-beachwood"
+street: Richmond Road
+housenumber: "2101"
+phone: +1 (216) 682-7575
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.containerstore.com/locations/showStore.htm?store=CLE&cid=ns:maps:google:main-store:39-beachwood

@@ -1,11 +1,11 @@
 id: 854127648
-type: way
+type: node
 latitude: 39.90173
 longitude: -83.07914
 postcode: "43123"
 city: Grove City
-street: "Broadway"
-housenumber: 3065
+street: Broadway
+housenumber: "3065"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/oh/grove-city/16090"
+website: https://www.dollargeneral.com/store-directory/oh/grove-city/16090

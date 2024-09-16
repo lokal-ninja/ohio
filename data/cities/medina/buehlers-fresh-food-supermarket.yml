@@ -1,11 +1,11 @@
 id: 784962424
-type: way
+type: node
 latitude: 41.15218
 longitude: -81.86168
 postcode: "44256"
 city: Medina
-street: "Forest Meadows Drive"
-housenumber: 275
-phone: "+1 330 725 0535"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.buehlers.com/stores/medina-forest-meadows/"
+street: Forest Meadows Drive
+housenumber: "275"
+phone: +1 330 725 0535
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.buehlers.com/stores/medina-forest-meadows/

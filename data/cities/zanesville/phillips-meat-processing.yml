@@ -1,11 +1,11 @@
 id: 1093427055
-type: way
+type: node
 latitude: 39.93254
 longitude: -82.05094
 postcode: "43701"
 city: Zanesville
-street: "Ridge Road"
-housenumber: 2790
-phone: "+1-740-453-3337"
-opening_hours: "Mo-Fr 08:00-17:30, Sa 08:00-14:00, Su off"
-website: "https://phillipsmeats.com/"
+street: Ridge Road
+housenumber: "2790"
+phone: +1-740-453-3337
+opening_hours: Mo-Fr 08:00-17:30, Sa 08:00-14:00, Su off
+website: https://phillipsmeats.com/

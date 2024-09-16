@@ -1,11 +1,11 @@
 id: 627432157
-type: way
+type: node
 latitude: 39.9778
 longitude: -83.0038
 postcode: "43215"
 city: Columbus
-street: "North High Street"
-housenumber: 751
-phone: "+1-614-915-0777"
-opening_hours: "Mo-Sa 11:00-20:00; Su 12:00-17:00"
-website: "https://www.thecandlelab.com/pages/short-north-store"
+street: North High Street
+housenumber: "751"
+phone: +1-614-915-0777
+opening_hours: Mo-Sa 11:00-20:00; Su 12:00-17:00
+website: https://www.thecandlelab.com/pages/short-north-store

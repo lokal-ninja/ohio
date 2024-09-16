@@ -1,11 +1,11 @@
 id: 291704070
-type: way
+type: node
 latitude: 39.53816
 longitude: -82.43828
 postcode: "43138"
 city: Logan
-street: "SR 664 South"
-housenumber: 12910
-phone: "+1 740-380-1472"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3282/logan-oh/whats-new"
+street: SR 664 South
+housenumber: "12910"
+phone: +1 740-380-1472
+opening_hours: 24/7
+website: https://www.walmart.com/store/3282/logan-oh/whats-new

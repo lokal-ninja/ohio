@@ -1,11 +1,11 @@
 id: 1050022368
-type: way
+type: node
 latitude: 39.54507
 longitude: -82.39631
 postcode: "43138"
 city: Logan
-street: "Ohio Avenue"
-housenumber: 700
+street: Ohio Avenue
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

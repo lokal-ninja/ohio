@@ -1,11 +1,11 @@
 id: 1056254688
-type: way
+type: node
 latitude: 39.73224
 longitude: -82.62658
 postcode: "43130"
 city: Lancaster
-street: "River Valley Circle North"
-housenumber: 1500
-phone: "+1 740-654-6215"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://stores.dickssportinggoods.com/oh/lancaster/604/"
+street: River Valley Circle North
+housenumber: "1500"
+phone: +1 740-654-6215
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://stores.dickssportinggoods.com/oh/lancaster/604/

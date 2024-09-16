@@ -1,11 +1,11 @@
 id: 80114945
-type: way
+type: node
 latitude: 39.45437
 longitude: -84.18124
 postcode: "45036"
 city: Lebanon
-street: "Columbus Avenue"
-housenumber: 1425
-phone: "+1 513-228-7370"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/oh/lebanon/lebanon-oh-marketplace/014/00447"
+street: Columbus Avenue
+housenumber: "1425"
+phone: +1 513-228-7370
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/oh/lebanon/lebanon-oh-marketplace/014/00447

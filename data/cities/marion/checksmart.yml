@@ -1,11 +1,11 @@
 id: 550135564
-type: way
+type: node
 latitude: 40.58187
 longitude: -83.08201
 postcode: "43302"
 city: Marion
-street: "McMahan Boulevard"
-housenumber: 134
-phone: "+1-740-389-2097"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.ccfi.com/locations/?zip=43302&distance=10"
+street: McMahan Boulevard
+housenumber: "134"
+phone: +1-740-389-2097
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.ccfi.com/locations/?zip=43302&distance=10

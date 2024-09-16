@@ -1,11 +1,11 @@
 id: 566778664
-type: way
+type: node
 latitude: 39.91423
 longitude: -82.01392
 postcode: "43701"
 city: Zanesville
-street: "Maysville Avenue"
-housenumber: 1710
-phone: "+1-740-454-3220"
+street: Maysville Avenue
+housenumber: "1710"
+phone: +1-740-454-3220
 opening_hours: ""
-website: "http://wolferadiator.com/home.html"
+website: http://wolferadiator.com/home.html

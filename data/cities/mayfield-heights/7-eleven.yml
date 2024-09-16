@@ -1,11 +1,11 @@
 id: 1009019483
-type: way
+type: node
 latitude: 41.51947
 longitude: -81.4383
 postcode: "44124"
 city: Mayfield Heights
-street: "Mayfield Road"
-housenumber: 6680
+street: Mayfield Road
+housenumber: "6680"
 phone: ""
 opening_hours: ""
 website: ""

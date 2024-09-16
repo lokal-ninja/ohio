@@ -1,11 +1,11 @@
 id: 341623760
-type: way
+type: node
 latitude: 41.28894
 longitude: -82.21767
 postcode: "44074"
 city: Oberlin
-street: "South Main Street"
-housenumber: 90
+street: South Main Street
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-15:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 586300099
-type: way
+type: node
 latitude: 39.89187
 longitude: -83.0862
 postcode: "43123"
 city: Grove City
-street: "Broadway"
-housenumber: 3555
+street: Broadway
+housenumber: "3555"
 phone: ""
 opening_hours: ""
 website: ""

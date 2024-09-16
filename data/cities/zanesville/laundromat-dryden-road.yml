@@ -1,11 +1,11 @@
 id: 1235921960
-type: way
+type: node
 latitude: 39.92906
 longitude: -82.02713
 postcode: "43701"
 city: Zanesville
-street: "Dryden Road"
-housenumber: 771
+street: Dryden Road
+housenumber: "771"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 133567359
-type: way
+type: node
 latitude: 40.28578
 longitude: -84.15543
 postcode: "45365"
 city: Sidney
-street: "East Poplar Street"
-housenumber: 128
+street: East Poplar Street
+housenumber: "128"
 phone: "+19376586244"
 opening_hours: ""
-website: "https://www.facebook.com/dayandnightservices/"
+website: https://www.facebook.com/dayandnightservices/

@@ -1,11 +1,11 @@
 id: 999319451
-type: way
+type: node
 latitude: 41.48381
 longitude: -81.92259
 postcode: "44140"
 city: Bay Village
-street: "Dover Center Road"
-housenumber: 434
+street: Dover Center Road
+housenumber: "434"
 phone: ""
 opening_hours: ""
 website: ""

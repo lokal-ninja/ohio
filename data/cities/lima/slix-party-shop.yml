@@ -1,11 +1,11 @@
 id: 764460385
-type: way
+type: node
 latitude: 40.75738
 longitude: -84.06692
 postcode: "45801"
 city: Lima
-street: "North Dixie Highway"
-housenumber: 1801
-phone: "+1 567-712-2177"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-21:30; Su 12:00-19:00"
+street: North Dixie Highway
+housenumber: "1801"
+phone: +1 567-712-2177
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-21:30; Su 12:00-19:00
 website: ""

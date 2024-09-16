@@ -5,7 +5,7 @@ longitude: -83.65156
 postcode: "45840"
 city: Findlay
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo 10:00-19:30; We 10:00-17:00; Fr 10:00-15:00"
-website: "https://www.findlaylibrary.org/"
+opening_hours: Mo 10:00-19:30; We 10:00-17:00; Fr 10:00-15:00
+website: https://www.findlaylibrary.org/

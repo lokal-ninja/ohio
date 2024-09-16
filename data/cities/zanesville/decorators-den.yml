@@ -1,11 +1,11 @@
 id: 1037216521
-type: way
+type: node
 latitude: 40.00626
 longitude: -82.02327
 postcode: "43701"
 city: Zanesville
-street: "Northpointe Drive"
-housenumber: 4421
-phone: "+1-740-454-7552"
-opening_hours: "Mo-Fr 09:00-17:00, Sa 09:00-13:00, Su off"
-website: "https://www.decoratorsdenflooring.com/"
+street: Northpointe Drive
+housenumber: "4421"
+phone: +1-740-454-7552
+opening_hours: Mo-Fr 09:00-17:00, Sa 09:00-13:00, Su off
+website: https://www.decoratorsdenflooring.com/

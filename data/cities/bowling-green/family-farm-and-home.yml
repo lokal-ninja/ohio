@@ -1,11 +1,11 @@
 id: 463810182
-type: way
+type: node
 latitude: 41.35876
 longitude: -83.65227
 postcode: "43402"
 city: Bowling Green
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Sa 09:00-19:00"
+opening_hours: Mo-Sa 08:00-20:00; Sa 09:00-19:00
 website: ""

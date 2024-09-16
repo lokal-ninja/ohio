@@ -1,11 +1,11 @@
 id: 204365043
-type: way
+type: node
 latitude: 39.40271
 longitude: -84.56756
 postcode: "45013"
 city: Hamilton
-street: "Main Street"
-housenumber: 119
+street: Main Street
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

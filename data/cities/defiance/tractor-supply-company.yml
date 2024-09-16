@@ -1,11 +1,11 @@
 id: 321391362
-type: way
+type: node
 latitude: 41.31593
 longitude: -84.36239
 postcode: "43512"
 city: Defiance
-street: "State Route 66 North"
-housenumber: 8718
-phone: "+1 419-784-5099"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: State Route 66 North
+housenumber: "8718"
+phone: +1 419-784-5099
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

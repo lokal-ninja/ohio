@@ -4,8 +4,8 @@ latitude: 39.10974
 longitude: -84.51158
 postcode: "45202"
 city: Cincinnati
-street: "Main Street"
-housenumber: 1218
-phone: "+1-513-381-4231"
-opening_hours: "10:00-12:00"
+street: Main Street
+housenumber: "1218"
+phone: +1-513-381-4231
+opening_hours: 10:00-12:00
 website: ""

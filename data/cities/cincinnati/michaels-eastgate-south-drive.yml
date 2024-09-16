@@ -1,11 +1,11 @@
 id: 1005408045
-type: way
+type: node
 latitude: 39.09571
 longitude: -84.27446
-postcode: "45245-1583"
+postcode: 45245-1583
 city: Cincinnati
-street: "Eastgate South Drive"
-housenumber: 700
-phone: "+1 513-752-4434"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/oh/cincinnati/9883"
+street: Eastgate South Drive
+housenumber: "700"
+phone: +1 513-752-4434
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/oh/cincinnati/9883

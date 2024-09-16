@@ -1,11 +1,11 @@
 id: 972078301
-type: way
+type: node
 latitude: 41.31653
 longitude: -81.35398
 postcode: "44202"
 city: Aurora
-street: "Aurora Commons Circle"
-housenumber: 301
+street: Aurora Commons Circle
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

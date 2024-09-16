@@ -1,11 +1,11 @@
 id: 62055543
-type: way
+type: node
 latitude: 39.1757
 longitude: -84.23974
 postcode: "45150"
 city: Milford
-street: "State Route 131"
-housenumber: 1100
-phone: "+1-513-831-7592"
+street: State Route 131
+housenumber: "1100"
+phone: +1-513-831-7592
 opening_hours: ""
-website: "https://clermontcountyequipment.com/"
+website: https://clermontcountyequipment.com/

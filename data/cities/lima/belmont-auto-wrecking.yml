@@ -1,11 +1,11 @@
 id: 764620292
-type: way
+type: node
 latitude: 40.75293
 longitude: -84.09297
 postcode: "45801"
 city: Lima
-street: "Findlay Road"
-housenumber: 901
-phone: "+1 419 222 4961"
-opening_hours: "Mo-Fr 08:00-17:30; PH closed"
-website: "https://belmontautowrecking.com/"
+street: Findlay Road
+housenumber: "901"
+phone: +1 419 222 4961
+opening_hours: Mo-Fr 08:00-17:30; PH closed
+website: https://belmontautowrecking.com/

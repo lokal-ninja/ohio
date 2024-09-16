@@ -4,8 +4,8 @@ latitude: 39.97181
 longitude: -83.00438
 postcode: "43215"
 city: Columbus
-street: "Spruce Street"
-housenumber: 59
+street: Spruce Street
+housenumber: "59"
 phone: ""
-opening_hours: "Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00"
-website: "https://www.greenolivecompany.com"
+opening_hours: Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00
+website: https://www.greenolivecompany.com

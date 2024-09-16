@@ -1,11 +1,11 @@
 id: 1069711822
-type: way
+type: node
 latitude: 39.71409
 longitude: -82.58296
 postcode: "43130"
 city: Lancaster
-street: "East Main Street"
-housenumber: 907
+street: East Main Street
+housenumber: "907"
 phone: ""
 opening_hours: ""
-website: "https://www.circlek.com/store-locator/US/lancaster/907-e-main-st/4705264"
+website: https://www.circlek.com/store-locator/US/lancaster/907-e-main-st/4705264

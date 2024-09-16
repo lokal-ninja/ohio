@@ -1,11 +1,11 @@
 id: 941097438
-type: way
+type: node
 latitude: 40.80058
 longitude: -81.5108
 postcode: ""
 city: massillon
-street: "Lincoln Way East"
-housenumber: 1130
+street: Lincoln Way East
+housenumber: "1130"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/massillon-oh-pharmacies/1130-lincoln-way-east-massillon-oh-44646/storeid=8248"
+website: https://www.cvs.com/store-locator/massillon-oh-pharmacies/1130-lincoln-way-east-massillon-oh-44646/storeid=8248

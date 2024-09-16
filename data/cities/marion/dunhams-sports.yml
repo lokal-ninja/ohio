@@ -1,11 +1,11 @@
 id: 558067700
-type: way
+type: node
 latitude: 40.58295
 longitude: -83.09582
 postcode: "43302"
 city: Marion
-street: "Mt Vernon Avenue"
-housenumber: 1296
-phone: "+1-740-389-4554"
-opening_hours: "Mo-Sa 09:00-21:30; Su 10:00-18:00"
-website: "https://www.dunhamssports.com/stores/sporting-goods-marion-oh/"
+street: Mt Vernon Avenue
+housenumber: "1296"
+phone: +1-740-389-4554
+opening_hours: Mo-Sa 09:00-21:30; Su 10:00-18:00
+website: https://www.dunhamssports.com/stores/sporting-goods-marion-oh/

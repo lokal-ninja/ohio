@@ -1,11 +1,11 @@
 id: 175820371
-type: way
+type: node
 latitude: 39.17659
 longitude: -84.22813
 postcode: "45150"
 city: Milford
-street: "State Route 131"
-housenumber: 1236
+street: State Route 131
+housenumber: "1236"
 phone: ""
 opening_hours: ""
-website: "https://www.dayheightsautoservice.com/"
+website: https://www.dayheightsautoservice.com/

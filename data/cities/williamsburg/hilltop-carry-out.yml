@@ -1,11 +1,11 @@
 id: 740573199
-type: way
+type: node
 latitude: 39.04904
 longitude: -84.04605
 postcode: "45176"
 city: Williamsburg
-street: "East Main Street"
-housenumber: 422
+street: East Main Street
+housenumber: "422"
 phone: ""
 opening_hours: ""
 website: ""

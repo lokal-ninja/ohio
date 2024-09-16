@@ -1,11 +1,11 @@
 id: 546916119
-type: way
+type: node
 latitude: 40.0818
 longitude: -82.80912
 postcode: "43054"
 city: New Albany
-street: "S High Street"
-housenumber: 29
+street: S High Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "http://velosciencebikeworks.com"
+website: http://velosciencebikeworks.com

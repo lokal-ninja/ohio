@@ -1,11 +1,11 @@
 id: 103111143
-type: way
+type: node
 latitude: 39.49802
 longitude: -84.33441
 postcode: "45005"
 city: Middletown
-street: "South Dixie Highway"
-housenumber: 3634
-phone: "+1 833-461-7064"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/oh/middletown/3634-s-dixie-hwy"
+street: South Dixie Highway
+housenumber: "3634"
+phone: +1 833-461-7064
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/oh/middletown/3634-s-dixie-hwy

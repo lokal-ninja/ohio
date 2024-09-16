@@ -1,11 +1,11 @@
 id: 1293732236
-type: way
+type: node
 latitude: 40.02673
 longitude: -81.91178
 postcode: "43701"
 city: Zanesville
-street: "Adamsville Road"
-housenumber: 5500
+street: Adamsville Road
+housenumber: "5500"
 phone: "+17404520092"
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

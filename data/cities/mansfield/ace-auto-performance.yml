@@ -1,11 +1,11 @@
 id: 484405511
-type: way
+type: node
 latitude: 40.75834
 longitude: -82.52122
 postcode: "44902"
 city: Mansfield
-street: "Park Avenue West"
-housenumber: 157
-phone: "+1-419-526-4147"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://aceautoperformance.com"
+street: Park Avenue West
+housenumber: "157"
+phone: +1-419-526-4147
+opening_hours: Mo-Fr 08:00-17:00
+website: http://aceautoperformance.com

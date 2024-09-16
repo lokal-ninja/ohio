@@ -1,11 +1,11 @@
 id: 614130798
-type: way
+type: node
 latitude: 40.04942
 longitude: -82.42691
 postcode: "43055"
 city: Newark
-street: "South Williams Street"
-housenumber: 87
+street: South Williams Street
+housenumber: "87"
 phone: "+16142269350"
 opening_hours: ""
 website: ""

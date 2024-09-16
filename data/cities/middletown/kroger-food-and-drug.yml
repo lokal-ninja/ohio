@@ -1,11 +1,11 @@
 id: 83672376
-type: way
+type: node
 latitude: 39.47927
 longitude: -84.42179
 postcode: "45044"
 city: Middletown
-street: "Oxford State Road"
-housenumber: 428
-phone: "+1 513-423-5161"
-opening_hours: "Su-Sa 7:00-22:00"
-website: "https://www.kroger.com/stores/grocery/oh/middletown/middletown/014/00335"
+street: Oxford State Road
+housenumber: "428"
+phone: +1 513-423-5161
+opening_hours: Su-Sa 7:00-22:00
+website: https://www.kroger.com/stores/grocery/oh/middletown/middletown/014/00335

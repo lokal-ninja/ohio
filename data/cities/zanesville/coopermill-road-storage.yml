@@ -1,11 +1,11 @@
 id: 1235791738
-type: way
+type: node
 latitude: 39.92266
 longitude: -82.03538
 postcode: "43701"
 city: Zanesville
-street: "Coopermill Road"
-housenumber: 1398
-phone: "+1-740-319-2104"
-opening_hours: "Mo-Su 06:00-22:00"
+street: Coopermill Road
+housenumber: "1398"
+phone: +1-740-319-2104
+opening_hours: Mo-Su 06:00-22:00
 website: ""

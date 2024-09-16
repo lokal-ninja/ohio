@@ -1,11 +1,11 @@
 id: 598516507
-type: way
+type: node
 latitude: 39.98799
 longitude: -83.04663
 postcode: "43212"
 city: Columbus
-street: "West 5th Avenue"
-housenumber: 1495
+street: West 5th Avenue
+housenumber: "1495"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/columbus-oh-pharmacies/1495-west-5th-ave-columbus-oh-43212/storeid=6147"
+website: https://www.cvs.com/store-locator/columbus-oh-pharmacies/1495-west-5th-ave-columbus-oh-43212/storeid=6147

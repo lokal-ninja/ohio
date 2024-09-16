@@ -1,11 +1,11 @@
 id: 809301481
-type: way
+type: node
 latitude: 40.73428
 longitude: -82.80178
 postcode: "44833"
 city: Galion
-street: "Harding Way West"
-housenumber: 746
-phone: "+1-419-468-9773"
+street: Harding Way West
+housenumber: "746"
+phone: +1-419-468-9773
 opening_hours: ""
-website: "https://www.speedway.com/locations/store/3187"
+website: https://www.speedway.com/locations/store/3187

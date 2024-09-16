@@ -1,11 +1,11 @@
 id: 205029717
-type: way
+type: node
 latitude: 39.48142
 longitude: -84.47691
 postcode: "45067"
 city: Trenton
-street: "West State Street"
-housenumber: 950
+street: West State Street
+housenumber: "950"
 phone: ""
 opening_hours: ""
 website: ""

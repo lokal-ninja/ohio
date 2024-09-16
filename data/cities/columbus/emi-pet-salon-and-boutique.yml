@@ -1,11 +1,11 @@
 id: 627432162
-type: way
+type: node
 latitude: 39.97756
 longitude: -83.00398
 postcode: "43215"
 city: Columbus
-street: "North High Street"
-housenumber: 743
-phone: "+1-614-299-7387"
-opening_hours: "Su-Fr 11:00-19:00; Sa 10:00-19:00"
-website: "https://www.emipet.com/short-north-location/"
+street: North High Street
+housenumber: "743"
+phone: +1-614-299-7387
+opening_hours: Su-Fr 11:00-19:00; Sa 10:00-19:00
+website: https://www.emipet.com/short-north-location/

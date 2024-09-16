@@ -1,11 +1,11 @@
 id: 88145559
-type: way
+type: node
 latitude: 39.38716
 longitude: -84.50237
 postcode: "45011"
 city: Hamilton
-street: "Princeton Road"
-housenumber: 3371
-phone: "+1 513-737-2906"
+street: Princeton Road
+housenumber: "3371"
+phone: +1 513-737-2906
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/oh/hamilton/020012/"
+website: https://www.mattressfirm.com/en-us/stores/oh/hamilton/020012/

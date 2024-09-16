@@ -1,11 +1,11 @@
 id: 689249178
-type: way
+type: node
 latitude: 41.05157
 longitude: -81.39281
 postcode: "44260"
 city: Mogadore
-street: "North Cleveland Avenue"
-housenumber: 3
+street: North Cleveland Avenue
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/mogadore-oh-pharmacies/3-north-cleveland-ave-mogadore-oh-44260/storeid=3090"
+website: https://www.cvs.com/store-locator/mogadore-oh-pharmacies/3-north-cleveland-ave-mogadore-oh-44260/storeid=3090

@@ -1,11 +1,11 @@
 id: 305375751
-type: way
+type: node
 latitude: 39.68372
 longitude: -83.93549
 postcode: "45385"
 city: Xenia
-street: "West 2nd Street"
-housenumber: 340
+street: West 2nd Street
+housenumber: "340"
 phone: ""
 opening_hours: ""
 website: ""

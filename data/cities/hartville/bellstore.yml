@@ -1,11 +1,11 @@
 id: 817061935
-type: way
+type: node
 latitude: 40.97022
 longitude: -81.35396
 postcode: "44632"
 city: Hartville
-street: "West Maple Street"
-housenumber: 1261
+street: West Maple Street
+housenumber: "1261"
 phone: ""
 opening_hours: ""
 website: ""

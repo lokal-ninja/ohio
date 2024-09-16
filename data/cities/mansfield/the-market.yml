@@ -1,11 +1,11 @@
 id: 484405501
-type: way
+type: node
 latitude: 40.75864
 longitude: -82.52008
 postcode: "44902"
 city: Mansfield
-street: "Park Avenue West"
-housenumber: 115
-phone: "+1-419-522-5346"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 12:00-16:00"
+street: Park Avenue West
+housenumber: "115"
+phone: +1-419-522-5346
+opening_hours: Mo-Fr 09:00-17:00; Sa 12:00-16:00
 website: ""

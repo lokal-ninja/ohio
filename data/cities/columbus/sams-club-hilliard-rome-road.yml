@@ -1,11 +1,11 @@
 id: 161082219
-type: way
+type: node
 latitude: 39.98639
 longitude: -83.15441
 postcode: "43026"
 city: Columbus
-street: "Hilliard-Rome Road"
-housenumber: 1755
-phone: "+1 614-921-0057"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/columbus-oh-sams-club/6308"
+street: Hilliard-Rome Road
+housenumber: "1755"
+phone: +1 614-921-0057
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/columbus-oh-sams-club/6308

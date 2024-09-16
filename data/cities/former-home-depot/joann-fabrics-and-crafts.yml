@@ -1,11 +1,11 @@
 id: 759766062
-type: way
+type: node
 latitude: 41.05234
 longitude: -83.60754
 postcode: "45840"
 city: Former Home Depot
-street: "Tiffin Avenue"
-housenumber: 1991
-phone: "+1 419-422-7318"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/oh/findlay/2448/"
+street: Tiffin Avenue
+housenumber: "1991"
+phone: +1 419-422-7318
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/oh/findlay/2448/

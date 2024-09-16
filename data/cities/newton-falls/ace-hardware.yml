@@ -1,11 +1,11 @@
 id: 477936183
-type: way
+type: node
 latitude: 41.18655
 longitude: -80.97132
-postcode: "44444-1708"
+postcode: 44444-1708
 city: Newton Falls
-street: "East Broad Street"
-housenumber: 165
-phone: "+1 330-872-7363"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00"
+street: East Broad Street
+housenumber: "165"
+phone: +1 330-872-7363
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-17:00
 website: ""

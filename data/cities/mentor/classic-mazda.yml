@@ -1,11 +1,11 @@
 id: 955824110
-type: way
+type: node
 latitude: 41.68221
 longitude: -81.3391
 postcode: "44060"
 city: Mentor
-street: "Center Street"
-housenumber: 6951
+street: Center Street
+housenumber: "6951"
 phone: ""
 opening_hours: ""
 website: ""

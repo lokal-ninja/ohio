@@ -1,11 +1,11 @@
 id: 364440258
-type: way
+type: node
 latitude: 40.64883
 longitude: -83.60813
 postcode: "43326"
 city: Kenton
-street: "North Main Street"
-housenumber: 
+street: North Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

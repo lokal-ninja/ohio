@@ -1,11 +1,11 @@
 id: 192306972
-type: way
+type: node
 latitude: 41.35767
 longitude: -83.65121
 postcode: "43402"
 city: Bowling Green
-street: "South Main Street"
-housenumber: 1084
+street: South Main Street
+housenumber: "1084"
 phone: ""
 opening_hours: ""
 website: ""

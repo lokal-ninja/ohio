@@ -1,11 +1,11 @@
 id: 1135532373
-type: way
+type: node
 latitude: 39.97356
 longitude: -81.85325
 postcode: "43701"
 city: Zanesville
-street: "East Pike"
-housenumber: 7395
-phone: "+1-740-872-3345"
-opening_hours: "Mo-Sa 10:00-17:00, Su 13:00-17:00"
-website: "https://www.zanesvillepottery.com/"
+street: East Pike
+housenumber: "7395"
+phone: +1-740-872-3345
+opening_hours: Mo-Sa 10:00-17:00, Su 13:00-17:00
+website: https://www.zanesvillepottery.com/

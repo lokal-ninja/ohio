@@ -1,11 +1,11 @@
 id: 554706476
-type: way
+type: node
 latitude: 40.5836
 longitude: -83.08702
 postcode: "43302"
 city: Marion
-street: "Marion-Mt Gilead Road"
-housenumber: 1584
-phone: "+1-740-389-6576"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-18:00; Su 10:00-16:00"
-website: "https://www.signaturestyle.com/locations/oh/marion/famous-hair-eastland-towne-center-haircuts-67103.html"
+street: Marion-Mt Gilead Road
+housenumber: "1584"
+phone: +1-740-389-6576
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-18:00; Su 10:00-16:00
+website: https://www.signaturestyle.com/locations/oh/marion/famous-hair-eastland-towne-center-haircuts-67103.html

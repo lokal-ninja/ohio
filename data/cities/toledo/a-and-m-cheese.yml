@@ -1,11 +1,11 @@
 id: 1023089880
-type: way
+type: node
 latitude: 41.70058
 longitude: -83.55058
 postcode: "43612"
 city: Toledo
-street: "Waggoner Boulevard"
-housenumber: 253
+street: Waggoner Boulevard
+housenumber: "253"
 phone: ""
 opening_hours: ""
 website: ""

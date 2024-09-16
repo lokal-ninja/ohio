@@ -1,11 +1,11 @@
 id: 1313121784
-type: way
+type: node
 latitude: 39.0356
 longitude: -84.23105
 postcode: ""
 city: Amelia
-street: "West Main Street"
-housenumber: 222
+street: West Main Street
+housenumber: "222"
 phone: ""
 opening_hours: ""
-website: "https://www.supercuts.com/locations/nearme/haircut/OH/AMELIA/PIERCE-TOWN-CENTER/81334"
+website: https://www.supercuts.com/locations/nearme/haircut/OH/AMELIA/PIERCE-TOWN-CENTER/81334

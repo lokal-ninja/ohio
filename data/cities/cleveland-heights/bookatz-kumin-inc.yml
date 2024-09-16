@@ -1,11 +1,11 @@
 id: 341294105
-type: way
+type: node
 latitude: 41.50579
 longitude: -81.55546
 postcode: "44118"
 city: Cleveland Heights
-street: "South Taylor Road"
-housenumber: 1985
+street: South Taylor Road
+housenumber: "1985"
 phone: ""
 opening_hours: ""
 website: ""

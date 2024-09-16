@@ -1,11 +1,11 @@
 id: 692786950
-type: way
+type: node
 latitude: 40.7366
 longitude: -82.80276
 postcode: "44833"
 city: Galion
-street: "Portland Way North"
-housenumber: 252
-phone: "+1-419-971-5760"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/oh/galion/3586"
+street: Portland Way North
+housenumber: "252"
+phone: +1-419-971-5760
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/oh/galion/3586

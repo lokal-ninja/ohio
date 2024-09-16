@@ -1,11 +1,11 @@
 id: 544062339
-type: way
+type: node
 latitude: 40.10853
 longitude: -82.92821
 postcode: "43081"
 city: Westerville
-street: "West Schrock Road"
-housenumber: 55
-phone: "+1 614-890-8660"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/oh/westerville/schrock-rd/016/00920"
+street: West Schrock Road
+housenumber: "55"
+phone: +1 614-890-8660
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/oh/westerville/schrock-rd/016/00920

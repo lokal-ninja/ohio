@@ -1,11 +1,11 @@
 id: 546659745
-type: way
+type: node
 latitude: 41.36926
 longitude: -81.85371
 postcode: "44017"
 city: Berea
-street: "Front Street"
-housenumber: 137
+street: Front Street
+housenumber: "137"
 phone: ""
 opening_hours: ""
 website: ""

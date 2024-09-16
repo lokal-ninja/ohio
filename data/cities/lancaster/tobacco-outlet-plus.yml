@@ -1,11 +1,11 @@
 id: 1069623561
-type: way
+type: node
 latitude: 39.71307
 longitude: -82.5907
 postcode: "43130"
 city: Lancaster
-street: "East Main Street"
-housenumber: 602
+street: East Main Street
+housenumber: "602"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 308384006
-type: way
+type: node
 latitude: 41.58066
 longitude: -81.21639
 postcode: "44024"
 city: Chardon
-street: "Water Street"
-housenumber: 537
-phone: "+1-440-285-7625"
+street: Water Street
+housenumber: "537"
+phone: +1-440-285-7625
 opening_hours: ""
 website: ""

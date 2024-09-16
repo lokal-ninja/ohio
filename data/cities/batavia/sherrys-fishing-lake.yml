@@ -1,11 +1,11 @@
 id: 1298847467
-type: way
+type: node
 latitude: 39.01977
 longitude: -84.16791
 postcode: "45103"
 city: Batavia
-street: "Slade Road"
-housenumber: 2155
+street: Slade Road
+housenumber: "2155"
 phone: ""
 opening_hours: ""
 website: ""

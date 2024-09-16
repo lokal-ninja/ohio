@@ -1,11 +1,11 @@
 id: 631252962
-type: way
+type: node
 latitude: 40.05229
 longitude: -82.91906
 postcode: "43219"
 city: Columbus
-street: "Morse Crossing"
-housenumber: 4036
-phone: "+1-614-342-2102"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.t-mobile.com/store-locator/oh/columbus/morse-crossing-easton-market-2"
+street: Morse Crossing
+housenumber: "4036"
+phone: +1-614-342-2102
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.t-mobile.com/store-locator/oh/columbus/morse-crossing-easton-market-2

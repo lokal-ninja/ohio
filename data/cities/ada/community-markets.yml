@@ -1,11 +1,11 @@
 id: 401310858
-type: way
+type: node
 latitude: 40.76062
 longitude: -83.82428
 postcode: "45810"
 city: Ada
-street: "South Main Street"
-housenumber: 945
+street: South Main Street
+housenumber: "945"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 965481569
-type: way
+type: node
 latitude: 40.06369
 longitude: -83.03826
 postcode: "43214"
 city: Columbus
-street: "Olentangy River Road"
-housenumber: 5067
-phone: "+1-614-457-3688"
-opening_hours: "24/7"
-website: "https://www.myduchess.com/"
+street: Olentangy River Road
+housenumber: "5067"
+phone: +1-614-457-3688
+opening_hours: 24/7
+website: https://www.myduchess.com/

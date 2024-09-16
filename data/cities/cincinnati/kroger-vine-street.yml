@@ -1,11 +1,11 @@
 id: 80208046
-type: way
+type: node
 latitude: 39.21005
 longitude: -84.47593
 postcode: "45216"
 city: Cincinnati
-street: "Vine Street"
-housenumber: 8241
-phone: "+1 513-821-6235"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.kroger.com/stores/grocery/oh/cincinnati/hartwell/014/00405"
+street: Vine Street
+housenumber: "8241"
+phone: +1 513-821-6235
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.kroger.com/stores/grocery/oh/cincinnati/hartwell/014/00405

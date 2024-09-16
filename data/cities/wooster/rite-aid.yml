@@ -1,11 +1,11 @@
 id: 1052274589
-type: way
+type: node
 latitude: 40.82382
 longitude: -81.93344
 postcode: "44691"
 city: Wooster
-street: "Cleveland Road"
-housenumber: 1955
+street: Cleveland Road
+housenumber: "1955"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/oh/wooster/1955-cleveland-road.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/oh/wooster/1955-cleveland-road.html

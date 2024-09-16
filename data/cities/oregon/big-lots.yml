@@ -1,11 +1,11 @@
 id: 933671435
-type: way
+type: node
 latitude: 41.63482
 longitude: -83.47668
 postcode: "43616"
 city: Oregon
-street: "Navarre Avenue"
-housenumber: 3010
-phone: "+1 419-972-2209"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/oh/oregon/3010-navarre-ave"
+street: Navarre Avenue
+housenumber: "3010"
+phone: +1 419-972-2209
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/oh/oregon/3010-navarre-ave

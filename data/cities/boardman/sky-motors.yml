@@ -1,11 +1,11 @@
 id: 1267585309
-type: way
+type: node
 latitude: 41.03604
 longitude: -80.63423
 postcode: "44512"
 city: Boardman
-street: "South Avenue"
-housenumber: 6181
+street: South Avenue
+housenumber: "6181"
 phone: ""
 opening_hours: ""
 website: ""

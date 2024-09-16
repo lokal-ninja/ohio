@@ -1,11 +1,11 @@
 id: 858641194
-type: way
+type: node
 latitude: 39.98677
 longitude: -82.99888
 postcode: "43201"
 city: Columbus
-street: "East Fifth Avenue"
-housenumber: 249
+street: East Fifth Avenue
+housenumber: "249"
 phone: ""
 opening_hours: ""
 website: ""

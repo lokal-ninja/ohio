@@ -1,11 +1,11 @@
 id: 627448651
-type: way
+type: node
 latitude: 41.46179
 longitude: -81.6442
 postcode: "44105"
 city: Cleveland
-street: "Broadway Avenue"
-housenumber: 6542
+street: Broadway Avenue
+housenumber: "6542"
 phone: ""
 opening_hours: ""
 website: ""

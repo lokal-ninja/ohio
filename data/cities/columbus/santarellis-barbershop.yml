@@ -1,11 +1,11 @@
 id: 624427295
-type: way
+type: node
 latitude: 39.9842
 longitude: -83.01474
 postcode: "43201"
 city: Columbus
-street: "West Third Avenue"
-housenumber: 360
-phone: "+1-614-369-1984"
-opening_hours: "Mo 10:00-18:00; Tu-Fr,Su 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.santarellisbarbershop.com"
+street: West Third Avenue
+housenumber: "360"
+phone: +1-614-369-1984
+opening_hours: Mo 10:00-18:00; Tu-Fr,Su 10:00-19:00; Sa 10:00-16:00
+website: https://www.santarellisbarbershop.com

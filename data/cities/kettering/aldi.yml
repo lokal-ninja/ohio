@@ -1,11 +1,11 @@
 id: 145011113
-type: way
+type: node
 latitude: 39.70253
 longitude: -84.12962
 postcode: "45420"
 city: Kettering
-street: "East Dorothy Lane"
-housenumber: 1940
-phone: "+1 833-461-7077"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/oh/kettering/1940-e-dorothy-ln"
+street: East Dorothy Lane
+housenumber: "1940"
+phone: +1 833-461-7077
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/oh/kettering/1940-e-dorothy-ln

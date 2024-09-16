@@ -1,11 +1,11 @@
 id: 80218314
-type: way
+type: node
 latitude: 39.19584
 longitude: -84.65988
 postcode: "45247"
 city: Cincinnati
-street: "Harrison Avenue"
-housenumber: 6580
-phone: "+1 513-598-8600"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/oh/cincinnati-584.shtml"
+street: Harrison Avenue
+housenumber: "6580"
+phone: +1 513-598-8600
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/oh/cincinnati-584.shtml

@@ -1,11 +1,11 @@
 id: 231465256
-type: way
+type: node
 latitude: 40.75619
 longitude: -81.51974
 postcode: "44646"
 city: Massillon
-street: "Erie Street South"
-housenumber: 3725
+street: Erie Street South
+housenumber: "3725"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3258"
+website: https://www.menards.com/store-details/store.html?store=3258

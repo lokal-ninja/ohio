@@ -1,11 +1,11 @@
 id: 1293940312
-type: way
+type: node
 latitude: 39.0938
 longitude: -84.27454
 postcode: "45245"
 city: Cincinnati
-street: "Eastgate Boulevard"
-housenumber: 4450
+street: Eastgate Boulevard
+housenumber: "4450"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 849636373
-type: way
+type: node
 latitude: 39.99223
 longitude: -82.03531
 postcode: "43701"
 city: Zanesville
-street: "Gorsky Drive"
-housenumber: 3825
-phone: "+1 740-453-6679"
-opening_hours: "Mo-Sa 10:00-21:00, Su 10:00-20:00"
-website: "https://www.kohls.com/stores/oh/zanesville-187.shtml"
+street: Gorsky Drive
+housenumber: "3825"
+phone: +1 740-453-6679
+opening_hours: Mo-Sa 10:00-21:00, Su 10:00-20:00
+website: https://www.kohls.com/stores/oh/zanesville-187.shtml

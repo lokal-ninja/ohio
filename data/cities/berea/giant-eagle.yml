@@ -1,11 +1,11 @@
 id: 531254894
-type: way
+type: node
 latitude: 41.36787
 longitude: -81.85625
 postcode: "44017"
 city: Berea
-street: "West Bridge Street"
-housenumber: 50
-phone: "+1 440-234-6616"
-opening_hours: "Mo-Su 07:00-21:00"
+street: West Bridge Street
+housenumber: "50"
+phone: +1 440-234-6616
+opening_hours: Mo-Su 07:00-21:00
 website: ""

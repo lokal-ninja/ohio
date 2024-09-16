@@ -1,11 +1,11 @@
 id: 1190115719
-type: way
+type: node
 latitude: 39.99397
 longitude: -81.73326
 postcode: "43762"
 city: New Concord
-street: "East Main Street"
-housenumber: 24
-phone: "+1-740-206-9021"
+street: East Main Street
+housenumber: "24"
+phone: +1-740-206-9021
 opening_hours: ""
 website: ""

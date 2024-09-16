@@ -1,11 +1,11 @@
 id: 451583940
-type: way
+type: node
 latitude: 41.53389
 longitude: -81.62601
 postcode: ""
 city: Cleveland
-street: "Saint Clair Avenue"
-housenumber: 8916
+street: Saint Clair Avenue
+housenumber: "8916"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 198734168
-type: way
+type: node
 latitude: 38.96384
 longitude: -84.08767
 postcode: "45106"
 city: Bethel
-street: "West Plane Street"
-housenumber: 595
+street: West Plane Street
+housenumber: "595"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/OH/Bethel/595-West-Plane-Street"
+website: https://www.speedway.com/locations/OH/Bethel/595-West-Plane-Street

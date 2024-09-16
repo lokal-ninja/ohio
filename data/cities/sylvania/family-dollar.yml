@@ -1,11 +1,11 @@
 id: 190846093
-type: way
+type: node
 latitude: 41.71717
 longitude: -83.66538
 postcode: "43560"
 city: Sylvania
-street: "Whiteford Road"
-housenumber: 5644
-phone: "+1-419-882-3904"
-opening_hours: "Mo-Su 09:00-20:00"
+street: Whiteford Road
+housenumber: "5644"
+phone: +1-419-882-3904
+opening_hours: Mo-Su 09:00-20:00
 website: ""

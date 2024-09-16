@@ -1,11 +1,11 @@
 id: 36897146
-type: way
+type: node
 latitude: 39.29021
 longitude: -84.42194
 postcode: "45241"
 city: Sharonville
-street: "Commerce Boulevard"
-housenumber: 2551
-phone: "+1-513-771-4521"
+street: Commerce Boulevard
+housenumber: "2551"
+phone: +1-513-771-4521
 opening_hours: ""
-website: "https://truckpro.com/"
+website: https://truckpro.com/

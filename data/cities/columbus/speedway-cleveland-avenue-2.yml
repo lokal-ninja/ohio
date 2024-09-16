@@ -1,11 +1,11 @@
 id: 636225863
-type: way
+type: node
 latitude: 40.08558
 longitude: -82.9516
 postcode: "43231"
 city: Columbus
-street: "Cleveland Avenue"
-housenumber: 5657
+street: Cleveland Avenue
+housenumber: "5657"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/OH/Columbus/5657-Cleveland-Avenue"
+website: https://www.speedway.com/locations/OH/Columbus/5657-Cleveland-Avenue

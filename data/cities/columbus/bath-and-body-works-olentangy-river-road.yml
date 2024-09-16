@@ -1,11 +1,11 @@
 id: 167030364
-type: way
+type: node
 latitude: 39.99565
 longitude: -83.0269
 postcode: "43212"
 city: Columbus
-street: "Olentangy River Road"
-housenumber: 1755
+street: Olentangy River Road
+housenumber: "1755"
 phone: ""
 opening_hours: ""
 website: ""

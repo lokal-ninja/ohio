@@ -1,11 +1,11 @@
 id: 838324565
-type: way
+type: node
 latitude: 41.34713
 longitude: -83.78711
 postcode: ""
 city: Weston
 street: ""
-housenumber: 20080
+housenumber: "20080"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/oh/weston/20730"
+website: https://www.dollargeneral.com/store-directory/oh/weston/20730

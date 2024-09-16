@@ -1,11 +1,11 @@
 id: 1199635400
-type: way
+type: node
 latitude: 39.87722
 longitude: -83.0452
 postcode: "43123"
 city: Grove City
-street: "Stringtown Road"
-housenumber: 1739
+street: Stringtown Road
+housenumber: "1739"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/oh/grove-city/1739-stringtown-road"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/oh/grove-city/1739-stringtown-road

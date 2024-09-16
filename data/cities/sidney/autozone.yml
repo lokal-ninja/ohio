@@ -1,11 +1,11 @@
 id: 133567416
-type: way
+type: node
 latitude: 40.28847
 longitude: -84.17414
 postcode: "45365"
 city: Sidney
-street: "Michigan Street"
-housenumber: 1218
+street: Michigan Street
+housenumber: "1218"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/oh/sidney/1218-w-michigan.html"
+website: https://www.autozone.com/locations/oh/sidney/1218-w-michigan.html

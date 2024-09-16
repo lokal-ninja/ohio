@@ -1,11 +1,11 @@
 id: 741719394
-type: way
+type: node
 latitude: 39.63392
 longitude: -84.21884
 postcode: "45459"
 city: Dayton
-street: "Miamisburg Centerville Road"
-housenumber: 2700
-phone: "+1 937-436-5754"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/oh/dayton/1045/"
+street: Miamisburg Centerville Road
+housenumber: "2700"
+phone: +1 937-436-5754
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/oh/dayton/1045/

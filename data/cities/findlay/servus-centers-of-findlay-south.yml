@@ -1,11 +1,11 @@
 id: 231264912
-type: way
+type: node
 latitude: 41.00913
 longitude: -83.64974
 postcode: "45840"
 city: Findlay
-street: "South Main Street"
-housenumber: 
+street: South Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

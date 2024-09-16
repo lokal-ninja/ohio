@@ -1,11 +1,11 @@
 id: 36897112
-type: way
+type: node
 latitude: 39.29103
 longitude: -84.42185
 postcode: "45241"
 city: Sharonville
-street: "Commerce Boulevard"
-housenumber: 2550
-phone: "+1-513-563-2441"
+street: Commerce Boulevard
+housenumber: "2550"
+phone: +1-513-563-2441
 opening_hours: ""
-website: "https://pestweb.com/"
+website: https://pestweb.com/

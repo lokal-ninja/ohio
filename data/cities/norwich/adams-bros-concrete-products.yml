@@ -1,11 +1,11 @@
 id: 1080048830
-type: way
+type: node
 latitude: 39.9754
 longitude: -81.83101
 postcode: "43767"
 city: Norwich
-street: "East Pike"
-housenumber: 8465
-phone: "+1-740-452-7566"
-opening_hours: "Mo-Fr 07:00-16:30, Sa-Su off"
-website: "https://www.adamsbrosconcrete.com/"
+street: East Pike
+housenumber: "8465"
+phone: +1-740-452-7566
+opening_hours: Mo-Fr 07:00-16:30, Sa-Su off
+website: https://www.adamsbrosconcrete.com/

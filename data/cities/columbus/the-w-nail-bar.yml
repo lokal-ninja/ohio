@@ -4,8 +4,8 @@ latitude: 39.98174
 longitude: -83.00422
 postcode: "43201"
 city: Columbus
-street: "North High Street"
-housenumber: 946
-phone: "+1-614-299-9587"
-opening_hours: "Mo-Th 10:00-21:00; Fr,Sa 09:00-19:00; Su 10:00-19:00"
-website: "https://thewnailbar.com"
+street: North High Street
+housenumber: "946"
+phone: +1-614-299-9587
+opening_hours: Mo-Th 10:00-21:00; Fr,Sa 09:00-19:00; Su 10:00-19:00
+website: https://thewnailbar.com

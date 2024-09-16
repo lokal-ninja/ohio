@@ -1,11 +1,11 @@
 id: 615052748
-type: way
+type: node
 latitude: 41.50747
 longitude: -81.69645
 postcode: "44114"
 city: Cleveland
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "10:00-17:00"
+opening_hours: 10:00-17:00
 website: ""

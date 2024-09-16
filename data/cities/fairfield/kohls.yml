@@ -1,11 +1,11 @@
 id: 113389678
-type: way
+type: node
 latitude: 39.38869
 longitude: -84.51042
 postcode: "45011"
 city: Fairfield
-street: "Princeton Road"
-housenumber: 3173
-phone: "+1 513-895-2450"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/oh/fairfield-1050.shtml"
+street: Princeton Road
+housenumber: "3173"
+phone: +1 513-895-2450
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/oh/fairfield-1050.shtml

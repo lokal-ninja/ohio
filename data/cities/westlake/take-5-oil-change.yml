@@ -1,11 +1,11 @@
 id: 1064155410
-type: way
+type: node
 latitude: 41.46955
 longitude: -81.90212
 postcode: "44145"
 city: Westlake
-street: "Columbia Road"
-housenumber: 1220
+street: Columbia Road
+housenumber: "1220"
 phone: ""
 opening_hours: ""
 website: ""

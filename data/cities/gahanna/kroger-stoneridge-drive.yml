@@ -1,11 +1,11 @@
 id: 551455538
-type: way
+type: node
 latitude: 40.0538
 longitude: -82.86715
 postcode: "43230"
 city: Gahanna
-street: "Stoneridge Drive"
-housenumber: 1365
-phone: "+1 614-418-1529"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/oh/gahanna/stoneridge/016/00871"
+street: Stoneridge Drive
+housenumber: "1365"
+phone: +1 614-418-1529
+opening_hours: Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/oh/gahanna/stoneridge/016/00871

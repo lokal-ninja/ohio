@@ -1,11 +1,11 @@
 id: 74475564
-type: way
+type: node
 latitude: 39.68487
 longitude: -84.13173
 postcode: "45440"
 city: Kettering
-street: "Wilmington Pike"
-housenumber: 4075
-phone: "+1-937-298-5800"
+street: Wilmington Pike
+housenumber: "4075"
+phone: +1-937-298-5800
 opening_hours: ""
 website: ""

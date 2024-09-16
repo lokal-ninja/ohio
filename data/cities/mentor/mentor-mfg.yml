@@ -1,11 +1,11 @@
 id: 1244166055
-type: way
+type: node
 latitude: 41.71366
 longitude: -81.30254
 postcode: "44060"
 city: Mentor
-street: "Heisley Road"
-housenumber: 5782
-phone: "440-551-9051"
+street: Heisley Road
+housenumber: "5782"
+phone: 440-551-9051
 opening_hours: ""
 website: ""
