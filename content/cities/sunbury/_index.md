@@ -1,6 +1,6 @@
 ---
 title: Sunbury
 url: /sunbury/
-latitude: 40.244
-longitude: -82.864
+latitude: 40.26
+longitude: -82.926
 ---
