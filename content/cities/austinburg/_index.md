@@ -1,6 +1,6 @@
 ---
 title: Austinburg
 url: /austinburg/
-latitude: 41.782
-longitude: -80.856
+latitude: 41.786
+longitude: -80.855
 ---
