@@ -1,6 +1,6 @@
 ---
 title: Pataskala
 url: /pataskala/
-latitude: 40.006
-longitude: -82.664
+latitude: 40.002
+longitude: -82.679
 ---
