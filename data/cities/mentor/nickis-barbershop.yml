@@ -7,5 +7,6 @@ city: Mentor
 street: Johnnycake Ridge Road
 housenumber: "9853"
 phone: +1 440 352 2400
-opening_hours: Su off; Mo 08:00-15:30; Tu-Th 08:00-17:30; Fr 08:00-16:30; Sa 08:00-14:30
-website: https://www.nickisbarbershop.com/
+opening_hours: Su off; Mo 08:00-15:30; Tu 08:00-17:30; We 08:00-17:00; Th 08:00-17:30;
+    Fr 08:00-16:30; Sa 08:00-14:30
+website: https://www.nickisbarbershop.com

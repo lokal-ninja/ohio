@@ -1,6 +1,6 @@
 ---
 title: Coshocton
 url: /coshocton/
-latitude: 40.294
-longitude: -81.851
+latitude: 40.273
+longitude: -81.869
 ---
