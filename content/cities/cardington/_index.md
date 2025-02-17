@@ -1,6 +1,6 @@
 ---
 title: Cardington
 url: /cardington/
-latitude: 40.506
-longitude: -82.881
+latitude: 40.5
+longitude: -82.894
 ---
