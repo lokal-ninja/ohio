@@ -1,6 +1,6 @@
 ---
 title: Hubbard
 url: /hubbard/
-latitude: 41.158
-longitude: -80.584
+latitude: 41.157
+longitude: -80.582
 ---
