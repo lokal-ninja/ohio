@@ -1,6 +1,6 @@
 ---
 title: McArthur
 url: /mcarthur/
-latitude: 39.238
-longitude: -82.48
+latitude: 39.253
+longitude: -82.478
 ---
