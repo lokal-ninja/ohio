@@ -1,6 +1,6 @@
 ---
 title: Cridersville
 url: /cridersville/
-latitude: 40.655
-longitude: -84.134
+latitude: 40.654
+longitude: -84.135
 ---
