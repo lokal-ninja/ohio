@@ -1,6 +1,6 @@
 ---
 title: Ontario
 url: /ontario/
-latitude: 40.761
-longitude: -82.593
+latitude: 40.772
+longitude: -82.589
 ---

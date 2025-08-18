@@ -1,6 +1,6 @@
 ---
 title: South Bloomfield
 url: /south-bloomfield/
-latitude: 39.719
-longitude: -82.987
+latitude: 39.722
+longitude: -82.988
 ---
