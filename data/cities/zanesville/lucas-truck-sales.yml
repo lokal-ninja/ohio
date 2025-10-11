@@ -7,5 +7,6 @@ city: Zanesville
 street: State Street
 housenumber: "205"
 phone: ""
-opening_hours: Mo-Fr 07:00-17:00 "Parts" || Mo-Fr 08:00-17:00 "Sales"
+opening_hours: Mo-Fr 07:00-18:00 "Parts" || Mo-Th 08:00-17:00, Fr 08:00-16:00, Sa-Su
+    off "Sales"
 website: https://www.lucastrucksales.net/
