@@ -1,6 +1,6 @@
 ---
 title: Curtice
 url: /curtice/
-latitude: 41.66
-longitude: -83.298
+latitude: 41.655
+longitude: -83.273
 ---
