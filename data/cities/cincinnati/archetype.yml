@@ -7,5 +7,5 @@ city: Cincinnati
 street: Main Street
 housenumber: "1409"
 phone: ""
-opening_hours: ""
+opening_hours: '"By appointment only"'
 website: ""
