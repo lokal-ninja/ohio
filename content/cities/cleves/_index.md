@@ -1,6 +1,6 @@
 ---
 title: Cleves
 url: /cleves/
-latitude: 39.173
-longitude: -84.761
+latitude: 39.161
+longitude: -84.749
 ---
