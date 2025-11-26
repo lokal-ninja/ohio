@@ -1,6 +1,6 @@
 ---
 title: Waverly
 url: /waverly/
-latitude: 39.15
-longitude: -83.124
+latitude: 39.128
+longitude: -82.984
 ---

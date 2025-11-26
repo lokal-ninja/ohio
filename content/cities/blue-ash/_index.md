@@ -1,6 +1,6 @@
 ---
 title: Blue Ash
 url: /blue-ash/
-latitude: 39.231
-longitude: -84.379
+latitude: 39.227
+longitude: -84.398
 ---
