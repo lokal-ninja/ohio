@@ -1,6 +1,6 @@
 ---
 title: Kenton
 url: /kenton/
-latitude: 40.653
-longitude: -83.593
+latitude: 40.651
+longitude: -83.594
 ---
