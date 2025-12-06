@@ -1,6 +1,6 @@
 ---
 title: Bolivar
 url: /bolivar/
-latitude: 40.638
-longitude: -81.442
+latitude: 40.635
+longitude: -81.438
 ---

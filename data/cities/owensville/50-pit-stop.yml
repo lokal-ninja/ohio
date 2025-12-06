@@ -2,7 +2,7 @@ id: 363257238
 type: node
 latitude: 39.1213
 longitude: -84.14316
-postcode: 45160;45103
+postcode: "45160"
 city: Owensville
 street: US 50
 housenumber: "2319"
