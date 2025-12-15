@@ -1,6 +1,6 @@
 ---
 title: Rockbridge
 url: /rockbridge/
-latitude: 39.574
-longitude: -82.518
+latitude: 39.58
+longitude: -82.524
 ---
