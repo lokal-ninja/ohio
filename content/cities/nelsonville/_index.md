@@ -1,6 +1,6 @@
 ---
 title: Nelsonville
 url: /nelsonville/
-latitude: 39.464
-longitude: -82.25
+latitude: 39.46
+longitude: -82.238
 ---
