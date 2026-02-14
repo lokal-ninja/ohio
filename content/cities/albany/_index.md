@@ -1,6 +1,6 @@
 ---
 title: Albany
 url: /albany/
-latitude: 39.235
-longitude: -82.194
+latitude: 39.23
+longitude: -82.2
 ---
