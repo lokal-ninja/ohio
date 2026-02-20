@@ -1,6 +1,6 @@
 ---
 title: Canal Winchester
 url: /canal-winchester/
-latitude: 39.852
-longitude: -82.804
+latitude: 39.911
+longitude: -82.819
 ---
