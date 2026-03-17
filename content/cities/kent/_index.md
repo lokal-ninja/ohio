@@ -1,6 +1,6 @@
 ---
 title: Kent
 url: /kent/
-latitude: 41.148
-longitude: -81.343
+latitude: 41.142
+longitude: -81.341
 ---
