@@ -1,6 +1,6 @@
 ---
 title: Chillicothe
 url: /chillicothe/
-latitude: 39.336
-longitude: -82.965
+latitude: 39.335
+longitude: -82.975
 ---

@@ -1,6 +1,6 @@
 ---
 title: Willowick
 url: /willowick/
-latitude: 41.641
-longitude: -81.471
+latitude: 41.634
+longitude: -81.476
 ---
