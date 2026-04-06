@@ -1,6 +1,6 @@
 ---
 title: Wintersville
 url: /wintersville/
-latitude: 40.375
+latitude: 40.374
 longitude: -80.704
 ---

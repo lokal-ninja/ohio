@@ -1,6 +1,6 @@
 ---
 title: Steubenville
 url: /steubenville/
-latitude: 40.37
-longitude: -80.672
+latitude: 40.373
+longitude: -80.68
 ---
