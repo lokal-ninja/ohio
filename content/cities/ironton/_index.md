@@ -1,6 +1,6 @@
 ---
 title: Ironton
 url: /ironton/
-latitude: 38.532
-longitude: -82.684
+latitude: 38.543
+longitude: -82.674
 ---
