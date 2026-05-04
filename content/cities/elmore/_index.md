@@ -1,6 +1,6 @@
 ---
 title: Elmore
 url: /elmore/
-latitude: 41.472
-longitude: -83.292
+latitude: 41.469
+longitude: -83.299
 ---
