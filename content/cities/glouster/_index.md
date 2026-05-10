@@ -1,6 +1,6 @@
 ---
 title: Glouster
 url: /glouster/
-latitude: 39.501
-longitude: -82.084
+latitude: 39.503
+longitude: -82.083
 ---
