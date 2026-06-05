@@ -1,6 +1,6 @@
 ---
 title: Thompson
 url: /thompson/
-latitude: 41.691
-longitude: -81.053
+latitude: 41.688
+longitude: -81.051
 ---
