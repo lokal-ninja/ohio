@@ -1,6 +1,6 @@
 ---
 title: Xenia
 url: /xenia/
-latitude: 39.691
-longitude: -83.959
+latitude: 39.685
+longitude: -83.929
 ---
