@@ -1,6 +1,6 @@
 ---
 title: Lewis Center
 url: /lewis-center/
-latitude: 40.143
-longitude: -83.001
+latitude: 40.158
+longitude: -83.021
 ---
