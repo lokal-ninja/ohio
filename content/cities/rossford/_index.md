@@ -1,6 +1,6 @@
 ---
 title: Rossford
 url: /rossford/
-latitude: 41.543
-longitude: -83.581
+latitude: 41.54
+longitude: -83.578
 ---
