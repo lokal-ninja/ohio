@@ -1,6 +1,6 @@
 ---
 title: Garrettsville
 url: /garrettsville/
-latitude: 41.286
-longitude: -81.099
+latitude: 41.284
+longitude: -81.097
 ---
