@@ -1,6 +1,6 @@
 ---
 title: Lucasville
 url: /lucasville/
-latitude: 38.884
-longitude: -82.999
+latitude: 38.88
+longitude: -82.996
 ---

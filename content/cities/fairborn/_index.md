@@ -1,6 +1,6 @@
 ---
 title: Fairborn
 url: /fairborn/
-latitude: 39.79
-longitude: -84.021
+latitude: 39.774
+longitude: -84.047
 ---

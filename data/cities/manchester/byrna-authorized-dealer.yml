@@ -7,5 +7,5 @@ city: Manchester
 street: East 2nd Street
 housenumber: "215"
 phone: ""
-opening_hours: by appointment
+opening_hours: '"by appointment"'
 website: ""
