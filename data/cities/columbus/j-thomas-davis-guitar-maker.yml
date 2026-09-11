@@ -7,5 +7,5 @@ city: Columbus
 street: North High Street
 housenumber: "3135"
 phone: +1 614-263-0264
-opening_hours: by appointment only
+opening_hours: '"by appointment"'
 website: http://www.jthomasdavis.com

@@ -1,5 +1,5 @@
 ---
-title: "International Food And Deli"
+title: "International Food & Deli"
 url: /parma/international-food-and-deli/
 shop: convenience
 ---

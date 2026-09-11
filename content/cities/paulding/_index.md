@@ -1,6 +1,6 @@
 ---
 title: Paulding
 url: /paulding/
-latitude: 41.156
-longitude: -84.581
+latitude: 41.155
+longitude: -84.58
 ---
