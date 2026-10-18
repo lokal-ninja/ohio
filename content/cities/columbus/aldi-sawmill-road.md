@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /columbus/aldi-sawmill-road/
 shop: supermarket
 ---
