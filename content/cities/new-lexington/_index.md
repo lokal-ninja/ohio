@@ -1,6 +1,6 @@
 ---
 title: New Lexington
 url: /new-lexington/
-latitude: 39.72
-longitude: -82.205
+latitude: 39.722
+longitude: -82.203
 ---
