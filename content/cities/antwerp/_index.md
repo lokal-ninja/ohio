@@ -1,6 +1,6 @@
 ---
 title: Antwerp
 url: /antwerp/
-latitude: 41.187
-longitude: -84.741
+latitude: 41.179
+longitude: -84.736
 ---
