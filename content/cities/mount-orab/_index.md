@@ -1,6 +1,6 @@
 ---
 title: Mount Orab
 url: /mount-orab/
-latitude: 39.018
+latitude: 39.039
 longitude: -83.923
 ---
